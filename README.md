@@ -7,7 +7,7 @@ Automated EPG (Electronic Program Guide) generator for AIS PLAY channels in XMLT
 - Dynamic fetching of channel lists and program schedules.
 - Automatic bilingual support (`lang="th"` / `lang="en"`).
 - Outputs standard `epg.xml` and compressed `epg.xml.gz`.
-- Auto-updated table of supported channels with `tvg-id` and `tvg-chno`.
+- Auto-updated table of supported channels with logos.
 
 ## Usage
 Add either of these URL links directly to your IPTV player (such as Tivimate, IPTV Smarters, Perfect Player):
@@ -17,126 +17,126 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 
 ## Channel List
 
-| tvg-id | tvg-chno | Channel Name |
-|---|---|---|
-| `ch0000000000100001041` | 2 | NBT 2 HD |
-| `ch0000000000100001042` | 3 | TPBS |
-| `ch0000000000100001124` | 5 | CH5 HD |
-| `ch0000000000100001043` | 7 | T Sports 7 |
-| `ch0000000000100001121` | 10 | Parliament |
-| `ch0000000000100001122` | 16 | TNN |
-| `ch0000000000100001125` | 22 | Nation TV |
-| `ch0000000000100001131` | 23 | Workpoint TV |
-| `ch0000000000100001141` | 24 | True 4 U |
-| `ch0000000000100001462` | 25 | GMM25 |
-| `ch0000000000100001161` | 27 | CH 8 |
-| `ch0000000000100001941` | 29 | MONOMAX SPORTS |
-| `ch0000000000100001163` | 30 | MCOT HD |
-| `ch0000000000100001164` | 31 | ONE 31 HD |
-| `ch0000000000100001165` | 32 | Thairath TV HD |
-| `ch0000000000100001166` | 33 | 3 HD |
-| `ch0000000000100001167` | 34 | AmarinTV HD |
-| `ch0000000000100001168` | 35 | CH7 HD |
-| `ch0000000000100001171` | 36 | PPTV HD |
-| `ch0000000000100001044` | 101 | HBO |
-| `ch0000000000100001021` | 102 | HBO Signature |
-| `ch0000000000100001091` | 103 | HBO Hits |
-| `ch0000000000100001092` | 104 | HBO Family |
-| `ch0000000000100001071` | 105 | CINEMAX |
-| `ch0000000000100001081` | 106 | Asian Hits |
-| `ch0000000000100001062` | 107 | Warner TV |
-| `ch0000000000100001093` | 108 | MONO29 Plus |
-| `ch0000000000100001073` | 109 | ROCK Action |
-| `ch0000000000100001101` | 110 | ROCK ENTERTAINMENT |
-| `ch0000000000100001111` | 201 | Cartoon Network |
-| `ch0000000000100001169` | 202 | Cartoonito |
-| `ch0000000000100001170` | 203 | Nickelodeon |
-| `ch0000000000100001181` | 204 | Nick Jr. |
-| `ch0000000000100001182` | 205 | Boomerang |
-| `ch0000000000100002601` | 206 | Mango Mojito |
-| `ch0000000000100001191` | 301 | Food Network |
-| `ch0000000000100001331` | 302 | Asian Food Network |
-| `ch0000000000100001192` | 303 | TLC |
-| `ch0000000000100001183` | 304 | MONO29 Music Station |
-| `ch0000000000100001184` | 305 | Khong Dee Thailand |
-| `ch0000000000100001891` | 306 | Thainess |
-| `ch0000000000100001193` | 307 | TV5MONDE |
-| `ch0000000000100001358` | 308 | Arirang |
-| `ch0000000000100001902` | 309 | Hunan TV |
-| `ch0000000000100001187` | 310 | Discovery |
-| `ch0000000000100001901` | 311 | Samrujlok |
-| `ch0000000000100001911` | 312 | Animal Show |
-| `ch0000000000100001190` | 313 | RT Documentary |
-| `ch0000000000100001201` | 314 | MySci |
-| `ch0000000000100002041` | 401 | PLAY SPORTS 1 |
-| `ch0000000000100002052` | 402 | PLAY SPORTS 2 |
-| `ch0000000000100002171` | 512 | MUTV |
-| `ch0000000000100002181` | 513 | Real Madrid TV |
-| `ch0000000000100001751` | 531 | Eurosport |
-| `ch0000000000100001772` | 532 | W-Sport |
-| `ch0000000000100001212` | 533 | Golf Plus |
-| `ch0000000000100002561` | 539 | Premier Sports |
-| `ch0000000000100002261` | 541 | PLAY SPORTS 41 |
-| `ch0000000000100002401` | 555 | PLAY SPORTS 55 |
-| `ch0000000000100002643` | 557 | PLAY SPORTS 57 |
-| `ch0000000000100002511` | 561 | PLAY SPORTS 61 |
-| `ch0000000000100002521` | 562 | PLAY SPORTS 62 |
-| `ch0000000000100002525` | 566 | PLAY SPORTS 66 |
-| `ch0000000000100002528` | 569 | PLAY SPORTS 69 |
-| `ch0000000000100002530` | 571 | PLAY SPORTS 71 |
-| `ch0000000000100002531` | 572 | PLAY SPORTS 72 |
-| `ch0000000000100002532` | 573 | PLAY SPORTS 73 |
-| `ch0000000000100002701` | 590 | PLAY SPORTS 90 |
-| `ch0000000000100002742` | 595 | PLAY SPORTS 95 |
-| `ch0000000000100001237` | 601 | CNN |
-| `ch0000000000100001151` | 602 | BBC News |
-| `ch0000000000100001841` | 603 | FOX News |
-| `ch0000000000100002011` | 604 | FOX Business |
-| `ch0000000000100001992` | 605 | Bloomberg Television |
-| `ch0000000000100001244` | 607 | Channel News Asia |
-| `ch0000000000100001238` | 608 | NHK |
-| `ch0000000000100001904` | 609 | CCTV4 |
-| `ch0000000000100001354` | 610 | CGTN |
-| `ch0000000000100001355` | 611 | TVBS News |
-| `ch0000000000100001351` | 612 | Al Jazeera |
-| `ch0000000000100001352` | 613 | RT Channel |
-| `ch0000000000100001903` | 614 | DW |
-| `ch0000000000100001905` | 615 | Euro News |
-| `ch0000000000100001357` | 616 | France 24 |
-| `ch0000000000100001360` | 617 | TOP News |
-| `ch0000000000100001401` | 618 | News 1 |
-| `ch0000000000100001281` | 716 | ETV |
-| `ch0000000000100001298` | 801 | LunthungTV |
-| `ch0000000000100001311` | 802 | MVTV |
-| `ch0000000000100001294` |  | ch0000000000100001294 |
-| `ch0000000000100001283` |  | ch0000000000100001283 |
-| `ch0000000000100002191` |  | ch0000000000100002191 |
-| `ch0000000000100001284` |  | ch0000000000100001284 |
-| `ch0000000000100002541` |  | ch0000000000100002541 |
-| `ch0000000000100001153` |  | ch0000000000100001153 |
-| `ch0000000000100001292` |  | ch0000000000100001292 |
-| `ch0000000000100001353` |  | ch0000000000100001353 |
-| `ch0000000000100001285` |  | ch0000000000100001285 |
-| `ch0000000000100001372` |  | ch0000000000100001372 |
-| `ch0000000000100002534` |  | ch0000000000100002534 |
-| `ch0000000000100002524` |  | ch0000000000100002524 |
-| `ch0000000000100002731` |  | ch0000000000100002731 |
-| `ch0000000000100002721` |  | ch0000000000100002721 |
-| `ch0000000000100001381` |  | ch0000000000100001381 |
-| `ch0000000000100002403` |  | ch0000000000100002403 |
-| `ch0000000000100001152` |  | ch0000000000100001152 |
-| `ch0000000000100001291` |  | ch0000000000100001291 |
-| `ch0000000000100002741` |  | ch0000000000100002741 |
-| `ch0000000000100002753` |  | ch0000000000100002753 |
-| `ch0000000000100002533` |  | ch0000000000100002533 |
-| `ch0000000000100002722` |  | ch0000000000100002722 |
-| `ch0000000000100002644` |  | ch0000000000100002644 |
-| `ch0000000000100002751` |  | ch0000000000100002751 |
-| `ch0000000000100001286` |  | ch0000000000100001286 |
-| `ch0000000000100001356` |  | ch0000000000100001356 |
-| `ch0000000000100001361` |  | ch0000000000100001361 |
-| `ch0000000000100002752` |  | ch0000000000100002752 |
-| `ch0000000000100001293` |  | ch0000000000100001293 |
-| `ch0000000000100002523` |  | ch0000000000100002523 |
-| `ch0000000000100001391` |  | ch0000000000100001391 |
-| `ch0000000000100001295` |  | ch0000000000100001295 |
+| tvg-id | tvg-chno | Channel Name | Logo |
+|---|---|---|---|
+| `ch0000000000100001041` | 2 | NBT 2 HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132546006600.png" height="30" alt="NBT 2 HD"> |
+| `ch0000000000100001042` | 3 | TPBS | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132617006744.png" height="30" alt="TPBS"> |
+| `ch0000000000100001124` | 5 | CH5 HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132701006689.png" height="30" alt="CH5 HD"> |
+| `ch0000000000100001043` | 7 | T Sports 7 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250611173728006781.png" height="30" alt="T Sports 7"> |
+| `ch0000000000100001121` | 10 | Parliament | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135946006791.png" height="30" alt="Parliament"> |
+| `ch0000000000100001122` | 16 | TNN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135508006746.png" height="30" alt="TNN"> |
+| `ch0000000000100001125` | 22 | Nation TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716101724006718.png" height="30" alt="Nation TV"> |
+| `ch0000000000100001131` | 23 | Workpoint TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716140248006624.png" height="30" alt="Workpoint TV"> |
+| `ch0000000000100001141` | 24 | True 4 U | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716140038006620.png" height="30" alt="True 4 U"> |
+| `ch0000000000100001462` | 25 | GMM25 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132043006777.png" height="30" alt="GMM25"> |
+| `ch0000000000100001161` | 27 | CH 8 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260227093922042823.png" height="30" alt="CH 8"> |
+| `ch0000000000100001941` | 29 | MONOMAX SPORTS | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260602150518056173.png" height="30" alt="MONOMAX SPORTS"> |
+| `ch0000000000100001163` | 30 | MCOT HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132926006776.png" height="30" alt="MCOT HD"> |
+| `ch0000000000100001164` | 31 | ONE 31 HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718131942006775.png" height="30" alt="ONE 31 HD"> |
+| `ch0000000000100001165` | 32 | Thairath TV HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135449006774.png" height="30" alt="Thairath TV HD"> |
+| `ch0000000000100001166` | 33 | 3 HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132008006594.png" height="30" alt="3 HD"> |
+| `ch0000000000100001167` | 34 | AmarinTV HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133045006544.png" height="30" alt="AmarinTV HD"> |
+| `ch0000000000100001168` | 35 | CH7 HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133132006704.png" height="30" alt="CH7 HD"> |
+| `ch0000000000100001171` | 36 | PPTV HD | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251224100714006705.png" height="30" alt="PPTV HD"> |
+| `ch0000000000100001044` | 101 | HBO | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134712006706.png" height="30" alt="HBO"> |
+| `ch0000000000100001021` | 102 | HBO Signature | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134720006707.png" height="30" alt="HBO Signature"> |
+| `ch0000000000100001091` | 103 | HBO Hits | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134739006530.png" height="30" alt="HBO Hits"> |
+| `ch0000000000100001092` | 104 | HBO Family | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134747006583.png" height="30" alt="HBO Family"> |
+| `ch0000000000100001071` | 105 | CINEMAX | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134649006712.png" height="30" alt="CINEMAX"> |
+| `ch0000000000100001081` | 106 | Asian Hits | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134635006505.png" height="30" alt="Asian Hits"> |
+| `ch0000000000100001062` | 107 | Warner TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135125006722.png" height="30" alt="Warner TV"> |
+| `ch0000000000100001093` | 108 | MONO29 Plus | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135043006586.png" height="30" alt="MONO29 Plus"> |
+| `ch0000000000100001073` | 109 | ROCK Action | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135107006734.png" height="30" alt="ROCK Action"> |
+| `ch0000000000100001101` | 110 | ROCK ENTERTAINMENT | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135113006742.png" height="30" alt="ROCK ENTERTAINMENT"> |
+| `ch0000000000100001111` | 201 | Cartoon Network | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134513006646.png" height="30" alt="Cartoon Network"> |
+| `ch0000000000100001169` | 202 | Cartoonito | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134525006735.png" height="30" alt="Cartoonito"> |
+| `ch0000000000100001170` | 203 | Nickelodeon | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134558006743.png" height="30" alt="Nickelodeon"> |
+| `ch0000000000100001181` | 204 | Nick Jr. | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134614006738.png" height="30" alt="Nick Jr."> |
+| `ch0000000000100001182` | 205 | Boomerang | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134435006599.png" height="30" alt="Boomerang"> |
+| `ch0000000000100002601` | 206 | Mango Mojito | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260401133808044641.png" height="30" alt="Mango Mojito"> |
+| `ch0000000000100001191` | 301 | Food Network | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132733006506.png" height="30" alt="Food Network"> |
+| `ch0000000000100001331` | 302 | Asian Food Network | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132625006739.png" height="30" alt="Asian Food Network"> |
+| `ch0000000000100001192` | 303 | TLC | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133152006662.png" height="30" alt="TLC"> |
+| `ch0000000000100001183` | 304 | MONO29 Music Station | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132608006772.png" height="30" alt="MONO29 Music Station"> |
+| `ch0000000000100001184` | 305 | Khong Dee Thailand | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132819006619.png" height="30" alt="Khong Dee Thailand"> |
+| `ch0000000000100001891` | 306 | Thainess | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133116006771.png" height="30" alt="Thainess"> |
+| `ch0000000000100001193` | 307 | TV5MONDE | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132739006740.png" height="30" alt="TV5MONDE"> |
+| `ch0000000000100001358` | 308 | Arirang | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716101829006643.png" height="30" alt="Arirang"> |
+| `ch0000000000100001902` | 309 | Hunan TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132800006657.png" height="30" alt="Hunan TV"> |
+| `ch0000000000100001187` | 310 | Discovery | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135206006737.png" height="30" alt="Discovery"> |
+| `ch0000000000100001901` | 311 | Samrujlok | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135242006736.png" height="30" alt="Samrujlok"> |
+| `ch0000000000100001911` | 312 | Animal Show | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135154006635.png" height="30" alt="Animal Show"> |
+| `ch0000000000100001190` | 313 | RT Documentary | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135234006618.png" height="30" alt="RT Documentary"> |
+| `ch0000000000100001201` | 314 | MySci | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135217006617.png" height="30" alt="MySci"> |
+| `ch0000000000100002041` | 401 | PLAY SPORTS 1 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134447018596.png" height="30" alt="PLAY SPORTS 1"> |
+| `ch0000000000100002052` | 402 | PLAY SPORTS 2 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png" height="30" alt="PLAY SPORTS 2"> |
+| `ch0000000000100002171` | 512 | MUTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" height="30" alt="MUTV"> |
+| `ch0000000000100002181` | 513 | Real Madrid TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" height="30" alt="Real Madrid TV"> |
+| `ch0000000000100001751` | 531 | Eurosport | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717161338006023.png" height="30" alt="Eurosport"> |
+| `ch0000000000100001772` | 532 | W-Sport | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717135007006041.png" height="30" alt="W-Sport"> |
+| `ch0000000000100001212` | 533 | Golf Plus | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251231235118035025.png" height="30" alt="Golf Plus"> |
+| `ch0000000000100002561` | 539 | Premier Sports | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260127140505037927.png" height="30" alt="Premier Sports"> |
+| `ch0000000000100002261` | 541 | PLAY SPORTS 41 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260422135014049847.png" height="30" alt="PLAY SPORTS 41"> |
+| `ch0000000000100002401` | 555 | PLAY SPORTS 55 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251001131957025352.png" height="30" alt="PLAY SPORTS 55"> |
+| `ch0000000000100002643` | 557 | PLAY SPORTS 57 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151431051870.png" height="30" alt="PLAY SPORTS 57"> |
+| `ch0000000000100002511` | 561 | PLAY SPORTS 61 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226102333034473.png" height="30" alt="PLAY SPORTS 61"> |
+| `ch0000000000100002521` | 562 | PLAY SPORTS 62 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226104956034555.png" height="30" alt="PLAY SPORTS 62"> |
+| `ch0000000000100002525` | 566 | PLAY SPORTS 66 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226191646034596.png" height="30" alt="PLAY SPORTS 66"> |
+| `ch0000000000100002528` | 569 | PLAY SPORTS 69 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226191916034600.png" height="30" alt="PLAY SPORTS 69"> |
+| `ch0000000000100002530` | 571 | PLAY SPORTS 71 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094208034571.png" height="30" alt="PLAY SPORTS 71"> |
+| `ch0000000000100002531` | 572 | PLAY SPORTS 72 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094343034572.png" height="30" alt="PLAY SPORTS 72"> |
+| `ch0000000000100002532` | 573 | PLAY SPORTS 73 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094531034573.png" height="30" alt="PLAY SPORTS 73"> |
+| `ch0000000000100002701` | 590 | PLAY SPORTS 90 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png" height="30" alt="PLAY SPORTS 90"> |
+| `ch0000000000100002742` | 595 | PLAY SPORTS 95 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png" height="30" alt="PLAY SPORTS 95"> |
+| `ch0000000000100001237` | 601 | CNN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133554006699.png" height="30" alt="CNN"> |
+| `ch0000000000100001151` | 602 | BBC News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133317006529.png" height="30" alt="BBC News"> |
+| `ch0000000000100001841` | 603 | FOX News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717150825012452.png" height="30" alt="FOX News"> |
+| `ch0000000000100002011` | 604 | FOX Business | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155016016166.png" height="30" alt="FOX Business"> |
+| `ch0000000000100001992` | 605 | Bloomberg Television | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155818016167.png" height="30" alt="Bloomberg Television"> |
+| `ch0000000000100001244` | 607 | Channel News Asia | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133541006698.png" height="30" alt="Channel News Asia"> |
+| `ch0000000000100001238` | 608 | NHK | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133716006697.png" height="30" alt="NHK"> |
+| `ch0000000000100001904` | 609 | CCTV4 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133402006696.png" height="30" alt="CCTV4"> |
+| `ch0000000000100001354` | 610 | CGTN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133441006695.png" height="30" alt="CGTN"> |
+| `ch0000000000100001355` | 611 | TVBS News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133745006694.png" height="30" alt="TVBS News"> |
+| `ch0000000000100001351` | 612 | Al Jazeera | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716102854006504.png" height="30" alt="Al Jazeera"> |
+| `ch0000000000100001352` | 613 | RT Channel | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133733006693.png" height="30" alt="RT Channel"> |
+| `ch0000000000100001903` | 614 | DW | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133612006593.png" height="30" alt="DW"> |
+| `ch0000000000100001905` | 615 | Euro News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716205543006603.png" height="30" alt="Euro News"> |
+| `ch0000000000100001357` | 616 | France 24 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133655006692.png" height="30" alt="France 24"> |
+| `ch0000000000100001360` | 617 | TOP News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135533006616.png" height="30" alt="TOP News"> |
+| `ch0000000000100001401` | 618 | News 1 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133209006691.png" height="30" alt="News 1"> |
+| `ch0000000000100001281` | 716 | ETV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" height="30" alt="ETV"> |
+| `ch0000000000100001298` | 801 | LunthungTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" height="30" alt="LunthungTV"> |
+| `ch0000000000100001311` | 802 | MVTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" height="30" alt="MVTV"> |
+| `ch0000000000100002722` |  | ch0000000000100002722 | - |
+| `ch0000000000100002534` |  | ch0000000000100002534 | - |
+| `ch0000000000100002524` |  | ch0000000000100002524 | - |
+| `ch0000000000100002752` |  | ch0000000000100002752 | - |
+| `ch0000000000100001391` |  | ch0000000000100001391 | - |
+| `ch0000000000100001353` |  | ch0000000000100001353 | - |
+| `ch0000000000100001285` |  | ch0000000000100001285 | - |
+| `ch0000000000100001152` |  | ch0000000000100001152 | - |
+| `ch0000000000100002753` |  | ch0000000000100002753 | - |
+| `ch0000000000100002751` |  | ch0000000000100002751 | - |
+| `ch0000000000100002731` |  | ch0000000000100002731 | - |
+| `ch0000000000100002541` |  | ch0000000000100002541 | - |
+| `ch0000000000100001293` |  | ch0000000000100001293 | - |
+| `ch0000000000100002741` |  | ch0000000000100002741 | - |
+| `ch0000000000100002523` |  | ch0000000000100002523 | - |
+| `ch0000000000100002191` |  | ch0000000000100002191 | - |
+| `ch0000000000100002403` |  | ch0000000000100002403 | - |
+| `ch0000000000100001361` |  | ch0000000000100001361 | - |
+| `ch0000000000100001291` |  | ch0000000000100001291 | - |
+| `ch0000000000100002644` |  | ch0000000000100002644 | - |
+| `ch0000000000100001372` |  | ch0000000000100001372 | - |
+| `ch0000000000100001284` |  | ch0000000000100001284 | - |
+| `ch0000000000100001283` |  | ch0000000000100001283 | - |
+| `ch0000000000100001153` |  | ch0000000000100001153 | - |
+| `ch0000000000100002533` |  | ch0000000000100002533 | - |
+| `ch0000000000100001295` |  | ch0000000000100001295 | - |
+| `ch0000000000100001356` |  | ch0000000000100001356 | - |
+| `ch0000000000100001286` |  | ch0000000000100001286 | - |
+| `ch0000000000100002721` |  | ch0000000000100002721 | - |
+| `ch0000000000100001381` |  | ch0000000000100001381 | - |
+| `ch0000000000100001294` |  | ch0000000000100001294 | - |
+| `ch0000000000100001292` |  | ch0000000000100001292 | - |
