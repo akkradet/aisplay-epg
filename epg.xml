@@ -450,35 +450,59 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
   <channel id="ch0000000000100001291">
     <display-name>ch0000000000100001291</display-name>
   </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
   </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
   <channel id="ch0000000000100002523">
     <display-name>ch0000000000100002523</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
   </channel>
   <channel id="ch0000000000100001356">
     <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <channel id="ch0000000000100002191">
     <display-name>ch0000000000100002191</display-name>
@@ -486,62 +510,38 @@
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
   <channel id="ch0000000000100002753">
     <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
   </channel>
   <channel id="ch0000000000100002752">
     <display-name>ch0000000000100002752</display-name>
   </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <channel id="ch0000000000100001284">
     <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260805232500 +0700" stop="20260806010000 +0700">
     <title>Bodyguard Of Lies</title>
@@ -52509,8 +52509,8 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20260809120000 +0700" stop="20260809140000 +0700">
-    <title lang="th">รีรัน: ภูเก็ต อันดามัน เอฟซี พบ สมุย ยูไนเต็ด</title>
-    <title lang="en">RERUN: Phuket Andaman FC vs Samui United</title>
+    <title lang="th">รีรัน: ม. เกษมบัณฑิต เอฟซี พบ อ่างทอง เอฟซี</title>
+    <title lang="en">RERUN: Kasembundit University FC vs Angthong FC</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20260809140000 +0700" stop="20260809160000 +0700">
@@ -54743,349 +54743,423 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260805220000 +0700" stop="20260806100000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 4</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 4</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 4</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806100000 +0700" stop="20260806122000 +0700">
-    <title lang="th">รีรัน: รอบ 64: ฟลาวิโอ โคบอลลี พบ ยานนิค ฮันฟ์มันน์ (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 64 คนสุดท้าย ฟลาวิโอ โคบอลลี พบ ยานนิค ฮันฟ์มันน์</title>
     <title lang="en">RERUN: R64: Flavio Cobolli vs Yannick Hanfmann (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806122000 +0700" stop="20260806124000 +0700">
-    <title>Highlights: ATP250 Millennium Estoril Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806124000 +0700" stop="20260806130000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806130000 +0700" stop="20260806150000 +0700">
-    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ราฟาเอล โฮดาร์ (Mubadala Citi DC Open)</title>
+    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ราฟาเอล โฮดาร์</title>
     <title lang="en">RERUN: Final: Taylor Fritz vs Rafael Jodar (Mubadala Citi DC Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806150000 +0700" stop="20260806152000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806152000 +0700" stop="20260806154000 +0700">
-    <title>Highlights: ATP250 EFG Swiss Open Gstaad</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 อีเอฟจี สวิส โอเพ่น กสตาด</title>
+    <title lang="en">Highlights: ATP250 EFG Swiss Open Gstaad</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806154000 +0700" stop="20260806160000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806160000 +0700" stop="20260806180000 +0700">
-    <title lang="th">รีรัน: รอบชิงฯ: อาตูร์ เจอา พบ เดนิส ชาโปวาลอฟ (Mifel Tennis Open)</title>
+    <title lang="th">รีรัน: รอบชิงฯ: อาตูร์ เจอา พบ เดนิส ชาโปวาลอฟ (ไมเฟล เทนนิส โอเพ่น)</title>
     <title lang="en">RERUN: Final: Arthur Gea vs Denis Shapovalov (Mifel Tennis Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806180000 +0700" stop="20260806182000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806182000 +0700" stop="20260806184000 +0700">
-    <title>Highlights: ATP500 Mubadala Citi DC Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806184000 +0700" stop="20260806190000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806190000 +0700" stop="20260806213000 +0700">
-    <title lang="th">รีรัน: รอบ 64: ฟรานซิส ติอาโฟ พบ มาริน ซิลิช (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 64 คนสุดท้าย ฟรานซิส ติอาโฟ พบ มาริน ซิลิช</title>
     <title lang="en">RERUN: R64: Frances Tiafoe vs Marin Cilic (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806213000 +0700" stop="20260806233000 +0700">
-    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซานเดอร์ บูบลิค พบ กองแตง ฮาลิส (Generali Open)</title>
+    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซานเดอร์ บูบลิค พบ กองแตง ฮาลิส</title>
     <title lang="en">RERUN: Final: Alexander Bublik vs Quentin Halys (Generali Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260806233000 +0700" stop="20260807033000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 5 S1</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 5 ซีซัน 1</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 5 S1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807033000 +0700" stop="20260807034500 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807034500 +0700" stop="20260807040000 +0700">
-    <title>Highlights: ATP500 Mubadala Citi DC Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807040000 +0700" stop="20260807060000 +0700">
-    <title lang="th">รีรัน: รอบ 64: สเตฟานอส ซิตซิปาส พบ ชูเอา ฟอนเซกา (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 64 คนสุดท้าย สเตฟานอส ซิตซิปาส พบ ชูเอา ฟอนเซกา</title>
     <title lang="en">RERUN: R64: Stefanos Tsitsipas vs Joao Fonseca (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807060000 +0700" stop="20260807100000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 5 S2</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 5 ซีซัน 2</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 5 S2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807100000 +0700" stop="20260807124000 +0700">
-    <title lang="th">รีรัน: รอบ 64: อเล็กซานเดอร์ ซเวเรฟ พบ ทัลลอน กริกสปูร์ (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 64 คนสุดท้าย อเล็กซานเดอร์ ซเวเรฟ พบ ทัลลอน กริกสปูร์</title>
     <title lang="en">RERUN: R64: Alexander Zverev vs Tallon Griekspoor (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807124000 +0700" stop="20260807130000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807130000 +0700" stop="20260807150000 +0700">
-    <title lang="th">รีรัน: รอบ 64: ดานีอิล เมดเวเดฟ พบ โบติก ฟาน เดอ ซานด์สชูลป์ (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 64 คนสุดท้าย ดานีอิล เมดเวเดฟ พบ โบติก ฟาน เดอ ซานด์สชูลป์</title>
     <title lang="en">RERUN: R64: Daniil Medvedev vs Botic van de Zandschulp (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807150000 +0700" stop="20260807152000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807152000 +0700" stop="20260807154000 +0700">
-    <title>Highlights: ATP250 Mifel Tennis Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Mifel Tennis Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807154000 +0700" stop="20260807160000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807160000 +0700" stop="20260807180000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส รอบ 32 คนสุดท้าย</title>
     <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807180000 +0700" stop="20260807181500 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807181500 +0700" stop="20260807183000 +0700">
-    <title>Highlights: ATP250 Millennium Estoril Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807183000 +0700" stop="20260807190000 +0700">
-    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 21</title>
+    <title lang="th">รีรัน: เอทีพี  ทัวร์สัปดาห์นี้ ตอนที่ 21</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 21</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807190000 +0700" stop="20260807210000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส รอบ 32 คนสุดท้าย</title>
     <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807210000 +0700" stop="20260807211500 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807211500 +0700" stop="20260807213000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807213000 +0700" stop="20260807233000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส รอบ 32 คนสุดท้าย</title>
     <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260807233000 +0700" stop="20260808033000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 6 S1</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 6 ซีซัน 1</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 6 S1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808033000 +0700" stop="20260808034500 +0700">
-    <title>Highlights: ATP250 Generali Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808034500 +0700" stop="20260808040000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808040000 +0700" stop="20260808060000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
-    <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 32: มาเรียโน นาโวเน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: R32: Mariano Navone vs Arthur Fils (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808060000 +0700" stop="20260808100000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 6 S2</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 6 ซีซัน 2</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 6 S2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260808100000 +0700" stop="20260808120000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
-    <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+  <programme channel="ch0000000000100002530" start="20260808100000 +0700" stop="20260808130000 +0700">
+    <title lang="th">รีรัน: รอบ 32: คาเมรอน นอร์รี พบ อเล็กซ์ เดอ มินอร์</title>
+    <title lang="en">RERUN: R32: Cameron Norrie vs Alex de Minaur (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260808120000 +0700" stop="20260808122000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+  <programme channel="ch0000000000100002530" start="20260808130000 +0700" stop="20260808140000 +0700">
+    <title lang="th">รีรัน: รอบ 32: ฟรานซิส ติอาโฟ พบ อาตูร์ รินเดอร์เนค</title>
+    <title lang="en">RERUN: R32: Frances Tiafoe vs Arthur Rinderknech (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260808122000 +0700" stop="20260808124000 +0700">
-    <title>Highlights: ATP250 Millennium Estoril Open</title>
+  <programme channel="ch0000000000100002530" start="20260808140000 +0700" stop="20260808142000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260808124000 +0700" stop="20260808130000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+  <programme channel="ch0000000000100002530" start="20260808142000 +0700" stop="20260808144000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260808130000 +0700" stop="20260808150000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
-    <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+  <programme channel="ch0000000000100002530" start="20260808144000 +0700" stop="20260808150000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808150000 +0700" stop="20260808152000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808152000 +0700" stop="20260808154000 +0700">
-    <title>Highlights: ATP250 Generali Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808154000 +0700" stop="20260808160000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260808160000 +0700" stop="20260808180000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
-    <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+  <programme channel="ch0000000000100002530" start="20260808160000 +0700" stop="20260808162000 +0700">
+    <title lang="th">รีรัน: รอบ 32: มาเรียโน นาโวเน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: R32: Mariano Navone vs Arthur Fils (National Bank Open pres. by Rogers)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260808162000 +0700" stop="20260808164000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260808164000 +0700" stop="20260808170000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260808170000 +0700" stop="20260808173000 +0700">
+    <title lang="th">รีรัน: เอทีพี  ทัวร์สัปดาห์นี้ ตอนที่ 19</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 19</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260808173000 +0700" stop="20260808180000 +0700">
+    <title lang="th">รีรัน: เอทีพี  ทัวร์สัปดาห์นี้ ตอนที่ 20</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 20</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808180000 +0700" stop="20260808181500 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808181500 +0700" stop="20260808183000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808183000 +0700" stop="20260808190000 +0700">
-    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 22</title>
+    <title lang="th">รีรัน: เอทีพี  ทัวร์สัปดาห์นี้ ตอนที่ 22</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 22</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808190000 +0700" stop="20260808210000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
-    <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 32: ยิรี เลเฮชกา พบ อเล็กซานเดอร์ บล็อกซ์</title>
+    <title lang="en">RERUN: R32: Jiri Lehecka vs Alexander Blockx (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808210000 +0700" stop="20260808211500 +0700">
-    <title>Highlights: ATP250 Generali Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808211500 +0700" stop="20260808213000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808213000 +0700" stop="20260808233000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
-    <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 32: ราฟาเอล โฮดาร์ พบ ลอเรนโซ มูเซตติ</title>
+    <title lang="en">RERUN: R32: Rafael Jodar vs Lorenzo Musetti (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808233000 +0700" stop="20260809033000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 7 S1</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 7 ซีซัน 1</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 7 S1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809033000 +0700" stop="20260809035000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809035000 +0700" stop="20260809041000 +0700">
-    <title>Highlights: ATP500 Mubadala Citi DC Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809041000 +0700" stop="20260809044000 +0700">
-    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 23</title>
+    <title lang="th">รีรัน: เอทีพี  ทัวร์สัปดาห์นี้ ตอนที่ 23</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 23</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809044000 +0700" stop="20260809050000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809050000 +0700" stop="20260809090000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 7 S2</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 7 ซีซัน 2</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 7 S2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809090000 +0700" stop="20260809092000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809092000 +0700" stop="20260809094000 +0700">
-    <title>Highlights: ATP250 Mifel Tennis Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Mifel Tennis Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809094000 +0700" stop="20260809100000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809100000 +0700" stop="20260809120000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
-    <title lang="en">RERUN: National Bank Open pres. by Rogers Round 32 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: รอบ 32: มาเรียโน นาโวเน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: R32: Mariano Navone vs Arthur Fils (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809120000 +0700" stop="20260809122000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809122000 +0700" stop="20260809124000 +0700">
-    <title>Highlights: ATP250 Millennium Estoril Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809124000 +0700" stop="20260809130000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809130000 +0700" stop="20260809150000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส รอบ 16 คนสุดท้าย</title>
     <title lang="en">RERUN: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809150000 +0700" stop="20260809152000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809152000 +0700" stop="20260809154000 +0700">
-    <title>Highlights: ATP250 Generali Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809154000 +0700" stop="20260809160000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809160000 +0700" stop="20260809180000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส รอบ 16 คนสุดท้าย</title>
     <title lang="en">RERUN: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809180000 +0700" stop="20260809181500 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809181500 +0700" stop="20260809183000 +0700">
-    <title>Highlights: ATP250 Millennium Estoril Open</title>
+    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809183000 +0700" stop="20260809190000 +0700">
-    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 20</title>
+    <title lang="th">รีรัน: เอทีพี  ทัวร์สัปดาห์นี้ ตอนที่ 20</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 20</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809190000 +0700" stop="20260809210000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส รอบ 16 คนสุดท้าย</title>
     <title lang="en">RERUN: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809210000 +0700" stop="20260809211500 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809211500 +0700" stop="20260809213000 +0700">
-    <title>Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809213000 +0700" stop="20260809233000 +0700">
-    <title lang="th">รีรัน: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
+    <title lang="th">รีรัน: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส รอบ 16 คนสุดท้าย</title>
     <title lang="en">RERUN: National Bank Open pres. by Rogers Round 16 (National Bank Open pres. by Rogers)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260809233000 +0700" stop="20260810033000 +0700">
-    <title>LIVE: National Bank Open pres. by Rogers Day 8 S1</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 8 ซีซัน 1</title>
+    <title lang="en">LIVE: National Bank Open pres. by Rogers Day 8 S1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20260805220000 +0700" stop="20260806040000 +0700">
@@ -56547,6 +56621,231 @@
   <programme channel="ch0000000000100002701" start="20260808064500 +0700" stop="20260808070000 +0700">
     <title lang="th">รีรัน: Bundesliga Clubs 2025-26: เอฟซี เอาก์สบวร์ก</title>
     <title lang="en">RERUN: Bundesliga Clubs 2025-26: FC Augsburg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808070000 +0700" stop="20260808090000 +0700">
+    <title lang="th">รีรัน: โบคุม พบ แฮร์ธ่า เบอร์ลิน</title>
+    <title lang="en">RERUN: VfL Bochum vs Hertha BSC</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808090000 +0700" stop="20260808110000 +0700">
+    <title lang="th">รีรัน: พรีซีซัน: โบรุสเซีย ดอร์ทมุนด์ พบ เซเรโซ โอซาก้า</title>
+    <title lang="en">RERUN: Friendly Match: Borussia Dortmund vs Cerezo Osaka</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808110000 +0700" stop="20260808113000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 20 สัปดาห์ที่ 16</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 20 Matchday 16</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808113000 +0700" stop="20260808120000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 21 สัปดาห์ที่ 18</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 21 Matchday 18</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808120000 +0700" stop="20260808130000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 9</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 9</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808130000 +0700" stop="20260808133000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 39</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 39</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808133000 +0700" stop="20260808140000 +0700">
+    <title lang="th">รีรัน: Bundesliga 2025-26 Road to the Americas ตอนที่ 1</title>
+    <title lang="en">RERUN: Bundesliga 2025-26 Road to the Americas Episode 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808140000 +0700" stop="20260808150000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 10</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 10</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808150000 +0700" stop="20260808151500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: บาเยิร์น มิวนิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FC Bayern Munchen</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808151500 +0700" stop="20260808153000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: อูนิโอน เบอร์ลิน</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FC Union Berlin</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808153000 +0700" stop="20260808160000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 6 สัปดาห์ที่ 4</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 6 Matchday 4</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808160000 +0700" stop="20260808170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 11</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 11</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808170000 +0700" stop="20260808173000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 8 สัปดาห์ที่ 6</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 8 Matchday 6</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808173000 +0700" stop="20260808180000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 9 สัปดาห์ทีมชาติ 2</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 9 International Break 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808180000 +0700" stop="20260808201500 +0700">
+    <title lang="th">รีรัน: พรีซีซัน: โบรุสเซีย ดอร์ทมุนด์ พบ เอฟซี โตเกียว</title>
+    <title lang="en">RERUN: Friendly Match: Borussia Dortmund vs FC Tokyo</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808201500 +0700" stop="20260808203000 +0700">
+    <title lang="th">ไฮไลต์ พรีซีซัน: โบรุสเซีย ดอร์ทมุนด์ พบ เซเรโซ โอซาก้า</title>
+    <title lang="en">Friendly Match Highlight: Borussia Dortmund vs Cerezo Osaka</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808203000 +0700" stop="20260808223000 +0700">
+    <title lang="th">รีรัน: โบคุม พบ แฮร์ธ่า เบอร์ลิน</title>
+    <title lang="en">RERUN: VfL Bochum vs Hertha BSC</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808223000 +0700" stop="20260808230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 15 Best of February</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 15 Best of February</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260808230000 +0700" stop="20260809000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 16</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 16</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809000000 +0700" stop="20260809010000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 29</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 29</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809010000 +0700" stop="20260809020000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 30</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 30</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809020000 +0700" stop="20260809030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 31</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 31</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809030000 +0700" stop="20260809040000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 32</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 32</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809040000 +0700" stop="20260809050000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 33</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 33</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809050000 +0700" stop="20260809060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 34</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 34</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809060000 +0700" stop="20260809063000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 7 สัปดาห์ที่ 5</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 7 Matchday 5</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809063000 +0700" stop="20260809064500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: เอฟซี เอาก์สบวร์ก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FC Augsburg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809064500 +0700" stop="20260809070000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: บาเยิร์น มิวนิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FC Bayern Munchen</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809070000 +0700" stop="20260809090000 +0700">
+    <title lang="th">รีรัน: ไฮเดนไฮม์ พบ ออสนาบรุค</title>
+    <title lang="en">RERUN: 1. FC Heidenheim vs VfL Osnabrueck</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809090000 +0700" stop="20260809110000 +0700">
+    <title lang="th">รีรัน: คาร์ลสรูห์ พบ อาร์มิเนีย บีเลเฟลด์</title>
+    <title lang="en">RERUN: Karlsruher SC vs DSC Arminia Bielefeld</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809110000 +0700" stop="20260809113000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 21 สัปดาห์ที่ 18</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 21 Matchday 18</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809113000 +0700" stop="20260809120000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 22 สัปดาห์ที่ 19</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 22 Matchday 19</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809120000 +0700" stop="20260809140000 +0700">
+    <title lang="th">รีรัน: มักเดบวร์ก พบ ไอน์ทรัค เบราน์ชไวค์</title>
+    <title lang="en">RERUN: 1. FC Magdeburg vs Eintracht Braunschweig</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809140000 +0700" stop="20260809150000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 11</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 11</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809150000 +0700" stop="20260809151500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: อูนิโอน เบอร์ลิน</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FC Union Berlin</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809151500 +0700" stop="20260809153000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ไมนซ์ 05</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FSV Mainz 05</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809153000 +0700" stop="20260809160000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 7 สัปดาห์ที่ 5</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 7 Matchday 5</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809160000 +0700" stop="20260809170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 12</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 12</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809170000 +0700" stop="20260809173000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 9 สัปดาห์ทีมชาติ 2</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 9 International Break 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809173000 +0700" stop="20260809180000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 10 สัปดาห์ที่ 7</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 10 Matchday 7</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809180000 +0700" stop="20260809200000 +0700">
+    <title lang="th">รีรัน: ดาร์มสตัดท์ 98 พบ โฮลสไตน์ คีล</title>
+    <title lang="en">RERUN: SV Darmstadt 98 vs Holstein Kiel</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809200000 +0700" stop="20260809220000 +0700">
+    <title lang="th">รีรัน: โวล์ฟสบวร์ก พบ ไกเซอร์สเลาเทิร์น</title>
+    <title lang="en">RERUN: VfL Wolfsburg vs 1. FC Kaiserslautern</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809220000 +0700" stop="20260809223000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 15 Best of February</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 15 Best of February</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809223000 +0700" stop="20260809230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 16 Beyond Ninety The Ultimate Drama</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 16 Beyond Ninety The Ultimate Drama</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260809230000 +0700" stop="20260810000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 17</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 17</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002721" start="20260805000000 +0700" stop="20260806000000 +0700">
