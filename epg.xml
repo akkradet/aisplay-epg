@@ -325,16 +325,6 @@
     <display-name lang="en">PLAY SPORTS 71</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094208034571.png"/>
   </channel>
-  <channel id="ch0000000000100002531">
-    <display-name lang="th">เพลย์สปอร์ต 72</display-name>
-    <display-name lang="en">PLAY SPORTS 72</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094343034572.png"/>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name lang="th">เพลย์สปอร์ต 73</display-name>
-    <display-name lang="en">PLAY SPORTS 73</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094531034573.png"/>
-  </channel>
   <channel id="ch0000000000100002701">
     <display-name lang="th">เพลย์สปอร์ต 90</display-name>
     <display-name lang="en">PLAY SPORTS 90</display-name>
@@ -450,98 +440,104 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
   </channel>
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <channel id="ch0000000000100002534">
     <display-name>ch0000000000100002534</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
   </channel>
   <channel id="ch0000000000100002541">
     <display-name>ch0000000000100002541</display-name>
   </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
   </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260806234500 +0700" stop="20260807014000 +0700">
     <title>Salem'S Lot</title>
@@ -53149,24 +53145,14 @@
     <title lang="en">RERUN: Wyndham Championship Round 1</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260808090000 +0700" stop="20260808120000 +0700">
+  <programme channel="ch0000000000100002511" start="20260808090000 +0700" stop="20260808130000 +0700">
     <title lang="th">รีรัน: วินด์แฮม แชมเปียนชิพ รอบ 2</title>
     <title lang="en">RERUN: Wyndham Championship Round 2</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002511" start="20260808120000 +0700" stop="20260808123000 +0700">
-    <title lang="th">วินด์แฮม แชมเปียนชิพ รอบแรก</title>
-    <title lang="en">Wyndham Championship Round 1</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002511" start="20260808123000 +0700" stop="20260808130000 +0700">
-    <title lang="th">โคราเลส ปุนตากานา แชมเปี้ยนชิพ ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Corales Puntacana Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20260808130000 +0700" stop="20260808160000 +0700">
-    <title lang="th">รีรัน: วินด์แฮม แชมเปียนชิพ รอบ 2</title>
-    <title lang="en">RERUN: Wyndham Championship Round 2</title>
+    <title lang="th">รีรัน: วินด์แฮม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: Wyndham Championship Round 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20260808160000 +0700" stop="20260808163000 +0700">
@@ -53179,22 +53165,17 @@
     <title lang="en">ISCO Championship Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260808170000 +0700" stop="20260808173500 +0700">
-    <title lang="th">ไอเอสซีโอ แชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">ISCO Championship Highlights Final</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002511" start="20260808173500 +0700" stop="20260808181000 +0700">
+  <programme channel="ch0000000000100002511" start="20260808170000 +0700" stop="20260808173000 +0700">
     <title lang="th">วินด์แฮม แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
     <title lang="en">Wyndham Championship Highlights Round 1</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260808181000 +0700" stop="20260808184500 +0700">
-    <title lang="th">วินด์แฮม แชมเปียนชิพ ไฮไลต์ รอบ 2</title>
+  <programme channel="ch0000000000100002511" start="20260808173000 +0700" stop="20260808180000 +0700">
+    <title lang="th">วินด์แฮม แชมเปียนชิพ ไฮไลต์ รอบสอง</title>
     <title lang="en">Wyndham Championship Highlights Round 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260808184500 +0700" stop="20260809050000 +0700">
+  <programme channel="ch0000000000100002511" start="20260808180000 +0700" stop="20260809050000 +0700">
     <title lang="th">LIVE: วินด์แฮม แชมเปียนชิพ รอบ 3</title>
     <title lang="en">LIVE: Wyndham Championship Round 3</title>
     <category>Sports</category>
