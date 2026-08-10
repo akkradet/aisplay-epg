@@ -435,11 +435,53 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
   <channel id="ch0000000000100001292">
     <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
@@ -447,11 +489,23 @@
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
@@ -459,74 +513,20 @@
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
   </channel>
   <channel id="ch0000000000100001283">
     <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260808230500 +0700" stop="20260809004500 +0700">
     <title>Ghost Town</title>
@@ -26900,12 +26900,13 @@
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260810090000 +0700" stop="20260810093000 +0700">
-    <title>African Voices Playmakers</title>
-    <desc>African Voices Playmakers brings you the stories of athletes and sporting legends from the continent making an impact globally.</desc>
+    <title>African Voices Playmakers: Bodybuilders</title>
+    <desc>More Africans are appearing on bodybuilding’s most prestigious stages, including Mr. Olympia and the Arnold Classic.</desc>
     <category>Current Events,News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260810093000 +0700" stop="20260810094500 +0700">
-    <title>Marketplace Asia: Episode 58</title>
+    <title>Marketplace Asia: South Korea’s AI Boom; Athletic Tourism in Asia</title>
+    <desc>We go inside South Korea’s tech and AI boom, where innovation, investment and ambition are reshaping one of the region’s hottest markets.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260810094500 +0700" stop="20260810100000 +0700">
@@ -27009,8 +27010,8 @@
     <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260810234500 +0700" stop="20260811000000 +0700">
-    <title>African Voices Playmakers: September 2026 15m A</title>
-    <desc>African Voices Playmakers brings you the stories of athletes and sporting legends from the continent making an impact globally.</desc>
+    <title>African Voices Playmakers: Bodybuilders</title>
+    <desc>More Africans are appearing on bodybuilding's most prestigious stages, including Mr. Olympia and the Arnold Classic.</desc>
     <category>Current Events,News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260811000000 +0700" stop="20260811010000 +0700">
@@ -27159,8 +27160,8 @@
     <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260811234500 +0700" stop="20260812000000 +0700">
-    <title>African Voices Playmakers: September 2026 15m B</title>
-    <desc>African Voices Playmakers brings you the stories of athletes and sporting legends from the continent making an impact globally.</desc>
+    <title>African Voices Playmakers: Bodybuilders</title>
+    <desc>More Africans are appearing on bodybuilding's most prestigious stages, including Mr. Olympia and the Arnold Classic.</desc>
     <category>Current Events,News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260812000000 +0700" stop="20260812010000 +0700">
@@ -27299,7 +27300,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260812214500 +0700" stop="20260812220000 +0700">
-    <title>Marketplace Asia: Episode 58</title>
+    <title>Marketplace Asia: South Korea’s AI Boom; Athletic Tourism in Asia</title>
+    <desc>We go inside South Korea’s tech and AI boom, where innovation, investment and ambition are reshaping one of the region’s hottest markets.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260812220000 +0700" stop="20260812230000 +0700">
@@ -53366,6 +53368,86 @@
     <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
     <category>NBA, Basketball</category>
   </programme>
+  <programme channel="ch0000000000100002401" start="20260811000000 +0700" stop="20260811030000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260811030000 +0700" stop="20260811060000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260811060000 +0700" stop="20260811090000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260811090000 +0700" stop="20260811120000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260811120000 +0700" stop="20260811150000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260811150000 +0700" stop="20260811180000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260811180000 +0700" stop="20260811210000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260811210000 +0700" stop="20260812000000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812000000 +0700" stop="20260812030000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812030000 +0700" stop="20260812060000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812060000 +0700" stop="20260812090000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812090000 +0700" stop="20260812120000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812120000 +0700" stop="20260812150000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812150000 +0700" stop="20260812180000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812180000 +0700" stop="20260812210000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260812210000 +0700" stop="20260813000000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
   <programme channel="ch0000000000100002403" start="20260808113000 +0700" stop="20260809023000 +0700">
     <title lang="th">เริ่มเวลา 02.30 อินเดียนา ฟีเวอร์ พบ ชิคาโก สกาย</title>
     <title lang="en">Start 02.30 Indiana Fever vs Chicago Sky</title>
@@ -54521,24 +54603,44 @@
     <title lang="en">KLM Open Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260811221500 +0700" stop="20260812004000 +0700">
+  <programme channel="ch0000000000100002528" start="20260811221500 +0700" stop="20260812024500 +0700">
     <title lang="th">รีรัน: โอเพ่น ดิ อิตาเลีย รอบสุดท้าย</title>
     <title lang="en">RERUN: Open d'Italia Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260812004000 +0700" stop="20260812010500 +0700">
+  <programme channel="ch0000000000100002528" start="20260812024500 +0700" stop="20260812031000 +0700">
     <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">BMW International Open Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260812010500 +0700" stop="20260812013500 +0700">
+  <programme channel="ch0000000000100002528" start="20260812031000 +0700" stop="20260812034000 +0700">
     <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">BMW International Open Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260812013500 +0700" stop="20260812063500 +0700">
+  <programme channel="ch0000000000100002528" start="20260812034000 +0700" stop="20260812090500 +0700">
     <title lang="th">รีรัน: เจเนซิส สก็อตติช โอเพ่น รอบสุดท้าย</title>
     <title lang="en">RERUN: GENESIS SCOTTISH OPEN Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260812090500 +0700" stop="20260812140500 +0700">
+    <title lang="th">รีรัน: แมจิคัล เคนยา โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: Magical Kenya Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260812140500 +0700" stop="20260812191500 +0700">
+    <title lang="th">รีรัน: อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Investec South African Open Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260812191500 +0700" stop="20260812194500 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Joburg Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260812194500 +0700" stop="20260813004000 +0700">
+    <title lang="th">รีรัน: ฮีโร่ อินเดียน โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: Hero Indian Open Final</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260808233000 +0700" stop="20260809033000 +0700">
@@ -56469,6 +56571,266 @@
   <programme channel="ch0000000000100002701" start="20260810230000 +0700" stop="20260811000000 +0700">
     <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 18</title>
     <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 18</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811000000 +0700" stop="20260811010000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 31</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 31</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811010000 +0700" stop="20260811020000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 32</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 32</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811020000 +0700" stop="20260811030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 33</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 33</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811030000 +0700" stop="20260811040000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 34</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 34</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811040000 +0700" stop="20260811050000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 1</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811050000 +0700" stop="20260811060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 2</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811060000 +0700" stop="20260811063000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 9 สัปดาห์ทีมชาติ 2</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 9 International Break 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811063000 +0700" stop="20260811064500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: อูนิโอน เบอร์ลิน</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FC Union Berlin</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811064500 +0700" stop="20260811070000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ไมนซ์ 05</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FSV Mainz 05</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811070000 +0700" stop="20260811090000 +0700">
+    <title lang="th">รีรัน: โบคุม พบ แฮร์ธ่า เบอร์ลิน</title>
+    <title lang="en">RERUN: VfL Bochum vs Hertha BSC</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811090000 +0700" stop="20260811110000 +0700">
+    <title lang="th">รีรัน: ไฮเดนไฮม์ พบ ออสนาบรุค</title>
+    <title lang="en">RERUN: 1. FC Heidenheim vs VfL Osnabrueck</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811110000 +0700" stop="20260811113000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 23 สัปดาห์ที่ 20</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 23 Matchday 20</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811113000 +0700" stop="20260811120000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 24 สัปดาห์ที่ 21</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 24 Matchday 21</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811120000 +0700" stop="20260811140000 +0700">
+    <title lang="th">รีรัน: คาร์ลสรูห์ พบ อาร์มิเนีย บีเลเฟลด์</title>
+    <title lang="en">RERUN: Karlsruher SC vs DSC Arminia Bielefeld</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811140000 +0700" stop="20260811150000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 13</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 13</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811150000 +0700" stop="20260811151500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ฮัมบูร์ก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: Hamburger SV</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811151500 +0700" stop="20260811153000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: RB Leipzig</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811153000 +0700" stop="20260811160000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 9 สัปดาห์ทีมชาติ 2</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 9 International Break 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811160000 +0700" stop="20260811170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 14</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 14</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811170000 +0700" stop="20260811173000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 11 สัปดาห์ที่ 8</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 11 Matchday 8</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811173000 +0700" stop="20260811180000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 12 สัปดาห์ที่ 9</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 12 Matchday 9</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811180000 +0700" stop="20260811200000 +0700">
+    <title lang="th">รีรัน: มักเดบวร์ก พบ ไอน์ทรัค เบราน์ชไวค์</title>
+    <title lang="en">RERUN: 1. FC Magdeburg vs Eintracht Braunschweig</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811200000 +0700" stop="20260811220000 +0700">
+    <title lang="th">รีรัน: ดาร์มสตัดท์ 98 พบ โฮลสไตน์ คีล</title>
+    <title lang="en">RERUN: SV Darmstadt 98 vs Holstein Kiel</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811220000 +0700" stop="20260811223000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 17 Best of March</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 17 Best of March</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811223000 +0700" stop="20260811230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 18 The Legacy of Manuel Neuer</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 18 The Legacy of Manuel Neuer</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260811230000 +0700" stop="20260812000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 19</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 19</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812000000 +0700" stop="20260812010000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 32</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 32</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812010000 +0700" stop="20260812020000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 33</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 33</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812020000 +0700" stop="20260812030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 34</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 34</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812030000 +0700" stop="20260812040000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 1</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812040000 +0700" stop="20260812050000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 2</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812050000 +0700" stop="20260812060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 3</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812060000 +0700" stop="20260812063000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 10 สัปดาห์ที่ 7</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 10 Matchday 7</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812063000 +0700" stop="20260812064500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ไมนซ์ 05</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FSV Mainz 05</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812064500 +0700" stop="20260812070000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ฮัมบูร์ก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: Hamburger SV</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812070000 +0700" stop="20260812090000 +0700">
+    <title lang="th">รีรัน: โวล์ฟสบวร์ก พบ ไกเซอร์สเลาเทิร์น</title>
+    <title lang="en">RERUN: VfL Wolfsburg vs 1. FC Kaiserslautern</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812090000 +0700" stop="20260812110000 +0700">
+    <title lang="th">รีรัน: เอเนอร์กี้ ค็อตบุส พบ ฮันโนเวอร์ 96</title>
+    <title lang="en">RERUN: Energie Cottbus vs Hannover 96</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812110000 +0700" stop="20260812113000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 24 สัปดาห์ที่ 21</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 24 Matchday 21</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812113000 +0700" stop="20260812120000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 25 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 25 Matchday 22</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812120000 +0700" stop="20260812140000 +0700">
+    <title lang="th">รีรัน: ซังต์ เพาลี พบ กรอยเธอร์ เฟือร์ธ</title>
+    <title lang="en">RERUN: FC St. Pauli vs SpVgg Greuther Furth</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812140000 +0700" stop="20260812150000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 14</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 14</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812150000 +0700" stop="20260812151500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: RB Leipzig</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812151500 +0700" stop="20260812153000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ไฟรบวร์ก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: Sport-Club Freiburg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812153000 +0700" stop="20260812160000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 10 สัปดาห์ที่ 7</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 10 Matchday 7</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812160000 +0700" stop="20260812170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 15</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 15</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812170000 +0700" stop="20260812173000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 12 สัปดาห์ที่ 9</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 12 Matchday 9</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812173000 +0700" stop="20260812180000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 13 สัปดาห์ที่ 10</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 13 Matchday 10</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812180000 +0700" stop="20260812200000 +0700">
+    <title lang="th">รีรัน: เนิร์นแบร์ก พบ ดินาโม เดรสเดน</title>
+    <title lang="en">RERUN: 1. FC Nuernberg vs Dynamo Dresden</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812200000 +0700" stop="20260812220000 +0700">
+    <title lang="th">รีรัน: โบคุม พบ แฮร์ธ่า เบอร์ลิน</title>
+    <title lang="en">RERUN: VfL Bochum vs Hertha BSC</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812220000 +0700" stop="20260812223000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 18 The Legacy of Manuel Neuer</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 18 The Legacy of Manuel Neuer</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812223000 +0700" stop="20260812230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 19 Best of April</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 19 Best of April</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260812230000 +0700" stop="20260813000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 20</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 20</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002721" start="20260808000000 +0700" stop="20260809000000 +0700">
