@@ -435,14 +435,11 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
   </channel>
   <channel id="ch0000000000100001283">
     <display-name>ch0000000000100001283</display-name>
@@ -450,80 +447,83 @@
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
   </channel>
   <channel id="ch0000000000100001153">
     <display-name>ch0000000000100001153</display-name>
   </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
   <channel id="ch0000000000100001391">
     <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100001286">
     <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
   <channel id="ch0000000000100001353">
     <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
   </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260809215000 +0700" stop="20260810001500 +0700">
     <title>Blood Diamond</title>
@@ -52671,32 +52671,28 @@
     <desc>Join Liam Bradford and Wes Brown for a special episode of Inside Carrington as we celebrate our academy scholars.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260810100000 +0700" stop="20260810123000 +0700">
-    <title>The Match Replayed: Pre-season: v Wrexham</title>
-    <desc>Full coverage of United's pre-season match against Wrexham in Helsinki.</desc>
+    <title>The Match Replayed: Tour 2026: v PSG</title>
+    <desc>Full coverage of United's Tour 2026 match against Paris Saint-Germain in Gothenburg.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260810123000 +0700" stop="20260810150000 +0700">
     <title>The Match Replayed: Pre-season: v Rosenborg</title>
     <desc>Full coverage of United's pre-season match against Rosenborg in Tronheim.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260810150000 +0700" stop="20260810173000 +0700">
+  <programme channel="ch0000000000100002171" start="20260810150000 +0700" stop="20260810174500 +0700">
     <title>The Match Replayed: Snapdragon Cup: v Atletico de Madrid</title>
     <desc>Full coverage of United's Snapdragon Cup match against Atletico de Madrid in Stockholm.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260810173000 +0700" stop="20260810200000 +0700">
+  <programme channel="ch0000000000100002171" start="20260810174500 +0700" stop="20260810201500 +0700">
     <title>The Match Replayed: Tour 2026: v PSG</title>
     <desc>Full coverage of United's Tour 2026 match against Paris Saint-Germain in Gothenburg.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260810200000 +0700" stop="20260810210000 +0700">
+  <programme channel="ch0000000000100002171" start="20260810201500 +0700" stop="20260810211500 +0700">
     <title>Inside Carrington Podcast - Adidas</title>
     <desc>Adidas Design Director Inigo Turner joins Helen Evans, Liam Bradford and Wes Brown for the latest episode of our Inside Carrington podcast.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260810210000 +0700" stop="20260810211500 +0700">
-    <title>Signing Interview: Youri Tielemans</title>
-    <desc>Watch Youri’s first interview as a United player, as he discusses trophy ambitions, his leadership qualities, and more.</desc>
-  </programme>
   <programme channel="ch0000000000100002171" start="20260810211500 +0700" stop="20260810213000 +0700">
-    <title>Signing Interview: Andrey Santos</title>
-    <desc>Get to know our new signing Andrey Santos, following his transer from Chelsea.</desc>
+    <title>Summer Sessions</title>
+    <desc>A group of young Reds are invited to take part in training as part of our Summer Sessions at Carrington.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260810213000 +0700" stop="20260810220000 +0700">
     <title>I Was There</title>
@@ -52719,8 +52715,8 @@
     <desc>The archetypal Captain, Roy was simply magnificent and one of the best midfielders of his generation. The Irish star grabbed many an important goal in his 13 years at Old Trafford.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811003000 +0700" stop="20260811004500 +0700">
-    <title>Signing Interview: Youri Tielemans</title>
-    <desc>Watch Youri’s first interview as a United player, as he discusses trophy ambitions, his leadership qualities, and more.</desc>
+    <title>Summer Sessions</title>
+    <desc>A group of young Reds are invited to take part in training as part of our Summer Sessions at Carrington.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811004500 +0700" stop="20260811010000 +0700">
     <title>Signing Interview: Andrey Santos</title>
@@ -52731,8 +52727,8 @@
     <desc>Adidas Design Director Inigo Turner joins Helen Evans, Liam Bradford and Wes Brown for the latest episode of our Inside Carrington podcast.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811020000 +0700" stop="20260811023000 +0700">
-    <title>Highlights: Pre-season: v Wrexham</title>
-    <desc>Highlights of United's pre-season match against Wrexham in Helsinki.</desc>
+    <title>Access All Areas - Snapdragon Cup</title>
+    <desc>An exclusive look behind the scenes of our Snapdragon Cup match against Atletico de Madrid in Stockholm.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811023000 +0700" stop="20260811030000 +0700">
     <title>Highlights: Pre-season: v Rosenborg</title>
@@ -52779,8 +52775,8 @@
     <desc>The archetypal Captain, Roy was simply magnificent and one of the best midfielders of his generation. The Irish star grabbed many an important goal in his 13 years at Old Trafford.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811080000 +0700" stop="20260811083000 +0700">
-    <title>Highlights: Pre-season: v Wrexham</title>
-    <desc>Highlights of United's pre-season match against Wrexham in Helsinki.</desc>
+    <title>Access All Areas - Snapdragon Cup</title>
+    <desc>An exclusive look behind the scenes of our Snapdragon Cup match against Atletico de Madrid in Stockholm.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811083000 +0700" stop="20260811090000 +0700">
     <title>Highlights: Pre-season: v Rosenborg</title>
@@ -52839,32 +52835,28 @@
     <desc>Relive these 25 incredible Old Trafford moments.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811180000 +0700" stop="20260811203000 +0700">
-    <title>The Match Replayed: Pre-season: v Wrexham</title>
-    <desc>Full coverage of United's pre-season match against Wrexham in Helsinki.</desc>
+    <title>The Match Replayed: Tour 2026: v PSG</title>
+    <desc>Full coverage of United's Tour 2026 match against Paris Saint-Germain in Gothenburg.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260811203000 +0700" stop="20260811230000 +0700">
     <title>The Match Replayed: Pre-season: v Rosenborg</title>
     <desc>Full coverage of United's pre-season match against Rosenborg in Tronheim.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260811230000 +0700" stop="20260812013000 +0700">
+  <programme channel="ch0000000000100002171" start="20260811230000 +0700" stop="20260812014500 +0700">
     <title>The Match Replayed: Snapdragon Cup: v Atletico de Madrid</title>
     <desc>Full coverage of United's Snapdragon Cup match against Atletico de Madrid in Stockholm.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260812013000 +0700" stop="20260812040000 +0700">
+  <programme channel="ch0000000000100002171" start="20260812014500 +0700" stop="20260812041500 +0700">
     <title>The Match Replayed: Tour 2026: v PSG</title>
     <desc>Full coverage of United's Tour 2026 match against Paris Saint-Germain in Gothenburg.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260812040000 +0700" stop="20260812050000 +0700">
+  <programme channel="ch0000000000100002171" start="20260812041500 +0700" stop="20260812051500 +0700">
     <title>Inside Carrington Podcast - Adidas</title>
     <desc>Adidas Design Director Inigo Turner joins Helen Evans, Liam Bradford and Wes Brown for the latest episode of our Inside Carrington podcast.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20260812050000 +0700" stop="20260812051500 +0700">
-    <title>Signing Interview: Youri Tielemans</title>
-    <desc>Watch Youri’s first interview as a United player, as he discusses trophy ambitions, his leadership qualities, and more.</desc>
-  </programme>
   <programme channel="ch0000000000100002171" start="20260812051500 +0700" stop="20260812053000 +0700">
-    <title>Signing Interview: Andrey Santos</title>
-    <desc>Get to know our new signing Andrey Santos, following his transer from Chelsea.</desc>
+    <title>Summer Sessions</title>
+    <desc>A group of young Reds are invited to take part in training as part of our Summer Sessions at Carrington.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260812053000 +0700" stop="20260812060000 +0700">
     <title>Highlights: Pre-season: v Wrexham</title>
@@ -52923,8 +52915,8 @@
     <desc>Watch Youri’s first interview as a United player, as he discusses trophy ambitions, his leadership qualities, and more.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260812131500 +0700" stop="20260812133000 +0700">
-    <title>Signing Interview: Andrey Santos</title>
-    <desc>Get to know our new signing Andrey Santos, following his transer from Chelsea.</desc>
+    <title>Summer Sessions</title>
+    <desc>A group of young Reds are invited to take part in training as part of our Summer Sessions at Carrington.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260812133000 +0700" stop="20260812140000 +0700">
     <title>I Was There</title>
@@ -53019,8 +53011,8 @@
     <desc>Highlights of United's Tour 2026 match against Paris Saint-Germain in Gothenburg.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260813000000 +0700" stop="20260813001500 +0700">
-    <title>Season Review: Top Ten Moments</title>
-    <desc>Relive United's top ten moments from the 2025/26 season.</desc>
+    <title>Summer Sessions</title>
+    <desc>A group of young Reds are invited to take part in training as part of our Summer Sessions at Carrington.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260813001500 +0700" stop="20260813003000 +0700">
     <title>Top 20 Pre-Season Goals</title>
@@ -53115,8 +53107,8 @@
     <desc>Adidas Design Director Inigo Turner joins Helen Evans, Liam Bradford and Wes Brown for the latest episode of our Inside Carrington podcast.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260813200000 +0700" stop="20260813201500 +0700">
-    <title>Signing Interview: Youri Tielemans</title>
-    <desc>Watch Youri’s first interview as a United player, as he discusses trophy ambitions, his leadership qualities, and more.</desc>
+    <title>Summer Sessions</title>
+    <desc>A group of young Reds are invited to take part in training as part of our Summer Sessions at Carrington.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20260813201500 +0700" stop="20260813203000 +0700">
     <title>Signing Interview: Andrey Santos</title>
@@ -53178,17 +53170,13 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260810111500 +0700" stop="20260810131000 +0700">
+  <programme channel="ch0000000000100002181" start="20260810111500 +0700" stop="20260810133000 +0700">
     <title>European Super Cup 2002:  Real Madrid vs Feyenoord</title>
     <desc>Real Madrid´s perfomance from Roberto Carlos, Zidane and Figo.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260810131000 +0700" stop="20260810133000 +0700">
-    <title>Champions League Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
-  </programme>
   <programme channel="ch0000000000100002181" start="20260810133000 +0700" stop="20260810154500 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260810154500 +0700" stop="20260810180000 +0700">
     <title>European Super Cup 2022: Real Madrid vs Eintracht Frankfurt</title>
@@ -53263,8 +53251,8 @@
     <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260811230000 +0700" stop="20260812011500 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260812011500 +0700" stop="20260812012500 +0700">
     <title>Real Madrid News</title>
@@ -53346,11 +53334,11 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260813072500 +0700" stop="20260813094500 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  <programme channel="ch0000000000100002181" start="20260813072500 +0700" stop="20260813093000 +0700">
+    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260813094500 +0700" stop="20260813100000 +0700">
+  <programme channel="ch0000000000100002181" start="20260813093000 +0700" stop="20260813100000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
@@ -53386,11 +53374,11 @@
     <title>Champions League 21/22: Liverpool vs Real Madrid (14th) La Decimocuarta</title>
     <desc>Real Madrid vs Liverpool Final Champions League Final 21/22.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260813203000 +0700" stop="20260813225000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  <programme channel="ch0000000000100002181" start="20260813203000 +0700" stop="20260813223000 +0700">
+    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260813225000 +0700" stop="20260814010000 +0700">
+  <programme channel="ch0000000000100002181" start="20260813223000 +0700" stop="20260814004000 +0700">
     <title>Classic Matches: 2000 UCL Final  (8th) La Octava</title>
     <desc>Champions League Final 99/00.Watch Real Madrid's eighth Champions League triumph against Valencia in Paris.</desc>
   </programme>
