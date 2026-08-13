@@ -460,89 +460,95 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
   <channel id="ch0000000000100001291">
     <display-name>ch0000000000100001291</display-name>
   </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
   <channel id="ch0000000000100001361">
     <display-name>ch0000000000100001361</display-name>
   </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260811235000 +0700" stop="20260812013000 +0700">
     <title>Heart Eyes</title>
@@ -51873,6 +51879,126 @@
     <title lang="en">RERUN: Udon United vs Burapha United</title>
     <category>Football</category>
   </programme>
+  <programme channel="ch0000000000100002052" start="20260814000000 +0700" stop="20260814020000 +0700">
+    <title lang="th">รีรัน: แม่โจ้ ยูไนเต็ด พบ กำแพงเพชร เอฟซี</title>
+    <title lang="en">RERUN: Maejo United vs Kamphengphet FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814020000 +0700" stop="20260814040000 +0700">
+    <title lang="th">รีรัน: สุรินทร์ โขงชีมูล เอฟซี พบ ม. การจัดการ และเทคโนโลยีอีสเทิร์น</title>
+    <title lang="en">RERUN: Surin Khongcheemool FC vs The Eastern University of Management and Technology</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814040000 +0700" stop="20260814060000 +0700">
+    <title lang="th">รีรัน: เอซีดีซี เอฟซี พบ บ้านค่าย ยูไนเต็ด</title>
+    <title lang="en">RERUN: AC.DC. FC vs Bankhai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814060000 +0700" stop="20260814080000 +0700">
+    <title lang="th">รีรัน: ธนบุรี ยูไนเต็ด พบ ทัพหลวง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Thonburi United vs Thapluang United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814080000 +0700" stop="20260814100000 +0700">
+    <title lang="th">รีรัน: สมุย ยูไนเต็ด พบ กระบี่ เอฟซี</title>
+    <title lang="en">RERUN: Samui United vs Krabi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814100000 +0700" stop="20260814120000 +0700">
+    <title lang="th">รีรัน: บีจีซี บัณฑิตเอเซีย พบ กรุงเทพมหานคร</title>
+    <title lang="en">RERUN: BGC College of Asian Scholars vs Bangkok FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814120000 +0700" stop="20260814140000 +0700">
+    <title lang="th">รีรัน: อุดร-บ้านจั่น ยูไนเต็ด พบ เมืองเลย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Udon Banjan United vs Muang Loei United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814140000 +0700" stop="20260814160000 +0700">
+    <title lang="th">รีรัน: แอลพีจีเอสเอส เขลางค์ ยูไนเต็ด พบ รร. กีฬากรุงเทพมหานคร</title>
+    <title lang="en">RERUN: LPGSS Khelang United vs Bangkok Sports School</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814160000 +0700" stop="20260814180000 +0700">
+    <title lang="th">รีรัน: ชุมพร ยูไนเต็ด พบ เมืองตรัง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chumphon United vs Muangtrang United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814180000 +0700" stop="20260814200000 +0700">
+    <title lang="th">รีรัน: นรา ยูไนเต็ด พบ พีเอสยู สุราษฎร์ธานี ซิตี้</title>
+    <title lang="en">RERUN: Nara United vs PSU Suratthani City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814200000 +0700" stop="20260814220000 +0700">
+    <title lang="th">รีรัน: ม. นอร์ทกรุงเทพ พบ อุตรดิตถ์ เอฟซี</title>
+    <title lang="en">RERUN: North Bangkok University vs Uttaradit FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260814220000 +0700" stop="20260815000000 +0700">
+    <title lang="th">รีรัน: อ่างทอง เอฟซี พบ ม. นอร์ทกรุงเทพ</title>
+    <title lang="en">RERUN: Angthong FC vs North Bangkok University</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815000000 +0700" stop="20260815020000 +0700">
+    <title lang="th">รีรัน: ขอนแก่นมอดินแดง ฟุตบอลคลับ พบ ร้อยเอ็ด พีบี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Khonkaen Mordindang Football Club vs Roi-Et PB United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815020000 +0700" stop="20260815040000 +0700">
+    <title lang="th">รีรัน: สโมสรฟุตบอลราชนาวี พบ คัสตอม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Navy FC vs Customs United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815040000 +0700" stop="20260815060000 +0700">
+    <title lang="th">รีรัน: พิษณุโลก เอฟซี พบ พิจิตร ยูไนเต็ด 2025</title>
+    <title lang="en">RERUN: Phitsanulok FC vs Pichit United 2025</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815060000 +0700" stop="20260815080000 +0700">
+    <title lang="th">รีรัน: ฉะเชิงเทรา ไฮเทค เอฟซี พบ บูรพา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chachoengsao Hi-Tek FC vs Burapha United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815080000 +0700" stop="20260815100000 +0700">
+    <title lang="th">รีรัน: อุบล ครัวนภัส เอฟซี พบ อุดร ยูไนเต็ด</title>
+    <title lang="en">RERUN: Ubon Kruanapat FC vs Udon United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815100000 +0700" stop="20260815120000 +0700">
+    <title lang="th">รีรัน: แอลพีจีเอสเอส เขลางค์ ยูไนเต็ด พบ รร. กีฬากรุงเทพมหานคร</title>
+    <title lang="en">RERUN: LPGSS Khelang United vs Bangkok Sports School</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815120000 +0700" stop="20260815140000 +0700">
+    <title lang="th">รีรัน: นอร์ทเทิร์น นครแม่สอด ยูไนเต็ด พบ สิงห์ เชียงราย ซิตี้</title>
+    <title lang="en">RERUN: Northern Nakhonmaesot United vs Singha Chiangrai City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815140000 +0700" stop="20260815160000 +0700">
+    <title lang="th">รีรัน: บีจีซี บัณฑิตเอเซีย พบ กรุงเทพมหานคร</title>
+    <title lang="en">RERUN: BGC College of Asian Scholars vs Bangkok FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815160000 +0700" stop="20260815180000 +0700">
+    <title lang="th">รีรัน: ม. เกษมบัณฑิต เอฟซี พบ ม. ปทุมธานี</title>
+    <title lang="en">RERUN: Kasembundit University FC vs Pathumthani University</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815180000 +0700" stop="20260815200000 +0700">
+    <title lang="th">รีรัน: ทหารอากาศ เอฟซี พบ จามจุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Royal Thai Air Force FC vs Chamchuri United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815200000 +0700" stop="20260815220000 +0700">
+    <title lang="th">รีรัน: อุตรดิตถ์ เอฟซี พบ เชียงใหม่ เอฟซี</title>
+    <title lang="en">RERUN: Uttaradit FC vs Chiangmai FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260815220000 +0700" stop="20260816000000 +0700">
+    <title lang="th">รีรัน: ม. นอร์ทกรุงเทพ พบ อุตรดิตถ์ เอฟซี</title>
+    <title lang="en">RERUN: North Bangkok University vs Uttaradit FC</title>
+    <category>Football</category>
+  </programme>
   <programme channel="ch0000000000100002171" start="20260811230000 +0700" stop="20260812014500 +0700">
     <title>The Match Replayed: Snapdragon Cup: v Atletico de Madrid</title>
     <desc>Full coverage of United's Snapdragon Cup match against Atletico de Madrid in Stockholm.</desc>
@@ -52518,8 +52644,8 @@
     <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260813223000 +0700" stop="20260814004000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Deportivo v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260814004000 +0700" stop="20260814010000 +0700">
     <title>Champions League Highlights</title>
@@ -52582,18 +52708,18 @@
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260815011500 +0700" stop="20260815033000 +0700">
-    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
-    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
+    <title>Deportivo v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260815033000 +0700" stop="20260815040000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260815040000 +0700" stop="20260815050000 +0700">
+  <programme channel="ch0000000000100002181" start="20260815040000 +0700" stop="20260815050500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260815050000 +0700" stop="20260815070500 +0700">
+  <programme channel="ch0000000000100002181" start="20260815050500 +0700" stop="20260815070500 +0700">
     <title>Champions League 17/18: Borussia Dortmund vs Real Madrid</title>
     <desc>Superb goals, a great atmosphere and some top players on show.</desc>
   </programme>
@@ -52602,8 +52728,8 @@
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260815071500 +0700" stop="20260815093000 +0700">
-    <title>Classic Matches: Real Madrid vs Villarreal Liga 19/20</title>
-    <desc>Real Madrid clinched a record 34th Liga title at home to Villarreal.</desc>
+    <title>Deportivo v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260815093000 +0700" stop="20260815104000 +0700">
     <title>Real Madrid Pass</title>
@@ -52621,9 +52747,33 @@
     <title>Classic Matches: Real Madrid vs Real Madrid Castilla Copa del Rey 1980</title>
     <desc>A rare encounter in the Copa Del Rey. Real Madrid's first team faced the club's second team back in 1980.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260815131000 +0700" stop="20260815150000 +0700">
+  <programme channel="ch0000000000100002181" start="20260815131000 +0700" stop="20260815132500 +0700">
     <title>Champions League Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260815132500 +0700" stop="20260815154000 +0700">
+    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260815154000 +0700" stop="20260815160000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260815160000 +0700" stop="20260815185500 +0700">
+    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
+    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260815185500 +0700" stop="20260815195500 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260815195500 +0700" stop="20260815205500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260815205500 +0700" stop="20260816000000 +0700">
+    <title>Champions League 13/14: Real Madrid vs Atlético de Madrid (10th) La Décima</title>
+    <desc>The first ever cross city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260811000000 +0700" stop="20260812000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -53017,6 +53167,31 @@
   <programme channel="ch0000000000100002403" start="20260813070000 +0700" stop="20260813100000 +0700">
     <title lang="th">LIVE: โตรอนโต เทมโป พบ ดัลลัส วิงส์</title>
     <title lang="en">LIVE: Toronto Tempo vs Dallas Wings</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002403" start="20260813100000 +0700" stop="20260814000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002403" start="20260814000000 +0700" stop="20260815000000 +0700">
+    <title lang="th">เริ่มเวลา 09.00 พอร์ตแลนด์ ไฟร์ พบ ซีแอตเทิล สตอร์ม</title>
+    <title lang="en">Start 09.00 Portland Fire vs Seattle Storm</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002403" start="20260815000000 +0700" stop="20260815090000 +0700">
+    <title lang="th">เริ่มเวลา 09.00 พอร์ตแลนด์ ไฟร์ พบ ซีแอตเทิล สตอร์ม</title>
+    <title lang="en">Start 09.00 Portland Fire vs Seattle Storm</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002403" start="20260815090000 +0700" stop="20260815120000 +0700">
+    <title lang="th">LIVE: พอร์ตแลนด์ ไฟร์ พบ ซีแอตเทิล สตอร์ม</title>
+    <title lang="en">LIVE: Portland Fire vs Seattle Storm</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002403" start="20260815120000 +0700" stop="20260816000000 +0700">
+    <title lang="th">เริ่มเวลา 07.00 มินนิโซตา ลิงซ์ พบ ลาสเวกัส เอชส์</title>
+    <title lang="en">Start 07.00 Minnesota Lynx vs Las Vegas Aces</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20260811230000 +0700" stop="20260812000000 +0700">
@@ -53614,9 +53789,189 @@
     <title lang="en">The Amundi Evian Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260814001000 +0700" stop="20260814061000 +0700">
-    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น รอบ 3</title>
-    <title lang="en">ISPS Handa Women's Scottish Open Round 3</title>
+  <programme channel="ch0000000000100002525" start="20260814001000 +0700" stop="20260814041500 +0700">
+    <title lang="th">รีรัน: ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น รอบ 3</title>
+    <title lang="en">RERUN: ISPS Handa Women's Scottish Open Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814041500 +0700" stop="20260814043500 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814043500 +0700" stop="20260814050000 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814050000 +0700" stop="20260814080000 +0700">
+    <title lang="th">LIVE: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบแรก</title>
+    <title lang="en">LIVE: The Standard Portland Classic Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814080000 +0700" stop="20260814113000 +0700">
+    <title lang="th">รีรัน: ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: ISPS Handa Women's Scottish Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814113000 +0700" stop="20260814120000 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814120000 +0700" stop="20260814150000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบแรก</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814150000 +0700" stop="20260814153000 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Honda LPGA Thailand Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814153000 +0700" stop="20260814160000 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Honda LPGA Thailand Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814160000 +0700" stop="20260814190000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบแรก</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814190000 +0700" stop="20260814193000 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Blue Bay LPGA Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814193000 +0700" stop="20260814200000 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Blue Bay LPGA Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814200000 +0700" stop="20260814230000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบแรก</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814230000 +0700" stop="20260814232500 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบ 3</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814232500 +0700" stop="20260814235000 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260814235000 +0700" stop="20260815001500 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบ 3</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815001500 +0700" stop="20260815004000 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815004000 +0700" stop="20260815011000 +0700">
+    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Chevron Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815011000 +0700" stop="20260815041000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบแรก</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815041000 +0700" stop="20260815043500 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบ 3</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815043500 +0700" stop="20260815050000 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815050000 +0700" stop="20260815080000 +0700">
+    <title lang="th">LIVE: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบ 2</title>
+    <title lang="en">LIVE: The Standard Portland Classic Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815080000 +0700" stop="20260815082000 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Mizuho Americas Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815082000 +0700" stop="20260815084000 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Mizuho Americas Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815084000 +0700" stop="20260815113500 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบแรก</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815113500 +0700" stop="20260815120000 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815120000 +0700" stop="20260815150000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบ 2</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815150000 +0700" stop="20260815152000 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบ 2</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815152000 +0700" stop="20260815154500 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815154500 +0700" stop="20260815161000 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815161000 +0700" stop="20260815191000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบ 2</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815191000 +0700" stop="20260815193500 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815193500 +0700" stop="20260815195500 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815195500 +0700" stop="20260815225500 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบ 2</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815225500 +0700" stop="20260815232000 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815232000 +0700" stop="20260815235000 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260815235000 +0700" stop="20260816002000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Amundi Evian Championship Highlights Round 3</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260811221500 +0700" stop="20260812024500 +0700">
@@ -53845,17 +54200,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812010000 +0700" stop="20260812012000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812012000 +0700" stop="20260812014000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812014000 +0700" stop="20260812020000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -53865,37 +54220,37 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812040000 +0700" stop="20260812042000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812042000 +0700" stop="20260812044000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
     <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812044000 +0700" stop="20260812050000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812050000 +0700" stop="20260812090000 +0700">
-    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 10</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ที่ 10</title>
     <title lang="en">LIVE: National Bank Open pres. by Rogers Day 10</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812090000 +0700" stop="20260812092000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812092000 +0700" stop="20260812094000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Mifel Tennis Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812094000 +0700" stop="20260812100000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -53905,17 +54260,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812120000 +0700" stop="20260812122000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812122000 +0700" stop="20260812124000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812124000 +0700" stop="20260812130000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -53930,17 +54285,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812153000 +0700" stop="20260812155000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812155000 +0700" stop="20260812161000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812161000 +0700" stop="20260812163000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -53955,12 +54310,12 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812190000 +0700" stop="20260812191500 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812191500 +0700" stop="20260812193000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
@@ -53975,17 +54330,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812220000 +0700" stop="20260812222000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812222000 +0700" stop="20260812224000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
     <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260812224000 +0700" stop="20260812230000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -53995,17 +54350,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813010000 +0700" stop="20260813012000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813012000 +0700" stop="20260813014000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Mifel Tennis Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813014000 +0700" stop="20260813020000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54015,37 +54370,37 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813040000 +0700" stop="20260813042000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813042000 +0700" stop="20260813044000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813044000 +0700" stop="20260813050000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813050000 +0700" stop="20260813090000 +0700">
-    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 11</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ที่ 11</title>
     <title lang="en">LIVE: National Bank Open pres. by Rogers Day 11</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813090000 +0700" stop="20260813092000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813092000 +0700" stop="20260813094000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813094000 +0700" stop="20260813100000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54055,17 +54410,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813120000 +0700" stop="20260813122000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813122000 +0700" stop="20260813124000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
     <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813124000 +0700" stop="20260813130000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54080,17 +54435,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813153000 +0700" stop="20260813155000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813155000 +0700" stop="20260813161000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Mifel Tennis Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813161000 +0700" stop="20260813163000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54105,12 +54460,12 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813190000 +0700" stop="20260813191500 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813191500 +0700" stop="20260813193000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
@@ -54125,17 +54480,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813220000 +0700" stop="20260813222000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813222000 +0700" stop="20260813224000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260813224000 +0700" stop="20260813230000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54145,17 +54500,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814010000 +0700" stop="20260814012000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814012000 +0700" stop="20260814014000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814014000 +0700" stop="20260814020000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54170,22 +54525,22 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814060000 +0700" stop="20260814062000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814062000 +0700" stop="20260814064000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
     <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814064000 +0700" stop="20260814070000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814070000 +0700" stop="20260814090000 +0700">
-    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ 12</title>
+    <title lang="th">LIVE: เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส วันที่ที่ 12</title>
     <title lang="en">LIVE: National Bank Open pres. by Rogers Day 12</title>
     <category>Sports</category>
   </programme>
@@ -54195,17 +54550,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814093000 +0700" stop="20260814095000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814095000 +0700" stop="20260814101000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 ไมเฟล เทนนิส โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Mifel Tennis Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814101000 +0700" stop="20260814103000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54220,17 +54575,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814130000 +0700" stop="20260814132000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814132000 +0700" stop="20260814134000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 มิลเลนเนียม เอสโตริล โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Millennium Estoril Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814134000 +0700" stop="20260814140000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54245,17 +54600,17 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814180000 +0700" stop="20260814182000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814182000 +0700" stop="20260814184000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 250 เจนเนอราลี่ โอเพ่น</title>
     <title lang="en">Highlights: ATP250 Generali Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814184000 +0700" stop="20260814190000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
@@ -54265,23 +54620,108 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814210000 +0700" stop="20260814212000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814212000 +0700" stop="20260814214000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 500 มูบาดาลา ซิตี้ ดีซี โอเพ่น</title>
     <title lang="en">Highlights: ATP500 Mubadala Citi DC Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814214000 +0700" stop="20260814220000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
+    <title lang="th">ไฮไลต์:: เอทีพี 1000 เนชันแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอร์ส</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260814220000 +0700" stop="20260815100000 +0700">
-    <title lang="th">LIVE: Cincinnati Open วันที่ 2</title>
+    <title lang="th">LIVE: ซินซินเนติ โอเพ่น วันที่ 2</title>
     <title lang="en">LIVE: Cincinnati Open Day 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815100000 +0700" stop="20260815102000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815102000 +0700" stop="20260815104000 +0700">
+    <title lang="th">มูบาดาลา ซิตี้ ดีซี โอเพน</title>
+    <title lang="en">Mubadala Citi DC Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815104000 +0700" stop="20260815110000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815110000 +0700" stop="20260815130000 +0700">
+    <title lang="th">รีรัน: เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์ รอบชิงชนะเลิศ</title>
+    <title lang="en">RERUN: National Bank Open pres. by Rogers Final (National Bank Open pres. by Rogers)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815130000 +0700" stop="20260815131500 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815131500 +0700" stop="20260815133000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815133000 +0700" stop="20260815140000 +0700">
+    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 14</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 14</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815140000 +0700" stop="20260815160000 +0700">
+    <title lang="th">รีรัน: เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์ รอบชิงชนะเลิศ</title>
+    <title lang="en">RERUN: National Bank Open pres. by Rogers Final (National Bank Open pres. by Rogers)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815160000 +0700" stop="20260815180000 +0700">
+    <title lang="th">รีรัน: ซินซินเนติ โอเพ่น รอบ 128</title>
+    <title lang="en">RERUN: Cincinnati Open Round 128</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815180000 +0700" stop="20260815182000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815182000 +0700" stop="20260815184000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
+    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815184000 +0700" stop="20260815190000 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815190000 +0700" stop="20260815210000 +0700">
+    <title lang="th">รีรัน: เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์ รอบรองชนะเลิศ</title>
+    <title lang="en">RERUN: National Bank Open pres. by Rogers Semi Final (National Bank Open pres. by Rogers)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815210000 +0700" stop="20260815211500 +0700">
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815211500 +0700" stop="20260815213000 +0700">
+    <title lang="th">มูบาดาลา ซิตี้ ดีซี โอเพน</title>
+    <title lang="en">Mubadala Citi DC Open</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815213000 +0700" stop="20260815220000 +0700">
+    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 15</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 15</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20260815220000 +0700" stop="20260816100000 +0700">
+    <title lang="th">LIVE: ซินซินเนติ โอเพ่น วันที่ 3</title>
+    <title lang="en">LIVE: Cincinnati Open Day 3</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20260811000000 +0700" stop="20260812000000 +0700">
@@ -55476,6 +55916,31 @@
     <title lang="en">LIVE: Toronto Tempo vs Dallas Wings</title>
     <category>WNBA</category>
   </programme>
+  <programme channel="ch0000000000100002643" start="20260813100000 +0700" stop="20260814000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002643" start="20260814000000 +0700" stop="20260815000000 +0700">
+    <title lang="th">เริ่มเวลา 09.00 พอร์ตแลนด์ ไฟร์ พบ ซีแอตเทิล สตอร์ม</title>
+    <title lang="en">Start 09.00 Portland Fire vs Seattle Storm</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002643" start="20260815000000 +0700" stop="20260815090000 +0700">
+    <title lang="th">เริ่มเวลา 09.00 พอร์ตแลนด์ ไฟร์ พบ ซีแอตเทิล สตอร์ม</title>
+    <title lang="en">Start 09.00 Portland Fire vs Seattle Storm</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002643" start="20260815090000 +0700" stop="20260815120000 +0700">
+    <title lang="th">LIVE: พอร์ตแลนด์ ไฟร์ พบ ซีแอตเทิล สตอร์ม</title>
+    <title lang="en">LIVE: Portland Fire vs Seattle Storm</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002643" start="20260815120000 +0700" stop="20260816000000 +0700">
+    <title lang="th">เริ่มเวลา 07.00 มินนิโซตา ลิงซ์ พบ ลาสเวกัส เอชส์</title>
+    <title lang="en">Start 07.00 Minnesota Lynx vs Las Vegas Aces</title>
+    <category>WNBA</category>
+  </programme>
   <programme channel="ch0000000000100002644" start="20260811120000 +0700" stop="20260812000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -55492,8 +55957,23 @@
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002644" start="20260813090000 +0700" stop="20260813120000 +0700">
-    <title lang="th">LIVE: โชิคาโก สกาย พบ โกลเดน สเตท วัลคีรีส์</title>
-    <title lang="en">LIVE: โChicago Sky vs Golden State Valkyries</title>
+    <title lang="th">LIVE: ชิคาโก สกาย พบ โกลเดน สเตท วัลคีรีส์</title>
+    <title lang="en">LIVE: Chicago Sky vs Golden State Valkyries</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002644" start="20260813120000 +0700" stop="20260814000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002644" start="20260814000000 +0700" stop="20260815000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>WNBA</category>
+  </programme>
+  <programme channel="ch0000000000100002644" start="20260815000000 +0700" stop="20260816000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002701" start="20260811230000 +0700" stop="20260812000000 +0700">
@@ -56225,6 +56705,56 @@
   </programme>
   <programme channel="ch0000000000100002752" start="20260815200000 +0700" stop="20260816000000 +0700">
     <title>No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002753" start="20260811000000 +0700" stop="20260812000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002753" start="20260812000000 +0700" stop="20260813000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002753" start="20260813000000 +0700" stop="20260814000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002753" start="20260814000000 +0700" stop="20260815000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002753" start="20260815000000 +0700" stop="20260816000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002754" start="20260811000000 +0700" stop="20260812000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002754" start="20260812000000 +0700" stop="20260813000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002754" start="20260813000000 +0700" stop="20260814000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002754" start="20260814000000 +0700" stop="20260815000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002754" start="20260815000000 +0700" stop="20260816000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
 </tv>
