@@ -315,6 +315,11 @@
     <display-name lang="en">PLAY SPORTS 62</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226104956034555.png"/>
   </channel>
+  <channel id="ch0000000000100002523">
+    <display-name lang="th">เพลย์สปอร์ต 64</display-name>
+    <display-name lang="en">PLAY SPORTS 64</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226110300034557.png"/>
+  </channel>
   <channel id="ch0000000000100002525">
     <display-name lang="th">เพลย์สปอร์ต 66</display-name>
     <display-name lang="en">PLAY SPORTS 66</display-name>
@@ -329,6 +334,26 @@
     <display-name lang="th">เพลย์สปอร์ต 71</display-name>
     <display-name lang="en">PLAY SPORTS 71</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094208034571.png"/>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name lang="th">เพลย์สปอร์ต 72</display-name>
+    <display-name lang="en">PLAY SPORTS 72</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094343034572.png"/>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name lang="th">เพลย์สปอร์ต 73</display-name>
+    <display-name lang="en">PLAY SPORTS 73</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094531034573.png"/>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name lang="th">เพลย์สปอร์ต 74</display-name>
+    <display-name lang="en">PLAY SPORTS 74</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094717034581.png"/>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name lang="th">เพลย์สปอร์ต 75</display-name>
+    <display-name lang="en">PLAY SPORTS 75</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094854034574.png"/>
   </channel>
   <channel id="ch0000000000100002701">
     <display-name lang="th">เพลย์สปอร์ต 90</display-name>
@@ -435,92 +460,89 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
   <channel id="ch0000000000100001286">
     <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
   <channel id="ch0000000000100001292">
     <display-name>ch0000000000100001292</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260811235000 +0700" stop="20260812013000 +0700">
     <title>Heart Eyes</title>
@@ -26846,9 +26868,14 @@
     <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
     <category>News,Sports</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20260813210000 +0700" stop="20260813220000 +0700">
+  <programme channel="ch0000000000100001237" start="20260813210000 +0700" stop="20260813214500 +0700">
     <title>Connect the World</title>
     <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20260813214500 +0700" stop="20260813220000 +0700">
+    <title>Marketplace Middle East: Saudi Giga projects + Orbitworks</title>
+    <desc>The UAE’s ambitions in space are no longer symbolic; they’re strategic. We sit down with Dr. Mohib of Orbitworks to discuss space sovereignty.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260813220000 +0700" stop="20260813223000 +0700">
@@ -26858,7 +26885,7 @@
   </programme>
   <programme channel="ch0000000000100001237" start="20260813223000 +0700" stop="20260813230000 +0700">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators look into the world of protein maxxing and discuss why it's sending prices sky high.</desc>
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260813230000 +0700" stop="20260814000000 +0700">
@@ -27097,8 +27124,9 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815143000 +0700" stop="20260815150000 +0700">
-    <title>CNNI Placeholder</title>
-    <category>News</category>
+    <title>The Link: Africa's Digitization: Power and Potential</title>
+    <desc>Whether it's art, tourism or transport, technology is disrupting sectors by bringing more people into the mix across Africa.</desc>
+    <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815150000 +0700" stop="20260815153000 +0700">
     <title>CNN Newsroom</title>
@@ -27107,7 +27135,7 @@
   </programme>
   <programme channel="ch0000000000100001237" start="20260815153000 +0700" stop="20260815160000 +0700">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators look into the world of protein maxxing and discuss why it's sending prices sky high.</desc>
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815160000 +0700" stop="20260815170000 +0700">
@@ -27118,7 +27146,7 @@
   <programme channel="ch0000000000100001237" start="20260815170000 +0700" stop="20260815180000 +0700">
     <title>CNN This Morning Weekend</title>
     <desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
-    <category>News</category>
+    <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815180000 +0700" stop="20260815183000 +0700">
     <title>African Voices Playmakers: Bodybuilders</title>
@@ -27126,13 +27154,14 @@
     <category>Current Events,News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815183000 +0700" stop="20260815190000 +0700">
-    <title>Quest's World of Wonder</title>
+    <title>Quest's World of Wonder: Route 66, USA Part I: Illinois to Texas</title>
+    <desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815190000 +0700" stop="20260815200000 +0700">
     <title>CNN This Morning Weekend</title>
     <desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
-    <category>News</category>
+    <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815200000 +0700" stop="20260815210000 +0700">
     <title>Smerconish</title>
@@ -27141,12 +27170,12 @@
   </programme>
   <programme channel="ch0000000000100001237" start="20260815210000 +0700" stop="20260815213000 +0700">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators look into the world of protein maxxing and discuss why it's sending prices sky high.</desc>
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815213000 +0700" stop="20260815220000 +0700">
-    <title>Inside Africa: Episode 732</title>
-    <desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+    <title>Inside Africa: Namibia Architecture</title>
+    <desc>Namibia's architecture tells a story far beyond the buildings themselves.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815220000 +0700" stop="20260815230000 +0700">
@@ -27160,8 +27189,9 @@
     <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260815233000 +0700" stop="20260816000000 +0700">
-    <title>CNNI Placeholder</title>
-    <category>News</category>
+    <title>The Link: Tech Ed Pipeline; Training Surgeons</title>
+    <desc>A continent-wide educational ecosystem creates a pipeline to tech talent; emerging technology revolutionizes access for the hearing-impaired in Kenya.</desc>
+    <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001238" start="20260811235500 +0700" stop="20260812000000 +0700">
     <title>Dining with the Chef mini</title>
@@ -34827,13 +34857,9 @@
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260812100000 +0700" stop="20260812103000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260812103000 +0700" stop="20260812110000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+  <programme channel="ch0000000000100001351" start="20260812100000 +0700" stop="20260812110000 +0700">
+    <title>Newshour</title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260812110000 +0700" stop="20260812113000 +0700">
     <title>News Live</title>
@@ -34935,13 +34961,9 @@
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260813020000 +0700" stop="20260813023000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260813023000 +0700" stop="20260813030000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+  <programme channel="ch0000000000100001351" start="20260813020000 +0700" stop="20260813030000 +0700">
+    <title>Newshour</title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260813030000 +0700" stop="20260813033000 +0700">
     <title>News Live</title>
@@ -35009,13 +35031,9 @@
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260813130000 +0700" stop="20260813133000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260813133000 +0700" stop="20260813140000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+  <programme channel="ch0000000000100001351" start="20260813130000 +0700" stop="20260813140000 +0700">
+    <title>Newshour</title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260813140000 +0700" stop="20260813150000 +0700">
     <title>Newshour</title>
@@ -44593,10 +44611,15 @@
     <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
     <category>Baseball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260815024000 +0700" stop="20260815051000 +0700">
+  <programme channel="ch0000000000100001772" start="20260815024000 +0700" stop="20260815044000 +0700">
     <title>Serie A Women 25/26: Inter v Juventus</title>
     <desc>Serie A Women is the highest league of women's football in Italy. Watch Inter v Juventus.</desc>
     <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260815044000 +0700" stop="20260815051000 +0700">
+    <title>MP Series '25: MDS 120 Cappadocia '25 H/L</title>
+    <desc>High speeds and mass participation at MDS 120 Cappadocia 2025 - race highlights.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260815051000 +0700" stop="20260815070000 +0700">
     <title>USL '25/26: DC Power v Fort Lauderdale</title>
@@ -46603,7 +46626,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812003000 +0700" stop="20260812010000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812010000 +0700" stop="20260812010200 +0700">
@@ -46639,7 +46663,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812031500 +0700" stop="20260812033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Asia 2050: Jakarta in 2050: From Flood to Dream City?</title>
+    <desc>Can Jakarta become a livable, dry metropolis by 2050? A mother living in a challenging environment and an eco-entrepreneur dream it’s possible, while experts outline the steps to make it a reality.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812033000 +0700" stop="20260812040000 +0700">
@@ -46668,7 +46693,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812053000 +0700" stop="20260812060000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812060000 +0700" stop="20260812060200 +0700">
@@ -46679,11 +46705,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812061500 +0700" stop="20260812063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Asia 2050: Jakarta in 2050: From Flood to Dream City?</title>
+    <desc>Can Jakarta become a livable, dry metropolis by 2050? A mother living in a challenging environment and an eco-entrepreneur dream it’s possible, while experts outline the steps to make it a reality.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812063000 +0700" stop="20260812070000 +0700">
-    <title>In Good Shape: The Health Show</title>
+    <title>In Good Shape: Medical gaslighting: How rare diseases can go undiagnosed</title>
+    <desc>Chronic diarrhea, dizziness, and a racing heart — but no diagnosis? DW explores rare diseases, medical gaslighting, and the patients who finally got answers.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812070000 +0700" stop="20260812070200 +0700">
@@ -46694,12 +46722,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812071500 +0700" stop="20260812074500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Norway’s Salmon Crisis</title>
+    <desc>Factory farming is threatening to wipe out wild salmon populations in Norway - due to the dramatic spread of parasitic salmon lice. Can the wild salmon still be saved?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812074500 +0700" stop="20260812080000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Education in transition: How AI is changing teaching</title>
+    <desc>AI tools are increasingly being used in schools. But does this make learning easier? Are young people being trained for the jobs of tomorrow? Or are they losing their ability to think critically and creatively?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812080000 +0700" stop="20260812080200 +0700">
@@ -46707,7 +46736,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812080200 +0700" stop="20260812083000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Should you marry early or wait until you're financially stable?</title>
+    <desc>Would you prefer to marry early or wait until you are financially stable to commit fully to a relationship? This week on the 77 Percent, we travel to Kumasi, Ghana, where modern Ghanaians are choosing to wait longer to get married.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812083000 +0700" stop="20260812090000 +0700">
@@ -46715,11 +46745,11 @@
     <desc>Scientists reveal how Delhi's black kites feed on waste and interact with people. Plus: How a 600-year-old network is easing Bidar's water problems.</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812090000 +0700" stop="20260812090300 +0700">
+  <programme channel="ch0000000000100001903" start="20260812090000 +0700" stop="20260812090200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812090300 +0700" stop="20260812100000 +0700">
+  <programme channel="ch0000000000100001903" start="20260812090200 +0700" stop="20260812100000 +0700">
     <title>DocFilm: Ice Grave - Remains of a Doomed Expedition</title>
     <desc>Three men, a hydrogen balloon, and a shared dream of reaching the North Pole. In 1897, the Andrée expedition vanished without a trace. It wasn’t until 1930 that their preserved bodies, diaries, and photographs were discovered on Kvitøya.</desc>
     <category>Documentaries</category>
@@ -46732,12 +46762,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812101500 +0700" stop="20260812104500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Norway’s Salmon Crisis</title>
+    <desc>Factory farming is threatening to wipe out wild salmon populations in Norway - due to the dramatic spread of parasitic salmon lice. Can the wild salmon still be saved?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812104500 +0700" stop="20260812110000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Education in transition: How AI is changing teaching</title>
+    <desc>AI tools are increasingly being used in schools. But does this make learning easier? Are young people being trained for the jobs of tomorrow? Or are they losing their ability to think critically and creatively?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812110000 +0700" stop="20260812110200 +0700">
@@ -46750,7 +46781,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812113000 +0700" stop="20260812120000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812120000 +0700" stop="20260812120200 +0700">
@@ -46773,7 +46805,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812131500 +0700" stop="20260812133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: Where did the Berlin Wall stand? 5 tips for Berlin tourists</title>
+    <desc>Millions of tourists come to Berlin every year looking for traces of the Berlin Wall. So where did it actually stand? We show you five places where the history of this once-divided city is still visible—and hear dramatic stories of escape, separation and reunion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812133000 +0700" stop="20260812140000 +0700">
@@ -46781,11 +46814,11 @@
     <desc>In a Lagos market, spoiled pineapples and watermelons are turned into biogas. Plus: E-cargo bikes drive health and sustainability in Uganda.</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812140000 +0700" stop="20260812140300 +0700">
+  <programme channel="ch0000000000100001903" start="20260812140000 +0700" stop="20260812140200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812140300 +0700" stop="20260812150000 +0700">
+  <programme channel="ch0000000000100001903" start="20260812140200 +0700" stop="20260812150000 +0700">
     <title>DocFilm: Ice Grave - Remains of a Doomed Expedition</title>
     <desc>Three men, a hydrogen balloon, and a shared dream of reaching the North Pole. In 1897, the Andrée expedition vanished without a trace. It wasn’t until 1930 that their preserved bodies, diaries, and photographs were discovered on Kvitøya.</desc>
     <category>Documentaries</category>
@@ -46804,7 +46837,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812163000 +0700" stop="20260812170000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812170000 +0700" stop="20260812171500 +0700">
@@ -46812,12 +46846,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812171500 +0700" stop="20260812173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: Where did the Berlin Wall stand? 5 tips for Berlin tourists</title>
+    <desc>Millions of tourists come to Berlin every year looking for traces of the Berlin Wall. So where did it actually stand? We show you five places where the history of this once-divided city is still visible—and hear dramatic stories of escape, separation and reunion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812173000 +0700" stop="20260812180000 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Norway’s Salmon Crisis</title>
+    <desc>Factory farming is threatening to wipe out wild salmon populations in Norway - due to the dramatic spread of parasitic salmon lice. Can the wild salmon still be saved?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812180000 +0700" stop="20260812183000 +0700">
@@ -46829,19 +46864,21 @@
     <desc>The digital book club BookTok got its start during the pandemic in 2020. Today, it is a big success, used primarily by young women who are fans of a particular literary genre - so-called "New Adult,” or romance novels for young adults.</desc>
     <category>Documentaries</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812190000 +0700" stop="20260812190200 +0700">
+  <programme channel="ch0000000000100001903" start="20260812190000 +0700" stop="20260812190300 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812190200 +0700" stop="20260812191500 +0700">
+  <programme channel="ch0000000000100001903" start="20260812190300 +0700" stop="20260812191700 +0700">
     <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812191500 +0700" stop="20260812193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+  <programme channel="ch0000000000100001903" start="20260812191700 +0700" stop="20260812193000 +0700">
+    <title>Travel: Where did the Berlin Wall stand? 5 tips for Berlin tourists</title>
+    <desc>Millions of tourists come to Berlin every year looking for traces of the Berlin Wall. So where did it actually stand? We show you five places where the history of this once-divided city is still visible—and hear dramatic stories of escape, separation and reunion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812193000 +0700" stop="20260812200000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Should you marry early or wait until you're financially stable?</title>
+    <desc>Would you prefer to marry early or wait until you are financially stable to commit fully to a relationship? This week on the 77 Percent, we travel to Kumasi, Ghana, where modern Ghanaians are choosing to wait longer to get married.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812200000 +0700" stop="20260812203000 +0700">
@@ -46852,11 +46889,11 @@
     <title>The Day: News in Review</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812210000 +0700" stop="20260812210300 +0700">
+  <programme channel="ch0000000000100001903" start="20260812210000 +0700" stop="20260812210200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260812210300 +0700" stop="20260812220000 +0700">
+  <programme channel="ch0000000000100001903" start="20260812210200 +0700" stop="20260812220000 +0700">
     <title>DocFilm: Ice Grave - Remains of a Doomed Expedition</title>
     <desc>Three men, a hydrogen balloon, and a shared dream of reaching the North Pole. In 1897, the Andrée expedition vanished without a trace. It wasn’t until 1930 that their preserved bodies, diaries, and photographs were discovered on Kvitøya.</desc>
     <category>Documentaries</category>
@@ -46870,7 +46907,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812223000 +0700" stop="20260812230000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812230000 +0700" stop="20260812230200 +0700">
@@ -46881,11 +46919,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812231500 +0700" stop="20260812233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: Where did the Berlin Wall stand? 5 tips for Berlin tourists</title>
+    <desc>Millions of tourists come to Berlin every year looking for traces of the Berlin Wall. So where did it actually stand? We show you five places where the history of this once-divided city is still visible—and hear dramatic stories of escape, separation and reunion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260812233000 +0700" stop="20260813000000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Is US President Trump driving Iceland to join the European Union?</title>
+    <desc>US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813000000 +0700" stop="20260813000200 +0700">
@@ -46897,7 +46937,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813003000 +0700" stop="20260813010000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: Bayreuth, escape and ageless creativity</title>
+    <desc>Why many East Germans risked their life to flee across the Baltic Sea, how the Bayreuth Wagner Festival is facing its Nazi-era legacy. And: Armin Mueller-Stahl, still creating at 95.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813010000 +0700" stop="20260813010200 +0700">
@@ -46921,7 +46962,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813023000 +0700" stop="20260813030000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813030000 +0700" stop="20260813030200 +0700">
@@ -46932,7 +46974,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813031500 +0700" stop="20260813033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: Where did the Berlin Wall stand? 5 tips for Berlin tourists</title>
+    <desc>Millions of tourists come to Berlin every year looking for traces of the Berlin Wall. So where did it actually stand? We show you five places where the history of this once-divided city is still visible—and hear dramatic stories of escape, separation and reunion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813033000 +0700" stop="20260813040000 +0700">
@@ -46961,7 +47004,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813053000 +0700" stop="20260813060000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Is US President Trump driving Iceland to join the European Union?</title>
+    <desc>US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813060000 +0700" stop="20260813060200 +0700">
@@ -46972,7 +47016,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813061500 +0700" stop="20260813063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: Where did the Berlin Wall stand? 5 tips for Berlin tourists</title>
+    <desc>Millions of tourists come to Berlin every year looking for traces of the Berlin Wall. So where did it actually stand? We show you five places where the history of this once-divided city is still visible—and hear dramatic stories of escape, separation and reunion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813063000 +0700" stop="20260813070000 +0700">
@@ -46980,11 +47025,11 @@
     <desc>The digital book club BookTok got its start during the pandemic in 2020. Today, it is a big success, used primarily by young women who are fans of a particular literary genre - so-called "New Adult,” or romance novels for young adults.</desc>
     <category>Documentaries</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260813070000 +0700" stop="20260813070300 +0700">
+  <programme channel="ch0000000000100001903" start="20260813070000 +0700" stop="20260813070200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260813070300 +0700" stop="20260813080000 +0700">
+  <programme channel="ch0000000000100001903" start="20260813070200 +0700" stop="20260813080000 +0700">
     <title>DocFilm: Ice Grave - Remains of a Doomed Expedition</title>
     <desc>Three men, a hydrogen balloon, and a shared dream of reaching the North Pole. In 1897, the Andrée expedition vanished without a trace. It wasn’t until 1930 that their preserved bodies, diaries, and photographs were discovered on Kvitøya.</desc>
     <category>Documentaries</category>
@@ -46994,11 +47039,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813080200 +0700" stop="20260813083000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813083000 +0700" stop="20260813090000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Is US President Trump driving Iceland to join the European Union?</title>
+    <desc>US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813090000 +0700" stop="20260813090200 +0700">
@@ -47033,18 +47080,20 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813111500 +0700" stop="20260813113000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: Adult Ice Skating - From Pain to Purpose</title>
+    <desc>At 72, Alan Lessik steps onto the ice with a calm that only comes from living a life full of twists. His path to skating was certainly not typical. What brought him here spans illness, loss, activism, and the quiet, stubborn belief that it’s never too late to start over.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813113000 +0700" stop="20260813120000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Is US President Trump driving Iceland to join the European Union?</title>
+    <desc>US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260813120000 +0700" stop="20260813120300 +0700">
+  <programme channel="ch0000000000100001903" start="20260813120000 +0700" stop="20260813120200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260813120300 +0700" stop="20260813130000 +0700">
+  <programme channel="ch0000000000100001903" start="20260813120200 +0700" stop="20260813130000 +0700">
     <title>DocFilm: Ice Grave - Remains of a Doomed Expedition</title>
     <desc>Three men, a hydrogen balloon, and a shared dream of reaching the North Pole. In 1897, the Andrée expedition vanished without a trace. It wasn’t until 1930 that their preserved bodies, diaries, and photographs were discovered on Kvitøya.</desc>
     <category>Documentaries</category>
@@ -47057,11 +47106,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813131500 +0700" stop="20260813133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Iceland's strategic dilemma: the NATO member with no army</title>
+    <desc>Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813133000 +0700" stop="20260813140000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: New York Tried Congestion Pricing. Did It Actually Work?</title>
+    <desc>New York City's congestion pricing aims to crush gridlock and supercharge public transit. Did it deliver less traffic and faster buses to New Yorkers? Electric cars are suited to cold weather. And a woman biker in India.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813140000 +0700" stop="20260813140200 +0700">
@@ -47081,7 +47132,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813153000 +0700" stop="20260813160000 +0700">
-    <title>In Good Shape: The Health Show</title>
+    <title>In Good Shape: Medical gaslighting: How rare diseases can go undiagnosed</title>
+    <desc>Chronic diarrhea, dizziness, and a racing heart — but no diagnosis? DW explores rare diseases, medical gaslighting, and the patients who finally got answers.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813160000 +0700" stop="20260813163000 +0700">
@@ -47089,7 +47141,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813163000 +0700" stop="20260813170000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Is US President Trump driving Iceland to join the European Union?</title>
+    <desc>US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813170000 +0700" stop="20260813171500 +0700">
@@ -47097,7 +47150,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813171500 +0700" stop="20260813173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Iceland's strategic dilemma: the NATO member with no army</title>
+    <desc>Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813173000 +0700" stop="20260813180000 +0700">
@@ -47121,7 +47175,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813191500 +0700" stop="20260813193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Iceland's strategic dilemma: the NATO member with no army</title>
+    <desc>Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813193000 +0700" stop="20260813200000 +0700">
@@ -47170,13 +47225,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813231500 +0700" stop="20260813233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Iceland's strategic dilemma: the NATO member with no army</title>
+    <desc>Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260813233000 +0700" stop="20260814000000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>DW News: Africa</title>
+    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814000000 +0700" stop="20260814000200 +0700">
     <title>DW News</title>
@@ -47212,7 +47267,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814023000 +0700" stop="20260814030000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Is US President Trump driving Iceland to join the European Union?</title>
+    <desc>US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814030000 +0700" stop="20260814030200 +0700">
@@ -47223,11 +47279,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814031500 +0700" stop="20260814033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Iceland's strategic dilemma: the NATO member with no army</title>
+    <desc>Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814033000 +0700" stop="20260814040000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How AI, recycling, and energy are reaching their limits</title>
+    <desc>From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814040000 +0700" stop="20260814040200 +0700">
@@ -47262,13 +47320,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814061500 +0700" stop="20260814063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Iceland's strategic dilemma: the NATO member with no army</title>
+    <desc>Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814063000 +0700" stop="20260814070000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>REV: New York Tried Congestion Pricing. Did It Actually Work?</title>
+    <desc>New York City's congestion pricing aims to crush gridlock and supercharge public transit. Did it deliver less traffic and faster buses to New Yorkers? Electric cars are suited to cold weather. And a woman biker in India.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814070000 +0700" stop="20260814070200 +0700">
     <title>DW News</title>
@@ -47329,7 +47388,7 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814113000 +0700" stop="20260814120000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Berlin Briefing: Best of DW Podcasts</title>
     <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
     <category>Documentaries</category>
   </programme>
@@ -47353,11 +47412,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814131500 +0700" stop="20260814133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: The Swedish Rebels keeping America’s V8 dream alive</title>
+    <desc>In Sweden, enormous American cars, roaring V8 engines and chrome-covered classics have become the heart of one of Europe’s most unexpected automotive subcultures. Known as raggare, generations of Swedes have built a way of life around American cars, rock and roll, summer cruising and rebellion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814133000 +0700" stop="20260814140000 +0700">
-    <title>In Good Shape: The Health Show</title>
+    <title>In Good Shape: What's going on inside your mouth?</title>
+    <desc>What does the tongue do? How do we keep teeth and gums healthy? And are tools like interdental brushes and aligners really useful?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814140000 +0700" stop="20260814140200 +0700">
@@ -47386,7 +47447,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814163000 +0700" stop="20260814170000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: Why insurance could help India's poorest beat the heat</title>
+    <desc>As Delhi's heatwaves intensify, some workers are using heatwave insurance that pays out in extreme heat. Plus: The young farmer who saved a river, his village, and more, by planting trees.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814170000 +0700" stop="20260814171500 +0700">
@@ -47394,11 +47456,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814171500 +0700" stop="20260814173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: The Swedish Rebels keeping America’s V8 dream alive</title>
+    <desc>In Sweden, enormous American cars, roaring V8 engines and chrome-covered classics have become the heart of one of Europe’s most unexpected automotive subcultures. Known as raggare, generations of Swedes have built a way of life around American cars, rock and roll, summer cruising and rebellion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814173000 +0700" stop="20260814180000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: All Shades of Identity: How Africa Redefines Inclusion</title>
+    <desc>From the runways of Accra Fashion Week, with this special episode KMJ from Ghana explores for Afrimaxx how Africans are challenging stereotypes and redefining inclusion through fashion, art, dance and entrepreneurship.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814180000 +0700" stop="20260814183000 +0700">
@@ -47406,7 +47470,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814183000 +0700" stop="20260814190000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Berlin Briefing: Best of DW Podcasts</title>
     <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
     <category>Documentaries</category>
   </programme>
@@ -47418,11 +47482,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814191500 +0700" stop="20260814193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: The Swedish Rebels keeping America’s V8 dream alive</title>
+    <desc>In Sweden, enormous American cars, roaring V8 engines and chrome-covered classics have become the heart of one of Europe’s most unexpected automotive subcultures. Known as raggare, generations of Swedes have built a way of life around American cars, rock and roll, summer cruising and rebellion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814193000 +0700" stop="20260814200000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Groundwater gold: Nairobi’s race to find more drinking water</title>
+    <desc>From high-tech scans to citizen science, Kenya is scrambling to plug a shortfall in the capital's water supplies. Plus: The African city that has beaten drought for decades with trailblazing solutions.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814200000 +0700" stop="20260814203000 +0700">
@@ -47454,7 +47520,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814223000 +0700" stop="20260814230000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: Why insurance could help India's poorest beat the heat</title>
+    <desc>As Delhi's heatwaves intensify, some workers are using heatwave insurance that pays out in extreme heat. Plus: The young farmer who saved a river, his village, and more, by planting trees.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814230000 +0700" stop="20260814230200 +0700">
@@ -47465,12 +47532,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814231500 +0700" stop="20260814233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: The Swedish Rebels keeping America’s V8 dream alive</title>
+    <desc>In Sweden, enormous American cars, roaring V8 engines and chrome-covered classics have become the heart of one of Europe’s most unexpected automotive subcultures. Known as raggare, generations of Swedes have built a way of life around American cars, rock and roll, summer cruising and rebellion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260814233000 +0700" stop="20260815000000 +0700">
-    <title>DW News: Africa</title>
-    <category>News</category>
+    <title>Berlin Briefing: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815000000 +0700" stop="20260815000200 +0700">
     <title>DW News</title>
@@ -47481,7 +47550,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815003000 +0700" stop="20260815010000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: DUI: How alcohol impairs your ability to operate a vehicle</title>
+    <desc>What happens when you drink and drive? Our reporter gets behind the wheel of a driving simulator to find out. Plus: Carl Benz, his wife Bertha and the Patent Motor Car, and how cycling helps a Sudanese refugee in Cairo.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815010000 +0700" stop="20260815010200 +0700">
@@ -47492,11 +47562,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815011500 +0700" stop="20260815013000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: The German village that said "Yes, in MY backyard”</title>
+    <desc>Germany’s Feldheim went from an agricultural village to a clean energy role model—with its own renewable electricity grid and heating network. Here’s how it brought locals on board.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815013000 +0700" stop="20260815020000 +0700">
     <title>Tomorrow Today: The Science Magazine</title>
+    <desc>Prehistoric inhabitants of Europe had dark complexions. Skin tones only started growing lighter around 5,000 years ago. Plus: a large Celtic structure is unearthed and a new ESA space telescope is ramping up for launch.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815020000 +0700" stop="20260815020200 +0700">
@@ -47520,7 +47592,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815031500 +0700" stop="20260815033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: The Swedish Rebels keeping America’s V8 dream alive</title>
+    <desc>In Sweden, enormous American cars, roaring V8 engines and chrome-covered classics have become the heart of one of Europe’s most unexpected automotive subcultures. Known as raggare, generations of Swedes have built a way of life around American cars, rock and roll, summer cruising and rebellion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815033000 +0700" stop="20260815040000 +0700">
@@ -47563,12 +47636,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815061500 +0700" stop="20260815063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: The Swedish Rebels keeping America’s V8 dream alive</title>
+    <desc>In Sweden, enormous American cars, roaring V8 engines and chrome-covered classics have become the heart of one of Europe’s most unexpected automotive subcultures. Known as raggare, generations of Swedes have built a way of life around American cars, rock and roll, summer cruising and rebellion.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815063000 +0700" stop="20260815070000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
-    <category>Magazine</category>
+    <title>Berlin Briefing: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815070000 +0700" stop="20260815070200 +0700">
     <title>DW News</title>
@@ -47578,18 +47653,20 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815071500 +0700" stop="20260815073000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: India’s Ultramarathon Mom</title>
+    <desc>Like many women in rural northern India, Tenzin Dolma was married and became a mother at an early age. Unlike many of her peers, Tenzin is an ultramarathon runner balancing providing for her family with training for and competing in some of India’s most grueling races. She also runs up against critics in her community who do not understand her passion or think women should participate in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815073000 +0700" stop="20260815080000 +0700">
     <title>Tomorrow Today: The Science Magazine</title>
+    <desc>Prehistoric inhabitants of Europe had dark complexions. Skin tones only started growing lighter around 5,000 years ago. Plus: a large Celtic structure is unearthed and a new ESA space telescope is ramping up for launch.</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260815080000 +0700" stop="20260815080300 +0700">
+  <programme channel="ch0000000000100001903" start="20260815080000 +0700" stop="20260815080200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260815080300 +0700" stop="20260815090000 +0700">
+  <programme channel="ch0000000000100001903" start="20260815080200 +0700" stop="20260815090000 +0700">
     <title>DocFilm: Ice Grave - Remains of a Doomed Expedition</title>
     <desc>Three men, a hydrogen balloon, and a shared dream of reaching the North Pole. In 1897, the Andrée expedition vanished without a trace. It wasn’t until 1930 that their preserved bodies, diaries, and photographs were discovered on Kvitøya.</desc>
     <category>Documentaries</category>
@@ -47606,7 +47683,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815093000 +0700" stop="20260815100000 +0700">
-    <title>In Good Shape: The Health Show</title>
+    <title>In Good Shape: What's going on inside your mouth?</title>
+    <desc>What does the tongue do? How do we keep teeth and gums healthy? And are tools like interdental brushes and aligners really useful?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815100000 +0700" stop="20260815100200 +0700">
@@ -47614,7 +47692,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815100200 +0700" stop="20260815101500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>HER - Women in Asia: Drive your Life</title>
+    <desc>Driving offers women - especially in low-income countries - a pathway to flexible and independent work. But women currently represent just 17% of the global transport workforce, with many still concentrated in administrative roles. Despite this, the road ahead is full of potential.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815101500 +0700" stop="20260815103000 +0700">
@@ -47647,7 +47726,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815130200 +0700" stop="20260815131500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: India’s Ultramarathon Mom</title>
+    <desc>Like many women in rural northern India, Tenzin Dolma was married and became a mother at an early age. Unlike many of her peers, Tenzin is an ultramarathon runner balancing providing for her family with training for and competing in some of India’s most grueling races. She also runs up against critics in her community who do not understand her passion or think women should participate in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815131500 +0700" stop="20260815140000 +0700">
@@ -47660,7 +47740,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815140200 +0700" stop="20260815141500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>HER - Women in Asia: Drive your Life</title>
+    <desc>Driving offers women - especially in low-income countries - a pathway to flexible and independent work. But women currently represent just 17% of the global transport workforce, with many still concentrated in administrative roles. Despite this, the road ahead is full of potential.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815141500 +0700" stop="20260815143000 +0700">
@@ -47676,7 +47757,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815151500 +0700" stop="20260815153000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Iceland's strategic dilemma: the NATO member with no army</title>
+    <desc>Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815153000 +0700" stop="20260815160000 +0700">
@@ -47688,7 +47770,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815161500 +0700" stop="20260815163000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: India’s Ultramarathon Mom</title>
+    <desc>Like many women in rural northern India, Tenzin Dolma was married and became a mother at an early age. Unlike many of her peers, Tenzin is an ultramarathon runner balancing providing for her family with training for and competing in some of India’s most grueling races. She also runs up against critics in her community who do not understand her passion or think women should participate in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815163000 +0700" stop="20260815170000 +0700">
@@ -47737,7 +47820,8 @@
     <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815203000 +0700" stop="20260815210000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: All Shades of Identity: How Africa Redefines Inclusion</title>
+    <desc>From the runways of Accra Fashion Week, with this special episode KMJ from Ghana explores for Afrimaxx how Africans are challenging stereotypes and redefining inclusion through fashion, art, dance and entrepreneurship.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815210000 +0700" stop="20260815210200 +0700">
@@ -47763,11 +47847,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815231500 +0700" stop="20260815233000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: India’s Ultramarathon Mom</title>
+    <desc>Like many women in rural northern India, Tenzin Dolma was married and became a mother at an early age. Unlike many of her peers, Tenzin is an ultramarathon runner balancing providing for her family with training for and competing in some of India’s most grueling races. She also runs up against critics in her community who do not understand her passion or think women should participate in sports.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260815233000 +0700" stop="20260816000000 +0700">
     <title>Tomorrow Today: The Science Magazine</title>
+    <desc>Prehistoric inhabitants of Europe had dark complexions. Skin tones only started growing lighter around 5,000 years ago. Plus: a large Celtic structure is unearthed and a new ESA space telescope is ramping up for launch.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001904" start="20260811234000 +0700" stop="20260812003000 +0700">
@@ -51527,9 +51613,139 @@
     <title lang="en">HIGHLIGHT Thai League 1 MD 26</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002041" start="20260813230000 +0700" stop="20260814010000 +0700">
+  <programme channel="ch0000000000100002041" start="20260813230000 +0700" stop="20260814000000 +0700">
     <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 27</title>
     <title lang="en">HIGHLIGHT Thai League 2 MD 27</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814000000 +0700" stop="20260814020000 +0700">
+    <title lang="th">รีรัน: โปลิศ เทโร เอฟซี พบ มหาสารคาม เอสบีที เอฟซี</title>
+    <title lang="en">RERUN: Police Tero FC vs Mahasarakham SBT FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814020000 +0700" stop="20260814040000 +0700">
+    <title lang="th">รีรัน: นครศรี ยูไนเต็ด พบ ศรีสะเกษ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nakhon Si United vs Sisaket United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814040000 +0700" stop="20260814060000 +0700">
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ สิงห์ เชียงราย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Muangthong United vs Singha Chiangrai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814060000 +0700" stop="20260814080000 +0700">
+    <title lang="th">รีรัน: ตราด เอฟซี พบ หนองบัว พิชญ เอฟซี</title>
+    <title lang="en">RERUN: Trat FC vs Nongbua Pitchaya FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814080000 +0700" stop="20260814100000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: True Bangkok United vs Sukhothai FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814100000 +0700" stop="20260814120000 +0700">
+    <title lang="th">รีรัน: พลังกาญจน์ เอฟซี พบ บีจี ปทุม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Kanchanaburi Power FC vs BG Pathum United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814120000 +0700" stop="20260814140000 +0700">
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Uthai Thani FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814140000 +0700" stop="20260814160000 +0700">
+    <title lang="th">รีรัน: การท่าเรือ เอฟซี พบ พีที ประจวบ เอฟซี</title>
+    <title lang="en">RERUN: Port FC vs PT Prachuap FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814160000 +0700" stop="20260814180000 +0700">
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ แพร่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pattani FC vs Phrae United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814180000 +0700" stop="20260814200000 +0700">
+    <title lang="th">รีรัน: การท่าเรือ เอฟซี พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Port FC vs Khon Kaen United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814200000 +0700" stop="20260814220000 +0700">
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Ratchaburi FC vs Buriram United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814220000 +0700" stop="20260814230000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 27</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 27</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260814230000 +0700" stop="20260815000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 29</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 29</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815000000 +0700" stop="20260815020000 +0700">
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs Khon Kaen United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815020000 +0700" stop="20260815040000 +0700">
+    <title lang="th">รีรัน: นครศรี ยูไนเต็ด พบ ศรีสะเกษ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nakhon Si United vs Sisaket United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815040000 +0700" stop="20260815060000 +0700">
+    <title lang="th">รีรัน: สงขลา เอฟซี พบ ชัยนาท ฮอร์นบิล</title>
+    <title lang="en">RERUN: Songkhla FC vs Chainat Hornbill FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815060000 +0700" stop="20260815080000 +0700">
+    <title lang="th">รีรัน: พัทยา ยูไนเต็ด พบ เชียงใหม่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pattaya United vs Chiangmai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815080000 +0700" stop="20260815100000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Ayutthaya United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815100000 +0700" stop="20260815110000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 29</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 29</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815110000 +0700" stop="20260815130000 +0700">
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Uthai Thani FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815130000 +0700" stop="20260815150000 +0700">
+    <title lang="th">รีรัน: ชลบุรี เอฟซี พบ ระยอง เอฟซี</title>
+    <title lang="en">RERUN: Chonburi FC vs Rayong FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815150000 +0700" stop="20260815170000 +0700">
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs Khon Kaen United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815170000 +0700" stop="20260815190000 +0700">
+    <title lang="th">รีรัน: ชลบุรี เอฟซี พบ ทัพหลวง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chonburi FC vs Thapluang United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815190000 +0700" stop="20260815210000 +0700">
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ สิงห์ เชียงราย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Muangthong United vs Singha Chiangrai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815210000 +0700" stop="20260815230000 +0700">
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Ratchaburi FC vs Buriram United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260815230000 +0700" stop="20260816000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 27</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 27</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20260811220000 +0700" stop="20260812000000 +0700">
@@ -52221,15 +52437,15 @@
     <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
     <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260812164500 +0700" stop="20260812195500 +0700">
+  <programme channel="ch0000000000100002181" start="20260812164500 +0700" stop="20260812195000 +0700">
     <title>Champions League: Manchester City vs Real Madrid 23/24</title>
     <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260812195500 +0700" stop="20260812222000 +0700">
+  <programme channel="ch0000000000100002181" start="20260812195000 +0700" stop="20260812221500 +0700">
     <title>Champions League 16/17: Juventus vs Real Madrid (12th) La Duodécima</title>
     <desc>Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260812222000 +0700" stop="20260812232500 +0700">
+  <programme channel="ch0000000000100002181" start="20260812221500 +0700" stop="20260812232500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
@@ -52302,8 +52518,8 @@
     <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260813223000 +0700" stop="20260814004000 +0700">
-    <title>Classic Matches: 2000 UCL Final  (8th) La Octava</title>
-    <desc>Champions League Final 99/00.Watch Real Madrid's eighth Champions League triumph against Valencia in Paris.</desc>
+    <title>The Match</title>
+    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260814004000 +0700" stop="20260814010000 +0700">
     <title>Champions League Highlights</title>
@@ -52321,23 +52537,23 @@
     <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
     <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260814060500 +0700" stop="20260814080500 +0700">
+  <programme channel="ch0000000000100002181" start="20260814060500 +0700" stop="20260814080000 +0700">
     <title>Real Madrid v Fiorentina Pre-season 26/27</title>
     <desc>Real Madrid face Fiorentina in Sportpark Klagenfur Stadium (Austria).</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260814080500 +0700" stop="20260814082000 +0700">
-    <title>Champions League Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260814082000 +0700" stop="20260814083500 +0700">
+  <programme channel="ch0000000000100002181" start="20260814080000 +0700" stop="20260814081500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260814083500 +0700" stop="20260814110500 +0700">
+  <programme channel="ch0000000000100002181" start="20260814081500 +0700" stop="20260814104500 +0700">
     <title>Champions League 01/02: Real Madrid vs Bayer Leverkusen (9th) La Novena</title>
     <desc>Watch Real Madrid's 9th Champions League triumph against Bayer Leverkusen.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260814110500 +0700" stop="20260814111500 +0700">
+  <programme channel="ch0000000000100002181" start="20260814104500 +0700" stop="20260814110000 +0700">
+    <title>Champions League Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260814110000 +0700" stop="20260814111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
@@ -52405,7 +52621,7 @@
     <title>Classic Matches: Real Madrid vs Real Madrid Castilla Copa del Rey 1980</title>
     <desc>A rare encounter in the Copa Del Rey. Real Madrid's first team faced the club's second team back in 1980.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260815131000 +0700" stop="20260815140000 +0700">
+  <programme channel="ch0000000000100002181" start="20260815131000 +0700" stop="20260815150000 +0700">
     <title>Champions League Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
   </programme>
@@ -54068,6 +54284,201 @@
     <title lang="en">LIVE: Cincinnati Open Day 2</title>
     <category>Sports</category>
   </programme>
+  <programme channel="ch0000000000100002531" start="20260811000000 +0700" stop="20260812000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260812000000 +0700" stop="20260813000000 +0700">
+    <title lang="th">เริ่มเวลา 22:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
+    <title lang="en">UPCOMING at 10PM: ATP 1000 Cincinnati Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260813000000 +0700" stop="20260813220000 +0700">
+    <title lang="th">เริ่มเวลา 22:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
+    <title lang="en">UPCOMING at 10PM: ATP 1000 Cincinnati Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260813220000 +0700" stop="20260814100000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
+    <title lang="en">LIVE: ATP 1000 ATP 1000 Cincinnati Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260814100000 +0700" stop="20260815000000 +0700">
+    <title lang="th">เริ่มเวลา 00:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 12AM: ATP 1000 Cincinnati Open Day 2 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260815000000 +0700" stop="20260815040000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 1</title>
+    <title lang="en">LIVE: ATP 1000 ATP 1000 Cincinnati Open Day 2 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260815040000 +0700" stop="20260815080000 +0700">
+    <title lang="th">เริ่มเวลา 08:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 2</title>
+    <title lang="en">UPCOMING at 8AM: ATP 1000 Cincinnati Open Day 2 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260815080000 +0700" stop="20260815100000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 2</title>
+    <title lang="en">LIVE: ATP 1000 ATP 1000 Cincinnati Open Day 2 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260815100000 +0700" stop="20260816000000 +0700">
+    <title lang="th">เริ่มเวลา 00:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 3 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 12AM: ATP 1000 Cincinnati Open Day 3 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260811000000 +0700" stop="20260812000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260812000000 +0700" stop="20260813000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260813000000 +0700" stop="20260813220000 +0700">
+    <title lang="th">เริ่มเวลา 22:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 10PM ATP 1000 Cincinnati Open Day 1 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260813220000 +0700" stop="20260814000000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 1</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 1 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260814000000 +0700" stop="20260814060000 +0700">
+    <title lang="th">เริ่มเวลา 6AM เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 2</title>
+    <title lang="en">UPCOMING at 6AM ATP 1000 Cincinnati Open Day 1 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260814060000 +0700" stop="20260814080000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 2</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 1 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260814080000 +0700" stop="20260814220000 +0700">
+    <title lang="th">เริ่มเวลา 22:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 10PM ATP 1000 Cincinnati Open Day 2 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260814220000 +0700" stop="20260815000000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 1</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 2 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260815000000 +0700" stop="20260815060000 +0700">
+    <title lang="th">เริ่มเวลา 6AM เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 2</title>
+    <title lang="en">UPCOMING at 6AM ATP 1000 Cincinnati Open Day 2 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260815060000 +0700" stop="20260815080000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2 - ซีซัน 2</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 2 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260815080000 +0700" stop="20260815220000 +0700">
+    <title lang="th">เริ่มเวลา 22:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 3 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 10PM ATP 1000 Cincinnati Open Day 3 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002532" start="20260815220000 +0700" stop="20260816000000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 3 - ซีซัน 1</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 3 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260811000000 +0700" stop="20260812000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260812000000 +0700" stop="20260813000000 +0700">
+    <title lang="th">เริ่มเวลา 00:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 12AM ATP 1000 Cincinnati Open Day 1 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260813000000 +0700" stop="20260814000000 +0700">
+    <title lang="th">เริ่มเวลา 00:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 12AM ATP 1000 Cincinnati Open Day 1 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260814000000 +0700" stop="20260814040000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 1</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 1 - Session 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260814040000 +0700" stop="20260814080000 +0700">
+    <title lang="th">เริ่มเวลา 08:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 2</title>
+    <title lang="en">UPCOMING at 8AM ATP 1000 Cincinnati Open Day 1 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260814080000 +0700" stop="20260814100000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1 - ซีซัน 2</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 1 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260814100000 +0700" stop="20260814220000 +0700">
+    <title lang="th">เริ่มเวลา 22:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2</title>
+    <title lang="en">UPCOMING at 10PM ATP 1000 Cincinnati Open Day 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260814220000 +0700" stop="20260815020000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20260815020000 +0700" stop="20260816020000 +0700">
+    <title lang="th">เริ่มเวลา 02:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 3</title>
+    <title lang="en">UPCOMING at 2AM ATP 1000 Cincinnati Open Day 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260811000000 +0700" stop="20260812000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260812000000 +0700" stop="20260813000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260813000000 +0700" stop="20260814000000 +0700">
+    <title lang="th">เริ่มเวลา 02:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260814000000 +0700" stop="20260814020000 +0700">
+    <title lang="th">เริ่มเวลา 02:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
+    <title lang="en">UPCOMING at 2AM ATP 1000 Cincinnati Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260814020000 +0700" stop="20260814060000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260814060000 +0700" stop="20260815020000 +0700">
+    <title lang="th">เริ่มเวลา 02:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2</title>
+    <title lang="en">UPCOMING at 2AM ATP 1000 Cincinnati Open Day 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260815020000 +0700" stop="20260815060000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 2</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260815060000 +0700" stop="20260815220000 +0700">
+    <title lang="th">เริ่มเวลา 22:00 เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 3</title>
+    <title lang="en">UPCOMING at 10PM ATP 1000 Cincinnati Open Day 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002534" start="20260815220000 +0700" stop="20260816020000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 3</title>
+    <title lang="en">LIVE: ATP 1000 Cincinnati Open Day 3</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002541" start="20260811000000 +0700" stop="20260812000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -54078,17 +54489,22 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002541" start="20260813000000 +0700" stop="20260813220000 +0700">
-    <title lang="th">เริ่มเวลา 22:00 น. เอทีพี 1000 ซินซินเนติ โอเพ่น Open วัน 1</title>
-    <title lang="en">UPCOMING at 10PM ATP 1000 Cincinnati Open Open Day 1</title>
+  <programme channel="ch0000000000100002541" start="20260813000000 +0700" stop="20260814000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002541" start="20260813220000 +0700" stop="20260814020000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น Open วัน 1</title>
+  <programme channel="ch0000000000100002541" start="20260814000000 +0700" stop="20260814040000 +0700">
+    <title lang="th">เริ่มเวลา 04:00 น.เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
+    <title lang="en">UPCOMING at 4AM ATP 1000 Cincinnati Open Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002541" start="20260814040000 +0700" stop="20260814060000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ซินซินเนติ โอเพ่น วัน 1</title>
     <title lang="en">LIVE: ATP 1000 Cincinnati Open Open Day 1</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002541" start="20260814020000 +0700" stop="20260815000000 +0700">
+  <programme channel="ch0000000000100002541" start="20260814060000 +0700" stop="20260815000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -54218,6 +54634,7 @@
   </programme>
   <programme channel="ch0000000000100002561" start="20260812150000 +0700" stop="20260812165000 +0700">
     <title>Rugby's Greatest Rivalry: Sharks v New Zealand</title>
+    <desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260812165000 +0700" stop="20260812175000 +0700">
@@ -54226,8 +54643,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260812175000 +0700" stop="20260812194000 +0700">
-    <title>SANZAAR International Tour Serie: Argentina v South Africa</title>
-    <desc>Top class international rugby from the southern hemisphere featuring Australia Argentina and South Africa.</desc>
+    <title>Nations Championship 2026: South Africa v Scotland</title>
+    <desc>Coverage of the International Rugby season for 2026.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260812194000 +0700" stop="20260812213000 +0700">
@@ -54262,10 +54679,12 @@
   </programme>
   <programme channel="ch0000000000100002561" start="20260813043000 +0700" stop="20260813062000 +0700">
     <title>Rugby's Greatest Rivalry: Stormers v New Zealand</title>
+    <desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260813062000 +0700" stop="20260813081000 +0700">
     <title>Rugby's Greatest Rivalry: Sharks v New Zealand</title>
+    <desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260813081000 +0700" stop="20260813100000 +0700">
@@ -54320,10 +54739,12 @@
   </programme>
   <programme channel="ch0000000000100002561" start="20260813192000 +0700" stop="20260813211000 +0700">
     <title>Rugby's Greatest Rivalry: Stormers v New Zealand</title>
+    <desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260813211000 +0700" stop="20260813230000 +0700">
     <title>Rugby's Greatest Rivalry: Sharks v New Zealand</title>
+    <desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260813230000 +0700" stop="20260813232000 +0700">
@@ -54337,8 +54758,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260813234000 +0700" stop="20260814013000 +0700">
-    <title>SANZAAR International Tour Serie: Argentina v South Africa</title>
-    <desc>Top class international rugby from the southern hemisphere featuring Australia Argentina and South Africa.</desc>
+    <title>Nations Championship 2026: South Africa v England</title>
+    <desc>Coverage of the International Rugby season for 2026.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260814013000 +0700" stop="20260814041500 +0700">
@@ -54398,6 +54819,7 @@
   </programme>
   <programme channel="ch0000000000100002561" start="20260814164000 +0700" stop="20260814183000 +0700">
     <title>Rugby's Greatest Rivalry: Stormers v New Zealand</title>
+    <desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260814183000 +0700" stop="20260814193000 +0700">
@@ -54407,6 +54829,7 @@
   </programme>
   <programme channel="ch0000000000100002561" start="20260814193000 +0700" stop="20260814212000 +0700">
     <title>Rugby's Greatest Rivalry: Sharks v New Zealand</title>
+    <desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260814212000 +0700" stop="20260814231000 +0700">
@@ -54469,14 +54892,14 @@
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260815101500 +0700" stop="20260815120500 +0700">
-    <title>SANZAAR International Tour Serie: Argentina v South Africa</title>
-    <desc>Top class international rugby from the southern hemisphere featuring Australia Argentina and South Africa.</desc>
+  <programme channel="ch0000000000100002561" start="20260815101500 +0700" stop="20260815120000 +0700">
+    <title>Nations Championship 2026: Australia v France</title>
+    <desc>Coverage of the International Rugby season for 2026.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260815120500 +0700" stop="20260815141000 +0700">
+  <programme channel="ch0000000000100002561" start="20260815120000 +0700" stop="20260815141000 +0700">
     <title>LIVE: SANZAAR International Tour Serie: Australia v Japan</title>
-    <desc>Top class international rugby from the southern hemisphere featuring Australia Argentina and South Africa.</desc>
+    <desc>The Wallabies welcome Japan to Queensland.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260815141000 +0700" stop="20260815144000 +0700">
@@ -54526,15 +54949,17 @@
   </programme>
   <programme channel="ch0000000000100002561" start="20260815201000 +0700" stop="20260815220000 +0700">
     <title>SANZAAR International Tour Serie: Australia v Japan</title>
-    <desc>Top class international rugby from the southern hemisphere featuring Australia Argentina and South Africa.</desc>
+    <desc>The Wallabies welcome Japan to Queensland.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260815220000 +0700" stop="20260815235000 +0700">
     <title>Rugby's Greatest Rivalry: Sharks v New Zealand</title>
+    <desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260815235000 +0700" stop="20260816020000 +0700">
     <title>LIVE: Rugby's Greatest Rivalry: Bulls v New Zealand</title>
+    <desc>The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002601" start="20260811233000 +0700" stop="20260812000000 +0700">
