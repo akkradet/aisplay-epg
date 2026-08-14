@@ -470,89 +470,89 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
   </channel>
   <channel id="ch0000000000100001372">
     <display-name>ch0000000000100001372</display-name>
   </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260812224500 +0700" stop="20260813005500 +0700">
     <title>A Star Is Born</title>
@@ -28220,7 +28220,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260815091000 +0700" stop="20260815100000 +0700">
     <title>CYCLE AROUND JAPAN</title>
-    <desc>Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc>Shizuoka has everything from beaches to mountains, but this time our road takes us through its deep forests, from wild rides on timber trails to a wild taste experience in the birthplace of wasabi.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260815100000 +0700" stop="20260815101000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28328,7 +28328,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260815171000 +0700" stop="20260815180000 +0700">
     <title>CYCLE AROUND JAPAN</title>
-    <desc>Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc>Shizuoka has everything from beaches to mountains, but this time our road takes us through its deep forests, from wild rides on timber trails to a wild taste experience in the birthplace of wasabi.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260815180000 +0700" stop="20260815181000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28392,7 +28392,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260815221000 +0700" stop="20260815230000 +0700">
     <title>CYCLE AROUND JAPAN</title>
-    <desc>Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc>Shizuoka has everything from beaches to mountains, but this time our road takes us through its deep forests, from wild rides on timber trails to a wild taste experience in the birthplace of wasabi.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260815230000 +0700" stop="20260815231000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28472,7 +28472,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260816041000 +0700" stop="20260816050000 +0700">
     <title>CYCLE AROUND JAPAN</title>
-    <desc>Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc>Shizuoka has everything from beaches to mountains, but this time our road takes us through its deep forests, from wild rides on timber trails to a wild taste experience in the birthplace of wasabi.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260816050000 +0700" stop="20260816051000 +0700">
     <title>NHK NEWSLINE</title>
@@ -53336,6 +53336,46 @@
     <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
     <category>NBA, Basketball</category>
   </programme>
+  <programme channel="ch0000000000100002401" start="20260816000000 +0700" stop="20260816030000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260816030000 +0700" stop="20260816060000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260816060000 +0700" stop="20260816090000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260816090000 +0700" stop="20260816120000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260816120000 +0700" stop="20260816150000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260816150000 +0700" stop="20260816180000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260816180000 +0700" stop="20260816210000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260816210000 +0700" stop="20260817000000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
   <programme channel="ch0000000000100002403" start="20260812093000 +0700" stop="20260813000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -53427,7 +53467,7 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20260813070500 +0700" stop="20260813120500 +0700">
-    <title lang="th">รีรัน: 3เอ็ม โอเพ่น รอบสุดท้าย</title>
+    <title lang="th">รีรัน: 3 เอ็ม โอเพ่น รอบสุดท้าย</title>
     <title lang="en">RERUN: 3M Open Final</title>
     <category>Sports</category>
   </programme>
@@ -53491,14 +53531,84 @@
     <title lang="en">LIVE: FedEx St. Jude Championship Round 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260815050000 +0700" stop="20260815090000 +0700">
+  <programme channel="ch0000000000100002511" start="20260815050000 +0700" stop="20260815053000 +0700">
+    <title lang="th">วินด์แฮม แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Wyndham Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260815053000 +0700" stop="20260815060000 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260815060000 +0700" stop="20260815100000 +0700">
     <title lang="th">รีรัน: เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ รอบแรก</title>
     <title lang="en">RERUN: FedEx St. Jude Championship Round 1</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260815090000 +0700" stop="20260815160000 +0700">
+  <programme channel="ch0000000000100002511" start="20260815100000 +0700" stop="20260815140500 +0700">
     <title lang="th">รีรัน: เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ รอบ 2</title>
     <title lang="en">RERUN: FedEx St. Jude Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260815140500 +0700" stop="20260815144000 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบ 2</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260815144000 +0700" stop="20260815184500 +0700">
+    <title lang="th">รีรัน: เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: FedEx St. Jude Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260815184500 +0700" stop="20260816050000 +0700">
+    <title lang="th">LIVE: เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">LIVE: FedEx St. Jude Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816050000 +0700" stop="20260816053000 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบ 2</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816053000 +0700" stop="20260816060000 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816060000 +0700" stop="20260816100000 +0700">
+    <title lang="th">รีรัน: เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: FedEx St. Jude Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816100000 +0700" stop="20260816150000 +0700">
+    <title lang="th">รีรัน: เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: FedEx St. Jude Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816150000 +0700" stop="20260816171500 +0700">
+    <title lang="th">โปรตุเกส อินวิเตชันแนล รอบสุดท้าย</title>
+    <title lang="en">Portugal Invitational Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816171500 +0700" stop="20260816174500 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816174500 +0700" stop="20260816181500 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบ 2</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816181500 +0700" stop="20260816184500 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260816184500 +0700" stop="20260817060000 +0700">
+    <title lang="th">LIVE: เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">LIVE: FedEx St. Jude Championship Final</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002521" start="20260812000000 +0700" stop="20260813000000 +0700">
@@ -56405,9 +56515,139 @@
     <title lang="en">RERUN: Bundesliga Special 2025-26: EP 21 Season Review</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002701" start="20260815230000 +0700" stop="20260815233000 +0700">
+  <programme channel="ch0000000000100002701" start="20260815230000 +0700" stop="20260816000000 +0700">
     <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 23</title>
     <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 23</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816000000 +0700" stop="20260816010000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 2</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816010000 +0700" stop="20260816020000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 3</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816020000 +0700" stop="20260816030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 4</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 4</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816030000 +0700" stop="20260816040000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 5</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 5</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816040000 +0700" stop="20260816050000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 6</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 6</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816050000 +0700" stop="20260816060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 7</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 7</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816060000 +0700" stop="20260816063000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 14 สัปดาห์ทีมชาติ 3</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 14 International Break 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816063000 +0700" stop="20260816064500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: สตุ๊ตการ์ท</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: VfB Stuttgart</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816064500 +0700" stop="20260816070000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ไบเออร์ 04 เลเวอร์คูเซน</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: Bayer 04 Leverkusen</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816070000 +0700" stop="20260816090000 +0700">
+    <title lang="th">รีรัน: กรอยเธอร์ เฟือร์ธ พบ เนิร์นแบร์ก</title>
+    <title lang="en">RERUN: SpVgg Greuther Furth vs 1. FC Nuernberg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816090000 +0700" stop="20260816110000 +0700">
+    <title lang="th">รีรัน: ออสนาบรุค พบ มักเดบวร์ก</title>
+    <title lang="en">RERUN: VfL Osnabrueck vs 1. FC Magdeburg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816110000 +0700" stop="20260816113000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 28 สัปดาห์ที่ 25</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 28 Matchday 25</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816113000 +0700" stop="20260816120000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 29 สัปดาห์ที่ 26</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 29 Matchday 26</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816120000 +0700" stop="20260816140000 +0700">
+    <title lang="th">รีรัน: แฮร์ธ่า เบอร์ลิน พบ ไฮเดนไฮม์</title>
+    <title lang="en">RERUN: Hertha BSC vs 1. FC Heidenheim</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816140000 +0700" stop="20260816150000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 18</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 18</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816150000 +0700" stop="20260816151500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: Borussia Dortmund</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816151500 +0700" stop="20260816153000 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: โบรุสเซีย มึนเชินกลัดบัค</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: Borussia Monchengladbach</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816153000 +0700" stop="20260816160000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 14 สัปดาห์ทีมชาติ 3</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 14 International Break 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816160000 +0700" stop="20260816170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 19</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 19</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816170000 +0700" stop="20260816173000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 17 สัปดาห์ที่ 13</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 17 Matchday 13</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816173000 +0700" stop="20260816180000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 18 สัปดาห์ที่ 14</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 18 Matchday 14</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816180000 +0700" stop="20260816200000 +0700">
+    <title lang="th">รีรัน: ไกเซอร์สเลาเทิร์น พบ คาร์ลสรูห์</title>
+    <title lang="en">RERUN: 1. FC Kaiserslautern vs Karlsruher SC</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816200000 +0700" stop="20260816220000 +0700">
+    <title lang="th">รีรัน: กรอยเธอร์ เฟือร์ธ พบ เนิร์นแบร์ก</title>
+    <title lang="en">RERUN: SpVgg Greuther Furth vs 1. FC Nuernberg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816220000 +0700" stop="20260816223000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 22 Bundesliga Analysis</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 22 Bundesliga Analysis</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816223000 +0700" stop="20260816230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 1</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260816230000 +0700" stop="20260817000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 24</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 24</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002721" start="20260812000000 +0700" stop="20260813000000 +0700">
