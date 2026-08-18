@@ -455,65 +455,65 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
   </channel>
   <channel id="ch0000000000100002754">
     <display-name>ch0000000000100002754</display-name>
   </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
   <channel id="ch0000000000100001292">
     <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
@@ -521,8 +521,23 @@
   <channel id="ch0000000000100001356">
     <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
@@ -530,23 +545,8 @@
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260816233000 +0700" stop="20260817011000 +0700">
     <title>Atomic Homefront</title>
@@ -25509,8 +25509,8 @@
     <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001192" start="20260819071000 +0700" stop="20260819073500 +0700">
-    <title>Girl Meets Farm S15 Ep.7: Big Bready Buttery Family Feast, A</title>
-    <desc>Molly Yeh hosts a big, bread-y, buttery family feast with spiced ham, pillowy rolls, savoury stuffing and a smooth, silky pie for dessert.</desc>
+    <title>Girl Meets Farm S15 Ep.7: A Big, Bread-y, Buttery Family Feast</title>
+    <desc>Molly Yeh wants to host a big, bread-y, buttery family feast, so she prepares Buttery Ham with a Spiced Honey Glaze.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001192" start="20260819073500 +0700" stop="20260819080500 +0700">
@@ -35631,8 +35631,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260817133000 +0700" stop="20260817140000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Chris Fearne</title>
+    <desc>Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260817140000 +0700" stop="20260817150000 +0700">
     <title>Newshour</title>
@@ -35680,8 +35680,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260817213000 +0700" stop="20260817220000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Chris Fearne</title>
+    <desc>Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260817220000 +0700" stop="20260817230000 +0700">
     <title>Newshour</title>
@@ -35809,8 +35809,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260818163000 +0700" stop="20260818170000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Chris Fearne</title>
+    <desc>Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260818170000 +0700" stop="20260818180000 +0700">
     <title>Newshour</title>
@@ -35922,8 +35922,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260819103000 +0700" stop="20260819110000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Chris Fearne</title>
+    <desc>Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260819110000 +0700" stop="20260819113000 +0700">
     <title>News Live</title>
@@ -36030,8 +36030,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260820023000 +0700" stop="20260820030000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Chris Fearne</title>
+    <desc>Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260820030000 +0700" stop="20260820033000 +0700">
     <title>News Live</title>
@@ -36104,8 +36104,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260820133000 +0700" stop="20260820140000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Chris Fearne</title>
+    <desc>Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260820140000 +0700" stop="20260820150000 +0700">
     <title>Newshour</title>
@@ -44987,44 +44987,56 @@
     <title>Poker - Poker</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260817220000 +0700" stop="20260818003000 +0700">
+  <programme channel="ch0000000000100001751" start="20260817220000 +0700" stop="20260818002000 +0700">
     <title>Equestrian - Jumping - London</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260818003000 +0700" stop="20260818023000 +0700">
-    <title>Cycling - Tour of Poland - Stage 7</title>
+  <programme channel="ch0000000000100001751" start="20260818002000 +0700" stop="20260818022900 +0700">
+    <title>Cycling - Tour of Poland - Stage 7 (Men)</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260818023000 +0700" stop="20260818050000 +0700">
+  <programme channel="ch0000000000100001751" start="20260818022900 +0700" stop="20260818025300 +0700">
     <title>Mountain Bike - UCI Enduro World Cup - Aletsch Arena–Bellwald - Review</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260818050000 +0700" stop="20260818070000 +0700">
-    <title>Trail - Trail: GT WORLD SERIES</title>
-    <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001751" start="20260818070000 +0700" stop="20260818080000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 1</title>
-    <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001751" start="20260818080000 +0700" stop="20260818090000 +0700">
-    <title>Mountain Bike - UCI Cross-country Olympic World Cup - Women Elite - Pal Arinsal</title>
-    <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001751" start="20260818090000 +0700" stop="20260818103000 +0700">
-    <title>Mountain Bike - UCI Cross-country Olympic World Cup - Men Elite - Pal Arinsal</title>
-    <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001751" start="20260818103000 +0700" stop="20260818120000 +0700">
+  <programme channel="ch0000000000100001751" start="20260818025300 +0700" stop="20260818052500 +0700">
     <title>Endurance Moto Racing - 8 Hours Of Suzuka - Race</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260818120000 +0700" stop="20260818150000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 1</title>
+  <programme channel="ch0000000000100001751" start="20260818052500 +0700" stop="20260818065700 +0700">
+    <title>Trail - Golden Trail</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001751" start="20260818065700 +0700" stop="20260818080100 +0700">
+    <title>Cycling - Czech Tour - Stage 1 (Men)</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001751" start="20260818080100 +0700" stop="20260818085900 +0700">
+    <title>Mountain Bike - UCI Cross-country Olympic World Cup - Women Elite - Pal Arinsal</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001751" start="20260818085900 +0700" stop="20260818100300 +0700">
+    <title>Mountain Bike - UCI Cross-country Olympic World Cup - Men Elite - Pal Arinsal</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001751" start="20260818100300 +0700" stop="20260818102800 +0700">
+    <title>Trail - Golden Trail - Review</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001751" start="20260818102800 +0700" stop="20260818120500 +0700">
+    <title>Endurance Moto Racing - 8 Hours Of Suzuka - Race</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001751" start="20260818120500 +0700" stop="20260818130200 +0700">
+    <title>Cycling - Czech Tour - Stage 1 (Men)</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001751" start="20260818130200 +0700" stop="20260818150000 +0700">
+    <title>Endurance Moto Racing - 8 Hours Of Suzuka - Race</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260818150000 +0700" stop="20260818170000 +0700">
-    <title>Trail - Trail: GT WORLD SERIES</title>
+    <title>Trail - Golden Trail</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260818170000 +0700" stop="20260818180000 +0700">
@@ -45032,19 +45044,19 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260818180000 +0700" stop="20260818190000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 1</title>
+    <title>Cycling - Czech Tour - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260818190000 +0700" stop="20260818200000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 2</title>
+    <title>Cycling - Czech Tour - Stage 2 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260818200000 +0700" stop="20260818210000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 3</title>
+    <title>Cycling - Czech Tour - Stage 3 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260818210000 +0700" stop="20260818220000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 4</title>
+    <title>Cycling - Czech Tour - Stage 4 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260818220000 +0700" stop="20260818224500 +0700">
@@ -45059,16 +45071,20 @@
     <title>Motocross - Sweden - MX2 - Race 2</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260819001500 +0700" stop="20260819013000 +0700">
+  <programme channel="ch0000000000100001751" start="20260819001500 +0700" stop="20260819010000 +0700">
     <title>Motocross - Sweden - MXGP - Race 2</title>
     <category>News</category>
   </programme>
+  <programme channel="ch0000000000100001751" start="20260819010000 +0700" stop="20260819013000 +0700">
+    <title>Trail - Golden Trail - Review</title>
+    <category>News</category>
+  </programme>
   <programme channel="ch0000000000100001751" start="20260819013000 +0700" stop="20260819020000 +0700">
-    <title>Triathlon - T100 Triathlon World Tour - Vancouver</title>
+    <title>Triathlon - T100 Triathlon World Tour - Review (Women)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819020000 +0700" stop="20260819040000 +0700">
-    <title>Trail - Trail: GT WORLD SERIES</title>
+    <title>Trail - Golden Trail</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819040000 +0700" stop="20260819050000 +0700">
@@ -45076,11 +45092,11 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819050000 +0700" stop="20260819070000 +0700">
-    <title>Cycling - Tour of Poland - Stage 1</title>
+    <title>Cycling - Tour of Poland - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819070000 +0700" stop="20260819080000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 2</title>
+    <title>Cycling - Czech Tour - Stage 2 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819080000 +0700" stop="20260819084500 +0700">
@@ -45100,11 +45116,11 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819110000 +0700" stop="20260819120000 +0700">
-    <title>Trail - Trail: GT WORLD SERIES</title>
+    <title>Trail - Golden Trail</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819120000 +0700" stop="20260819130000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 2</title>
+    <title>Cycling - Czech Tour - Stage 2 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819130000 +0700" stop="20260819140000 +0700">
@@ -45116,75 +45132,75 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819150000 +0700" stop="20260819153000 +0700">
-    <title>Triathlon - T100 Triathlon World Tour - Vancouver</title>
+    <title>Triathlon - T100 Triathlon World Tour - Review (Women)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260819153000 +0700" stop="20260819170000 +0700">
     <title>Endurance Moto Racing - 8 Hours Of Suzuka - Race</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260819170000 +0700" stop="20260819180000 +0700">
-    <title>Equestrian - Jumping - Monaco (Global Champions Tour)</title>
+  <programme channel="ch0000000000100001751" start="20260819170000 +0700" stop="20260819183000 +0700">
+    <title>Equestrian - Equestrian.</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260819180000 +0700" stop="20260819190000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 2</title>
+  <programme channel="ch0000000000100001751" start="20260819183000 +0700" stop="20260819203000 +0700">
+    <title>Cycling - Tour of Poland - Stage 5 (Men)</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260819190000 +0700" stop="20260819200000 +0700">
-    <title>Cycling - Tour of Flanders</title>
+  <programme channel="ch0000000000100001751" start="20260819203000 +0700" stop="20260819223000 +0700">
+    <title>LIVE: Cycling - Renewi Tour - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260819200000 +0700" stop="20260819220000 +0700">
-    <title>LIVE: Cycling - Renewi Tour - Stage 1</title>
+  <programme channel="ch0000000000100001751" start="20260819223000 +0700" stop="20260820000000 +0700">
+    <title>Triathlon - Triathlon: T100 Triathlon World Tour</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260819220000 +0700" stop="20260820020000 +0700">
-    <title>LIVE: Cycling - Tour of Britain - Stage 1</title>
+  <programme channel="ch0000000000100001751" start="20260820000000 +0700" stop="20260820020000 +0700">
+    <title>Endurance Moto Racing - 8 Hours Of Suzuka - Race</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820020000 +0700" stop="20260820030000 +0700">
-    <title>Trail - Trail: GT WORLD SERIES</title>
+    <title>Trail - Golden Trail</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820030000 +0700" stop="20260820040000 +0700">
-    <title>Cycling - Tour of Britain - Stage 1</title>
+    <title>Cycling - Czech Tour - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820040000 +0700" stop="20260820050000 +0700">
-    <title>Cycling - Renewi Tour - Stage 1</title>
+    <title>Cycling - Renewi Tour - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820050000 +0700" stop="20260820070000 +0700">
-    <title>Cycling - Tour of Poland - Stage 2</title>
+    <title>Cycling - Tour of Poland - Stage 2 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820070000 +0700" stop="20260820080000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 3</title>
+    <title>Cycling - Czech Tour - Stage 3 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820080000 +0700" stop="20260820090000 +0700">
-    <title>Cycling - Renewi Tour - Stage 1</title>
+    <title>Cycling - Renewi Tour - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820090000 +0700" stop="20260820100000 +0700">
-    <title>Cycling - Tour of Britain - Stage 1</title>
+    <title>Poker - Poker</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820100000 +0700" stop="20260820110000 +0700">
-    <title>Poker - Poker</title>
+    <title>Poker - World Series of Poker - Las Vegas</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820110000 +0700" stop="20260820120000 +0700">
-    <title>Poker - Poker</title>
+    <title>Poker - World Series of Poker - Las Vegas</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820120000 +0700" stop="20260820130000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 3</title>
+    <title>Cycling - Czech Tour - Stage 3 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820130000 +0700" stop="20260820140000 +0700">
-    <title>Cycling - Renewi Tour - Stage 1</title>
+    <title>Cycling - Renewi Tour - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820140000 +0700" stop="20260820144500 +0700">
@@ -45204,23 +45220,23 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001751" start="20260820170000 +0700" stop="20260820180000 +0700">
-    <title>Cycling - Renewi Tour - Stage 1</title>
+    <title>Cycling - Renewi Tour - Stage 1 (Men)</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260820180000 +0700" stop="20260820190000 +0700">
-    <title>Cycling - Tour of Czech Republic - Stage 3</title>
+  <programme channel="ch0000000000100001751" start="20260820180000 +0700" stop="20260820183000 +0700">
+    <title>Mountain Bike - Enduro - ALETSCH ARENA BELLWALD</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260820190000 +0700" stop="20260820200000 +0700">
-    <title>Cycling - Renewi Tour - Stage 1</title>
+  <programme channel="ch0000000000100001751" start="20260820183000 +0700" stop="20260820203000 +0700">
+    <title>Cycling - Tour of Poland - Stage 6 (Men)</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260820200000 +0700" stop="20260820220000 +0700">
-    <title>LIVE: Cycling - Renewi Tour - Stage 2</title>
+  <programme channel="ch0000000000100001751" start="20260820203000 +0700" stop="20260820223000 +0700">
+    <title>LIVE: Cycling - Renewi Tour - Stage 2 (Men)</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001751" start="20260820220000 +0700" stop="20260821000000 +0700">
-    <title>LIVE: Cycling - Tour of Britain - Stage 2</title>
+  <programme channel="ch0000000000100001751" start="20260820223000 +0700" stop="20260821000000 +0700">
+    <title>Triathlon - Triathlon: T100 Triathlon World Tour</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260816223500 +0700" stop="20260817002500 +0700">
@@ -52397,9 +52413,74 @@
     <title lang="en">RERUN: Buriram United vs Ayutthaya United</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002041" start="20260819230000 +0700" stop="20260820010000 +0700">
+  <programme channel="ch0000000000100002041" start="20260819230000 +0700" stop="20260820000000 +0700">
     <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 29</title>
     <title lang="en">HIGHLIGHT Thai League 1 MD 29</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820000000 +0700" stop="20260820020000 +0700">
+    <title lang="th">รีรัน: เกษตรศาสตร์ เอฟซี พบ ตราด เอฟซี</title>
+    <title lang="en">RERUN: Kasetsart FC vs Trat FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820020000 +0700" stop="20260820040000 +0700">
+    <title lang="th">รีรัน: มหาสารคาม เอสบีที เอฟซี พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Mahasarakham SBT FC vs Nakhon Pathom United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820040000 +0700" stop="20260820060000 +0700">
+    <title lang="th">รีรัน: เชียงใหม่ ยูไนเต็ด พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chiangmai United vs Rasisalai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820060000 +0700" stop="20260820080000 +0700">
+    <title lang="th">รีรัน: บางกอก เอฟซี พบ นครศรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Bangkok FC vs Nakhon Si United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820080000 +0700" stop="20260820100000 +0700">
+    <title lang="th">รีรัน: อยุธยา ยูไนเต็ด พบ การท่าเรือ เอฟซี</title>
+    <title lang="en">RERUN: Ayutthaya United vs Port FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820100000 +0700" stop="20260820120000 +0700">
+    <title lang="th">รีรัน: ระยอง เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rayong FC vs True Bangkok United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820120000 +0700" stop="20260820140000 +0700">
+    <title lang="th">รีรัน: พลังกาญจน์ เอฟซี พบ ราชบุรี เอฟซี</title>
+    <title lang="en">RERUN: Kanchanaburi Power FC vs Ratchaburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820140000 +0700" stop="20260820160000 +0700">
+    <title lang="th">รีรัน: สิงห์ เชียงราย ยูไนเต็ด พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: Singha Chiangrai United vs Uthai Thani FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820160000 +0700" stop="20260820180000 +0700">
+    <title lang="th">รีรัน: สงขลา เอฟซี พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Songkhla FC vs Chanthaburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820180000 +0700" stop="20260820200000 +0700">
+    <title lang="th">รีรัน: เขลางค์ ยูไนเต็ด พบ หนองบัว พิชญ เอฟซี</title>
+    <title lang="en">RERUN: Khelang United vs Nongbua Pitchaya FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820200000 +0700" stop="20260820220000 +0700">
+    <title lang="th">รีรัน: บุรีรัมย์ ยูไนเต็ด พบ ลำพูน วอริเออร์</title>
+    <title lang="en">RERUN: Buriram United vs Lamphun Warriors</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820220000 +0700" stop="20260820230000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 30</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 30</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260820230000 +0700" stop="20260821000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 32</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 32</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20260816220000 +0700" stop="20260817000000 +0700">
@@ -53670,9 +53751,89 @@
     <category lang="th">Golf</category>
     <category lang="en">Boxing</category>
   </programme>
-  <programme channel="ch0000000000100002261" start="20260819010500 +0700" stop="20260819040000 +0700">
-    <title>RERUN: Rajadamnern Knockout (18 August 2026)</title>
-    <category>Boxing</category>
+  <programme channel="ch0000000000100002261" start="20260819010500 +0700" stop="20260819035500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (18 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (18 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260819035500 +0700" stop="20260819080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260819080000 +0700" stop="20260819105000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (18 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (18 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260819105000 +0700" stop="20260819145500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260819145500 +0700" stop="20260819174500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (18 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (18 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260819174500 +0700" stop="20260819180000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260819180000 +0700" stop="20260819200000 +0700">
+    <title lang="th">LIVE: ศึกมวยไทยพลังใหม่ (19 สิงหาคม 2026)</title>
+    <title lang="en">LIVE: New Power (19 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260819200000 +0700" stop="20260820010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (9 พฤษภาคม 2026) - คู่ที่ 1</title>
+    <title lang="en">RERUN: Rajadamnern World Series (9 May 2026) - Match 1</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260820010000 +0700" stop="20260820032000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (11 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (11 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260820032000 +0700" stop="20260820080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (23 พฤษภาคม 2026) - คู่ที่ 1</title>
+    <title lang="en">RERUN: Rajadamnern World Series (23 May 2026) - Match 1</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260820080000 +0700" stop="20260820104500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (10 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (10 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260820104500 +0700" stop="20260820144000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (29 พฤษภาคม 2026) - คู่ที่ 2</title>
+    <title lang="en">RERUN: Rajadamnern World Series (29 May 2026) - Match 2</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260820144000 +0700" stop="20260820180000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (14 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (14 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260820180000 +0700" stop="20260820200000 +0700">
+    <title lang="th">ศึกเพชรยินดี (20 สิงหาคม 2026)</title>
+    <title lang="en">Petchyindee (20 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
   </programme>
   <programme channel="ch0000000000100002401" start="20260816210000 +0700" stop="20260817000000 +0700">
     <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
@@ -54834,9 +54995,129 @@
     <title lang="en">Turkish Airlines Open Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260819002500 +0700" stop="20260819082500 +0700">
+  <programme channel="ch0000000000100002528" start="20260819002500 +0700" stop="20260819005500 +0700">
     <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Turkish Airlines Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819005500 +0700" stop="20260819062000 +0700">
+    <title lang="th">รีรัน: เจเนซิส สก็อตติช โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: GENESIS SCOTTISH OPEN Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819062000 +0700" stop="20260819105500 +0700">
+    <title lang="th">รีรัน: เดนิช กอล์ฟ แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: Danish Golf Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819105500 +0700" stop="20260819161500 +0700">
+    <title lang="th">รีรัน: เดนิช กอล์ฟ แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Danish Golf Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819161500 +0700" stop="20260819212500 +0700">
+    <title lang="th">รีรัน: บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: BMW International Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819212500 +0700" stop="20260819215000 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Danish Golf Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819215000 +0700" stop="20260819221500 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Danish Golf Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819221500 +0700" stop="20260819223500 +0700">
+    <title lang="th">ดูไบ อินวิเตชันแนล ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dubai Invitational Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819223500 +0700" stop="20260819225500 +0700">
+    <title lang="th">ฮีโร่ ดูไบ เดสเสิร์ต คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Dubai Desert Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819225500 +0700" stop="20260819232500 +0700">
+    <title lang="th">บาห์เรน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Bahrain Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819232500 +0700" stop="20260819235000 +0700">
+    <title lang="th">กาตาร์ มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Qatar Masters Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260819235000 +0700" stop="20260820045000 +0700">
+    <title lang="th">รีรัน: แมจิคัล เคนยา โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: Magical Kenya Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820045000 +0700" stop="20260820091500 +0700">
+    <title lang="th">รีรัน: อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: Investec South African Open Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820091500 +0700" stop="20260820142500 +0700">
+    <title lang="th">รีรัน: อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Investec South African Open Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820142500 +0700" stop="20260820145000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Joburg Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820145000 +0700" stop="20260820152000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Joburg Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820152000 +0700" stop="20260820154500 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Hero Indian Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820154500 +0700" stop="20260820161000 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Indian Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820161000 +0700" stop="20260820163500 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Volvo China Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820163500 +0700" stop="20260820170000 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Volvo China Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820170000 +0700" stop="20260820173000 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Turkish Airlines Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820173000 +0700" stop="20260820180000 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Turkish Airlines Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820180000 +0700" stop="20260820183000 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Danish Golf Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820183000 +0700" stop="20260820233000 +0700">
+    <title lang="th">LIVE: เน็กโซแชมเปียนชิป รอบแรก</title>
+    <title lang="en">LIVE: Nexo Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260820233000 +0700" stop="20260821000000 +0700">
+    <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">GENESIS SCOTTISH OPEN Highlights Round 3</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260816220000 +0700" stop="20260817100000 +0700">
@@ -55029,19 +55310,9 @@
     <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260819110000 +0700" stop="20260819130000 +0700">
+  <programme channel="ch0000000000100002530" start="20260819110000 +0700" stop="20260819133000 +0700">
     <title lang="th">รีรัน: ซินซินเนติ โอเพ่น รอบ 32</title>
     <title lang="en">RERUN: Cincinnati Open Round 32 (Cincinnati Open)</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002530" start="20260819130000 +0700" stop="20260819131500 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
-    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002530" start="20260819131500 +0700" stop="20260819133000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
-    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260819133000 +0700" stop="20260819140000 +0700">
@@ -55054,14 +55325,9 @@
     <title lang="en">RERUN: Cincinnati Open Round 32 (Cincinnati Open)</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260819160000 +0700" stop="20260819180000 +0700">
+  <programme channel="ch0000000000100002530" start="20260819160000 +0700" stop="20260819181500 +0700">
     <title lang="th">รีรัน: ซินซินเนติ โอเพ่น รอบ 32</title>
     <title lang="en">RERUN: Cincinnati Open Round 32 (Cincinnati Open)</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002530" start="20260819180000 +0700" stop="20260819181500 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
-    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260819181500 +0700" stop="20260819183000 +0700">
@@ -55074,19 +55340,9 @@
     <title lang="en">RERUN: ATP Tour This Week Episode 23</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20260819190000 +0700" stop="20260819210000 +0700">
+  <programme channel="ch0000000000100002530" start="20260819190000 +0700" stop="20260819214000 +0700">
     <title lang="th">รีรัน: ซินซินเนติ โอเพ่น รอบ 32</title>
     <title lang="en">RERUN: Cincinnati Open Round 32 (Cincinnati Open)</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002530" start="20260819210000 +0700" stop="20260819212000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
-    <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002530" start="20260819212000 +0700" stop="20260819214000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
-    <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260819214000 +0700" stop="20260819220000 +0700">
@@ -57251,6 +57507,10 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002752" start="20260819000000 +0700" stop="20260820000000 +0700">
+    <title>No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002752" start="20260820000000 +0700" stop="20260821000000 +0700">
     <title>No Broadcast</title>
     <category>Sports</category>
   </programme>
