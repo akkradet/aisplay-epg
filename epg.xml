@@ -455,8 +455,65 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
@@ -467,86 +524,29 @@
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
   </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260816233000 +0700" stop="20260817011000 +0700">
     <title>Atomic Homefront</title>
@@ -36302,10 +36302,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260817213000 +0700" stop="20260817220000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260817220000 +0700" stop="20260817223000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260817223000 +0700" stop="20260817230000 +0700">
     <title>Cross Talk</title>
@@ -36320,16 +36320,16 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818003000 +0700" stop="20260818010000 +0700">
-    <title>Documentary</title>
+    <title>Going Underground</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818010000 +0700" stop="20260818013000 +0700">
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818013000 +0700" stop="20260818020000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818020000 +0700" stop="20260818023000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818023000 +0700" stop="20260818030000 +0700">
     <title>Cross Talk</title>
@@ -36350,7 +36350,7 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818053000 +0700" stop="20260818060000 +0700">
-    <title>Sanchez Effect SHORT</title>
+    <title>Going Underground</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818060000 +0700" stop="20260818063000 +0700">
     <title>Miami America Now LIVE</title>
@@ -36374,7 +36374,7 @@
     <title>Miami America Now LIVE</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818093000 +0700" stop="20260818100000 +0700">
-    <title>Sanchez Effect SHORT</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818100000 +0700" stop="20260818103000 +0700">
     <title>Miami AMERICA NOW</title>
@@ -36398,10 +36398,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818133000 +0700" stop="20260818140000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818140000 +0700" stop="20260818143000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818143000 +0700" stop="20260818150000 +0700">
     <title>Documentary</title>
@@ -36446,10 +36446,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818213000 +0700" stop="20260818220000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818220000 +0700" stop="20260818223000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260818223000 +0700" stop="20260818230000 +0700">
     <title>In Conversation with Salman Khurshid replay</title>
@@ -36470,10 +36470,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819013000 +0700" stop="20260819020000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819020000 +0700" stop="20260819023000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819023000 +0700" stop="20260819030000 +0700">
     <title>In Conversation with Salman Khurshid replay</title>
@@ -36494,7 +36494,7 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819053000 +0700" stop="20260819060000 +0700">
-    <title>Sanchez Effect SHORT</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819060000 +0700" stop="20260819063000 +0700">
     <title>Miami America Now LIVE</title>
@@ -36506,7 +36506,7 @@
     <title>Miami America Now LIVE</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819073000 +0700" stop="20260819080000 +0700">
-    <title>AMERICA FIRST NEW</title>
+    <title>America First</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819080000 +0700" stop="20260819083000 +0700">
     <title>Miami America Now LIVE</title>
@@ -36518,16 +36518,16 @@
     <title>Miami America Now LIVE</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819093000 +0700" stop="20260819100000 +0700">
-    <title>Sanchez Effect SHORT</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819100000 +0700" stop="20260819103000 +0700">
-    <title>Miami AMERICA NOW Повтор от 04:00</title>
+    <title>Miami America Now</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819103000 +0700" stop="20260819110000 +0700">
     <title>In Conversation with Salman Khurshid replay</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819110000 +0700" stop="20260819113000 +0700">
-    <title>Miami AMERICA NOW Повтор от 05:00</title>
+    <title>Miami America Now</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819113000 +0700" stop="20260819120000 +0700">
     <title>Documentary</title>
@@ -36542,10 +36542,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819133000 +0700" stop="20260819140000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819140000 +0700" stop="20260819143000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819143000 +0700" stop="20260819150000 +0700">
     <title>In Conversation with Salman Khurshid replay</title>
@@ -36590,10 +36590,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819213000 +0700" stop="20260819220000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819220000 +0700" stop="20260819223000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260819223000 +0700" stop="20260819230000 +0700">
     <title>Cross Talk</title>
@@ -36614,10 +36614,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820013000 +0700" stop="20260820020000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820020000 +0700" stop="20260820023000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820023000 +0700" stop="20260820030000 +0700">
     <title>Cross Talk</title>
@@ -36638,7 +36638,7 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820053000 +0700" stop="20260820060000 +0700">
-    <title>Sanchez Effect SHORT</title>
+    <title>Cross Talk</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820060000 +0700" stop="20260820063000 +0700">
     <title>Miami America Now LIVE</title>
@@ -36662,7 +36662,7 @@
     <title>Miami America Now LIVE</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820093000 +0700" stop="20260820100000 +0700">
-    <title>Sanchez Effect SHORT</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820100000 +0700" stop="20260820103000 +0700">
     <title>Miami AMERICA NOW</title>
@@ -36686,10 +36686,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820133000 +0700" stop="20260820140000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820140000 +0700" stop="20260820143000 +0700">
-    <title>Sanchez Effect</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820143000 +0700" stop="20260820150000 +0700">
     <title>Documentary</title>
@@ -36734,10 +36734,10 @@
     <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820213000 +0700" stop="20260820220000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Documentary</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820220000 +0700" stop="20260820223000 +0700">
-    <title>Sanchez Effect LIVE</title>
+    <title>Headline News</title>
   </programme>
   <programme channel="ch0000000000100001352" start="20260820223000 +0700" stop="20260820230000 +0700">
     <title>India, Russia and the World with Runjhun Sharma replay</title>
@@ -53328,7 +53328,7 @@
     <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260817180000 +0700" stop="20260817200000 +0700">
-    <title>Real Madrid v Fiorentina Pre-season 26/27</title>
+    <title>Real Madrid v Fiorentina Pre-season 2026/27</title>
     <desc>Real Madrid face Fiorentina in Sportpark Klagenfur Stadium (Austria).</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260817200000 +0700" stop="20260817224000 +0700">
@@ -53336,8 +53336,8 @@
     <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260817224000 +0700" stop="20260818010000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Schalke 04 vs Real Madrid Pre-season 2026/27</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260818010000 +0700" stop="20260818013000 +0700">
     <title>Realmadrid Life</title>
@@ -53372,7 +53372,7 @@
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260818081500 +0700" stop="20260818102500 +0700">
-    <title>Deportivo v Real Madrid Pre-season 26/27</title>
+    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
     <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260818102500 +0700" stop="20260818104000 +0700">
@@ -53395,49 +53395,45 @@
     <title>Champions League 13/14: Real Madrid vs Atlético de Madrid (10th) La Décima</title>
     <desc>The first ever cross city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260818163500 +0700" stop="20260818170500 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260818170500 +0700" stop="20260818190500 +0700">
-    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+  <programme channel="ch0000000000100002181" start="20260818163500 +0700" stop="20260818183500 +0700">
+    <title>Ferencvaros v Real Madrid Pre-season 2026/27</title>
     <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260818190500 +0700" stop="20260818202000 +0700">
+  <programme channel="ch0000000000100002181" start="20260818183500 +0700" stop="20260818194500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260818202000 +0700" stop="20260818205000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20260818194500 +0700" stop="20260818201500 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260818205000 +0700" stop="20260819000000 +0700">
+  <programme channel="ch0000000000100002181" start="20260818201500 +0700" stop="20260818235000 +0700">
     <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
     <desc>It's the Champions League winners vs the Europa League winners.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819000000 +0700" stop="20260819011000 +0700">
+  <programme channel="ch0000000000100002181" start="20260818235000 +0700" stop="20260819002000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260819002000 +0700" stop="20260819013000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819011000 +0700" stop="20260819013000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260819013000 +0700" stop="20260819014500 +0700">
+  <programme channel="ch0000000000100002181" start="20260819013000 +0700" stop="20260819015000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819014500 +0700" stop="20260819022500 +0700">
+  <programme channel="ch0000000000100002181" start="20260819015000 +0700" stop="20260819022500 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819022500 +0700" stop="20260819045000 +0700">
+  <programme channel="ch0000000000100002181" start="20260819022500 +0700" stop="20260819045500 +0700">
     <title>Champions League 17/18: Real Madrid vs Liverpool (13th) La Decimotercera</title>
     <desc>Watch Los Blancos complete a unique hat-trick</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819045000 +0700" stop="20260819070000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  <programme channel="ch0000000000100002181" start="20260819045500 +0700" stop="20260819070000 +0700">
+    <title>Schalke 04 vs Real Madrid Pre-season 2026/27</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260819070000 +0700" stop="20260819071500 +0700">
     <title>Real Madrid News</title>
@@ -53456,7 +53452,7 @@
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260819111500 +0700" stop="20260819132500 +0700">
-    <title>Deportivo v Real Madrid Pre-season 26/27</title>
+    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
     <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260819132500 +0700" stop="20260819143000 +0700">
@@ -53467,29 +53463,29 @@
     <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
     <desc>It's the Champions League winners vs the Europa League winners.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819180000 +0700" stop="20260819200500 +0700">
-    <title>Deportivo v Real Madrid Pre-season 26/27</title>
+  <programme channel="ch0000000000100002181" start="20260819180000 +0700" stop="20260819201000 +0700">
+    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
     <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819200500 +0700" stop="20260819202500 +0700">
+  <programme channel="ch0000000000100002181" start="20260819201000 +0700" stop="20260819203000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819202500 +0700" stop="20260819222500 +0700">
-    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+  <programme channel="ch0000000000100002181" start="20260819203000 +0700" stop="20260819223000 +0700">
+    <title>Ferencvaros v Real Madrid Pre-season 2026/27</title>
     <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260819222500 +0700" stop="20260820012500 +0700">
+  <programme channel="ch0000000000100002181" start="20260819223000 +0700" stop="20260820013000 +0700">
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260820012500 +0700" stop="20260820014000 +0700">
+  <programme channel="ch0000000000100002181" start="20260820013000 +0700" stop="20260820014500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260820014000 +0700" stop="20260820040000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  <programme channel="ch0000000000100002181" start="20260820014500 +0700" stop="20260820040000 +0700">
+    <title>Schalke 04 vs Real Madrid Pre-season 2026/27</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260820040000 +0700" stop="20260820050000 +0700">
     <title>Real Madrid Pass</title>
@@ -53536,11 +53532,11 @@
     <desc>Weekly review show.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260820184500 +0700" stop="20260820210000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Schalke 04 vs Real Madrid Pre-season 2026/27</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260820210000 +0700" stop="20260820231500 +0700">
-    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
+    <title>Ferencvaros v Real Madrid Pre-season 2026/27</title>
     <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260820231500 +0700" stop="20260821013000 +0700">
