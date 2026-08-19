@@ -448,80 +448,26 @@
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002191">
-    <display-name>ch0000000000100002191</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
   </channel>
   <channel id="ch0000000000100002524">
     <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
   <channel id="ch0000000000100001372">
     <display-name>ch0000000000100001372</display-name>
@@ -529,20 +475,74 @@
   <channel id="ch0000000000100001291">
     <display-name>ch0000000000100001291</display-name>
   </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <channel id="ch0000000000100002521">
     <display-name>ch0000000000100002521</display-name>
   </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002191">
+    <display-name>ch0000000000100002191</display-name>
+  </channel>
   <channel id="ch0000000000100001361">
     <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260817230500 +0700" stop="20260818001000 +0700">
     <title>Savior Complex S1 Ep.3: Reap What You Sow</title>
@@ -45356,25 +45356,20 @@
     <desc>Serie A Women is the highest league of women's football in Italy. Watch Ternana v Juventus.</desc>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260821140000 +0700" stop="20260821160000 +0700">
+  <programme channel="ch0000000000100001772" start="20260821140000 +0700" stop="20260821163000 +0700">
     <title>WSWC '27 Gr. B: Venezuela v Philippines</title>
     <desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group B from Lima, Peru throughout the stage.</desc>
     <category>Softball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260821160000 +0700" stop="20260821180000 +0700">
+  <programme channel="ch0000000000100001772" start="20260821163000 +0700" stop="20260821183000 +0700">
     <title>USL '25/26: Lexington SC v Dallas Trinity FC</title>
     <desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Lexington SC v Dallas Trinity FC.</desc>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260821180000 +0700" stop="20260821193500 +0700">
+  <programme channel="ch0000000000100001772" start="20260821183000 +0700" stop="20260821200500 +0700">
     <title>Malaysian NSL '26: Johor Jewels v Terengganu Marvel</title>
     <desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
     <category>Netball</category>
-  </programme>
-  <programme channel="ch0000000000100001772" start="20260821193500 +0700" stop="20260821200500 +0700">
-    <title>MP '26: Ibiza Marathon, MP '26</title>
-    <desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-    <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260821200500 +0700" stop="20260821225500 +0700">
     <title>WBWC '26 Gr. Rockford: USA v Korea</title>
@@ -45383,7 +45378,7 @@
   </programme>
   <programme channel="ch0000000000100001772" start="20260821225500 +0700" stop="20260822010000 +0700">
     <title>LIVE Serie A Women's Cup '26: Como 1907 v Juventus</title>
-    <desc>The Serie A Women's Cup will take place prior to the start of the SERIE A Women season.</desc>
+    <desc>The Serie A Women's Cup will take place prior to the start of the SERIE A Women season. Watch Como 1907 v Juventus.</desc>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100001841" start="20260817230000 +0700" stop="20260818000000 +0700">
@@ -53581,8 +53576,62 @@
     <category lang="en">Boxing</category>
   </programme>
   <programme channel="ch0000000000100002261" start="20260820180000 +0700" stop="20260820200000 +0700">
-    <title lang="th">ศึกเพชรยินดี (20 สิงหาคม 2026)</title>
-    <title lang="en">Petchyindee (20 August 2026)</title>
+    <title lang="th">LIVE: ศึกเพชรยินดี (20 สิงหาคม 2026)</title>
+    <title lang="en">LIVE: Petchyindee (20 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260820200000 +0700" stop="20260821010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (06 มิถุนายน 2026) - คู่ที่ 3</title>
+    <title lang="en">RERUN: Rajadamnern World Series (06 June 2026) - Match 3</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821010000 +0700" stop="20260821041500 +0700">
+    <title lang="th">มวยราชดำเนิน น็อกเอาต์ (14 สิงหาคม 2026)</title>
+    <title lang="en">Rajadamnern Knockout (14 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821041500 +0700" stop="20260821080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (13 มิถุนายน 2026) - คู่ที่ 2</title>
+    <title lang="en">RERUN: Rajadamnern World Series (13 June 2026) - Match 2</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821080000 +0700" stop="20260821101500 +0700">
+    <title lang="th">มวยราชดำเนิน น็อกเอาต์ (11 สิงหาคม 2026)</title>
+    <title lang="en">Rajadamnern Knockout (11 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821101500 +0700" stop="20260821150000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (20 มิถุนายน 2026) - คู่ที่ 6</title>
+    <title lang="en">RERUN: Rajadamnern World Series (20 June 2026) - Match 6</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821150000 +0700" stop="20260821174500 +0700">
+    <title lang="th">มวยราชดำเนิน น็อกเอาต์ (10 สิงหาคม 2026)</title>
+    <title lang="en">Rajadamnern Knockout (10 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821174500 +0700" stop="20260821191000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (04 กรกฎาคม 2026) - คู่ที่ 4</title>
+    <title lang="en">RERUN: Rajadamnern World Series (04 July 2026) - Match 4</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821191000 +0700" stop="20260821220000 +0700">
+    <title lang="th">LIVE: มวยราชดำเนิน น็อกเอาต์ (21 สิงหาคม 2026)</title>
+    <title lang="en">LIVE: Rajadamnern Knockout (21 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260821220000 +0700" stop="20260822010500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (11 กรกฎาคม 2026) - คู่ที่ 1</title>
+    <title lang="en">RERUN: Rajadamnern World Series (11 July 2026) - Match 1</title>
     <category lang="th">Golf</category>
     <category lang="en">Boxing</category>
   </programme>
