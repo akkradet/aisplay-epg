@@ -450,77 +450,62 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
   </channel>
   <channel id="ch0000000000100002742">
     <display-name>ch0000000000100002742</display-name>
   </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
   <channel id="ch0000000000100002721">
     <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
@@ -528,20 +513,35 @@
   <channel id="ch0000000000100002752">
     <display-name>ch0000000000100002752</display-name>
   </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
   <channel id="ch0000000000100002722">
     <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
   </channel>
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
@@ -4029,6 +4029,10 @@
   </programme>
   <programme channel="ch0000000000100001081" start="20260823210000 +0700" stop="20260823230000 +0700">
     <title>THE LEGEND OF DUGU ตำนานสกุลตู๋กู (EP. 41-42)</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001081" start="20260823230000 +0700" stop="20260824010000 +0700">
+    <title>THE LEGEND OF YUNXI หยุนซี หมอพิษหญิงยอดอัจฉริยะ (EP. 21-22)</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001091" start="20260819220000 +0700" stop="20260820001000 +0700">
@@ -27946,7 +27950,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260820062500 +0700" stop="20260820063000 +0700">
     <title>RAMEN JAPAN 5min.</title>
-    <desc>A bowl of resilience! The unique, garlic-powered tonkotsu ramen.</desc>
+    <desc>What makes these one-of-kind handmade noodles so unique?! Come to Sano for a taste you won't find anywhere else!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260820063000 +0700" stop="20260820070000 +0700">
     <title>The Garden Way</title>
@@ -28352,9 +28356,13 @@
     <title>JAPAN FROM ABOVE: UP CLOSE</title>
     <desc>This program takes you on an aerial journey across 21st century Japan. Enjoy the bird's-eye view of unique landscapes as well as intimate portraits of the people who inhabit the archipelago.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20260821073000 +0700" stop="20260821080000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20260821073000 +0700" stop="20260821075300 +0700">
+    <title>The Business Keyhole</title>
+    <desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20260821075300 +0700" stop="20260821080000 +0700">
+    <title>Is That Picture Real?</title>
+    <desc>A billion cats are on the loose!? An online post throws the father into a panic. How should we interact with online information when fake images are on the rise, especially during disasters?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821080000 +0700" stop="20260821081000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28366,7 +28374,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260821083000 +0700" stop="20260821090000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821090000 +0700" stop="20260821091000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28381,8 +28389,8 @@
     <desc>1 in 36 people in Japan are foreign residents. As its population declines, we look at Japanese society in a new era of foreign workers, through an IT startup where 90% of staff are foreigners.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821093000 +0700" stop="20260821100000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>SCHOOL OF J-POP</title>
+    <desc>Comedian Naomi Watanabe unpack the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821100000 +0700" stop="20260821101000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28429,8 +28437,8 @@
     <desc>Tokushima ramen means tonkotsu! Topped with pork belly, and, of all things, raw egg-enjoy a one-of-a-kind bowl of ramen!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821123000 +0700" stop="20260821130000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>The Business Keyhole</title>
+    <desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821130000 +0700" stop="20260821131000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28446,7 +28454,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260821133000 +0700" stop="20260821140000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821140000 +0700" stop="20260821141000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28461,8 +28469,8 @@
     <desc>In this episode, we learn about boshu and geshi, two dates from early summer. The chefs prepare ume plums and tea leaves and teach us how to make a pair of refreshing summer dishes.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821143000 +0700" stop="20260821150000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>SCHOOL OF J-POP</title>
+    <desc>Comedian Naomi Watanabe unpack the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821150000 +0700" stop="20260821151000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28500,9 +28508,13 @@
     <title>CINEMATIC JOURNEY</title>
     <desc>Kyle Card hikes along the 1000km trail following the Pacific Coast in northern Japanwhere he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster, and resilient people.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20260821173000 +0700" stop="20260821180000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20260821173000 +0700" stop="20260821175300 +0700">
+    <title>The Business Keyhole</title>
+    <desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20260821175300 +0700" stop="20260821180000 +0700">
+    <title>Is That Picture Real?</title>
+    <desc>A billion cats are on the loose!? An online post throws the father into a panic. How should we interact with online information when fake images are on the rise, especially during disasters?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821180000 +0700" stop="20260821181500 +0700">
     <title>NHK NEWSLINE</title>
@@ -28534,7 +28546,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260821193000 +0700" stop="20260821200000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821200000 +0700" stop="20260821201000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28549,8 +28561,8 @@
     <desc>In Uda, discover Japan's oldest private medicinal herb garden, where the natural landscape from 300 years ago is preserved in a botanical time capsule, a sanctuary of the local culture and history.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821203000 +0700" stop="20260821210000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>SCHOOL OF J-POP</title>
+    <desc>Comedian Naomi Watanabe unpack the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821210000 +0700" stop="20260821211000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28566,7 +28578,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260821213000 +0700" stop="20260821220000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: The New Era of Japanese Modern Design. A fusion of rational Western Modernism and traditional Japanese materials and skills. Explore the beauty and potential of Japanese Modern Design.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821220000 +0700" stop="20260821221000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28580,9 +28592,13 @@
     <title>RAMEN JAPAN 5min.</title>
     <desc>Tokushima ramen means tonkotsu! Topped with pork belly, and, of all things, raw egg-enjoy a one-of-a-kind bowl of ramen!</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20260821223000 +0700" stop="20260821230000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20260821223000 +0700" stop="20260821225300 +0700">
+    <title>The Business Keyhole</title>
+    <desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20260821225300 +0700" stop="20260821230000 +0700">
+    <title>Is That Picture Real?</title>
+    <desc>A billion cats are on the loose!? An online post throws the father into a panic. How should we interact with online information when fake images are on the rise, especially during disasters?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260821230000 +0700" stop="20260821231000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28610,7 +28626,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260822003000 +0700" stop="20260822010000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822010000 +0700" stop="20260822011000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28641,8 +28657,8 @@
     <desc>Lung cancer is on the rise among nonsmokers. Japanese doctors have advanced surgery that removes less lung tissue while maintaining high survival rates when the disease is detected early.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822023000 +0700" stop="20260822030000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>SCHOOL OF J-POP</title>
+    <desc>Comedian Naomi Watanabe unpack the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822030000 +0700" stop="20260822031000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28658,7 +28674,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260822033000 +0700" stop="20260822040000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: The New Era of Japanese Modern Design. A fusion of rational Western Modernism and traditional Japanese materials and skills. Explore the beauty and potential of Japanese Modern Design.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822040000 +0700" stop="20260822041000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28672,9 +28688,13 @@
     <title>1/36: Foreign Residents in Japan</title>
     <desc>1 in 36 people in Japan are foreign residents. As its population declines, we look at Japanese society in a new era of foreign workers, through an IT startup where 90% of staff are foreigners.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20260822043000 +0700" stop="20260822050000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20260822043000 +0700" stop="20260822045300 +0700">
+    <title>The Business Keyhole</title>
+    <desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20260822045300 +0700" stop="20260822050000 +0700">
+    <title>Is That Picture Real?</title>
+    <desc>A billion cats are on the loose!? An online post throws the father into a panic. How should we interact with online information when fake images are on the rise, especially during disasters?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822050000 +0700" stop="20260822051000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28686,7 +28706,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260822053000 +0700" stop="20260822060000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822060000 +0700" stop="20260822061000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28738,7 +28758,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260822101000 +0700" stop="20260822104000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: The New Era of Japanese Modern Design. A fusion of rational Western Modernism and traditional Japanese materials and skills. Explore the beauty and potential of Japanese Modern Design.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822104000 +0700" stop="20260822105000 +0700">
     <title>Rockie and Her Friends</title>
@@ -28822,7 +28842,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260822161000 +0700" stop="20260822164000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: The New Era of Japanese Modern Design. A fusion of rational Western Modernism and traditional Japanese materials and skills. Explore the beauty and potential of Japanese Modern Design.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260822164000 +0700" stop="20260822165000 +0700">
     <title>Rockie and Her Friends</title>
@@ -29074,7 +29094,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260823111000 +0700" stop="20260823120000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>Built for the 1889 Paris World's Fair, the Eiffel Tower rose 300 meters above Paris, becoming the world's tallest structure. Today, nearly seven million people visit this iconic landmark every year.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260823120000 +0700" stop="20260823121000 +0700">
     <title>NHK NEWSLINE</title>
@@ -29118,7 +29138,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260823151000 +0700" stop="20260823160000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>Built for the 1889 Paris World's Fair, the Eiffel Tower rose 300 meters above Paris, becoming the world's tallest structure. Today, nearly seven million people visit this iconic landmark every year.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260823160000 +0700" stop="20260823161000 +0700">
     <title>NHK NEWSLINE</title>
@@ -29234,7 +29254,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260823231000 +0700" stop="20260824000000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>Built for the 1889 Paris World's Fair, the Eiffel Tower rose 300 meters above Paris, becoming the world's tallest structure. Today, nearly seven million people visit this iconic landmark every year.</desc>
   </programme>
   <programme channel="ch0000000000100001244" start="20260819230300 +0700" stop="20260820000000 +0700">
     <title>East Asia Tonight</title>
@@ -41328,6 +41348,14 @@
     <desc>GENERAL</desc>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001358" start="20260823220000 +0700" stop="20260823230000 +0700">
+    <title>Arirang Prime Ep.249</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20260823230000 +0700" stop="20260824000000 +0700">
+    <title>Gugak The Music Of Korea Ep.154</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001360" start="20260819231500 +0700" stop="20260820000000 +0700">
     <title>อัศจรรย์บันลือโลก</title>
     <desc>อัศจรรย์บันลือโลก</desc>
@@ -45121,8 +45149,8 @@
     <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260822165500 +0700" stop="20260822190000 +0700">
-    <title>LIVE Frauen Bundesliga '26/27: Eintracht Frankfurt v Cologne</title>
-    <desc>The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Eintracht Frankfurt v Cologne.</desc>
+    <title>Serie A Women 25/26: Ternana v Juventus</title>
+    <desc>Serie A Women is the highest league of women's football in Italy. Watch Ternana v Juventus.</desc>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260822190000 +0700" stop="20260822200000 +0700">
@@ -47142,7 +47170,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260819233000 +0700" stop="20260820000000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Modern slavery allegations in Italy's farm sector</title>
+    <desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren’t new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820000000 +0700" stop="20260820000200 +0700">
@@ -47154,7 +47183,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820003000 +0700" stop="20260820010000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: Resisting the right wing; brave photos</title>
+    <desc>How the far-right party, the AfD, wants to bring German culture into line. Human trafficking and exploitation — reports by Indian photojournalist Smita Sharma. And: how activists are fighting neo-Nazi symbols online.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820010000 +0700" stop="20260820010200 +0700">
@@ -47178,7 +47208,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820023000 +0700" stop="20260820030000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How Utrecht became a cyclist's paradise</title>
+    <desc>The Netherlands' Utrecht beat Copenhagen at its own game - becoming a biking and mobility paradise. Plus: the Vietnamese woman supporting her family as an e-hailing driver.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820030000 +0700" stop="20260820030200 +0700">
@@ -47219,7 +47250,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820053000 +0700" stop="20260820060000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Modern slavery allegations in Italy's farm sector</title>
+    <desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren’t new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820060000 +0700" stop="20260820060200 +0700">
@@ -47253,11 +47285,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820080200 +0700" stop="20260820083000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How Utrecht became a cyclist's paradise</title>
+    <desc>The Netherlands' Utrecht beat Copenhagen at its own game - becoming a biking and mobility paradise. Plus: the Vietnamese woman supporting her family as an e-hailing driver.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820083000 +0700" stop="20260820090000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Modern slavery allegations in Italy's farm sector</title>
+    <desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren’t new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820090000 +0700" stop="20260820090200 +0700">
@@ -47297,7 +47331,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820113000 +0700" stop="20260820120000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Modern slavery allegations in Italy's farm sector</title>
+    <desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren’t new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820120000 +0700" stop="20260820120300 +0700">
@@ -47352,7 +47387,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820163000 +0700" stop="20260820170000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Modern slavery allegations in Italy's farm sector</title>
+    <desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren’t new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820170000 +0700" stop="20260820171500 +0700">
@@ -47440,9 +47476,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260820233000 +0700" stop="20260821000000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>DW News: Africa</title>
+    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821000000 +0700" stop="20260821000200 +0700">
     <title>DW News</title>
@@ -47478,7 +47513,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821023000 +0700" stop="20260821030000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Modern slavery allegations in Italy's farm sector</title>
+    <desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren’t new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821030000 +0700" stop="20260821030200 +0700">
@@ -47494,7 +47530,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821033000 +0700" stop="20260821040000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How Utrecht became a cyclist's paradise</title>
+    <desc>The Netherlands' Utrecht beat Copenhagen at its own game - becoming a biking and mobility paradise. Plus: the Vietnamese woman supporting her family as an e-hailing driver.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821040000 +0700" stop="20260821040200 +0700">
@@ -47534,9 +47571,9 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821063000 +0700" stop="20260821070000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>REV: DUI: How alcohol impairs your ability to operate a vehicle</title>
+    <desc>What happens when you drink and drive? Our reporter gets behind the wheel of a driving simulator to find out. Plus: Carl Benz, his wife Bertha and the Patent Motor Car, and how cycling helps a Sudanese refugee in Cairo.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821070000 +0700" stop="20260821070200 +0700">
     <title>DW News</title>
@@ -47656,7 +47693,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821163000 +0700" stop="20260821170000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: an social media turn climate awareness into action?</title>
+    <desc>India's Gen Z has shown online outrage can become impactful action. How can young climate activists also effect change? Plus: Do Ladakh's ghost villages have a future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821170000 +0700" stop="20260821171500 +0700">
@@ -47669,7 +47707,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821173000 +0700" stop="20260821180000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Culture and New Opportunities</title>
+    <desc>How are African creatives turning tradition into opportunity? From world-famous art and Nigerian textiles to dance, fashion and photography, Afrimaxx meets innovators shaping the future.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821180000 +0700" stop="20260821183000 +0700">
@@ -47694,7 +47733,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821193000 +0700" stop="20260821200000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: From blackouts to breakthroughs: Africa goes solar</title>
+    <desc>From Nigeria to Kenya and Ethiopia, solar promises a brighter future. But the boom also poses surprising challenges. Plus: The case of Burundi's vanishing lakes.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821200000 +0700" stop="20260821203000 +0700">
@@ -47726,7 +47766,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821223000 +0700" stop="20260821230000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: an social media turn climate awareness into action?</title>
+    <desc>India's Gen Z has shown online outrage can become impactful action. How can young climate activists also effect change? Plus: Do Ladakh's ghost villages have a future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821230000 +0700" stop="20260821230200 +0700">
@@ -47742,8 +47783,9 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260821233000 +0700" stop="20260822000000 +0700">
-    <title>DW News: Africa</title>
-    <category>News</category>
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822000000 +0700" stop="20260822000200 +0700">
     <title>DW News</title>
@@ -47754,7 +47796,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822003000 +0700" stop="20260822010000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
+    <desc>EVs cut exhaust pollution, but heavier cars mean more pollution from tire wear. Solving one problem by creating another? In Mexico, female delivery drivers want more safety. EU funding aims to modernize Moldova’s trains.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822010000 +0700" stop="20260822010200 +0700">
@@ -47770,7 +47813,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822013000 +0700" stop="20260822020000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Big, bigger, biggest: Record-breaking energy innovations</title>
+    <desc>Nuclear fusion is nearing a breakthrough that could redefine the future of clean energy. Also: Finland's XXL nuclear plant, Germany's mega battery, and Africa's hydrogen revolution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822020000 +0700" stop="20260822020200 +0700">
@@ -47778,7 +47822,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822020200 +0700" stop="20260822021500 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822021500 +0700" stop="20260822030000 +0700">
@@ -47811,7 +47856,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822041500 +0700" stop="20260822043000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822043000 +0700" stop="20260822050000 +0700">
@@ -47823,11 +47869,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822050200 +0700" stop="20260822053000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: The Vietnam War: A Trauma That Lives On</title>
+    <desc>Vietnam: a proxy war between the United States and the Soviet Union left millions dead, and the country devastated. It became a communist state, and its wartime legacy still shapes Vietnam today.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822053000 +0700" stop="20260822060000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822060000 +0700" stop="20260822060200 +0700">
@@ -47843,8 +47891,9 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822063000 +0700" stop="20260822070000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
-    <category>Magazine</category>
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822070000 +0700" stop="20260822070200 +0700">
     <title>DW News</title>
@@ -47854,11 +47903,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822071500 +0700" stop="20260822073000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822073000 +0700" stop="20260822080000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Big, bigger, biggest: Record-breaking energy innovations</title>
+    <desc>Nuclear fusion is nearing a breakthrough that could redefine the future of clean energy. Also: Finland's XXL nuclear plant, Germany's mega battery, and Africa's hydrogen revolution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822080000 +0700" stop="20260822080300 +0700">
@@ -47896,11 +47947,13 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822101500 +0700" stop="20260822103000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822103000 +0700" stop="20260822110000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: The Vietnam War: A Trauma That Lives On</title>
+    <desc>Vietnam: a proxy war between the United States and the Soviet Union left millions dead, and the country devastated. It became a communist state, and its wartime legacy still shapes Vietnam today.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822110000 +0700" stop="20260822110300 +0700">
@@ -47918,10 +47971,11 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20260822120200 +0700" stop="20260822121500 +0700">
     <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822121500 +0700" stop="20260822123000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822123000 +0700" stop="20260822130000 +0700">
@@ -47933,7 +47987,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822130200 +0700" stop="20260822131500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822131500 +0700" stop="20260822140000 +0700">
@@ -47955,7 +48010,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822143000 +0700" stop="20260822150000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822150000 +0700" stop="20260822151500 +0700">
@@ -47976,7 +48032,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822161500 +0700" stop="20260822163000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822163000 +0700" stop="20260822170000 +0700">
@@ -47988,11 +48045,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822171500 +0700" stop="20260822173000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822173000 +0700" stop="20260822180000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822180000 +0700" stop="20260822181500 +0700">
@@ -48022,10 +48081,11 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20260822201500 +0700" stop="20260822203000 +0700">
     <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822203000 +0700" stop="20260822210000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Culture and New Opportunities</title>
+    <desc>How are African creatives turning tradition into opportunity? From world-famous art and Nigerian textiles to dance, fashion and photography, Afrimaxx meets innovators shaping the future.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822210000 +0700" stop="20260822210200 +0700">
@@ -48059,11 +48119,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822231500 +0700" stop="20260822233000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260822233000 +0700" stop="20260823000000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Big, bigger, biggest: Record-breaking energy innovations</title>
+    <desc>Nuclear fusion is nearing a breakthrough that could redefine the future of clean energy. Also: Finland's XXL nuclear plant, Germany's mega battery, and Africa's hydrogen revolution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823000000 +0700" stop="20260823000200 +0700">
@@ -48102,7 +48164,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823020200 +0700" stop="20260823021500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823021500 +0700" stop="20260823030000 +0700">
@@ -48116,7 +48179,7 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20260823030200 +0700" stop="20260823031500 +0700">
     <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823031500 +0700" stop="20260823033000 +0700">
     <title>Reporter: On Location</title>
@@ -48136,7 +48199,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823043000 +0700" stop="20260823050000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
+    <desc>EVs cut exhaust pollution, but heavier cars mean more pollution from tire wear. Solving one problem by creating another? In Mexico, female delivery drivers want more safety. EU funding aims to modernize Moldova’s trains.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823050000 +0700" stop="20260823050300 +0700">
@@ -48154,7 +48218,7 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20260823060200 +0700" stop="20260823061500 +0700">
     <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823061500 +0700" stop="20260823063000 +0700">
     <title>Reporter: On Location</title>
@@ -48174,11 +48238,13 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823071500 +0700" stop="20260823073000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823073000 +0700" stop="20260823080000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: The Vietnam War: A Trauma That Lives On</title>
+    <desc>Vietnam: a proxy war between the United States and the Soviet Union left millions dead, and the country devastated. It became a communist state, and its wartime legacy still shapes Vietnam today.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823080000 +0700" stop="20260823080200 +0700">
@@ -48186,7 +48252,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823080200 +0700" stop="20260823081500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823081500 +0700" stop="20260823090000 +0700">
@@ -48200,14 +48267,16 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20260823090200 +0700" stop="20260823091500 +0700">
     <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823091500 +0700" stop="20260823093000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823093000 +0700" stop="20260823100000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823100000 +0700" stop="20260823100200 +0700">
@@ -48215,11 +48284,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823100200 +0700" stop="20260823103000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: an social media turn climate awareness into action?</title>
+    <desc>India's Gen Z has shown online outrage can become impactful action. How can young climate activists also effect change? Plus: Do Ladakh's ghost villages have a future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823103000 +0700" stop="20260823110000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
+    <desc>EVs cut exhaust pollution, but heavier cars mean more pollution from tire wear. Solving one problem by creating another? In Mexico, female delivery drivers want more safety. EU funding aims to modernize Moldova’s trains.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823110000 +0700" stop="20260823110200 +0700">
@@ -48249,7 +48320,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823123000 +0700" stop="20260823130000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: The Vietnam War: A Trauma That Lives On</title>
+    <desc>Vietnam: a proxy war between the United States and the Soviet Union left millions dead, and the country devastated. It became a communist state, and its wartime legacy still shapes Vietnam today.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823130000 +0700" stop="20260823130300 +0700">
@@ -48267,10 +48339,11 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20260823140200 +0700" stop="20260823141500 +0700">
     <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823141500 +0700" stop="20260823143000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823143000 +0700" stop="20260823150000 +0700">
@@ -48287,7 +48360,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823153000 +0700" stop="20260823160000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: The Vietnam War: A Trauma That Lives On</title>
+    <desc>Vietnam: a proxy war between the United States and the Soviet Union left millions dead, and the country devastated. It became a communist state, and its wartime legacy still shapes Vietnam today.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823160000 +0700" stop="20260823161500 +0700">
@@ -48299,7 +48373,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823163000 +0700" stop="20260823170000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Culture and New Opportunities</title>
+    <desc>How are African creatives turning tradition into opportunity? From world-famous art and Nigerian textiles to dance, fashion and photography, Afrimaxx meets innovators shaping the future.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823170000 +0700" stop="20260823171500 +0700">
@@ -48307,7 +48382,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823171500 +0700" stop="20260823173000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823173000 +0700" stop="20260823180000 +0700">
@@ -48319,11 +48395,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823181500 +0700" stop="20260823183000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823183000 +0700" stop="20260823190000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
+    <desc>EVs cut exhaust pollution, but heavier cars mean more pollution from tire wear. Solving one problem by creating another? In Mexico, female delivery drivers want more safety. EU funding aims to modernize Moldova’s trains.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823190000 +0700" stop="20260823191500 +0700">
@@ -48340,7 +48418,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823201500 +0700" stop="20260823203000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: One last wave - Chilean surfer standing up to cancer</title>
+    <desc>A Chilean surfer who survived neuroblastoma as a child faces new health setbacks as she competes at a major tournament. After months out of the water and ongoing medical checks, she returns to competition, navigating difficult waves, injuries and pressure - while fighting for a place on the podium.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823203000 +0700" stop="20260823210000 +0700">
@@ -48361,7 +48440,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823213000 +0700" stop="20260823220000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Big, bigger, biggest: Record-breaking energy innovations</title>
+    <desc>Nuclear fusion is nearing a breakthrough that could redefine the future of clean energy. Also: Finland's XXL nuclear plant, Germany's mega battery, and Africa's hydrogen revolution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823220000 +0700" stop="20260823220200 +0700">
@@ -48369,7 +48449,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823220200 +0700" stop="20260823223000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Culture and New Opportunities</title>
+    <desc>How are African creatives turning tradition into opportunity? From world-famous art and Nigerian textiles to dance, fashion and photography, Afrimaxx meets innovators shaping the future.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823223000 +0700" stop="20260823230000 +0700">
@@ -48382,14 +48463,16 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20260823230200 +0700" stop="20260823231500 +0700">
     <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823231500 +0700" stop="20260823233000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Faith in the Digital Age</title>
+    <desc>A Polish priest streams on TikTok, a robot shares Buddist teachings in Japan, and AI chatbots offer spiritual guidance. As faith goes digital, questions about trust, authenticity and influence are growing.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260823233000 +0700" stop="20260824000000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
+    <desc>EVs cut exhaust pollution, but heavier cars mean more pollution from tire wear. Solving one problem by creating another? In Mexico, female delivery drivers want more safety. EU funding aims to modernize Moldova’s trains.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001904" start="20260819234000 +0700" stop="20260820003000 +0700">
@@ -53515,13 +53598,21 @@
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260820184500 +0700" stop="20260820210000 +0700">
+  <programme channel="ch0000000000100002181" start="20260820184500 +0700" stop="20260820204500 +0700">
     <title>Schalke 04 vs Real Madrid Pre-season 2026/27</title>
     <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260820210000 +0700" stop="20260820231500 +0700">
+  <programme channel="ch0000000000100002181" start="20260820204500 +0700" stop="20260820210000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260820210000 +0700" stop="20260820230000 +0700">
     <title>Ferencvaros v Real Madrid Pre-season 2026/27</title>
     <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260820230000 +0700" stop="20260820231500 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260820231500 +0700" stop="20260821013000 +0700">
     <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
@@ -53540,7 +53631,7 @@
     <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260821054500 +0700" stop="20260821080000 +0700">
-    <title>Pre-season 202026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
+    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
     <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260821080000 +0700" stop="20260821081500 +0700">
@@ -53567,27 +53658,43 @@
     <title>Classic Matches: Real Madrid vs Villarreal Liga 19/20</title>
     <desc>Real Madrid clinched a record 34th Liga title at home to Villarreal.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260821133000 +0700" stop="20260821150000 +0700">
+  <programme channel="ch0000000000100002181" start="20260821133000 +0700" stop="20260821143000 +0700">
     <title>Champions League Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260821150000 +0700" stop="20260821173000 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  <programme channel="ch0000000000100002181" start="20260821143000 +0700" stop="20260821150000 +0700">
+    <title>Live: Press Conference</title>
+    <desc>Pre-match press conference.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260821173000 +0700" stop="20260821181000 +0700">
-    <title>Champions League Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
+  <programme channel="ch0000000000100002181" start="20260821150000 +0700" stop="20260821153000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260821181000 +0700" stop="20260821202500 +0700">
+  <programme channel="ch0000000000100002181" start="20260821153000 +0700" stop="20260821160000 +0700">
+    <title>Live Training</title>
+    <desc>Catch the regular first team training pre-match.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260821160000 +0700" stop="20260821180000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260821180000 +0700" stop="20260821201000 +0700">
     <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
     <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260821202500 +0700" stop="20260821230000 +0700">
+  <programme channel="ch0000000000100002181" start="20260821201000 +0700" stop="20260821202000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260821202000 +0700" stop="20260821230000 +0700">
     <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
     <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260821230000 +0700" stop="20260822020000 +0700">
+  <programme channel="ch0000000000100002181" start="20260821230000 +0700" stop="20260821231000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260821231000 +0700" stop="20260822020000 +0700">
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
@@ -53627,101 +53734,97 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260822111500 +0700" stop="20260822141000 +0700">
-    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
-    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260822111500 +0700" stop="20260822132500 +0700">
+    <title>Schalke 04 vs Real Madrid Pre-season 2026/27</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260822141000 +0700" stop="20260822144000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260822144000 +0700" stop="20260822171500 +0700">
-    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
-    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260822171500 +0700" stop="20260822182500 +0700">
+  <programme channel="ch0000000000100002181" start="20260822132500 +0700" stop="20260822144000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260822182500 +0700" stop="20260822184500 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20260822144000 +0700" stop="20260822151000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260822184500 +0700" stop="20260822210000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  <programme channel="ch0000000000100002181" start="20260822151000 +0700" stop="20260822180500 +0700">
+    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
+    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260822210000 +0700" stop="20260822231500 +0700">
-    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
-    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
+  <programme channel="ch0000000000100002181" start="20260822180500 +0700" stop="20260822192000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260822231500 +0700" stop="20260823013000 +0700">
-    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
-    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
+  <programme channel="ch0000000000100002181" start="20260822192000 +0700" stop="20260822222500 +0700">
+    <title>Champions League: Manchester City vs Real Madrid 23/24</title>
+    <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260823013000 +0700" stop="20260823014500 +0700">
+  <programme channel="ch0000000000100002181" start="20260822222500 +0700" stop="20260822224500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260822224500 +0700" stop="20260823014500 +0700">
+    <title>Champions League 13/14: Real Madrid vs Atlético de Madrid (10th) La Décima</title>
+    <desc>The first ever cross city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823014500 +0700" stop="20260823020000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260823014500 +0700" stop="20260823033000 +0700">
+  <programme channel="ch0000000000100002181" start="20260823020000 +0700" stop="20260823023000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823023000 +0700" stop="20260823043500 +0700">
+    <title>Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823043500 +0700" stop="20260823070000 +0700">
+    <title>Champions League 16/17: Juventus vs Real Madrid (12th) La Duodécima</title>
+    <desc>Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823070000 +0700" stop="20260823071500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823071500 +0700" stop="20260823091500 +0700">
+    <title>Champions League 17/18: Juventus vs Real Madrid</title>
+    <desc>Zinedine Zidane's side conquer Turin with a sensational Real Madrid´s perfomance.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823091500 +0700" stop="20260823110000 +0700">
     <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
     <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260823033000 +0700" stop="20260823054500 +0700">
-    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
-    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
+  <programme channel="ch0000000000100002181" start="20260823110000 +0700" stop="20260823111500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260823054500 +0700" stop="20260823075000 +0700">
-    <title>Deportivo v Real Madrid Pre-season 26/27</title>
+  <programme channel="ch0000000000100002181" start="20260823111500 +0700" stop="20260823144500 +0700">
+    <title>Champions League 15/16: Real Madrid vs Atlético de Madrid (11th) La Undécima</title>
+    <desc>Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823144500 +0700" stop="20260823172500 +0700">
+    <title>Champions League 16/17: Juventus vs Real Madrid (12th) La Duodécima</title>
+    <desc>Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823172500 +0700" stop="20260823194000 +0700">
+    <title>Champions League 17/18: Real Madrid vs Liverpool (13th) La Decimotercera</title>
+    <desc>Watch Los Blancos complete a unique hat-trick</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823194000 +0700" stop="20260823200000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823200000 +0700" stop="20260823230500 +0700">
+    <title>Champions League: Manchester City vs Real Madrid 23/24</title>
+    <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823230500 +0700" stop="20260823232000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260823232000 +0700" stop="20260824013000 +0700">
+    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
     <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823075000 +0700" stop="20260823080500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823080500 +0700" stop="20260823101000 +0700">
-    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
-    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823101000 +0700" stop="20260823103000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823103000 +0700" stop="20260823105000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823105000 +0700" stop="20260823110500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823110500 +0700" stop="20260823133000 +0700">
-    <title>Classic Matches: Real Madrid vs Villarreal Liga 19/20</title>
-    <desc>Real Madrid clinched a record 34th Liga title at home to Villarreal.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823133000 +0700" stop="20260823150000 +0700">
-    <title>Champions League Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823150000 +0700" stop="20260823173000 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823173000 +0700" stop="20260823181000 +0700">
-    <title>Champions League Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823181000 +0700" stop="20260823202500 +0700">
-    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
-    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823202500 +0700" stop="20260823230000 +0700">
-    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
-    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260823230000 +0700" stop="20260824020000 +0700">
-    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
-    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260819000000 +0700" stop="20260820000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -53854,9 +53957,111 @@
     <category lang="th">Golf</category>
     <category lang="en">Boxing</category>
   </programme>
-  <programme channel="ch0000000000100002261" start="20260822010500 +0700" stop="20260822040000 +0700">
-    <title lang="th">มวยราชดำเนิน น็อกเอาต์ (21 สิงหาคม 2026)</title>
-    <title lang="en">Rajadamnern Knockout (21 August 2026)</title>
+  <programme channel="ch0000000000100002261" start="20260822010500 +0700" stop="20260822035500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (21 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (21 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260822035500 +0700" stop="20260822080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (18 กรกฎาคม 2026) - คู่ที่ 3</title>
+    <title lang="en">RERUN: Rajadamnern World Series (18 July 2026) - Match 3</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260822080000 +0700" stop="20260822105000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (21 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (21 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260822105000 +0700" stop="20260822150000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (25 กรกฎาคม 2026) - คู่ที่ 6</title>
+    <title lang="en">RERUN: Rajadamnern World Series (25 July 2026) - Match 6</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260822150000 +0700" stop="20260822175000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (21 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (21 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260822175000 +0700" stop="20260822191000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (08 สิงหาคม 2026) - คู่ที่ 4</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (08 AUG 2026) - Match 4</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260822191000 +0700" stop="20260822223000 +0700">
+    <title lang="th">LIVE: มวยราชดำเนิน เวิลด์ ซีรีส์ (22 สิงหาคม 2026)</title>
+    <title lang="en">LIVE: Rajadamnern World Series (22 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260822223000 +0700" stop="20260823011000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823011000 +0700" stop="20260823035500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (17 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (17 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823035500 +0700" stop="20260823071500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (22 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern World Series (22 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823071500 +0700" stop="20260823080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823080000 +0700" stop="20260823104500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (17 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (17 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823104500 +0700" stop="20260823140500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์ (22 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern World Series (22 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823140500 +0700" stop="20260823150000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823150000 +0700" stop="20260823174500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (17 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (17 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823174500 +0700" stop="20260823180000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823180000 +0700" stop="20260823200000 +0700">
+    <title lang="th">ศึกเกียรติเพชร (23 สิงหาคม 2026)</title>
+    <title lang="en">Kiatpetc (23 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260823200000 +0700" stop="20260824010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
     <category lang="th">Golf</category>
     <category lang="en">Boxing</category>
   </programme>
@@ -55020,9 +55225,99 @@
     <title lang="en">Volvo China Open Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260822183000 +0700" stop="20260823050000 +0700">
+  <programme channel="ch0000000000100002528" start="20260822183000 +0700" stop="20260822230000 +0700">
     <title lang="th">LIVE: เน็กโซแชมเปียนชิป รอบ 3</title>
     <title lang="en">LIVE: Nexo Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260822230000 +0700" stop="20260822232500 +0700">
+    <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">GENESIS SCOTTISH OPEN Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260822232500 +0700" stop="20260822235000 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Danish Golf Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260822235000 +0700" stop="20260823045000 +0700">
+    <title lang="th">รีรัน: เน็กโซแชมเปียนชิป รอบ 2</title>
+    <title lang="en">RERUN: Nexo Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823045000 +0700" stop="20260823052000 +0700">
+    <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823052000 +0700" stop="20260823055000 +0700">
+    <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823055000 +0700" stop="20260823062000 +0700">
+    <title lang="th">เคแอลเอ็ม โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KLM Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823062000 +0700" stop="20260823105000 +0700">
+    <title lang="th">รีรัน: เน็กโซแชมเปียนชิป รอบ 3</title>
+    <title lang="en">RERUN: Nexo Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823105000 +0700" stop="20260823111500 +0700">
+    <title lang="th">โอเพ่น ดิ อิตาเลีย ไฮไลต์ รอบ 3</title>
+    <title lang="en">Open d'Italia Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823111500 +0700" stop="20260823114000 +0700">
+    <title lang="th">โอเพ่น ดิ อิตาเลีย ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open d'Italia Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823114000 +0700" stop="20260823121000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW International Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823121000 +0700" stop="20260823164000 +0700">
+    <title lang="th">รีรัน: เน็กโซแชมเปียนชิป รอบ 3</title>
+    <title lang="en">RERUN: Nexo Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823164000 +0700" stop="20260823170500 +0700">
+    <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 2</title>
+    <title lang="en">Nexo Championship Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823170500 +0700" stop="20260823173000 +0700">
+    <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 3</title>
+    <title lang="en">Nexo Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823173000 +0700" stop="20260823223000 +0700">
+    <title lang="th">LIVE: เน็กโซแชมเปียนชิป รอบสุดท้าย</title>
+    <title lang="en">LIVE: Nexo Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823223000 +0700" stop="20260823225500 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Volvo China Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823225500 +0700" stop="20260823232500 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Turkish Airlines Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823232500 +0700" stop="20260823235000 +0700">
+    <title lang="th">เอสเตรยา ดัมม์ คาตาลุนญาแชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Estrella Damm Catalunya Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260823235000 +0700" stop="20260824002000 +0700">
+    <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Soudal Open Highlights Final</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260819220000 +0700" stop="20260820100000 +0700">
