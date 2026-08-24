@@ -450,74 +450,20 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
   <channel id="ch0000000000100002524">
     <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <channel id="ch0000000000100002532">
     <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
   </channel>
   <channel id="ch0000000000100002753">
     <display-name>ch0000000000100002753</display-name>
@@ -525,26 +471,80 @@
   <channel id="ch0000000000100002541">
     <display-name>ch0000000000100002541</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <channel id="ch0000000000100002754">
     <display-name>ch0000000000100002754</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
   <channel id="ch0000000000100001292">
     <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260822224000 +0700" stop="20260823002500 +0700">
     <title>Wanted</title>
@@ -22606,6 +22606,1275 @@
   </programme>
   <programme channel="ch0000000000100001190" start="20260824034400 +0700" stop="20260824040000 +0700">
     <title>Wars and Disasters: Lebanon's Soft Power Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824040000 +0700" stop="20260824041200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824041200 +0700" stop="20260824043000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824043000 +0700" stop="20260824044400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824044400 +0700" stop="20260824050000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824050000 +0700" stop="20260824051200 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824051200 +0700" stop="20260824053000 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824053000 +0700" stop="20260824054200 +0700">
+    <title>Wars and Disasters: Mercenaries Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824054200 +0700" stop="20260824060000 +0700">
+    <title>Wars and Disasters: Mercenaries Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824060000 +0700" stop="20260824061400 +0700">
+    <title>Politics: Battle For Africa Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824061400 +0700" stop="20260824063000 +0700">
+    <title>Politics: Battle For Africa Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824063000 +0700" stop="20260824064100 +0700">
+    <title>Politics: Battle For Africa Part 3</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824064100 +0700" stop="20260824070000 +0700">
+    <title>Politics: Battle For Africa Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824070000 +0700" stop="20260824071400 +0700">
+    <title>Out Of Cycle: H2woe Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824071400 +0700" stop="20260824073000 +0700">
+    <title>Out Of Cycle: H2woe Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824073000 +0700" stop="20260824074200 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824074200 +0700" stop="20260824080000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824080000 +0700" stop="20260824081300 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824081300 +0700" stop="20260824083000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 4</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824083000 +0700" stop="20260824084300 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824084300 +0700" stop="20260824090000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824090000 +0700" stop="20260824091400 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824091400 +0700" stop="20260824093000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824093000 +0700" stop="20260824094200 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824094200 +0700" stop="20260824100000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824100000 +0700" stop="20260824101500 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824101500 +0700" stop="20260824103000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824103000 +0700" stop="20260824104200 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824104200 +0700" stop="20260824110000 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824110000 +0700" stop="20260824111300 +0700">
+    <title>American Story: Cicadas V USA Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824111300 +0700" stop="20260824113000 +0700">
+    <title>American Story: Cicadas V USA Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824113000 +0700" stop="20260824114300 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824114300 +0700" stop="20260824120000 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824120000 +0700" stop="20260824121200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824121200 +0700" stop="20260824123000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824123000 +0700" stop="20260824124400 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824124400 +0700" stop="20260824130000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824130000 +0700" stop="20260824131300 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824131300 +0700" stop="20260824133000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824133000 +0700" stop="20260824134300 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824134300 +0700" stop="20260824140000 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824140000 +0700" stop="20260824143000 +0700">
+    <title>This Is China: Following The Great Tea Road</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824143000 +0700" stop="20260824144300 +0700">
+    <title>Art Lounge: Psychiartry Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824144300 +0700" stop="20260824150000 +0700">
+    <title>Art Lounge: Psychiartry Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824150000 +0700" stop="20260824153800 +0700">
+    <title>Wars and Disasters: Combat Medic. Battle For Life</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824153800 +0700" stop="20260824160000 +0700">
+    <title>My Life, My Way: The Wizard Of Agarkovo</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824160000 +0700" stop="20260824161300 +0700">
+    <title>For Real: Granny Fight Club Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824161300 +0700" stop="20260824163000 +0700">
+    <title>For Real: Granny Fight Club Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824163000 +0700" stop="20260824164200 +0700">
+    <title>Out Of Cycle: Red Waters Part 1</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824164200 +0700" stop="20260824170000 +0700">
+    <title>Out Of Cycle: Red Waters Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824170000 +0700" stop="20260824171200 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824171200 +0700" stop="20260824173000 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824173000 +0700" stop="20260824174200 +0700">
+    <title>Wars and Disasters: Mercenaries Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824174200 +0700" stop="20260824180000 +0700">
+    <title>Wars and Disasters: Mercenaries Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824180000 +0700" stop="20260824181400 +0700">
+    <title>Politics: Battle For Africa Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824181400 +0700" stop="20260824183000 +0700">
+    <title>Politics: Battle For Africa Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824183000 +0700" stop="20260824184100 +0700">
+    <title>Politics: Battle For Africa Part 3</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824184100 +0700" stop="20260824190000 +0700">
+    <title>Politics: Battle For Africa Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824190000 +0700" stop="20260824191200 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824191200 +0700" stop="20260824193000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824193000 +0700" stop="20260824194300 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824194300 +0700" stop="20260824200000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824200000 +0700" stop="20260824201300 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 1</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824201300 +0700" stop="20260824203000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824203000 +0700" stop="20260824204400 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824204400 +0700" stop="20260824210000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824210000 +0700" stop="20260824211200 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824211200 +0700" stop="20260824213000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824213000 +0700" stop="20260824214500 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 3</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824214500 +0700" stop="20260824220000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824220000 +0700" stop="20260824221200 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824221200 +0700" stop="20260824223000 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824223000 +0700" stop="20260824224300 +0700">
+    <title>American Story: Cicadas V USA Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824224300 +0700" stop="20260824230000 +0700">
+    <title>American Story: Cicadas V USA Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824230000 +0700" stop="20260824231300 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824231300 +0700" stop="20260824233000 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824233000 +0700" stop="20260824234400 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260824234400 +0700" stop="20260825000000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825000000 +0700" stop="20260825001300 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 3</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825001300 +0700" stop="20260825003000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825003000 +0700" stop="20260825004300 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825004300 +0700" stop="20260825010000 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825010000 +0700" stop="20260825013000 +0700">
+    <title>This Is China: Following The Great Tea Road</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825013000 +0700" stop="20260825014300 +0700">
+    <title>Art Lounge: Psychiartry Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825014300 +0700" stop="20260825020000 +0700">
+    <title>Art Lounge: Psychiartry Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825020000 +0700" stop="20260825023800 +0700">
+    <title>Wars and Disasters: Combat Medic. Battle For Life</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825023800 +0700" stop="20260825030000 +0700">
+    <title>My Life, My Way: The Wizard Of Agarkovo</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825030000 +0700" stop="20260825031300 +0700">
+    <title>For Real: Granny Fight Club Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825031300 +0700" stop="20260825033000 +0700">
+    <title>For Real: Granny Fight Club Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825033000 +0700" stop="20260825034200 +0700">
+    <title>Out Of Cycle: Red Waters Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825034200 +0700" stop="20260825040000 +0700">
+    <title>Out Of Cycle: Red Waters Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825040000 +0700" stop="20260825041300 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825041300 +0700" stop="20260825043000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825043000 +0700" stop="20260825044400 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825044400 +0700" stop="20260825050000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 4</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825050000 +0700" stop="20260825051200 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825051200 +0700" stop="20260825053000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825053000 +0700" stop="20260825054500 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825054500 +0700" stop="20260825060000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825060000 +0700" stop="20260825061200 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825061200 +0700" stop="20260825063000 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825063000 +0700" stop="20260825064300 +0700">
+    <title>American Story: Cicadas V USA Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825064300 +0700" stop="20260825070000 +0700">
+    <title>American Story: Cicadas V USA Part 2</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825070000 +0700" stop="20260825071300 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825071300 +0700" stop="20260825073000 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825073000 +0700" stop="20260825074200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825074200 +0700" stop="20260825080000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825080000 +0700" stop="20260825081400 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825081400 +0700" stop="20260825083000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825083000 +0700" stop="20260825084300 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825084300 +0700" stop="20260825090000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 4</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825090000 +0700" stop="20260825091300 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825091300 +0700" stop="20260825093000 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825093000 +0700" stop="20260825100000 +0700">
+    <title>This Is China: Following The Great Tea Road</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825100000 +0700" stop="20260825101300 +0700">
+    <title>Art Lounge: Psychiartry Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825101300 +0700" stop="20260825103000 +0700">
+    <title>Art Lounge: Psychiartry Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825103000 +0700" stop="20260825110800 +0700">
+    <title>Wars and Disasters: Combat Medic. Battle For Life</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825110800 +0700" stop="20260825113000 +0700">
+    <title>My Life, My Way: The Wizard Of Agarkovo</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825113000 +0700" stop="20260825114300 +0700">
+    <title>For Real: Granny Fight Club Part 1</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825114300 +0700" stop="20260825120000 +0700">
+    <title>For Real: Granny Fight Club Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825120000 +0700" stop="20260825121200 +0700">
+    <title>Out Of Cycle: Red Waters Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825121200 +0700" stop="20260825123000 +0700">
+    <title>Out Of Cycle: Red Waters Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825123000 +0700" stop="20260825124200 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825124200 +0700" stop="20260825130000 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825130000 +0700" stop="20260825131200 +0700">
+    <title>Wars and Disasters: Mercenaries Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825131200 +0700" stop="20260825133000 +0700">
+    <title>Wars and Disasters: Mercenaries Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825133000 +0700" stop="20260825134400 +0700">
+    <title>Politics: Battle For Africa Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825134400 +0700" stop="20260825140000 +0700">
+    <title>Politics: Battle For Africa Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825140000 +0700" stop="20260825141100 +0700">
+    <title>Politics: Battle For Africa Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825141100 +0700" stop="20260825143000 +0700">
+    <title>Politics: Battle For Africa Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825143000 +0700" stop="20260825144200 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825144200 +0700" stop="20260825150000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825150000 +0700" stop="20260825151300 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825151300 +0700" stop="20260825153000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825153000 +0700" stop="20260825154300 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825154300 +0700" stop="20260825160000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825160000 +0700" stop="20260825161400 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825161400 +0700" stop="20260825163000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825163000 +0700" stop="20260825164200 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825164200 +0700" stop="20260825170000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825170000 +0700" stop="20260825171500 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825171500 +0700" stop="20260825173000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825173000 +0700" stop="20260825174200 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825174200 +0700" stop="20260825180000 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825180000 +0700" stop="20260825181300 +0700">
+    <title>American Story: Cicadas V USA Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825181300 +0700" stop="20260825183000 +0700">
+    <title>American Story: Cicadas V USA Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825183000 +0700" stop="20260825184300 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825184300 +0700" stop="20260825190000 +0700">
+    <title>Daily Bread: Russia's Nica: Big Bang Questions Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825190000 +0700" stop="20260825191400 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825191400 +0700" stop="20260825193000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825193000 +0700" stop="20260825194300 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825194300 +0700" stop="20260825200000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825200000 +0700" stop="20260825201300 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825201300 +0700" stop="20260825203000 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825203000 +0700" stop="20260825210000 +0700">
+    <title>This Is China: Following The Great Tea Road</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825210000 +0700" stop="20260825211300 +0700">
+    <title>Art Lounge: Psychiartry Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825211300 +0700" stop="20260825213000 +0700">
+    <title>Art Lounge: Psychiartry Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825213000 +0700" stop="20260825220800 +0700">
+    <title>Wars and Disasters: Combat Medic. Battle For Life</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825220800 +0700" stop="20260825223000 +0700">
+    <title>My Life, My Way: The Wizard Of Agarkovo</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825223000 +0700" stop="20260825224300 +0700">
+    <title>For Real: Granny Fight Club Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825224300 +0700" stop="20260825230000 +0700">
+    <title>For Real: Granny Fight Club Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825230000 +0700" stop="20260825231200 +0700">
+    <title>Out Of Cycle: Red Waters Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825231200 +0700" stop="20260825233000 +0700">
+    <title>Out Of Cycle: Red Waters Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825233000 +0700" stop="20260825234200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260825234200 +0700" stop="20260826000000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826000000 +0700" stop="20260826001400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826001400 +0700" stop="20260826003000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826003000 +0700" stop="20260826004200 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826004200 +0700" stop="20260826010000 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826010000 +0700" stop="20260826011200 +0700">
+    <title>Wars and Disasters: Mercenaries Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826011200 +0700" stop="20260826013000 +0700">
+    <title>Wars and Disasters: Mercenaries Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826013000 +0700" stop="20260826014400 +0700">
+    <title>Politics: Battle For Africa Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826014400 +0700" stop="20260826020000 +0700">
+    <title>Politics: Battle For Africa Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826020000 +0700" stop="20260826021100 +0700">
+    <title>Politics: Battle For Africa Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826021100 +0700" stop="20260826023000 +0700">
+    <title>Politics: Battle For Africa Part 4</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826023000 +0700" stop="20260826024400 +0700">
+    <title>Out Of Cycle: H2woe Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826024400 +0700" stop="20260826030000 +0700">
+    <title>Out Of Cycle: H2woe Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826030000 +0700" stop="20260826031200 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826031200 +0700" stop="20260826033000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826033000 +0700" stop="20260826034300 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826034300 +0700" stop="20260826040000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826040000 +0700" stop="20260826041300 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826041300 +0700" stop="20260826043000 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 2</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826043000 +0700" stop="20260826050000 +0700">
+    <title>This Is China: Following The Great Tea Road</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826050000 +0700" stop="20260826051300 +0700">
+    <title>Art Lounge: Psychiartry Part 1</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826051300 +0700" stop="20260826053000 +0700">
+    <title>Art Lounge: Psychiartry Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826053000 +0700" stop="20260826060800 +0700">
+    <title>Wars and Disasters: Combat Medic. Battle For Life</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826060800 +0700" stop="20260826063000 +0700">
+    <title>My Life, My Way: The Wizard Of Agarkovo</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826063000 +0700" stop="20260826064300 +0700">
+    <title>For Real: Granny Fight Club Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826064300 +0700" stop="20260826070000 +0700">
+    <title>For Real: Granny Fight Club Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826070000 +0700" stop="20260826071200 +0700">
+    <title>Out Of Cycle: Red Waters Part 1</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826071200 +0700" stop="20260826073000 +0700">
+    <title>Out Of Cycle: Red Waters Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826073000 +0700" stop="20260826074200 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 1</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826074200 +0700" stop="20260826080000 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826080000 +0700" stop="20260826081300 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826081300 +0700" stop="20260826083000 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826083000 +0700" stop="20260826084200 +0700">
+    <title>Wars and Disasters: Mercenaries Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826084200 +0700" stop="20260826090000 +0700">
+    <title>Wars and Disasters: Mercenaries Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826090000 +0700" stop="20260826091400 +0700">
+    <title>Politics: Battle For Africa Part 1</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826091400 +0700" stop="20260826093000 +0700">
+    <title>Politics: Battle For Africa Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826093000 +0700" stop="20260826094100 +0700">
+    <title>Politics: Battle For Africa Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826094100 +0700" stop="20260826100000 +0700">
+    <title>Politics: Battle For Africa Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826100000 +0700" stop="20260826101200 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 1</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826101200 +0700" stop="20260826103000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826103000 +0700" stop="20260826104300 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826104300 +0700" stop="20260826110000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826110000 +0700" stop="20260826111300 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 1</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826111300 +0700" stop="20260826113000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826113000 +0700" stop="20260826114400 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826114400 +0700" stop="20260826120000 +0700">
+    <title>Art Lounge: Russian Craft: handmade History Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826120000 +0700" stop="20260826121200 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 1</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826121200 +0700" stop="20260826123000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826123000 +0700" stop="20260826124500 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 3</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826124500 +0700" stop="20260826130000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826130000 +0700" stop="20260826131200 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 1</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826131200 +0700" stop="20260826133000 +0700">
+    <title>Wars and Disasters: Nuclear Blackmail Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826133000 +0700" stop="20260826134300 +0700">
+    <title>American Story: Cicadas V USA Part 1</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826134300 +0700" stop="20260826140000 +0700">
+    <title>American Story: Cicadas V USA Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826140000 +0700" stop="20260826141400 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826141400 +0700" stop="20260826143000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826143000 +0700" stop="20260826144300 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 3</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826144300 +0700" stop="20260826150000 +0700">
+    <title>Wars and Disasters: Notes From An American In Donbass Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826150000 +0700" stop="20260826151300 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826151300 +0700" stop="20260826153000 +0700">
+    <title>Discovering Russia: Intervision: happy Moments Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826153000 +0700" stop="20260826160000 +0700">
+    <title>This Is China: Following The Great Tea Road</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826160000 +0700" stop="20260826161300 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826161300 +0700" stop="20260826163000 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826163000 +0700" stop="20260826164300 +0700">
+    <title>Art Lounge: Psychiartry Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826164300 +0700" stop="20260826170000 +0700">
+    <title>Art Lounge: Psychiartry Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826170000 +0700" stop="20260826173800 +0700">
+    <title>Wars and Disasters: Combat Medic. Battle For Life</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826173800 +0700" stop="20260826180000 +0700">
+    <title>My Life, My Way: The Wizard Of Agarkovo</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826180000 +0700" stop="20260826181300 +0700">
+    <title>For Real: Granny Fight Club Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826181300 +0700" stop="20260826183000 +0700">
+    <title>For Real: Granny Fight Club Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826183000 +0700" stop="20260826184200 +0700">
+    <title>Out Of Cycle: Red Waters Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826184200 +0700" stop="20260826190000 +0700">
+    <title>Out Of Cycle: Red Waters Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826190000 +0700" stop="20260826191200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826191200 +0700" stop="20260826193000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826193000 +0700" stop="20260826194400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826194400 +0700" stop="20260826200000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826200000 +0700" stop="20260826201200 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826201200 +0700" stop="20260826203000 +0700">
+    <title>Historical Files: Namibia.pain To Pay Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826203000 +0700" stop="20260826204200 +0700">
+    <title>Wars and Disasters: Mercenaries Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826204200 +0700" stop="20260826210000 +0700">
+    <title>Wars and Disasters: Mercenaries Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826210000 +0700" stop="20260826211400 +0700">
+    <title>Politics: Battle For Africa Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826211400 +0700" stop="20260826213000 +0700">
+    <title>Politics: Battle For Africa Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826213000 +0700" stop="20260826214100 +0700">
+    <title>Politics: Battle For Africa Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826214100 +0700" stop="20260826220000 +0700">
+    <title>Politics: Battle For Africa Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826220000 +0700" stop="20260826221400 +0700">
+    <title>Out Of Cycle: H2woe Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826221400 +0700" stop="20260826223000 +0700">
+    <title>Out Of Cycle: H2woe Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826223000 +0700" stop="20260826224200 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826224200 +0700" stop="20260826230000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826230000 +0700" stop="20260826231300 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 3</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826231300 +0700" stop="20260826233000 +0700">
+    <title>Wars and Disasters: Donbass."Nevsky" Brigade Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826233000 +0700" stop="20260826234200 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260826234200 +0700" stop="20260827000000 +0700">
+    <title>My Life, My Way: Green Sheep Drive Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001191" start="20260822233600 +0700" stop="20260823002400 +0700">
@@ -52433,7 +53702,17 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002531" start="20260824000000 +0700" stop="20260825000000 +0700">
+  <programme channel="ch0000000000100002531" start="20260824000000 +0700" stop="20260824020000 +0700">
+    <title lang="th">เริ่มเวลา 02:00 เอทีพี 250 วินสตัน-ซาเล็ม โอเพ่น วันที่ 1</title>
+    <title lang="en">UPCOMING at 2AM: ATP 250 Winston-Salem Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260824020000 +0700" stop="20260824093000 +0700">
+    <title lang="th">LIVE: เอทีพี 250 วินสตัน-ซาเล็ม โอเพ่น วันที่ 1</title>
+    <title lang="en">LIVE: ATP 250 Winston-Salem Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002531" start="20260824093000 +0700" stop="20260825000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
