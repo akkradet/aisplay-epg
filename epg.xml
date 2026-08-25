@@ -305,25 +305,10 @@
     <display-name lang="en">PLAY SPORTS 57</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151431051870.png"/>
   </channel>
-  <channel id="ch0000000000100002644">
-    <display-name lang="th">เพลย์สปอร์ต 58</display-name>
-    <display-name lang="en">PLAY SPORTS 58</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151504051971.png"/>
-  </channel>
   <channel id="ch0000000000100002511">
     <display-name lang="th">เพลย์สปอร์ต 61</display-name>
     <display-name lang="en">PLAY SPORTS 61</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226102333034473.png"/>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name lang="th">เพลย์สปอร์ต 62</display-name>
-    <display-name lang="en">PLAY SPORTS 62</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226104956034555.png"/>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name lang="th">เพลย์สปอร์ต 64</display-name>
-    <display-name lang="en">PLAY SPORTS 64</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226110300034557.png"/>
   </channel>
   <channel id="ch0000000000100002525">
     <display-name lang="th">เพลย์สปอร์ต 66</display-name>
@@ -339,11 +324,6 @@
     <display-name lang="th">เพลย์สปอร์ต 71</display-name>
     <display-name lang="en">PLAY SPORTS 71</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094208034571.png"/>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name lang="th">เพลย์สปอร์ต 72</display-name>
-    <display-name lang="en">PLAY SPORTS 72</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094343034572.png"/>
   </channel>
   <channel id="ch0000000000100002701">
     <display-name lang="th">เพลย์สปอร์ต 90</display-name>
@@ -450,101 +430,113 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
   <channel id="ch0000000000100002752">
     <display-name>ch0000000000100002752</display-name>
   </channel>
   <channel id="ch0000000000100001291">
     <display-name>ch0000000000100001291</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
   <channel id="ch0000000000100001153">
     <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260823234500 +0700" stop="20260824010500 +0700">
     <title>It'S A Hard Truth, Ain'T It</title>
@@ -34983,7 +34975,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260825233000 +0700" stop="20260826000000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>U.S. political scientist Stephen Walt argues that the Trump White House is making the U.S. weaker globally.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260826000000 +0700" stop="20260826003000 +0700">
     <title>News Live</title>
@@ -35004,7 +34996,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260826023000 +0700" stop="20260826030000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can Europe withstand the double shock of heatwaves and energy crunch?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260826030000 +0700" stop="20260826033000 +0700">
@@ -35063,7 +35055,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260826113000 +0700" stop="20260826120000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>U.S. political scientist Stephen Walt argues that the Trump White House is making the U.S. weaker globally.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260826120000 +0700" stop="20260826123000 +0700">
     <title>News Live</title>
@@ -35080,7 +35072,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260826133000 +0700" stop="20260826140000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can Europe withstand the double shock of heatwaves and energy crunch?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260826140000 +0700" stop="20260826150000 +0700">
@@ -37738,7 +37730,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001355" start="20260827170000 +0700" stop="20260827180000 +0700">
-    <title>_11/9/2025</title>
+    <title>'11/9/2025</title>
     <desc>A round-up of the day's local, international and entertainment news and sports reports.</desc>
     <category>News</category>
   </programme>
@@ -51221,7 +51213,7 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260825073000 +0700" stop="20260825080000 +0700">
-    <title>Real Madrid Highlights w</title>
+    <title>Real Madrid Highlights</title>
     <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260825080000 +0700" stop="20260825081500 +0700">
@@ -51244,31 +51236,39 @@
     <title>Classic Matches: Real Madrid vs Espanyol Liga 21/22</title>
     <desc>Real Madrid host Espanyol in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260825132500 +0700" stop="20260825144000 +0700">
+  <programme channel="ch0000000000100002181" start="20260825132500 +0700" stop="20260825143000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260825144000 +0700" stop="20260825150000 +0700">
+  <programme channel="ch0000000000100002181" start="20260825143000 +0700" stop="20260825150000 +0700">
     <title>Real Madrid Highlights</title>
     <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260825150000 +0700" stop="20260825173000 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  <programme channel="ch0000000000100002181" start="20260825150000 +0700" stop="20260825153000 +0700">
+    <title>Live Training</title>
+    <desc>Catch the regular first team training pre-match.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260825173000 +0700" stop="20260825180000 +0700">
+  <programme channel="ch0000000000100002181" start="20260825153000 +0700" stop="20260825161500 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260825161500 +0700" stop="20260825164500 +0700">
+    <title>Live Training</title>
+    <desc>Catch the regular first team training pre-match.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260825164500 +0700" stop="20260825180000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260825180000 +0700" stop="20260825201500 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260825201500 +0700" stop="20260825212000 +0700">
+  <programme channel="ch0000000000100002181" start="20260825201500 +0700" stop="20260825212500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260825212000 +0700" stop="20260825214000 +0700">
+  <programme channel="ch0000000000100002181" start="20260825212500 +0700" stop="20260825214000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
@@ -51365,8 +51365,8 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260827050000 +0700" stop="20260827071500 +0700">
-    <title>TBC: Liga 26/27: Espanyol vs Real Madrid</title>
-    <desc>TBC: Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260827071500 +0700" stop="20260827073000 +0700">
     <title>Real Madrid News</title>
@@ -51392,29 +51392,21 @@
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260827151500 +0700" stop="20260827155000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20260827151500 +0700" stop="20260827170500 +0700">
+    <title>Classic Matches: 1960 European Cup (5th) La Quinta</title>
+    <desc>Eintracht Frankfurt vs Real Madrid 59/60. Real Madrid won their fifth European Cup in Glasgow, Scotland</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260827155000 +0700" stop="20260827182500 +0700">
+  <programme channel="ch0000000000100002181" start="20260827170500 +0700" stop="20260827194000 +0700">
     <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
     <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260827182500 +0700" stop="20260827192500 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260827192500 +0700" stop="20260827194000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260827194000 +0700" stop="20260827231000 +0700">
     <title>Champions League 15/16: Real Madrid vs Atlético de Madrid (11th) La Undécima</title>
     <desc>Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260827231000 +0700" stop="20260828013000 +0700">
-    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
-    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260823000000 +0700" stop="20260824000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
