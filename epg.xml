@@ -430,23 +430,89 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
   </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
   <channel id="ch0000000000100002742">
     <display-name>ch0000000000100002742</display-name>
   </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
   </channel>
   <channel id="ch0000000000100002722">
     <display-name>ch0000000000100002722</display-name>
@@ -454,89 +520,23 @@
   <channel id="ch0000000000100002754">
     <display-name>ch0000000000100002754</display-name>
   </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
   <channel id="ch0000000000100002523">
     <display-name>ch0000000000100002523</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
   </channel>
   <channel id="ch0000000000100001284">
     <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260824232000 +0700" stop="20260825011000 +0700">
     <title>Breslin And Hamill: Deadline Artists</title>
@@ -38524,6 +38524,1207 @@
     <title>Best of DW Podcasts: Best of DW Podcasts</title>
     <desc>Best of DW Podcasts: Best of DW Podcasts</desc>
   </programme>
+  <programme channel="ch0000000000100001357" start="20260824233000 +0700" stop="20260825000000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825000000 +0700" stop="20260825001000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825001000 +0700" stop="20260825003000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825003000 +0700" stop="20260825004000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825004000 +0700" stop="20260825010000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825010000 +0700" stop="20260825013000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825013000 +0700" stop="20260825020000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825020000 +0700" stop="20260825021500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825021500 +0700" stop="20260825023000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825023000 +0700" stop="20260825024500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825024500 +0700" stop="20260825030000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825030000 +0700" stop="20260825031500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825031500 +0700" stop="20260825033000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825033000 +0700" stop="20260825034500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825034500 +0700" stop="20260825040000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825040000 +0700" stop="20260825041500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825041500 +0700" stop="20260825043000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825043000 +0700" stop="20260825044500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825044500 +0700" stop="20260825050000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825050000 +0700" stop="20260825051200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825051200 +0700" stop="20260825052400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825052400 +0700" stop="20260825053000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825053000 +0700" stop="20260825054200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825054200 +0700" stop="20260825060000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825060000 +0700" stop="20260825061500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825061500 +0700" stop="20260825062000 +0700">
+    <title>Focus</title>
+    <category>MG098455</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825062000 +0700" stop="20260825063000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825063000 +0700" stop="20260825064500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825064500 +0700" stop="20260825070000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825070000 +0700" stop="20260825071500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825071500 +0700" stop="20260825073000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825073000 +0700" stop="20260825074500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825074500 +0700" stop="20260825080000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825080000 +0700" stop="20260825081000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825081000 +0700" stop="20260825083000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825083000 +0700" stop="20260825084000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825084000 +0700" stop="20260825090000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825090000 +0700" stop="20260825091500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825091500 +0700" stop="20260825093000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825093000 +0700" stop="20260825094500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825094500 +0700" stop="20260825100000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825100000 +0700" stop="20260825101500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825101500 +0700" stop="20260825103000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825103000 +0700" stop="20260825104500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825104500 +0700" stop="20260825110000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825110000 +0700" stop="20260825111500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825111500 +0700" stop="20260825113000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825113000 +0700" stop="20260825114500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825114500 +0700" stop="20260825115000 +0700">
+    <title>Focus</title>
+    <category>MG098456</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825115000 +0700" stop="20260825120000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825120000 +0700" stop="20260825121500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825121500 +0700" stop="20260825123000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825123000 +0700" stop="20260825124500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825124500 +0700" stop="20260825125000 +0700">
+    <title>Focus</title>
+    <category>MG098456</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825125000 +0700" stop="20260825130000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825130000 +0700" stop="20260825131500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825131500 +0700" stop="20260825133000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825133000 +0700" stop="20260825134500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825134500 +0700" stop="20260825135000 +0700">
+    <title>Focus</title>
+    <category>MG098456</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825135000 +0700" stop="20260825140000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825140000 +0700" stop="20260825143000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825143000 +0700" stop="20260825150000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825150000 +0700" stop="20260825151200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825151200 +0700" stop="20260825153000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825153000 +0700" stop="20260825154200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825154200 +0700" stop="20260825155400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825155400 +0700" stop="20260825160000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825160000 +0700" stop="20260825161000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825161000 +0700" stop="20260825163000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825163000 +0700" stop="20260825164000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825164000 +0700" stop="20260825170000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825170000 +0700" stop="20260825171600 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825171600 +0700" stop="20260825173000 +0700">
+    <title>LIVE: Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825173000 +0700" stop="20260825174500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825174500 +0700" stop="20260825175000 +0700">
+    <title>Focus</title>
+    <category>MG098456</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825175000 +0700" stop="20260825180000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825180000 +0700" stop="20260825183000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825183000 +0700" stop="20260825190000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825190000 +0700" stop="20260825191500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825191500 +0700" stop="20260825193000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825193000 +0700" stop="20260825194500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825194500 +0700" stop="20260825195000 +0700">
+    <title>Focus</title>
+    <category>MG098456</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825195000 +0700" stop="20260825200000 +0700">
+    <title>Entre Nous</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825200000 +0700" stop="20260825201500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825201500 +0700" stop="20260825203000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825203000 +0700" stop="20260825204500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825204500 +0700" stop="20260825210000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825210000 +0700" stop="20260825211200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825211200 +0700" stop="20260825213000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825213000 +0700" stop="20260825214200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825214200 +0700" stop="20260825215400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825215400 +0700" stop="20260825220000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825220000 +0700" stop="20260825221500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825221500 +0700" stop="20260825223000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825223000 +0700" stop="20260825224500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825224500 +0700" stop="20260825225000 +0700">
+    <title>Focus</title>
+    <category>MG098456</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825225000 +0700" stop="20260825230000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825230000 +0700" stop="20260825233000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260825233000 +0700" stop="20260826000000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826000000 +0700" stop="20260826001000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826001000 +0700" stop="20260826003000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826003000 +0700" stop="20260826004000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826004000 +0700" stop="20260826010000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826010000 +0700" stop="20260826013000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826013000 +0700" stop="20260826020000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826020000 +0700" stop="20260826021500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826021500 +0700" stop="20260826023000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826023000 +0700" stop="20260826024500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826024500 +0700" stop="20260826030000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826030000 +0700" stop="20260826031500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826031500 +0700" stop="20260826033000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826033000 +0700" stop="20260826034500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826034500 +0700" stop="20260826040000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826040000 +0700" stop="20260826041500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826041500 +0700" stop="20260826043000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826043000 +0700" stop="20260826044500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826044500 +0700" stop="20260826050000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826050000 +0700" stop="20260826051200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826051200 +0700" stop="20260826052400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826052400 +0700" stop="20260826053000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826053000 +0700" stop="20260826054200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826054200 +0700" stop="20260826060000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826060000 +0700" stop="20260826061500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826061500 +0700" stop="20260826062000 +0700">
+    <title>Focus</title>
+    <category>MG098456</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826062000 +0700" stop="20260826063000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826063000 +0700" stop="20260826064500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826064500 +0700" stop="20260826070000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826070000 +0700" stop="20260826071500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826071500 +0700" stop="20260826073000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826073000 +0700" stop="20260826074500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826074500 +0700" stop="20260826080000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826080000 +0700" stop="20260826081000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826081000 +0700" stop="20260826083000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826083000 +0700" stop="20260826084000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826084000 +0700" stop="20260826090000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826090000 +0700" stop="20260826091500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826091500 +0700" stop="20260826093000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826093000 +0700" stop="20260826094500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826094500 +0700" stop="20260826100000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826100000 +0700" stop="20260826101500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826101500 +0700" stop="20260826103000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826103000 +0700" stop="20260826104500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826104500 +0700" stop="20260826110000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826110000 +0700" stop="20260826111500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826111500 +0700" stop="20260826113000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826113000 +0700" stop="20260826114500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826114500 +0700" stop="20260826115000 +0700">
+    <title>Focus</title>
+    <category>MG098457</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826115000 +0700" stop="20260826120000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826120000 +0700" stop="20260826121500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826121500 +0700" stop="20260826123000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826123000 +0700" stop="20260826124500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826124500 +0700" stop="20260826125000 +0700">
+    <title>Focus</title>
+    <category>MG098457</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826125000 +0700" stop="20260826130000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826130000 +0700" stop="20260826131500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826131500 +0700" stop="20260826133000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826133000 +0700" stop="20260826134500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826134500 +0700" stop="20260826135000 +0700">
+    <title>Focus</title>
+    <category>MG098457</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826135000 +0700" stop="20260826140000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826140000 +0700" stop="20260826143000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826143000 +0700" stop="20260826150000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826150000 +0700" stop="20260826151200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826151200 +0700" stop="20260826153000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826153000 +0700" stop="20260826154200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826154200 +0700" stop="20260826155400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826155400 +0700" stop="20260826160000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826160000 +0700" stop="20260826161000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826161000 +0700" stop="20260826163000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826163000 +0700" stop="20260826164000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826164000 +0700" stop="20260826170000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826170000 +0700" stop="20260826171600 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826171600 +0700" stop="20260826173000 +0700">
+    <title>LIVE: Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826173000 +0700" stop="20260826174500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826174500 +0700" stop="20260826175000 +0700">
+    <title>Focus</title>
+    <category>MG098457</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826175000 +0700" stop="20260826180000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826180000 +0700" stop="20260826183000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826183000 +0700" stop="20260826190000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826190000 +0700" stop="20260826191500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826191500 +0700" stop="20260826193000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826193000 +0700" stop="20260826194500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826194500 +0700" stop="20260826195000 +0700">
+    <title>Focus</title>
+    <category>MG098457</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826195000 +0700" stop="20260826200000 +0700">
+    <title>Entre Nous</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826200000 +0700" stop="20260826201500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826201500 +0700" stop="20260826203000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826203000 +0700" stop="20260826204500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826204500 +0700" stop="20260826210000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826210000 +0700" stop="20260826211200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826211200 +0700" stop="20260826213000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826213000 +0700" stop="20260826214200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826214200 +0700" stop="20260826215400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826215400 +0700" stop="20260826220000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826220000 +0700" stop="20260826221500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826221500 +0700" stop="20260826223000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826223000 +0700" stop="20260826224500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826224500 +0700" stop="20260826225000 +0700">
+    <title>Focus</title>
+    <category>MG098457</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826225000 +0700" stop="20260826230000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826230000 +0700" stop="20260826233000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260826233000 +0700" stop="20260827000000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827000000 +0700" stop="20260827001000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827001000 +0700" stop="20260827003000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827003000 +0700" stop="20260827004000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827004000 +0700" stop="20260827010000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827010000 +0700" stop="20260827013000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827013000 +0700" stop="20260827020000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827020000 +0700" stop="20260827021500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827021500 +0700" stop="20260827023000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827023000 +0700" stop="20260827024500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827024500 +0700" stop="20260827030000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827030000 +0700" stop="20260827031500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827031500 +0700" stop="20260827033000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827033000 +0700" stop="20260827034500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827034500 +0700" stop="20260827040000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827040000 +0700" stop="20260827041500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827041500 +0700" stop="20260827043000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827043000 +0700" stop="20260827044500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827044500 +0700" stop="20260827050000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827050000 +0700" stop="20260827051200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827051200 +0700" stop="20260827052400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827052400 +0700" stop="20260827053000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827053000 +0700" stop="20260827054200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827054200 +0700" stop="20260827060000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827060000 +0700" stop="20260827061500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827061500 +0700" stop="20260827062000 +0700">
+    <title>Focus</title>
+    <category>MG098457</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827062000 +0700" stop="20260827063000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827063000 +0700" stop="20260827064500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827064500 +0700" stop="20260827070000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827070000 +0700" stop="20260827071500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827071500 +0700" stop="20260827073000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827073000 +0700" stop="20260827074500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827074500 +0700" stop="20260827080000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827080000 +0700" stop="20260827081000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827081000 +0700" stop="20260827083000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827083000 +0700" stop="20260827084000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827084000 +0700" stop="20260827090000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827090000 +0700" stop="20260827091500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827091500 +0700" stop="20260827093000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827093000 +0700" stop="20260827094500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827094500 +0700" stop="20260827100000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827100000 +0700" stop="20260827101500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827101500 +0700" stop="20260827103000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827103000 +0700" stop="20260827104500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827104500 +0700" stop="20260827110000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827110000 +0700" stop="20260827111500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827111500 +0700" stop="20260827113000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827113000 +0700" stop="20260827114500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827114500 +0700" stop="20260827115000 +0700">
+    <title>Focus</title>
+    <category>MG098458</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827115000 +0700" stop="20260827120000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827120000 +0700" stop="20260827121500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827121500 +0700" stop="20260827123000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827123000 +0700" stop="20260827124500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827124500 +0700" stop="20260827125000 +0700">
+    <title>Focus</title>
+    <category>MG098458</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827125000 +0700" stop="20260827130000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827130000 +0700" stop="20260827131500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827131500 +0700" stop="20260827133000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827133000 +0700" stop="20260827134500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827134500 +0700" stop="20260827135000 +0700">
+    <title>Focus</title>
+    <category>MG098458</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827135000 +0700" stop="20260827140000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827140000 +0700" stop="20260827143000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827143000 +0700" stop="20260827150000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827150000 +0700" stop="20260827151200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827151200 +0700" stop="20260827153000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827153000 +0700" stop="20260827154200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827154200 +0700" stop="20260827155400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827155400 +0700" stop="20260827160000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827160000 +0700" stop="20260827161000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827161000 +0700" stop="20260827163000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827163000 +0700" stop="20260827164000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827164000 +0700" stop="20260827170000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827170000 +0700" stop="20260827171600 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827171600 +0700" stop="20260827173000 +0700">
+    <title>LIVE: Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827173000 +0700" stop="20260827174500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827174500 +0700" stop="20260827175000 +0700">
+    <title>Focus</title>
+    <category>MG098458</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827175000 +0700" stop="20260827180000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827180000 +0700" stop="20260827183000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827183000 +0700" stop="20260827190000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827190000 +0700" stop="20260827191500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827191500 +0700" stop="20260827193000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827193000 +0700" stop="20260827194500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827194500 +0700" stop="20260827195000 +0700">
+    <title>Focus</title>
+    <category>MG098458</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827195000 +0700" stop="20260827200000 +0700">
+    <title>Entre Nous</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827200000 +0700" stop="20260827201500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827201500 +0700" stop="20260827203000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827203000 +0700" stop="20260827204500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827204500 +0700" stop="20260827210000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827210000 +0700" stop="20260827211200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827211200 +0700" stop="20260827213000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827213000 +0700" stop="20260827214200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827214200 +0700" stop="20260827215400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827215400 +0700" stop="20260827220000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827220000 +0700" stop="20260827221500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827221500 +0700" stop="20260827223000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827223000 +0700" stop="20260827224500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827224500 +0700" stop="20260827225000 +0700">
+    <title>Focus</title>
+    <category>MG098458</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827225000 +0700" stop="20260827230000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827230000 +0700" stop="20260827233000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260827233000 +0700" stop="20260828000000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828000000 +0700" stop="20260828001000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828001000 +0700" stop="20260828003000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828003000 +0700" stop="20260828004000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828004000 +0700" stop="20260828010000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828010000 +0700" stop="20260828013000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828013000 +0700" stop="20260828020000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828020000 +0700" stop="20260828021500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828021500 +0700" stop="20260828023000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828023000 +0700" stop="20260828024500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828024500 +0700" stop="20260828030000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828030000 +0700" stop="20260828031500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828031500 +0700" stop="20260828033000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828033000 +0700" stop="20260828034500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828034500 +0700" stop="20260828040000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828040000 +0700" stop="20260828041500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828041500 +0700" stop="20260828043000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828043000 +0700" stop="20260828044500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828044500 +0700" stop="20260828050000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828050000 +0700" stop="20260828051200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828051200 +0700" stop="20260828052400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828052400 +0700" stop="20260828053000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828053000 +0700" stop="20260828054200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828054200 +0700" stop="20260828060000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828060000 +0700" stop="20260828061500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828061500 +0700" stop="20260828062000 +0700">
+    <title>Focus</title>
+    <category>MG098458</category>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828062000 +0700" stop="20260828063000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828063000 +0700" stop="20260828064500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828064500 +0700" stop="20260828070000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828070000 +0700" stop="20260828071500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828071500 +0700" stop="20260828073000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828073000 +0700" stop="20260828074500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828074500 +0700" stop="20260828080000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828080000 +0700" stop="20260828081000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828081000 +0700" stop="20260828083000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828083000 +0700" stop="20260828084000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828084000 +0700" stop="20260828090000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828090000 +0700" stop="20260828091500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828091500 +0700" stop="20260828093000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828093000 +0700" stop="20260828094500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828094500 +0700" stop="20260828100000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828100000 +0700" stop="20260828101500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828101500 +0700" stop="20260828103000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828103000 +0700" stop="20260828104500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828104500 +0700" stop="20260828110000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828110000 +0700" stop="20260828111500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828111500 +0700" stop="20260828113000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828113000 +0700" stop="20260828114500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828114500 +0700" stop="20260828115000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828115000 +0700" stop="20260828120000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828120000 +0700" stop="20260828121500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828121500 +0700" stop="20260828123000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828123000 +0700" stop="20260828124500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828124500 +0700" stop="20260828125000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828125000 +0700" stop="20260828130000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828130000 +0700" stop="20260828131500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828131500 +0700" stop="20260828133000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828133000 +0700" stop="20260828134500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828134500 +0700" stop="20260828135000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828135000 +0700" stop="20260828140000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828140000 +0700" stop="20260828143000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828143000 +0700" stop="20260828150000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828150000 +0700" stop="20260828151200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828151200 +0700" stop="20260828153000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828153000 +0700" stop="20260828154200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828154200 +0700" stop="20260828155400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828155400 +0700" stop="20260828160000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828160000 +0700" stop="20260828161000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828161000 +0700" stop="20260828163000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828163000 +0700" stop="20260828164000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828164000 +0700" stop="20260828170000 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828170000 +0700" stop="20260828171600 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828171600 +0700" stop="20260828173000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828173000 +0700" stop="20260828174500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828174500 +0700" stop="20260828175000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828175000 +0700" stop="20260828180000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828180000 +0700" stop="20260828183000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828183000 +0700" stop="20260828190000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828190000 +0700" stop="20260828191500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828191500 +0700" stop="20260828193000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828193000 +0700" stop="20260828194500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828194500 +0700" stop="20260828195000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828195000 +0700" stop="20260828200000 +0700">
+    <title>Entre Nous</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828200000 +0700" stop="20260828201500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828201500 +0700" stop="20260828203000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828203000 +0700" stop="20260828204500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828204500 +0700" stop="20260828210000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828210000 +0700" stop="20260828211200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828211200 +0700" stop="20260828213000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828213000 +0700" stop="20260828214200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828214200 +0700" stop="20260828215400 +0700">
+    <title>Entr</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828215400 +0700" stop="20260828220000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828220000 +0700" stop="20260828221500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828221500 +0700" stop="20260828223000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828223000 +0700" stop="20260828224500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828224500 +0700" stop="20260828225000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828225000 +0700" stop="20260828230000 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828230000 +0700" stop="20260828233000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20260828233000 +0700" stop="20260829000000 +0700">
+    <title>LIVE: News</title>
+  </programme>
   <programme channel="ch0000000000100001358" start="20260824233000 +0700" stop="20260825000000 +0700">
     <title>Trip In Korea Ep.33</title>
     <category>Infotainment</category>
@@ -52190,7 +53391,242 @@
     <title lang="en">RERUN: The Standard Portland Classic Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260827044000 +0700" stop="20260827050000 +0700">
+  <programme channel="ch0000000000100002525" start="20260827044000 +0700" stop="20260827050500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบแรก</title>
+    <title lang="en">CPKC Women's Open Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827050500 +0700" stop="20260827052500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 2</title>
+    <title lang="en">CPKC Women's Open Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827052500 +0700" stop="20260827054500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">CPKC Women's Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827054500 +0700" stop="20260827061000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827061000 +0700" stop="20260827064500 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Standard Portland Classic Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827064500 +0700" stop="20260827072000 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Standard Portland Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827072000 +0700" stop="20260827075000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Amundi Evian Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827075000 +0700" stop="20260827082000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Amundi Evian Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827082000 +0700" stop="20260827084500 +0700">
+    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">ISPS Handa Women's Scottish Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827084500 +0700" stop="20260827091500 +0700">
+    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ISPS Handa Women's Scottish Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827091500 +0700" stop="20260827094000 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Dow Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827094000 +0700" stop="20260827100500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827100500 +0700" stop="20260827103000 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827103000 +0700" stop="20260827105000 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827105000 +0700" stop="20260827111500 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827111500 +0700" stop="20260827114500 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827114500 +0700" stop="20260827121000 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827121000 +0700" stop="20260827123500 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Honda LPGA Thailand Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827123500 +0700" stop="20260827130000 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Blue Bay LPGA Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827130000 +0700" stop="20260827132500 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Blue Bay LPGA Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827132500 +0700" stop="20260827160000 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบ 3</title>
+    <title lang="en">RERUN: CPKC Women's Open Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827160000 +0700" stop="20260827185500 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827185500 +0700" stop="20260827193000 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Standard Portland Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827193000 +0700" stop="20260827200000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827200000 +0700" stop="20260827230000 +0700">
+    <title lang="th">LIVE: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">LIVE: FM Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827230000 +0700" stop="20260827232500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบแรก</title>
+    <title lang="en">CPKC Women's Open Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827232500 +0700" stop="20260827234500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 2</title>
+    <title lang="en">CPKC Women's Open Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260827234500 +0700" stop="20260828000500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">CPKC Women's Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828000500 +0700" stop="20260828030000 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828030000 +0700" stop="20260828060000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: FM Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828060000 +0700" stop="20260828062500 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828062500 +0700" stop="20260828065000 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Honda LPGA Thailand Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828065000 +0700" stop="20260828071500 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Blue Bay LPGA Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828071500 +0700" stop="20260828074000 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828074000 +0700" stop="20260828104000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: FM Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828104000 +0700" stop="20260828111000 +0700">
+    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Chevron Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828111000 +0700" stop="20260828113500 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828113500 +0700" stop="20260828115500 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Mizuho Americas Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828115500 +0700" stop="20260828122000 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828122000 +0700" stop="20260828152000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: FM Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828152000 +0700" stop="20260828154500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828154500 +0700" stop="20260828160500 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828160500 +0700" stop="20260828163500 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828163500 +0700" stop="20260828193500 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: FM Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828193500 +0700" stop="20260828200000 +0700">
+    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ISPS Handa Women's Scottish Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828200000 +0700" stop="20260828230000 +0700">
+    <title lang="th">LIVE: เอฟเอ็ม แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">LIVE: FM Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828230000 +0700" stop="20260828233500 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Standard Portland Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260828233500 +0700" stop="20260829000000 +0700">
     <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">CPKC Women's Open Highlights Final</title>
     <category>Sports</category>
@@ -53260,37 +54696,37 @@
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260825220000 +0700" stop="20260825235000 +0700">
+  <programme channel="ch0000000000100002561" start="20260825220000 +0700" stop="20260825234500 +0700">
     <title>Rugby's Greatest Rivalry: South Africa v New Zealand</title>
     <desc>Ellis Park plays host for the first test between the Springboks and All Blacks.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260825235000 +0700" stop="20260826020000 +0700">
+  <programme channel="ch0000000000100002561" start="20260825234500 +0700" stop="20260826021500 +0700">
     <title>LIVE: Rugby's Greatest Rivalry: Lions v New Zealand</title>
     <desc>The All Blacks move onto Ellis Park where they lock horns with the Lions.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260826020000 +0700" stop="20260826023000 +0700">
+  <programme channel="ch0000000000100002561" start="20260826021500 +0700" stop="20260826024500 +0700">
     <title>5 and 6 Nations Classics: 2013 - Wales v England</title>
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260826023000 +0700" stop="20260826030000 +0700">
+  <programme channel="ch0000000000100002561" start="20260826024500 +0700" stop="20260826031500 +0700">
     <title>5 and 6 Nations Classics: 1986 - England v Ireland</title>
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260826030000 +0700" stop="20260826040000 +0700">
+  <programme channel="ch0000000000100002561" start="20260826031500 +0700" stop="20260826041500 +0700">
     <title>NRL Try Time: NRL Try Time</title>
     <desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260826040000 +0700" stop="20260826055000 +0700">
+  <programme channel="ch0000000000100002561" start="20260826041500 +0700" stop="20260826060500 +0700">
     <title>Rugby's Greatest Rivalry: Lions v New Zealand</title>
     <desc>The All Blacks move onto Ellis Park where they lock horns with the Lions.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260826055000 +0700" stop="20260826074000 +0700">
+  <programme channel="ch0000000000100002561" start="20260826060500 +0700" stop="20260826074000 +0700">
     <title>SANZAAR International Tour Serie: Australia v Japan</title>
     <desc>The Wallabies welcome Japan to Queensland.</desc>
     <category>Sport</category>
@@ -53556,8 +54992,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260828190000 +0700" stop="20260828193000 +0700">
-    <title>5 and 6 Nations Classics: 2014 - France v Ireland</title>
-    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+    <title>Top 14 Highlights: Season Preview</title>
+    <desc>Highlights of the latest round from the Top 14.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260828193000 +0700" stop="20260828200000 +0700">
