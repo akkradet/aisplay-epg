@@ -430,113 +430,113 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
   <channel id="ch0000000000100001372">
     <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
   <channel id="ch0000000000100001391">
     <display-name>ch0000000000100001391</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
   </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
   <channel id="ch0000000000100002524">
     <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260824232000 +0700" stop="20260825011000 +0700">
     <title>Breslin And Hamill: Deadline Artists</title>
@@ -43015,10 +43015,15 @@
     <desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group A from Prague, Czech Republic throughout the stage.</desc>
     <category>Softball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260825093000 +0700" stop="20260825120000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Great Britain v Cuba</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260825093000 +0700" stop="20260825113000 +0700">
+    <title>USL '25/26: Dallas Trinity v Lexington SC</title>
+    <desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Dallas Trinity v Lexington SC.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260825113000 +0700" stop="20260825120000 +0700">
+    <title>Spartan Race '26: UWC H/L- Morzine, France</title>
+    <desc>The Spartan Race World Championships Series are the ultimate test of grit, strength, and determination.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260825120000 +0700" stop="20260825123500 +0700">
     <title>Vendee Arctique '26 H/L</title>
@@ -43030,10 +43035,15 @@
     <desc>From the Indian to the Southern Ocean, runners battle across Western Australia's epic coastline in a race of pure endurance.</desc>
     <category>Athletics</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260825133000 +0700" stop="20260825160000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Venezuela v Japan</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260825133000 +0700" stop="20260825153000 +0700">
+    <title>USL '25/26: Sporting Jax v Spokane Zephyr</title>
+    <desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Sporting Jax v Spokane Zephyr.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260825153000 +0700" stop="20260825160000 +0700">
+    <title>Heroines (S2): Heroines (S2E05)</title>
+    <desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260825160000 +0700" stop="20260825163000 +0700">
     <title>Spartan Race '26: UWC H/L- Morzine, France</title>
@@ -43045,10 +43055,15 @@
     <desc>The Dutch Masters is one of the most highly rates Show Jumping events in the world feature the cream of the best horses and riders from the Equestrian universe.</desc>
     <category>Equestrian</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260825173000 +0700" stop="20260825200000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Philipinnes v Chinese Taipei</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260825173000 +0700" stop="20260825193000 +0700">
+    <title>USL '25/26: Dallas Trinity v Spokane Zephyr</title>
+    <desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Dallas Trinity v Spokane Zephyr.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260825193000 +0700" stop="20260825200000 +0700">
+    <title>Heroines (S2): Heroines (S2E06)</title>
+    <desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260825200000 +0700" stop="20260825213000 +0700">
     <title>Malaysian NSL '26: T.Marvels v Melaka Mystic</title>
@@ -43085,10 +43100,15 @@
     <desc>From the Indian to the Southern Ocean, runners battle across Western Australia's epic coastline in a race of pure endurance.</desc>
     <category>Athletics</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260826093000 +0700" stop="20260826120000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Cuba v Venezuela</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260826093000 +0700" stop="20260826113000 +0700">
+    <title>Serie A Women's Cup '26: Como 1907 v Juventus</title>
+    <desc>The Serie A Women's Cup will take place prior to the start of the SERIE A Women season. Watch Como 1907 v Juventus.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260826113000 +0700" stop="20260826120000 +0700">
+    <title>Spartan Race '25: Hvar (Croatia)</title>
+    <desc>The Croatian island of Hvar was again a core focus for the obstacle course racing (OCR) world, as it hosted the Spartan World Championship weekend from October 9-12, 2025.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260826120000 +0700" stop="20260826130000 +0700">
     <title>MP '26: Le Marathon des Sables, MP '26</title>
@@ -43100,20 +43120,30 @@
     <desc>The individual Longines Global Champions Tour spans two rounds per event. Faults and times are combined to name the winner, with points counting toward a season ranking.</desc>
     <category>Equestrian</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260826133000 +0700" stop="20260826160000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Philipinnes v Great Britain</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260826133000 +0700" stop="20260826153000 +0700">
+    <title>USL '25/26: Carolina Ascent v Lexington SC</title>
+    <desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Carolina Ascent FC v Lexington SC.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260826153000 +0700" stop="20260826160000 +0700">
+    <title>Heroines (S2): Heroines (S2E07)</title>
+    <desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260826160000 +0700" stop="20260826173000 +0700">
     <title>Malaysian NSL '26: Johor Jewels v KL Wildcats</title>
     <desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
     <category>Netball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260826173000 +0700" stop="20260826200000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Chinese Taipei v Japan</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260826173000 +0700" stop="20260826193000 +0700">
+    <title>Serie A Women 25/26: Ternana v Juventus</title>
+    <desc>Serie A Women is the highest league of women's football in Italy. Watch Ternana v Juventus.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260826193000 +0700" stop="20260826200000 +0700">
+    <title>Jump Saudi '25 H/L: CSI5 Grand Prix H/L</title>
+    <desc>Jump Saudi 2025 is recognized as one of the major equestrian show jumping events in the world.</desc>
+    <category>Equestrian</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260826200000 +0700" stop="20260826203000 +0700">
     <title>Spartan Race '25: Hvar (Croatia)</title>
@@ -43165,10 +43195,15 @@
     <desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
     <category>Netball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260827093000 +0700" stop="20260827120000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Venezuela v Philipinnes</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260827093000 +0700" stop="20260827113000 +0700">
+    <title>Serie A Women's Cup '26: Fiorentina v Sassuolo</title>
+    <desc>The Serie A Women's Cup will take place prior to the start of the SERIE A Women season. Watch Fiorentina v Sassuolo.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260827113000 +0700" stop="20260827120000 +0700">
+    <title>Spartan Race '25: Mammoth (USA)</title>
+    <desc>Get ready for the first-ever Spartan 10K Super World Championship at Mammoth Mountain Ski Area, California.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260827120000 +0700" stop="20260827130000 +0700">
     <title>Tour Down Under '26: Tour Down Under '26 H/L show</title>
@@ -43180,10 +43215,15 @@
     <desc>The Spartan Race World Championships Series are the ultimate test of grit, strength, and determination.</desc>
     <category>Athletics</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260827133000 +0700" stop="20260827160000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Japan v Cuba</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260827133000 +0700" stop="20260827153000 +0700">
+    <title>Serie A Women 25/26: Ternana v Juventus</title>
+    <desc>Serie A Women is the highest league of women's football in Italy. Watch Ternana v Juventus.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260827153000 +0700" stop="20260827160000 +0700">
+    <title>Heroines (S2): Heroines (S2E08)</title>
+    <desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260827160000 +0700" stop="20260827170000 +0700">
     <title>Paris Marathon 2026 '26 H/L</title>
@@ -43195,10 +43235,15 @@
     <desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260827173000 +0700" stop="20260827200000 +0700">
-    <title>LIVE WBWC '26 Gr. Tainan: Great Britain v Chinese Taipei</title>
-    <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
-    <category>Baseball</category>
+  <programme channel="ch0000000000100001772" start="20260827173000 +0700" stop="20260827193000 +0700">
+    <title>USL '25/26: Spokane Zephyr v Sporting Jax</title>
+    <desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Spokane Zephyr v Sporting Jax.</desc>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260827193000 +0700" stop="20260827200000 +0700">
+    <title>Heroines (S2): Heroines (S2E09)</title>
+    <desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260827200000 +0700" stop="20260827213000 +0700">
     <title>Malaysian NSL '26: Terengganu Marvels v Kedah Sunsh</title>
@@ -43261,8 +43306,8 @@
     <category>Softball</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260828163000 +0700" stop="20260828183000 +0700">
-    <title>Serie A Women 25/26: Juventus v Inter</title>
-    <desc>Serie A Women is the highest league of women's football in Italy. Watch Juventus v Inter.</desc>
+    <title>Serie A Women's Cup '26: Como 1907 v Juventus</title>
+    <desc>The Serie A Women's Cup will take place prior to the start of the SERIE A Women season. Watch Como 1907 v Juventus.</desc>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260828183000 +0700" stop="20260828193000 +0700">
@@ -43280,12 +43325,12 @@
     <desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
     <category>Netball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260828211000 +0700" stop="20260828234000 +0700">
-    <title>WBWC '26 Gr. Rockford: Hong Kong v Mexico</title>
+  <programme channel="ch0000000000100001772" start="20260828211000 +0700" stop="20260828235000 +0700">
+    <title>WBWC '26 Gr. Rockford: Korea v Australia</title>
     <desc>Welcome to the group stage of the 10th WBSC Women's Baseball World Cup. The world's elite national teams go head-to-head for a spot in the finals. Don't miss a single pitch!</desc>
     <category>Baseball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260828234000 +0700" stop="20260829013500 +0700">
+  <programme channel="ch0000000000100001772" start="20260828235000 +0700" stop="20260829014500 +0700">
     <title>Serie A Women 25/26: Como v Juventus</title>
     <desc>Serie A Women is the highest league of women's football in Italy. Watch Como v Juventus.</desc>
     <category>Football</category>
