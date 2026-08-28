@@ -340,6 +340,11 @@
     <display-name lang="en">PLAY SPORTS 90</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png"/>
   </channel>
+  <channel id="ch0000000000100002742">
+    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
+    <display-name lang="en">PLAY SPORTS 95</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
+  </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
     <display-name lang="en">CNN</display-name>
@@ -440,23 +445,59 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
   </channel>
   <channel id="ch0000000000100002532">
     <display-name>ch0000000000100002532</display-name>
   </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
   <channel id="ch0000000000100001391">
     <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
@@ -464,83 +505,44 @@
   <channel id="ch0000000000100002531">
     <display-name>ch0000000000100002531</display-name>
   </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <channel id="ch0000000000100001283">
     <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
   </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
   <channel id="ch0000000000100001353">
     <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
   </channel>
   <channel id="ch0000000000100001361">
     <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
   <channel id="ch0000000000100002644">
     <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260826225000 +0700" stop="20260827011000 +0700">
     <title>Blood Diamond</title>
@@ -3971,8 +3973,12 @@
     <title>YOUTHFUL GLORY กระวานน้อยแรกรัก (EP. 17-18)</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001081" start="20260830210000 +0700" stop="20260830220000 +0700">
+  <programme channel="ch0000000000100001081" start="20260830210000 +0700" stop="20260830230000 +0700">
     <title>LOVE ME LIKE I DO วุ่นรักมัดใจท่านประธาน (EP. 1-2)</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001081" start="20260830230000 +0700" stop="20260831010000 +0700">
+    <title>THE LEGEND OF YUNXI หยุนซี หมอพิษหญิงยอดอัจฉริยะ (EP. 35-36)</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001091" start="20260826233500 +0700" stop="20260827010500 +0700">
@@ -5491,7 +5497,7 @@
     <title>IN HELL คุกนรกคนมหาประลัย</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001093" start="20260830230000 +0700" stop="20260830233000 +0700">
+  <programme channel="ch0000000000100001093" start="20260830230000 +0700" stop="20260831010000 +0700">
     <title>สวย สิงห์ กระทิง แซ่บ BUSABA BOLD AND BEAUTIFUL</title>
     <category>Entertainment</category>
   </programme>
@@ -20816,7 +20822,7 @@
     <desc>รายการที่จะนำเสนอเพลงเพราะ เพลงฮิต จากศิลปินดัง ตลอด 2 ชั่วโมง</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001183" start="20260830220000 +0700" stop="20260830230000 +0700">
+  <programme channel="ch0000000000100001183" start="20260830220000 +0700" stop="20260831000000 +0700">
     <title>YOUNGSTER Variety (Rerun)</title>
     <desc>ช่วงเวลาที่รวบรวมความสนุกหลากหลายรูปแบบมามอบให้คุณผู้ชม ทั้งเรื่องราวที่เป็นกระแสในโลกโซเชี่ยล อัพเดทข่าวสารในทุกวงการพูดคุยกับศิลปินที่กำลังเป็นที่นิยมพร้อมโชว์สุดพิเศษและรวมไปถึงเหล่านักแสดงมากความสามารถที่จะมาพูดคุยถึงบรรยากาศและความสนุกในกองละคร</desc>
     <category>Entertainment</category>
@@ -34835,13 +34841,9 @@
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260828020000 +0700" stop="20260828023000 +0700">
+  <programme channel="ch0000000000100001351" start="20260828020000 +0700" stop="20260828030000 +0700">
     <title>Al Jazeera Investigates: Myanmar - Bloodshed On The Border</title>
     <desc>Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar's civil war.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260828023000 +0700" stop="20260828030000 +0700">
-    <title>Boycott: Part Three - The Template</title>
-    <desc>In the final part of this series exploring recent US anti-boycott laws, the three cases opposing them reach a verdict but this may not be the end of the story.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260828030000 +0700" stop="20260828033000 +0700">
     <title>News Live</title>
@@ -34932,13 +34934,9 @@
     <desc>101 East investigates if the small Micronesian nation of Palau could hold the key to saving the world's coral reefs from climate-induced destruction.</desc>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260828160000 +0700" stop="20260828163000 +0700">
+  <programme channel="ch0000000000100001351" start="20260828160000 +0700" stop="20260828170000 +0700">
     <title>Al Jazeera Investigates: Myanmar - Bloodshed On The Border</title>
     <desc>Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar's civil war.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260828163000 +0700" stop="20260828170000 +0700">
-    <title>The Bottom Line</title>
-    <desc>U.S. political scientist Stephen Walt argues that the Trump White House is making the U.S. weaker globally.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260828170000 +0700" stop="20260828180000 +0700">
     <title>Newshour</title>
@@ -35000,7 +34998,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260829023000 +0700" stop="20260829030000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can the U.S. and Canada avoid an all-out trade war?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260829030000 +0700" stop="20260829033000 +0700">
@@ -35053,13 +35051,9 @@
     <title>Studio B: Unscripted: Shahidul Alam &amp; Andrew Feinstein Pt 1</title>
     <desc>Photojournalist Shahidul Alam and anti-corruption campaigner Andrew Feinstein on their journeys into activism and the ongoing crisis in Gaza.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260829110000 +0700" stop="20260829113000 +0700">
+  <programme channel="ch0000000000100001351" start="20260829110000 +0700" stop="20260829120000 +0700">
     <title>Al Jazeera Investigates: Myanmar - Bloodshed On The Border</title>
     <desc>Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar's civil war.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260829113000 +0700" stop="20260829120000 +0700">
-    <title>Nuked: The Exile</title>
-    <desc>Exiled from their polluted home, Marshall Islanders fight for justice after Ronald Reagan's announcement of independence binds them permanently to the U.S.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260829120000 +0700" stop="20260829123000 +0700">
     <title>News Live</title>
@@ -35076,7 +35070,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260829133000 +0700" stop="20260829140000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can the U.S. and Canada avoid an all-out trade war?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260829140000 +0700" stop="20260829150000 +0700">
@@ -35127,7 +35121,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260829213000 +0700" stop="20260829220000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can the U.S. and Canada avoid an all-out trade war?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260829220000 +0700" stop="20260829230000 +0700">
@@ -35170,7 +35164,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260830033000 +0700" stop="20260830040000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>With his trade war with Canada and renewed threats against Iran, is President Donald Trump testing the limits of U.S. power?</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260830040000 +0700" stop="20260830050000 +0700">
     <title>Newshour</title>
@@ -35250,7 +35244,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260830153000 +0700" stop="20260830160000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>With his trade war with Canada and renewed threats against Iran, is President Donald Trump testing the limits of U.S. power?</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260830160000 +0700" stop="20260830163000 +0700">
     <title>News Live</title>
@@ -35258,7 +35252,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260830163000 +0700" stop="20260830170000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can the U.S. and Canada avoid an all-out trade war?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260830170000 +0700" stop="20260830180000 +0700">
@@ -35282,14 +35276,9 @@
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260830210000 +0700" stop="20260830213000 +0700">
+  <programme channel="ch0000000000100001351" start="20260830210000 +0700" stop="20260830220000 +0700">
     <title>Al Jazeera Investigates: Myanmar - Bloodshed On The Border</title>
     <desc>Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar's civil war.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260830213000 +0700" stop="20260830220000 +0700">
-    <title>The Listening Post: Smear. Kill. Repeat.</title>
-    <desc>Three years on from October 7, Israel has developed a chilling playbook: threaten, smear then kill journalists - erasing Palestinian journalism to hide genocide.</desc>
-    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260830220000 +0700" stop="20260830230000 +0700">
     <title>Newshour</title>
@@ -52853,9 +52842,137 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260829111500 +0700" stop="20260829130000 +0700">
+  <programme channel="ch0000000000100002181" start="20260829111500 +0700" stop="20260829132500 +0700">
     <title>Champions League 17/18: Borussia Dortmund vs Real Madrid</title>
     <desc>Superb goals, a great atmosphere and some top players on show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829132500 +0700" stop="20260829144000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829144000 +0700" stop="20260829150000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829150000 +0700" stop="20260829171500 +0700">
+    <title>Real Madrid City</title>
+    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829171500 +0700" stop="20260829185000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829185000 +0700" stop="20260829191500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829191500 +0700" stop="20260829194000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829194000 +0700" stop="20260829205500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260829205500 +0700" stop="20260830000000 +0700">
+    <title>Champions League 13/14: Real Madrid vs Atlético de Madrid (10th) La Décima</title>
+    <desc>The first ever cross city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830000000 +0700" stop="20260830001500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830001500 +0700" stop="20260830013000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830013000 +0700" stop="20260830014500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830014500 +0700" stop="20260830040000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830040000 +0700" stop="20260830063000 +0700">
+    <title>Champions League 16/17: Juventus vs Real Madrid (12th) La Duodécima</title>
+    <desc>Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830063000 +0700" stop="20260830073000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830073000 +0700" stop="20260830074500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830074500 +0700" stop="20260830080000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830080000 +0700" stop="20260830081500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830081500 +0700" stop="20260830103000 +0700">
+    <title>Pre-season 26/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830103000 +0700" stop="20260830104500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830104500 +0700" stop="20260830110000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830110000 +0700" stop="20260830111500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830111500 +0700" stop="20260830122000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830122000 +0700" stop="20260830143000 +0700">
+    <title>European Super Cup 2002:  Real Madrid vs Feyenoord</title>
+    <desc>Real Madrid´s perfomance from Roberto Carlos, Zidane and Figo.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830143000 +0700" stop="20260830153500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830153500 +0700" stop="20260830155500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830155500 +0700" stop="20260830181000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830181000 +0700" stop="20260830191500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830191500 +0700" stop="20260830193500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830193500 +0700" stop="20260830214000 +0700">
+    <title>European Super Cup 2002:  Real Madrid vs Feyenoord</title>
+    <desc>Real Madrid´s perfomance from Roberto Carlos, Zidane and Figo.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830214000 +0700" stop="20260830220000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830220000 +0700" stop="20260830230000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260830230000 +0700" stop="20260831012000 +0700">
+    <title>Champions League 21/22: Liverpool vs Real Madrid (14th) La Decimocuarta</title>
+    <desc>Real Madrid vs Liverpool Final Champions League Final 21/22.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260826000000 +0700" stop="20260827000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -54028,7 +54145,7 @@
   </programme>
   <programme channel="ch0000000000100002528" start="20260828060500 +0700" stop="20260828113500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบแรก</title>
-    <title lang="en">RERUN: Investec South African Open Championship Final</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260828113500 +0700" stop="20260828120000 +0700">
@@ -54051,9 +54168,119 @@
     <title lang="en">KLM Open Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260828183000 +0700" stop="20260829040000 +0700">
+  <programme channel="ch0000000000100002528" start="20260828183000 +0700" stop="20260829000000 +0700">
     <title lang="th">LIVE: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
     <title lang="en">LIVE: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829000000 +0700" stop="20260829043000 +0700">
+    <title lang="th">รีรัน: โอเพ่น ดิ อิตาเลีย รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open d'Italia Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829043000 +0700" stop="20260829062000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบแรก</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829062000 +0700" stop="20260829115000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829115000 +0700" stop="20260829121500 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Volvo China Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829121500 +0700" stop="20260829174500 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829174500 +0700" stop="20260829180000 +0700">
+    <title lang="th">ฮีโร่ ดูไบ เดสเสิร์ต คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Dubai Desert Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829180000 +0700" stop="20260829230000 +0700">
+    <title lang="th">LIVE: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
+    <title lang="en">LIVE: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829230000 +0700" stop="20260829232500 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Volvo China Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829232500 +0700" stop="20260829235000 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Volvo China Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260829235000 +0700" stop="20260830052000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830052000 +0700" stop="20260830055000 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Turkish Airlines Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830055000 +0700" stop="20260830062000 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Turkish Airlines Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830062000 +0700" stop="20260830112000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830112000 +0700" stop="20260830114500 +0700">
+    <title lang="th">เอสเตรยา ดัมม์ คาตาลุนญาแชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Estrella Damm Catalunya Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830114500 +0700" stop="20260830121500 +0700">
+    <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Soudal Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830121500 +0700" stop="20260830171500 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830171500 +0700" stop="20260830174000 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Volvo China Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830174000 +0700" stop="20260830180000 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Volvo China Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830180000 +0700" stop="20260830230000 +0700">
+    <title lang="th">LIVE: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
+    <title lang="en">LIVE: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830230000 +0700" stop="20260830232500 +0700">
+    <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 3</title>
+    <title lang="en">Nexo Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830232500 +0700" stop="20260830235000 +0700">
+    <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Nexo Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830235000 +0700" stop="20260831045000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260826220000 +0700" stop="20260827000000 +0700">
@@ -54417,167 +54644,167 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260829234000 +0700" stop="20260830000000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830000000 +0700" stop="20260830020000 +0700">
-    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพ่น รอบก่อนรองชนะเลิศ</title>
+    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพน รอบก่อนรองฯ</title>
     <title lang="en">RERUN: Winston-Salem Open Quarter Final (Winston-Salem Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830020000 +0700" stop="20260830022000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830022000 +0700" stop="20260830024000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
+    <title lang="th">ไฮไลต์: เอทีพี1000 เนชันแนล แบงก์ โอเพน</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830024000 +0700" stop="20260830030000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830030000 +0700" stop="20260830050000 +0700">
-    <title lang="th">LIVE: วินสตัน-เซเลม โอเพ่น วันที่ 7</title>
+    <title lang="th">LIVE: วินสตัน-เซเลม โอเพน Day 7</title>
     <title lang="en">LIVE: Winston-Salem Open Day 7</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830050000 +0700" stop="20260830051500 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830051500 +0700" stop="20260830053000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830053000 +0700" stop="20260830060000 +0700">
-    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 21</title>
+    <title lang="th">รีรัน: เอทีพี ทัวรื ดิส วีค ตอนที่ 21</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 21</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830060000 +0700" stop="20260830080000 +0700">
-    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพ่น รอบรองชนะเลิศ</title>
+    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพน รอบรองฯ</title>
     <title lang="en">RERUN: Winston-Salem Open Semi Final (Winston-Salem Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830080000 +0700" stop="20260830082000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830082000 +0700" stop="20260830084000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
+    <title lang="th">ไฮไลต์: เอทีพี1000 เนชันแนล แบงก์ โอเพน</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830084000 +0700" stop="20260830090000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830090000 +0700" stop="20260830110000 +0700">
-    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพ่น รอบชิงชนะเลิศ</title>
+    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพน รอบชิงชนะเลิศ</title>
     <title lang="en">RERUN: Winston-Salem Open Final (Winston-Salem Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830110000 +0700" stop="20260830111500 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830111500 +0700" stop="20260830113000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินแนติ โอเพน</title>
     <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830113000 +0700" stop="20260830120000 +0700">
-    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 22</title>
+    <title lang="th">รีรัน: เอทีพี ทัวรื ดิส วีค ตอนที่ 22</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 22</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830120000 +0700" stop="20260830140000 +0700">
-    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพ่น รอบชิงชนะเลิศ</title>
+    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพน รอบชิงชนะเลิศ</title>
     <title lang="en">RERUN: Winston-Salem Open Final (Winston-Salem Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830140000 +0700" stop="20260830142000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830142000 +0700" stop="20260830144000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
+    <title lang="th">ไฮไลต์: เอทีพี1000 เนชันแนล แบงก์ โอเพน</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830144000 +0700" stop="20260830150000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830150000 +0700" stop="20260830170000 +0700">
-    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพ่น รอบรองชนะเลิศ</title>
+    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพน รอบรองฯ</title>
     <title lang="en">RERUN: Winston-Salem Open Semi Final (Winston-Salem Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830170000 +0700" stop="20260830171500 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830171500 +0700" stop="20260830173000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินแนติ โอเพน</title>
     <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830173000 +0700" stop="20260830180000 +0700">
-    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 23</title>
+    <title lang="th">รีรัน: เอทีพี ทัวรื ดิส วีค ตอนที่ 23</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 23</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830180000 +0700" stop="20260830200000 +0700">
-    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพ่น รอบรองชนะเลิศ</title>
+    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพน รอบรองฯ</title>
     <title lang="en">RERUN: Winston-Salem Open Semi Final (Winston-Salem Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830200000 +0700" stop="20260830202000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830202000 +0700" stop="20260830204000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 เนชั่นแนล แบงก์ โอเพ่น พรีเซนต์เต็ด บาย โรเจอส์</title>
+    <title lang="th">ไฮไลต์: เอทีพี1000 เนชันแนล แบงก์ โอเพน</title>
     <title lang="en">Highlights: ATP1000 National Bank Open pres. by Rogers</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830204000 +0700" stop="20260830210000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830210000 +0700" stop="20260830230000 +0700">
-    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพ่น รอบชิงชนะเลิศ</title>
+    <title lang="th">รีรัน: วินสตัน-เซเลม โอเพน รอบชิงชนะเลิศ</title>
     <title lang="en">RERUN: Winston-Salem Open Final (Winston-Salem Open)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830230000 +0700" stop="20260830232000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830232000 +0700" stop="20260830234000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินเนติ โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี1000 ซินซินแนติ โอเพน</title>
     <title lang="en">Highlights: ATP1000 Cincinnati Open</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830234000 +0700" stop="20260831000000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพ่น</title>
+    <title lang="th">ไฮไลต์: เอทีพี250 วินสตัน-เซเลม โอเพน</title>
     <title lang="en">Highlights: ATP250 Winston-Salem Open</title>
     <category>Sports</category>
   </programme>
