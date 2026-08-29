@@ -345,21 +345,6 @@
     <display-name lang="en">PLAY SPORTS 91</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134749064630.png"/>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name lang="th">เพลย์สปอร์ต 92</display-name>
-    <display-name lang="en">PLAY SPORTS 92</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134816064651.png"/>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name lang="th">เพลย์สปอร์ต 93</display-name>
-    <display-name lang="en">PLAY SPORTS 93</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134830064652.png"/>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name lang="th">เพลย์สปอร์ต 94</display-name>
-    <display-name lang="en">PLAY SPORTS 94</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134851064653.png"/>
-  </channel>
   <channel id="ch0000000000100002742">
     <display-name lang="th">เพลย์สปอร์ต 95</display-name>
     <display-name lang="en">PLAY SPORTS 95</display-name>
@@ -465,8 +450,68 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
   </channel>
   <channel id="ch0000000000100001283">
     <display-name>ch0000000000100001283</display-name>
@@ -474,83 +519,32 @@
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
   <channel id="ch0000000000100002753">
     <display-name>ch0000000000100002753</display-name>
   </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260827233500 +0700" stop="20260828002000 +0700">
     <title>Law &amp; Order ('21) S1 Ep.4: Fault Lines</title>
@@ -23181,6 +23175,376 @@
   </programme>
   <programme channel="ch0000000000100001190" start="20260831034300 +0700" stop="20260831040000 +0700">
     <title>American Story: Cicadas V USA Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831040000 +0700" stop="20260831041300 +0700">
+    <title>Meeting With Nature: Freed To Be Wild Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831041300 +0700" stop="20260831043000 +0700">
+    <title>Meeting With Nature: Freed To Be Wild Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831043000 +0700" stop="20260831044300 +0700">
+    <title>Meeting With Nature: Freed To Be Wild Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831044300 +0700" stop="20260831050000 +0700">
+    <title>Meeting With Nature: Freed To Be Wild Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831050000 +0700" stop="20260831051100 +0700">
+    <title>People's Problems: Mama Uganda Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831051100 +0700" stop="20260831053000 +0700">
+    <title>People's Problems: Mama Uganda Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831053000 +0700" stop="20260831054300 +0700">
+    <title>Wars and Disasters: Vietnam: My Orange Pain Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831054300 +0700" stop="20260831060000 +0700">
+    <title>Wars and Disasters: Vietnam: My Orange Pain Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831060000 +0700" stop="20260831061300 +0700">
+    <title>Art Lounge: Chechen Flair Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831061300 +0700" stop="20260831063000 +0700">
+    <title>Art Lounge: Chechen Flair Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831063000 +0700" stop="20260831064300 +0700">
+    <title>Daily Bread: Demining Donbass Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831064300 +0700" stop="20260831070000 +0700">
+    <title>Daily Bread: Demining Donbass Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831070000 +0700" stop="20260831071200 +0700">
+    <title>Daily Bread: Demining Donbass Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831071200 +0700" stop="20260831073000 +0700">
+    <title>Daily Bread: Demining Donbass Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831073000 +0700" stop="20260831074300 +0700">
+    <title>Wars and Disasters: "Arbat": Unending Fellowship Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831074300 +0700" stop="20260831080000 +0700">
+    <title>Wars and Disasters: "Arbat": Unending Fellowship Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831080000 +0700" stop="20260831081200 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831081200 +0700" stop="20260831083000 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831083000 +0700" stop="20260831084000 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831084000 +0700" stop="20260831090000 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831090000 +0700" stop="20260831091300 +0700">
+    <title>Wars and Disasters: Callsign: "Bukhanka" Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831091300 +0700" stop="20260831093000 +0700">
+    <title>Wars and Disasters: Callsign: "Bukhanka" Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831093000 +0700" stop="20260831094200 +0700">
+    <title>Out Of Cycle: The Long Road To School Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831094200 +0700" stop="20260831100000 +0700">
+    <title>Out Of Cycle: The Long Road To School Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831100000 +0700" stop="20260831101300 +0700">
+    <title>Wars and Disasters: Operation 'Pipeline' Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831101300 +0700" stop="20260831103000 +0700">
+    <title>Wars and Disasters: Operation 'Pipeline' Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831103000 +0700" stop="20260831104300 +0700">
+    <title>My Life, My Way: Battle Wheels: A Cinematic Saga Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831104300 +0700" stop="20260831110000 +0700">
+    <title>My Life, My Way: Battle Wheels: A Cinematic Saga Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831110000 +0700" stop="20260831111400 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831111400 +0700" stop="20260831113000 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831113000 +0700" stop="20260831114400 +0700">
+    <title>Out Of Cycle: 100% Cotton. Made In India Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831114400 +0700" stop="20260831120000 +0700">
+    <title>Out Of Cycle: 100% Cotton. Made In India Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831120000 +0700" stop="20260831123000 +0700">
+    <title>The Case: Legendary Russian Pilot</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831123000 +0700" stop="20260831124200 +0700">
+    <title>Wars and Disasters: To End The War... Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831124200 +0700" stop="20260831130000 +0700">
+    <title>Wars and Disasters: To End The War... Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831130000 +0700" stop="20260831131200 +0700">
+    <title>Wars and Disasters: To End The War... Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831131200 +0700" stop="20260831133000 +0700">
+    <title>Wars and Disasters: To End The War... Part 4</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831133000 +0700" stop="20260831140000 +0700">
+    <title>This Is China: City Of The Phoenix</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831140000 +0700" stop="20260831143000 +0700">
+    <title>Curious Tofurious: Sochi Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831143000 +0700" stop="20260831150000 +0700">
+    <title>Curious Tofurious: Sochi Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831150000 +0700" stop="20260831151300 +0700">
+    <title>Wars and Disasters: Hunting The Hunter Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831151300 +0700" stop="20260831153000 +0700">
+    <title>Wars and Disasters: Hunting The Hunter Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831153000 +0700" stop="20260831154200 +0700">
+    <title>Out Of Cycle: Death Factories Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831154200 +0700" stop="20260831160000 +0700">
+    <title>Out Of Cycle: Death Factories Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831160000 +0700" stop="20260831161300 +0700">
+    <title>Out Of Cycle: Death Factories Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831161300 +0700" stop="20260831163000 +0700">
+    <title>Out Of Cycle: Death Factories Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831163000 +0700" stop="20260831170000 +0700">
+    <title>WW2 Chronicles: Unsung Heroes</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831170000 +0700" stop="20260831171100 +0700">
+    <title>People's Problems: Mama Uganda Part 1</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831171100 +0700" stop="20260831173000 +0700">
+    <title>People's Problems: Mama Uganda Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831173000 +0700" stop="20260831174300 +0700">
+    <title>Wars and Disasters: Vietnam: My Orange Pain Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831174300 +0700" stop="20260831180000 +0700">
+    <title>Wars and Disasters: Vietnam: My Orange Pain Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831180000 +0700" stop="20260831181300 +0700">
+    <title>Art Lounge: Chechen Flair Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831181300 +0700" stop="20260831183000 +0700">
+    <title>Art Lounge: Chechen Flair Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831183000 +0700" stop="20260831184300 +0700">
+    <title>Daily Bread: Demining Donbass Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831184300 +0700" stop="20260831190000 +0700">
+    <title>Daily Bread: Demining Donbass Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831190000 +0700" stop="20260831191200 +0700">
+    <title>Daily Bread: Demining Donbass Part 3</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831191200 +0700" stop="20260831193000 +0700">
+    <title>Daily Bread: Demining Donbass Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831193000 +0700" stop="20260831194300 +0700">
+    <title>Wars and Disasters: "Arbat": Unending Fellowship Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831194300 +0700" stop="20260831200000 +0700">
+    <title>Wars and Disasters: "Arbat": Unending Fellowship Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831200000 +0700" stop="20260831201200 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831201200 +0700" stop="20260831203000 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831203000 +0700" stop="20260831204000 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 3</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831204000 +0700" stop="20260831210000 +0700">
+    <title>Discovering Russia: Russian Marriage Quest Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831210000 +0700" stop="20260831211300 +0700">
+    <title>Wars and Disasters: Callsign: "Bukhanka" Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831211300 +0700" stop="20260831213000 +0700">
+    <title>Wars and Disasters: Callsign: "Bukhanka" Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831213000 +0700" stop="20260831214200 +0700">
+    <title>Out Of Cycle: The Long Road To School Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831214200 +0700" stop="20260831220000 +0700">
+    <title>Out Of Cycle: The Long Road To School Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831220000 +0700" stop="20260831221300 +0700">
+    <title>Wars and Disasters: Operation 'Pipeline' Part 1</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831221300 +0700" stop="20260831223000 +0700">
+    <title>Wars and Disasters: Operation 'Pipeline' Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831223000 +0700" stop="20260831224400 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831224400 +0700" stop="20260831230000 +0700">
+    <title>People's Problems: Abkhazia: a Land With Soul Part 2</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831230000 +0700" stop="20260831233000 +0700">
+    <title>The Case: Legendary Russian Pilot</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831233000 +0700" stop="20260831234200 +0700">
+    <title>Wars and Disasters: To End The War... Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20260831234200 +0700" stop="20260901000000 +0700">
+    <title>Wars and Disasters: To End The War... Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001191" start="20260827233600 +0700" stop="20260828000000 +0700">
@@ -53487,280 +53851,214 @@
     <title lang="en">LIVE: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260829014000 +0700" stop="20260829020500 +0700">
-    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Hero Indian Open Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Hero Indian Open Highlights Final</desc>
+  <programme channel="ch0000000000100002528" start="20260829000000 +0700" stop="20260829043000 +0700">
+    <title lang="th">รีรัน: โอเพ่น ดิ อิตาเลีย รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open d'Italia Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260829020500 +0700" stop="20260829042500 +0700">
-    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
-    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002528" start="20260829042500 +0700" stop="20260829045000 +0700">
-    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Magical Kenya Open Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Magical Kenya Open Highlights Final</desc>
+  <programme channel="ch0000000000100002528" start="20260829043000 +0700" stop="20260829062000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบแรก</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260829062000 +0700" stop="20260829103000 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260829103000 +0700" stop="20260829105500 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 3</title>
     <title lang="en">Nexo Championship Highlights Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Nexo Championship Highlights Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260829105500 +0700" stop="20260829112000 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Nexo Championship Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Nexo Championship Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260829112000 +0700" stop="20260829134000 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260829134000 +0700" stop="20260829141000 +0700">
     <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Danish Golf Championship Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Danish Golf Championship Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260829141000 +0700" stop="20260829143500 +0700">
     <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">GENESIS SCOTTISH OPEN Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">GENESIS SCOTTISH OPEN Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260829143500 +0700" stop="20260829145000 +0700">
     <title lang="th">ฮีโร่ ดูไบ เดสเสิร์ต คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Hero Dubai Desert Classic Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Hero Dubai Desert Classic Highlights Final</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260829145000 +0700" stop="20260829151000 +0700">
+  <programme channel="ch0000000000100002528" start="20260829145000 +0700" stop="20260829153000 +0700">
     <title lang="th">โอเพ่น ดิ อิตาเลีย ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Open d'Italia Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Open d'Italia Highlights Final</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260829151000 +0700" stop="20260829203000 +0700">
+  <programme channel="ch0000000000100002528" start="20260829153000 +0700" stop="20260829203000 +0700">
     <title lang="th">LIVE: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
     <title lang="en">LIVE: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">KLM Open Highlights Final</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260829230000 +0700" stop="20260829232000 +0700">
-    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Volvo China Open Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Volvo China Open Highlights Final</desc>
+  <programme channel="ch0000000000100002528" start="20260829203000 +0700" stop="20260829205500 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Danish Golf Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260829232500 +0700" stop="20260829235000 +0700">
-    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Volvo China Open Highlights Final</title>
+  <programme channel="ch0000000000100002528" start="20260829205500 +0700" stop="20260830014000 +0700">
+    <title lang="th">รีรัน: เน็กโซแชมเปียนชิป รอบสุดท้าย</title>
+    <title lang="en">RERUN: Nexo Championship Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260829235000 +0700" stop="20260830052000 +0700">
+  <programme channel="ch0000000000100002528" start="20260830014000 +0700" stop="20260830020500 +0700">
+    <title lang="th">ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด ไฮไลต์ รอบ 3</title>
+    <title lang="en">Husqvarna British Masters hosted by Sir Nick Faldo Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830020500 +0700" stop="20260830042500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830042500 +0700" stop="20260830045000 +0700">
+    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Magical Kenya Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830045000 +0700" stop="20260830052000 +0700">
+    <title lang="th">ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด ไฮไลต์ รอบ 3</title>
+    <title lang="en">Husqvarna British Masters hosted by Sir Nick Faldo Highlights Round 3</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830052000 +0700" stop="20260830055000 +0700">
     <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">Turkish Airlines Open Highlights Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Turkish Airlines Open Highlights Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830055000 +0700" stop="20260830062000 +0700">
     <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Turkish Airlines Open Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Turkish Airlines Open Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830062000 +0700" stop="20260830112000 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830112000 +0700" stop="20260830114500 +0700">
     <title lang="th">เอสเตรยา ดัมม์ คาตาลุนญาแชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Estrella Damm Catalunya Championship Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Estrella Damm Catalunya Championship Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830114500 +0700" stop="20260830121500 +0700">
     <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Soudal Open Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Soudal Open Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830121500 +0700" stop="20260830171500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830171500 +0700" stop="20260830174000 +0700">
     <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">Volvo China Open Highlights Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Volvo China Open Highlights Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830174000 +0700" stop="20260830180000 +0700">
     <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Volvo China Open Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Volvo China Open Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830180000 +0700" stop="20260830230000 +0700">
     <title lang="th">LIVE: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">LIVE: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">LIVE: Husqvarna British Masters hosted by Sir Nick Faldo Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830230000 +0700" stop="20260830232500 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 3</title>
     <title lang="en">Nexo Championship Highlights Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Nexo Championship Highlights Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830232500 +0700" stop="20260830235000 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Nexo Championship Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Nexo Championship Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260830235000 +0700" stop="20260831045000 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831045000 +0700" stop="20260831052000 +0700">
     <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">GENESIS SCOTTISH OPEN Highlights Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">GENESIS SCOTTISH OPEN Highlights Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831052000 +0700" stop="20260831054500 +0700">
     <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">GENESIS SCOTTISH OPEN Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">GENESIS SCOTTISH OPEN Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831054500 +0700" stop="20260831104500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831104500 +0700" stop="20260831111000 +0700">
     <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">Danish Golf Championship Highlights Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Danish Golf Championship Highlights Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831111000 +0700" stop="20260831113500 +0700">
     <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Danish Golf Championship Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Danish Golf Championship Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831113500 +0700" stop="20260831163500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831163500 +0700" stop="20260831170000 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 3</title>
     <title lang="en">Nexo Championship Highlights Round 3</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Nexo Championship Highlights Round 3</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831170000 +0700" stop="20260831172500 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Nexo Championship Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Nexo Championship Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831172500 +0700" stop="20260831222500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831222500 +0700" stop="20260831225500 +0700">
     <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831225500 +0700" stop="20260831232500 +0700">
     <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Soudal Open Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Soudal Open Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831232500 +0700" stop="20260831235000 +0700">
     <title lang="th">เอสเตรยา ดัมม์ คาตาลุนญาแชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Estrella Damm Catalunya Championship Highlights Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">Estrella Damm Catalunya Championship Highlights Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831235000 +0700" stop="20260901045000 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
-    <desc lang="th">unknown</desc>
-    <desc lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260827220000 +0700" stop="20260828000000 +0700">
