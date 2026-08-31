@@ -430,188 +430,188 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
   </channel>
   <channel id="ch0000000000100002534">
     <display-name>ch0000000000100002534</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260829230000 +0700" stop="20260830000000 +0700">
     <title>House Of The Dragon S3 Ep.7</title>
@@ -20033,6 +20033,350 @@
     <title>Boom Animal World</title>
     <category>Children,Cartoon</category>
   </programme>
+  <programme channel="ch0000000000100001182" start="20260901000000 +0700" stop="20260901010000 +0700">
+    <title>Super Wings S6</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901010000 +0700" stop="20260901020000 +0700">
+    <title>Wheewheel</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901020000 +0700" stop="20260901030000 +0700">
+    <title>Hello Jadoo S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901030000 +0700" stop="20260901040000 +0700">
+    <title>Gogobus S3</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901040000 +0700" stop="20260901050000 +0700">
+    <title>Boonie Cubs</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901050000 +0700" stop="20260901053000 +0700">
+    <title>Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901053000 +0700" stop="20260901060000 +0700">
+    <title>Fay&amp;Tom + Gogobus S3</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901060000 +0700" stop="20260901063000 +0700">
+    <title>Chowder</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901063000 +0700" stop="20260901070000 +0700">
+    <title>Super Wings S8</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901070000 +0700" stop="20260901073000 +0700">
+    <title>The Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901073000 +0700" stop="20260901080000 +0700">
+    <title>Totally Sprie</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901080000 +0700" stop="20260901083000 +0700">
+    <title>Gogobus S3</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901083000 +0700" stop="20260901090000 +0700">
+    <title>The Garfield Show S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901090000 +0700" stop="20260901093000 +0700">
+    <title>Boonie Cubs</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901093000 +0700" stop="20260901100000 +0700">
+    <title>My Little Pony: Friendship Is Magic S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901100000 +0700" stop="20260901103000 +0700">
+    <title>Totally Sprie</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901103000 +0700" stop="20260901110000 +0700">
+    <title>Teletubbies</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901110000 +0700" stop="20260901113000 +0700">
+    <title>The Snoopy Show</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901113000 +0700" stop="20260901120000 +0700">
+    <title>The Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901120000 +0700" stop="20260901123000 +0700">
+    <title>Infinity Nado S7</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901123000 +0700" stop="20260901130000 +0700">
+    <title>Chowder</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901130000 +0700" stop="20260901133000 +0700">
+    <title>My Little Pony: Friendship Is Magic S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901133000 +0700" stop="20260901140000 +0700">
+    <title>Johnny Test</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901140000 +0700" stop="20260901143000 +0700">
+    <title>Robocar Poli S5</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901143000 +0700" stop="20260901150000 +0700">
+    <title>Super Wings S8</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901150000 +0700" stop="20260901153000 +0700">
+    <title>Teletubbies</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901153000 +0700" stop="20260901160000 +0700">
+    <title>The Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901160000 +0700" stop="20260901163000 +0700">
+    <title>Strawberry Shortcake Berry Bitty Adventures</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901163000 +0700" stop="20260901170000 +0700">
+    <title>GG Bond: Racing S6</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901170000 +0700" stop="20260901173000 +0700">
+    <title>Totally Sprie</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901173000 +0700" stop="20260901180000 +0700">
+    <title>Kreepy Bizarre Tales</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901180000 +0700" stop="20260901183000 +0700">
+    <title>Boonie Cubs</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901183000 +0700" stop="20260901190000 +0700">
+    <title>Super Wings S8</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901190000 +0700" stop="20260901193000 +0700">
+    <title>The Garfield Show S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901193000 +0700" stop="20260901200000 +0700">
+    <title>Robocar Poli S5</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901200000 +0700" stop="20260901203000 +0700">
+    <title>Kreepy Bizarre Tales</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901203000 +0700" stop="20260901210000 +0700">
+    <title>My Little Pony: Friendship Is Magic S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901210000 +0700" stop="20260901213000 +0700">
+    <title>Chowder</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901213000 +0700" stop="20260901220000 +0700">
+    <title>Foster Home</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901220000 +0700" stop="20260901223000 +0700">
+    <title>Kreepy Bizarre Tales</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901223000 +0700" stop="20260901230000 +0700">
+    <title>Strawberry Shortcake Berry Bitty Adventures</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901230000 +0700" stop="20260901233000 +0700">
+    <title>Wheewheel</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260901233000 +0700" stop="20260902000000 +0700">
+    <title>Boom Animal World</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902000000 +0700" stop="20260902010000 +0700">
+    <title>Super Wings S6</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902010000 +0700" stop="20260902020000 +0700">
+    <title>Wheewheel</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902020000 +0700" stop="20260902030000 +0700">
+    <title>Hello Jadoo S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902030000 +0700" stop="20260902040000 +0700">
+    <title>Gogobus S3</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902040000 +0700" stop="20260902050000 +0700">
+    <title>Boonie Cubs</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902050000 +0700" stop="20260902053000 +0700">
+    <title>Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902053000 +0700" stop="20260902060000 +0700">
+    <title>Fay&amp;Tom + Gogobus S3</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902060000 +0700" stop="20260902063000 +0700">
+    <title>Chowder</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902063000 +0700" stop="20260902070000 +0700">
+    <title>Hello Jadoo S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902070000 +0700" stop="20260902073000 +0700">
+    <title>The Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902073000 +0700" stop="20260902080000 +0700">
+    <title>Robocar Poli S5</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902080000 +0700" stop="20260902083000 +0700">
+    <title>Gogobus S3</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902083000 +0700" stop="20260902090000 +0700">
+    <title>The Garfield Show S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902090000 +0700" stop="20260902093000 +0700">
+    <title>Boonie Cubs</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902093000 +0700" stop="20260902100000 +0700">
+    <title>My Little Pony: Friendship Is Magic S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902100000 +0700" stop="20260902103000 +0700">
+    <title>Totally Sprie</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902103000 +0700" stop="20260902110000 +0700">
+    <title>Teletubbies</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902110000 +0700" stop="20260902113000 +0700">
+    <title>The Snoopy Show</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902113000 +0700" stop="20260902120000 +0700">
+    <title>The Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902120000 +0700" stop="20260902123000 +0700">
+    <title>Infinity Nado S7</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902123000 +0700" stop="20260902130000 +0700">
+    <title>Chowder</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902130000 +0700" stop="20260902133000 +0700">
+    <title>My Little Pony: Friendship Is Magic S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902133000 +0700" stop="20260902140000 +0700">
+    <title>Johnny Test</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902140000 +0700" stop="20260902143000 +0700">
+    <title>Robocar Poli S5</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902143000 +0700" stop="20260902150000 +0700">
+    <title>Super Wings S8</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902150000 +0700" stop="20260902153000 +0700">
+    <title>Teletubbies</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902153000 +0700" stop="20260902160000 +0700">
+    <title>The Smurf</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902160000 +0700" stop="20260902163000 +0700">
+    <title>Strawberry Shortcake Berry Bitty Adventures</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902163000 +0700" stop="20260902170000 +0700">
+    <title>GG Bond: Racing S6</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902170000 +0700" stop="20260902173000 +0700">
+    <title>Totally Sprie</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902173000 +0700" stop="20260902180000 +0700">
+    <title>Kreepy Bizarre Tales</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902180000 +0700" stop="20260902183000 +0700">
+    <title>Boonie Cubs</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902183000 +0700" stop="20260902190000 +0700">
+    <title>Super Wings S8</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902190000 +0700" stop="20260902193000 +0700">
+    <title>The Garfield Show S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902193000 +0700" stop="20260902200000 +0700">
+    <title>Robocar Poli S5</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902200000 +0700" stop="20260902203000 +0700">
+    <title>Kreepy Bizarre Tales</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902203000 +0700" stop="20260902210000 +0700">
+    <title>My Little Pony: Friendship Is Magic S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902210000 +0700" stop="20260902213000 +0700">
+    <title>Chowder</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902213000 +0700" stop="20260902220000 +0700">
+    <title>Foster Home</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902220000 +0700" stop="20260902223000 +0700">
+    <title>Kreepy Bizarre Tales</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902223000 +0700" stop="20260902230000 +0700">
+    <title>Strawberry Shortcake Berry Bitty Adventures</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902230000 +0700" stop="20260902233000 +0700">
+    <title>Wheewheel</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100001182" start="20260902233000 +0700" stop="20260903000000 +0700">
+    <title>Boom Animal World</title>
+    <category>Children,Cartoon</category>
+  </programme>
   <programme channel="ch0000000000100001183" start="20260829220000 +0700" stop="20260830000000 +0700">
     <title>YOUNGSTER Variety (Rerun)</title>
     <desc>ช่วงเวลาที่รวบรวมความสนุกหลากหลายรูปแบบมามอบให้คุณผู้ชม ทั้งเรื่องราวที่เป็นกระแสในโลกโซเชี่ยล อัพเดทข่าวสารในทุกวงการพูดคุยกับศิลปินที่กำลังเป็นที่นิยมพร้อมโชว์สุดพิเศษและรวมไปถึงเหล่านักแสดงมากความสามารถที่จะมาพูดคุยถึงบรรยากาศและความสนุกในกองละคร</desc>
@@ -26199,6 +26543,142 @@
   </programme>
   <programme channel="ch0000000000100001212" start="20260831230000 +0700" stop="20260901000000 +0700">
     <title>Highlight 2026 LIV GOLF VIRGINIA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901000000 +0700" stop="20260901050000 +0700">
+    <title>2026 LIV GOLF INDIANAPOLIS Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901050000 +0700" stop="20260901060000 +0700">
+    <title>Highlight 2026 LIV GOLF KOREA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901060000 +0700" stop="20260901063000 +0700">
+    <title>Health Series</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901063000 +0700" stop="20260901064500 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901064500 +0700" stop="20260901070000 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901070000 +0700" stop="20260901090000 +0700">
+    <title>Flash Back KLPGA Tour OK Saving Bank Se Ri Pak Invitational Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901090000 +0700" stop="20260901100000 +0700">
+    <title>Highlight 2026 LIV GOLF MEXICO</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901100000 +0700" stop="20260901150000 +0700">
+    <title>2026 LIV GOLF NEW YORK Final Round</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901150000 +0700" stop="20260901160000 +0700">
+    <title>Highlight 2026 LIV GOLF NEW YORK</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901160000 +0700" stop="20260901190000 +0700">
+    <title>2026 KLPGA Tour The 15th KG Ladies Open Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901190000 +0700" stop="20260901193000 +0700">
+    <title>Health Series</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901193000 +0700" stop="20260901194500 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901194500 +0700" stop="20260901200000 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901200000 +0700" stop="20260901230000 +0700">
+    <title>2026 KLPGA Tour The 15th KG Ladies Open Final Round</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260901230000 +0700" stop="20260902000000 +0700">
+    <title>Highlight 2026 LIV GOLF KOREA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902000000 +0700" stop="20260902050000 +0700">
+    <title>2026 LIV GOLF INDIANAPOLIS Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902050000 +0700" stop="20260902060000 +0700">
+    <title>Highlight 2026 LIV GOLF ANDALUCIA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902060000 +0700" stop="20260902063000 +0700">
+    <title>Health Series</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902063000 +0700" stop="20260902064500 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902064500 +0700" stop="20260902070000 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902070000 +0700" stop="20260902090000 +0700">
+    <title>Flash Back KLPGA Tour OK Saving Bank Se Ri Pak Invitational Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902090000 +0700" stop="20260902100000 +0700">
+    <title>Highlight 2026 LIV GOLF VIRGINIA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902100000 +0700" stop="20260902101500 +0700">
+    <title>Greenline GolfLab</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902101500 +0700" stop="20260902103000 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902103000 +0700" stop="20260902133000 +0700">
+    <title>2026 KLPGA Tour The 15th KG Ladies Open Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902133000 +0700" stop="20260902140000 +0700">
+    <title>Health Series</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902140000 +0700" stop="20260902170000 +0700">
+    <title>2026 KLPGA Tour MEDIHEAL HANKOOKILBO Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902170000 +0700" stop="20260902193000 +0700">
+    <title>2026 KLPGA Tour MEDIHEAL HANKOOKILBO Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902193000 +0700" stop="20260902194500 +0700">
+    <title>Greenline GolfLab</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902194500 +0700" stop="20260902200000 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902200000 +0700" stop="20260902201500 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902201500 +0700" stop="20260902203000 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902203000 +0700" stop="20260902223000 +0700">
+    <title>Flash Back KLPGA Tour OK Saving Bank Se Ri Pak Invitational Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20260902223000 +0700" stop="20260903000000 +0700">
+    <title>Flash Back KLPGA Tour OK Saving Bank Se Ri Pak Invitational Round 2</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260829233000 +0700" stop="20260830000000 +0700">
@@ -45803,7 +46283,342 @@
     <desc>ละครโทรทัศน์</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001902" start="20260831225500 +0700" stop="20260831235500 +0700">
+  <programme channel="ch0000000000100001902" start="20260831225500 +0700" stop="20260831232000 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260831232000 +0700" stop="20260901004700 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901004700 +0700" stop="20260901012900 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901012900 +0700" stop="20260901024500 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901024500 +0700" stop="20260901034400 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901034400 +0700" stop="20260901043000 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901043000 +0700" stop="20260901045800 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901045800 +0700" stop="20260901060100 +0700">
+    <title>Documentary</title>
+    <desc>สารคดี</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901060100 +0700" stop="20260901063400 +0700">
+    <title>Hunan News</title>
+    <desc>ข่าว หูหนาน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901063400 +0700" stop="20260901070200 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901070200 +0700" stop="20260901073200 +0700">
+    <title>Cartoon</title>
+    <desc>การ์ตูน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901073200 +0700" stop="20260901083300 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901083300 +0700" stop="20260901093700 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901093700 +0700" stop="20260901102200 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901102200 +0700" stop="20260901111000 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901111000 +0700" stop="20260901113200 +0700">
+    <title>Noon News</title>
+    <desc>ข่าวกับนูน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901113200 +0700" stop="20260901114000 +0700">
+    <title>Weather forecast</title>
+    <desc>พยาการณ์อากาศ</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901114000 +0700" stop="20260901125600 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901125600 +0700" stop="20260901135200 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901135200 +0700" stop="20260901143200 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901143200 +0700" stop="20260901152400 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901152400 +0700" stop="20260901161100 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901161100 +0700" stop="20260901165600 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901165600 +0700" stop="20260901173000 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901173000 +0700" stop="20260901175600 +0700">
+    <title>Hunan News</title>
+    <desc>ข่าว หูหนาน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901175600 +0700" stop="20260901180000 +0700">
+    <title>Weather forecast</title>
+    <desc>พยาการณ์อากาศ</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901180000 +0700" stop="20260901183200 +0700">
+    <title>CCTV News</title>
+    <desc>ข่าว CCTV</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901183200 +0700" stop="20260901190500 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901190500 +0700" stop="20260901200900 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901200900 +0700" stop="20260901210200 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901210200 +0700" stop="20260901220100 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901220100 +0700" stop="20260901232000 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260901232000 +0700" stop="20260902000000 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902000000 +0700" stop="20260902013300 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902013300 +0700" stop="20260902020200 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902020200 +0700" stop="20260902030100 +0700">
+    <title>Documentary</title>
+    <desc>สารคดี</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902030100 +0700" stop="20260902033100 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902033100 +0700" stop="20260902040200 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902040200 +0700" stop="20260902043000 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902043000 +0700" stop="20260902045900 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902045900 +0700" stop="20260902060100 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902060100 +0700" stop="20260902063500 +0700">
+    <title>Hunan News</title>
+    <desc>ข่าว หูหนาน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902063500 +0700" stop="20260902070200 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902070200 +0700" stop="20260902072000 +0700">
+    <title>Cartoon</title>
+    <desc>การ์ตูน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902072000 +0700" stop="20260902073400 +0700">
+    <title>Cartoon</title>
+    <desc>การ์ตูน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902073400 +0700" stop="20260902083200 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902083200 +0700" stop="20260902093500 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902093500 +0700" stop="20260902102500 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902102500 +0700" stop="20260902111000 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902111000 +0700" stop="20260902113200 +0700">
+    <title>Noon News</title>
+    <desc>ข่าวกับนูน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902113200 +0700" stop="20260902113800 +0700">
+    <title>Weather forecast</title>
+    <desc>พยาการณ์อากาศ</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902113800 +0700" stop="20260902125400 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902125400 +0700" stop="20260902134900 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902134900 +0700" stop="20260902143000 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902143000 +0700" stop="20260902151900 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902151900 +0700" stop="20260902160800 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902160800 +0700" stop="20260902165400 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902165400 +0700" stop="20260902173000 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902173000 +0700" stop="20260902175600 +0700">
+    <title>Hunan News</title>
+    <desc>ข่าว หูหนาน</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902175600 +0700" stop="20260902180000 +0700">
+    <title>Weather forecast</title>
+    <desc>พยาการณ์อากาศ</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902180000 +0700" stop="20260902183300 +0700">
+    <title>CCTV News</title>
+    <desc>ข่าว CCTV</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902183300 +0700" stop="20260902190700 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902190700 +0700" stop="20260902200500 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902200500 +0700" stop="20260902210000 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902210000 +0700" stop="20260902220000 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902220000 +0700" stop="20260902230600 +0700">
+    <title>Drama</title>
+    <desc>ละครโทรทัศน์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902230600 +0700" stop="20260902234400 +0700">
+    <title>Variety show</title>
+    <desc>รายการทีวีโชว์</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001902" start="20260902234400 +0700" stop="20260903004600 +0700">
     <title>Variety show</title>
     <desc>รายการทีวีโชว์</desc>
     <category>News</category>
@@ -50981,6 +51796,136 @@
     <title lang="en">HIGHLIGHT Thai League 2 MD 20</title>
     <category>Football</category>
   </programme>
+  <programme channel="ch0000000000100002041" start="20260901000000 +0700" stop="20260901020000 +0700">
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ เกษตรศาสตร์ เอฟซี</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Kasetsart FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901020000 +0700" stop="20260901040000 +0700">
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pattani FC vs Khon Kaen United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901040000 +0700" stop="20260901060000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ เชียงใหม่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Sisaket United vs Chiangmai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901060000 +0700" stop="20260901080000 +0700">
+    <title lang="th">รีรัน: บางกอก เอฟซี พบ หนองบัว พิชญ เอฟซี</title>
+    <title lang="en">RERUN: Bangkok FC vs Nongbua Pitchaya FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901080000 +0700" stop="20260901100000 +0700">
+    <title lang="th">รีรัน: พีที ประจวบ เอฟซี พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: PT Prachuap FC vs Chonburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901100000 +0700" stop="20260901120000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ พลังกาญจน์ เอฟซี</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Kanchanaburi Power FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901120000 +0700" stop="20260901140000 +0700">
+    <title lang="th">รีรัน: การท่าเรือ เอฟซี พบ บีจี ปทุม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Port FC vs BG Pathum United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901140000 +0700" stop="20260901160000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ พลังกาญจน์ เอฟซี</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Kanchanaburi Power FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901160000 +0700" stop="20260901180000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ เชียงใหม่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Sisaket United vs Chiangmai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901180000 +0700" stop="20260901200000 +0700">
+    <title lang="th">รีรัน: แทมพินเนส โรเวอร์ส พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Tampines Rovers vs Buriram United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901200000 +0700" stop="20260901220000 +0700">
+    <title lang="th">รีรัน: การท่าเรือ เอฟซี พบ บีจี ปทุม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Port FC vs BG Pathum United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901220000 +0700" stop="20260901230000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 20</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 20</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260901230000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 21</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 21</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902000000 +0700" stop="20260902020000 +0700">
+    <title lang="th">รีรัน: นครศรี ยูไนเต็ด พบ ตราด เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Si United vs Trat FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902020000 +0700" stop="20260902040000 +0700">
+    <title lang="th">รีรัน: สงขลา เอฟซี พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Songkhla FC vs Nakhon Pathom United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902040000 +0700" stop="20260902060000 +0700">
+    <title lang="th">รีรัน: โปลิศ เทโร เอฟซี พบ พัทยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Police Tero FC vs Pattaya United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902060000 +0700" stop="20260902080000 +0700">
+    <title lang="th">รีรัน: แพร่ ยูไนเต็ด พบ มหาสารคาม เอสบีที เอฟซี</title>
+    <title lang="en">RERUN: Phrae United vs Mahasarakham SBT FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902080000 +0700" stop="20260902100000 +0700">
+    <title lang="th">รีรัน: พีที ประจวบ เอฟซี พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: PT Prachuap FC vs Chonburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902100000 +0700" stop="20260902110000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 21</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 21</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902110000 +0700" stop="20260902130000 +0700">
+    <title lang="th">รีรัน: อุทัยธานี เอฟซี พบ ระยอง เอฟซี</title>
+    <title lang="en">RERUN: Uthai Thani FC vs Rayong FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902130000 +0700" stop="20260902150000 +0700">
+    <title lang="th">รีรัน: สิงห์ เชียงราย ยูไนเต็ด พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: Singha Chiangrai United vs Sukhothai FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902150000 +0700" stop="20260902170000 +0700">
+    <title lang="th">รีรัน: สงขลา เอฟซี พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Songkhla FC vs Nakhon Pathom United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902170000 +0700" stop="20260902190000 +0700">
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ ดีเอช เซบู</title>
+    <title lang="en">RERUN: BG Pathum United vs DH Cebu</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902190000 +0700" stop="20260902210000 +0700">
+    <title lang="th">รีรัน: บุรีรัมย์ ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Buriram United vs Ayutthaya United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902210000 +0700" stop="20260902230000 +0700">
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ นครราชสีมา มาสด้า เอฟซี</title>
+    <title lang="en">RERUN: Muangthong United vs Nakhon Ratchasima Mazda FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260902230000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 20</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 20</title>
+    <category>Football</category>
+  </programme>
   <programme channel="ch0000000000100002052" start="20260829220000 +0700" stop="20260830000000 +0700">
     <title lang="th">รีรัน: บูรพา ยูไนเต็ด พบ เมืองเลย ยูไนเต็ด</title>
     <title lang="en">RERUN: Burapha United vs Muang Loei United</title>
@@ -51102,6 +52047,126 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20260831220000 +0700" stop="20260901000000 +0700">
+    <title lang="th">รีรัน: ธนบุรี ยูไนเต็ด พบ พีที สตูล เอฟซี</title>
+    <title lang="en">RERUN: Thonburi United vs PT Satun FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901000000 +0700" stop="20260901020000 +0700">
+    <title lang="th">รีรัน: ระนอง ยูไนเต็ด พบ ภูเก็ต อันดามัน เอฟซี</title>
+    <title lang="en">RERUN: Ranong United vs Phuket Andaman FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901020000 +0700" stop="20260901040000 +0700">
+    <title lang="th">รีรัน: อัสสัมชัญ ยูไนเต็ด พบ หัวหิน ซิตี้</title>
+    <title lang="en">RERUN: Assumption United vs Huahin City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901040000 +0700" stop="20260901060000 +0700">
+    <title lang="th">รีรัน: ธนบุรี ยูไนเต็ด พบ นนทบุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Thonburi United vs Nonthaburi United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901060000 +0700" stop="20260901080000 +0700">
+    <title lang="th">รีรัน: วีอาร์เอ็น เมืองนนท์ เอฟซี พบ สมุทรสาคร ซิตี้</title>
+    <title lang="en">RERUN: VRN Muangnon FC vs Samutsakhon City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901080000 +0700" stop="20260901100000 +0700">
+    <title lang="th">รีรัน: พีที สตูล เอฟซี พบ สมุย ยูไนเต็ด</title>
+    <title lang="en">RERUN: PT Satun FC vs Samui United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901100000 +0700" stop="20260901120000 +0700">
+    <title lang="th">รีรัน: รร. กีฬาจังหวัดนครศรีธรรมราช พบ ม. เกษมบัณฑิต เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Si Sports School vs Kasembundit University FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901120000 +0700" stop="20260901140000 +0700">
+    <title lang="th">รีรัน: อุดร-บ้านจั่น ยูไนเต็ด พบ ยโสธร เอฟซี</title>
+    <title lang="en">RERUN: Udon Banjan United vs Yasothon FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901140000 +0700" stop="20260901160000 +0700">
+    <title lang="th">รีรัน: รร. กีฬาจังหวัดขอนแก่น พบ รร. กีฬากรุงเทพมหานคร</title>
+    <title lang="en">RERUN: Khon Kaen Sports School vs Bangkok Sports School</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901160000 +0700" stop="20260901180000 +0700">
+    <title lang="th">รีรัน: สิงห์ เชียงราย ซิตี้ พบ ชาติตระการ ซิตี้</title>
+    <title lang="en">RERUN: Singha Chiangrai City vs Chattrakan City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901180000 +0700" stop="20260901200000 +0700">
+    <title lang="th">รีรัน: อ่างทอง เอฟซี พบ ม. ปทุมธานี</title>
+    <title lang="en">RERUN: Angthong FC vs Pathumthani University</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901200000 +0700" stop="20260901220000 +0700">
+    <title lang="th">รีรัน: ธนบุรี ยูไนเต็ด พบ พีที สตูล เอฟซี</title>
+    <title lang="en">RERUN: Thonburi United vs PT Satun FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260901220000 +0700" stop="20260902000000 +0700">
+    <title lang="th">รีรัน: สุรินทร์ ซิตี้ พบ อุดร ยูไนเต็ด</title>
+    <title lang="en">RERUN: Surin City vs Udon United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902000000 +0700" stop="20260902020000 +0700">
+    <title lang="th">รีรัน: สโมสรฟุตบอลราชนาวี พบ แปดริ้ว ซิตี้</title>
+    <title lang="en">RERUN: Navy FC vs Padriew City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902020000 +0700" stop="20260902040000 +0700">
+    <title lang="th">รีรัน: พิษณุโลก เอฟซี พบ เชียงใหม่ เอฟซี</title>
+    <title lang="en">RERUN: Phitsanulok FC vs Chiangmai FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902040000 +0700" stop="20260902060000 +0700">
+    <title lang="th">รีรัน: ฉะเชิงเทรา ไฮเทค เอฟซี พบ เอซีดีซี เอฟซี</title>
+    <title lang="en">RERUN: Chachoengsao Hi-Tek FC vs AC.DC. FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902060000 +0700" stop="20260902080000 +0700">
+    <title lang="th">รีรัน: เมืองตรัง ยูไนเต็ด พบ ระนอง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Muangtrang United vs Ranong United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902080000 +0700" stop="20260902100000 +0700">
+    <title lang="th">รีรัน: โคราช ซิตี้ พบ ขอนแก่น เอฟซี</title>
+    <title lang="en">RERUN: Korat City vs Khonkaen FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902100000 +0700" stop="20260902120000 +0700">
+    <title lang="th">รีรัน: รร. กีฬาจังหวัดขอนแก่น พบ รร. กีฬากรุงเทพมหานคร</title>
+    <title lang="en">RERUN: Khon Kaen Sports School vs Bangkok Sports School</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902120000 +0700" stop="20260902140000 +0700">
+    <title lang="th">รีรัน: ม. นอร์ทกรุงเทพ พบ สิงห์บุรี วอร์ริเออร์</title>
+    <title lang="en">RERUN: North Bangkok University vs Singburi Warriors</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902140000 +0700" stop="20260902160000 +0700">
+    <title lang="th">รีรัน: รร. กีฬาจังหวัดนครศรีธรรมราช พบ ม. เกษมบัณฑิต เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Si Sports School vs Kasembundit University FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902160000 +0700" stop="20260902180000 +0700">
+    <title lang="th">รีรัน: ทหารอากาศ เอฟซี พบ ลพบุรี ซิตี้</title>
+    <title lang="en">RERUN: Royal Thai Air Force FC vs Lopburi City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902180000 +0700" stop="20260902200000 +0700">
+    <title lang="th">รีรัน: ยโสธร เอฟซี พบ โคราช ซิตี้</title>
+    <title lang="en">RERUN: Yasothon FC vs Korat City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902200000 +0700" stop="20260902220000 +0700">
+    <title lang="th">รีรัน: ม. ปทุมธานี พบ สระบุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pathumthani University vs Saraburi United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260902220000 +0700" stop="20260903000000 +0700">
     <title lang="th">รีรัน: ธนบุรี ยูไนเต็ด พบ พีที สตูล เอฟซี</title>
     <title lang="en">RERUN: Thonburi United vs PT Satun FC</title>
     <category>Football</category>
@@ -52100,6 +53165,78 @@
   <programme channel="ch0000000000100002261" start="20260901080000 +0700" stop="20260901105000 +0700">
     <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (31 สิงหาคม 2026)</title>
     <title lang="en">RERUN: Rajadamnern Knockout (31 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260901105000 +0700" stop="20260901150500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260901150500 +0700" stop="20260901175500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (31 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (31 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260901175500 +0700" stop="20260901191000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260901191000 +0700" stop="20260901220000 +0700">
+    <title lang="th">LIVE: มวยราชดำเนิน น็อกเอาต์ (1 กันยายน 2026)</title>
+    <title lang="en">LIVE: Rajadamnern Knockout (1 September 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260901220000 +0700" stop="20260902010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260902010000 +0700" stop="20260902035000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (1 กันยายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (1 September 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260902035000 +0700" stop="20260902080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260902080000 +0700" stop="20260902105000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (1 กันยายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (1 September 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260902105000 +0700" stop="20260902151000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260902151000 +0700" stop="20260902180000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (1 กันยายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (1 September 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260902180000 +0700" stop="20260902200000 +0700">
+    <title lang="th">LIVE: ศึกมวยไทยพลังใหม่ (9 กันยายน 2026)</title>
+    <title lang="en">LIVE: New Power (9 September 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260902200000 +0700" stop="20260903010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
     <category lang="th">Golf</category>
     <category lang="en">Boxing</category>
   </programme>
@@ -54622,6 +55759,246 @@
     <title>GG Bond: Dino Diary</title>
     <category>Children,Cartoon</category>
   </programme>
+  <programme channel="ch0000000000100002601" start="20260901000000 +0700" stop="20260901010000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901010000 +0700" stop="20260901020000 +0700">
+    <title>Robocar Poli S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901020000 +0700" stop="20260901030000 +0700">
+    <title>Super Wings S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901030000 +0700" stop="20260901040000 +0700">
+    <title>Infinity Nado S7 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901040000 +0700" stop="20260901050000 +0700">
+    <title>Future Card Buddyfight S1</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901050000 +0700" stop="20260901060000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901060000 +0700" stop="20260901063000 +0700">
+    <title>Fay&amp;Tom S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901063000 +0700" stop="20260901070000 +0700">
+    <title>Katuri S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901070000 +0700" stop="20260901073000 +0700">
+    <title>Gogobus S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901073000 +0700" stop="20260901080000 +0700">
+    <title>GG Bond: Dino Diary</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901080000 +0700" stop="20260901090000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901090000 +0700" stop="20260901100000 +0700">
+    <title>Robocar Poli S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901100000 +0700" stop="20260901110000 +0700">
+    <title>Super Wings S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901110000 +0700" stop="20260901120000 +0700">
+    <title>Infinity Nado S7 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901120000 +0700" stop="20260901130000 +0700">
+    <title>Future Card Buddyfight S1</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901130000 +0700" stop="20260901140000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901140000 +0700" stop="20260901143000 +0700">
+    <title>Fay&amp;Tom S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901143000 +0700" stop="20260901150000 +0700">
+    <title>Katuri S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901150000 +0700" stop="20260901153000 +0700">
+    <title>Gogobus S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901153000 +0700" stop="20260901160000 +0700">
+    <title>GG Bond: Dino Diary</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901160000 +0700" stop="20260901170000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901170000 +0700" stop="20260901180000 +0700">
+    <title>Robocar Poli S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901180000 +0700" stop="20260901190000 +0700">
+    <title>Super Wings S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901190000 +0700" stop="20260901200000 +0700">
+    <title>Infinity Nado S7 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901200000 +0700" stop="20260901210000 +0700">
+    <title>Future Card Buddyfight S1</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901210000 +0700" stop="20260901220000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901220000 +0700" stop="20260901223000 +0700">
+    <title>Fay&amp;Tom S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901223000 +0700" stop="20260901230000 +0700">
+    <title>Katuri S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901230000 +0700" stop="20260901233000 +0700">
+    <title>Gogobus S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260901233000 +0700" stop="20260902000000 +0700">
+    <title>GG Bond: Dino Diary</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902000000 +0700" stop="20260902010000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902010000 +0700" stop="20260902020000 +0700">
+    <title>Robocar Poli S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902020000 +0700" stop="20260902030000 +0700">
+    <title>Super Wings S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902030000 +0700" stop="20260902040000 +0700">
+    <title>Infinity Nado S7 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902040000 +0700" stop="20260902050000 +0700">
+    <title>Future Card Buddyfight S1</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902050000 +0700" stop="20260902060000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902060000 +0700" stop="20260902063000 +0700">
+    <title>Fay&amp;Tom S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902063000 +0700" stop="20260902070000 +0700">
+    <title>Katuri S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902070000 +0700" stop="20260902073000 +0700">
+    <title>Gogobus S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902073000 +0700" stop="20260902080000 +0700">
+    <title>GG Bond: Dino Diary</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902080000 +0700" stop="20260902090000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902090000 +0700" stop="20260902100000 +0700">
+    <title>Robocar Poli S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902100000 +0700" stop="20260902110000 +0700">
+    <title>Super Wings S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902110000 +0700" stop="20260902120000 +0700">
+    <title>Infinity Nado S7 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902120000 +0700" stop="20260902130000 +0700">
+    <title>Future Card Buddyfight S1</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902130000 +0700" stop="20260902140000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902140000 +0700" stop="20260902143000 +0700">
+    <title>Fay&amp;Tom S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902143000 +0700" stop="20260902150000 +0700">
+    <title>Katuri S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902150000 +0700" stop="20260902153000 +0700">
+    <title>Gogobus S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902153000 +0700" stop="20260902160000 +0700">
+    <title>GG Bond: Dino Diary</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902160000 +0700" stop="20260902170000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902170000 +0700" stop="20260902180000 +0700">
+    <title>Robocar Poli S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902180000 +0700" stop="20260902190000 +0700">
+    <title>Super Wings S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902190000 +0700" stop="20260902200000 +0700">
+    <title>Infinity Nado S7 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902200000 +0700" stop="20260902210000 +0700">
+    <title>Future Card Buddyfight S1</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902210000 +0700" stop="20260902220000 +0700">
+    <title>Music For Kids (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902220000 +0700" stop="20260902223000 +0700">
+    <title>Fay&amp;Tom S2 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902223000 +0700" stop="20260902230000 +0700">
+    <title>Katuri S3 (ENG)</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902230000 +0700" stop="20260902233000 +0700">
+    <title>Gogobus S2</title>
+    <category>Children,Cartoon</category>
+  </programme>
+  <programme channel="ch0000000000100002601" start="20260902233000 +0700" stop="20260903000000 +0700">
+    <title>GG Bond: Dino Diary</title>
+    <category>Children,Cartoon</category>
+  </programme>
   <programme channel="ch0000000000100002643" start="20260829120000 +0700" stop="20260830000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -55117,6 +56494,16 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
+  <programme channel="ch0000000000100002731" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002741" start="20260829223000 +0700" stop="20260830000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -55128,6 +56515,16 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002741" start="20260831000000 +0700" stop="20260901000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20260902000000 +0700" stop="20260903000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -55162,6 +56559,16 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
+  <programme channel="ch0000000000100002742" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002751" start="20260829000000 +0700" stop="20260830000000 +0700">
     <title lang="th">เริ่มเวลา 18:30 น. ดาร์มสตัดท์ 98 พบ ฮันโนเวอร์ 96</title>
     <title lang="en">Kick Off 6.30PM: SVD vs H96</title>
@@ -55187,16 +56594,39 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
+  <programme channel="ch0000000000100002751" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002752" start="20260829000000 +0700" stop="20260830000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002752" start="20260830000000 +0700" stop="20260831000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002752" start="20260831000000 +0700" stop="20260901000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002752" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002752" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002753" start="20260829000000 +0700" stop="20260830000000 +0700">
@@ -55214,6 +56644,16 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
+  <programme channel="ch0000000000100002753" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002753" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002754" start="20260829000000 +0700" stop="20260830000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -55225,6 +56665,16 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002754" start="20260831000000 +0700" stop="20260901000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002754" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002754" start="20260902000000 +0700" stop="20260903000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
