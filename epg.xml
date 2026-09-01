@@ -430,188 +430,194 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
   </channel>
   <channel id="ch0000000000100002534">
     <display-name>ch0000000000100002534</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
   <channel id="ch0000000000100002322">
     <display-name>ch0000000000100002322</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
   </channel>
   <channel id="ch0000000000100001356">
     <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
   </channel>
   <channel id="ch0000000000100001284">
     <display-name>ch0000000000100001284</display-name>
   </channel>
   <channel id="ch0000000000100002096">
     <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260830234500 +0700" stop="20260831014000 +0700">
     <title>American Beauty</title>
@@ -53059,27 +53065,27 @@
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260903050000 +0700" stop="20260903071500 +0700">
-    <title>TBC: Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>TBC: Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260903050000 +0700" stop="20260903070000 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260903071500 +0700" stop="20260903073000 +0700">
+  <programme channel="ch0000000000100002181" start="20260903070000 +0700" stop="20260903071500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260903073000 +0700" stop="20260903101000 +0700">
+  <programme channel="ch0000000000100002181" start="20260903071500 +0700" stop="20260903095500 +0700">
     <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
     <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260903101000 +0700" stop="20260903111500 +0700">
+  <programme channel="ch0000000000100002181" start="20260903095500 +0700" stop="20260903110000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260903111500 +0700" stop="20260903113000 +0700">
+  <programme channel="ch0000000000100002181" start="20260903110000 +0700" stop="20260903111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260903113000 +0700" stop="20260903142000 +0700">
+  <programme channel="ch0000000000100002181" start="20260903111500 +0700" stop="20260903142000 +0700">
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
@@ -53104,8 +53110,8 @@
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260903231500 +0700" stop="20260904013000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260830000000 +0700" stop="20260831000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -53116,6 +53122,51 @@
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>NFL</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20260903000000 +0700" stop="20260904000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL</category>
+  </programme>
+  <programme channel="ch0000000000100002251" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL, American Football</category>
+  </programme>
+  <programme channel="ch0000000000100002251" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL, American Football</category>
+  </programme>
+  <programme channel="ch0000000000100002251" start="20260903000000 +0700" stop="20260904000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL, American Football</category>
+  </programme>
+  <programme channel="ch0000000000100002252" start="20260901000000 +0700" stop="20260902000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL, American Football</category>
+  </programme>
+  <programme channel="ch0000000000100002252" start="20260902000000 +0700" stop="20260903000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL, American Football</category>
+  </programme>
+  <programme channel="ch0000000000100002252" start="20260903000000 +0700" stop="20260904000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>NFL, American Football</category>
   </programme>
   <programme channel="ch0000000000100002261" start="20260830200000 +0700" stop="20260831010000 +0700">
     <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
@@ -54158,74 +54209,244 @@
     <title lang="en">The Standard Portland Classic Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901041000 +0700" stop="20260901071000 +0700">
+  <programme channel="ch0000000000100002525" start="20260901041000 +0700" stop="20260901072500 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 2</title>
     <title lang="en">RERUN: FM Championship Round 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901071000 +0700" stop="20260901073000 +0700">
+  <programme channel="ch0000000000100002525" start="20260901072500 +0700" stop="20260901074500 +0700">
     <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">CPKC Women's Open Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901073000 +0700" stop="20260901075500 +0700">
+  <programme channel="ch0000000000100002525" start="20260901074500 +0700" stop="20260901081000 +0700">
     <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">CPKC Women's Open Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901075500 +0700" stop="20260901115500 +0700">
+  <programme channel="ch0000000000100002525" start="20260901081000 +0700" stop="20260901122000 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
     <title lang="en">RERUN: FM Championship Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901115500 +0700" stop="20260901122000 +0700">
+  <programme channel="ch0000000000100002525" start="20260901122000 +0700" stop="20260901124500 +0700">
     <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบ 3</title>
     <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901122000 +0700" stop="20260901124500 +0700">
+  <programme channel="ch0000000000100002525" start="20260901124500 +0700" stop="20260901131000 +0700">
     <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901124500 +0700" stop="20260901154500 +0700">
+  <programme channel="ch0000000000100002525" start="20260901131000 +0700" stop="20260901155500 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
     <title lang="en">RERUN: FM Championship Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901154500 +0700" stop="20260901161000 +0700">
+  <programme channel="ch0000000000100002525" start="20260901155500 +0700" stop="20260901162000 +0700">
     <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบ 3</title>
     <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901161000 +0700" stop="20260901163500 +0700">
+  <programme channel="ch0000000000100002525" start="20260901162000 +0700" stop="20260901164500 +0700">
     <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901163500 +0700" stop="20260901203500 +0700">
+  <programme channel="ch0000000000100002525" start="20260901164500 +0700" stop="20260901205500 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
     <title lang="en">RERUN: FM Championship Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901203500 +0700" stop="20260901210000 +0700">
+  <programme channel="ch0000000000100002525" start="20260901205500 +0700" stop="20260901211500 +0700">
     <title lang="th">เอฟเอ็ม แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">FM Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260901210000 +0700" stop="20260902000000 +0700">
+  <programme channel="ch0000000000100002525" start="20260901211500 +0700" stop="20260902000000 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
     <title lang="en">RERUN: FM Championship Round 1</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260902000000 +0700" stop="20260902040000 +0700">
+  <programme channel="ch0000000000100002525" start="20260902000000 +0700" stop="20260902002500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902002500 +0700" stop="20260902034000 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 2</title>
     <title lang="en">RERUN: FM Championship Round 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260830235000 +0700" stop="20260831045000 +0700">
-    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
-    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
+  <programme channel="ch0000000000100002525" start="20260902034000 +0700" stop="20260902040500 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902040500 +0700" stop="20260902081500 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: FM Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902081500 +0700" stop="20260902084500 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Honda LPGA Thailand Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902084500 +0700" stop="20260902091000 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Honda LPGA Thailand Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902091000 +0700" stop="20260902115500 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902115500 +0700" stop="20260902122000 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Blue Bay LPGA Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902122000 +0700" stop="20260902124500 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Blue Bay LPGA Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902124500 +0700" stop="20260902153000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902153000 +0700" stop="20260902155500 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบ 3</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902155500 +0700" stop="20260902162000 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902162000 +0700" stop="20260902192000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: FM Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902192000 +0700" stop="20260902194500 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบ 3</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902194500 +0700" stop="20260902201000 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902201000 +0700" stop="20260902204500 +0700">
+    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Chevron Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902204500 +0700" stop="20260902211500 +0700">
+    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Chevron Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260902211500 +0700" stop="20260903003000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: FM Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903003000 +0700" stop="20260903005500 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903005500 +0700" stop="20260903050500 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: FM Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903050500 +0700" stop="20260903052500 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Mizuho Americas Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903052500 +0700" stop="20260903054500 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Mizuho Americas Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903054500 +0700" stop="20260903083000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903083000 +0700" stop="20260903090000 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบ 3</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903090000 +0700" stop="20260903092500 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903092500 +0700" stop="20260903121000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903121000 +0700" stop="20260903123000 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบ 2</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903123000 +0700" stop="20260903125500 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903125500 +0700" stop="20260903155500 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: FM Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903155500 +0700" stop="20260903162000 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Dow Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903162000 +0700" stop="20260903164500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903164500 +0700" stop="20260903200000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: FM Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903200000 +0700" stop="20260903202000 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260903202000 +0700" stop="20260904003000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: FM Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260830230000 +0700" stop="20260831042500 +0700">
+    <title lang="th">รีรัน: เดนิช กอล์ฟ แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Danish Golf Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260831042500 +0700" stop="20260831045000 +0700">
+    <title lang="th">เคแอลเอ็ม โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KLM Open Highlights Final</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260831045000 +0700" stop="20260831052000 +0700">
@@ -54318,49 +54539,264 @@
     <title lang="en">Nexo Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260901113000 +0700" stop="20260901163000 +0700">
+  <programme channel="ch0000000000100002528" start="20260901113000 +0700" stop="20260901172500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260901163000 +0700" stop="20260901165500 +0700">
-    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Danish Golf Championship Highlights Final</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002528" start="20260901165500 +0700" stop="20260901172500 +0700">
-    <title lang="th">เคแอลเอ็ม โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">KLM Open Highlights Final</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002528" start="20260901172500 +0700" stop="20260901175500 +0700">
+  <programme channel="ch0000000000100002528" start="20260901172500 +0700" stop="20260901180000 +0700">
     <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260901175500 +0700" stop="20260901225500 +0700">
+  <programme channel="ch0000000000100002528" start="20260901180000 +0700" stop="20260902000000 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260901225500 +0700" stop="20260901232000 +0700">
-    <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 3</title>
-    <title lang="en">Nexo Championship Highlights Round 3</title>
+  <programme channel="ch0000000000100002528" start="20260902000000 +0700" stop="20260902022000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 2</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260901232000 +0700" stop="20260901234500 +0700">
+  <programme channel="ch0000000000100002528" start="20260902022000 +0700" stop="20260902024000 +0700">
+    <title lang="th">ดูไบ อินวิเตชันแนล ไฮไลต์ รอบ 3</title>
+    <title lang="en">Dubai Invitational Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902024000 +0700" stop="20260902030000 +0700">
+    <title lang="th">ดูไบ อินวิเตชันแนล ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dubai Invitational Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902030000 +0700" stop="20260902033000 +0700">
+    <title lang="th">ฮีโร่ ดูไบ เดสเสิร์ต คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">Hero Dubai Desert Classic Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902033000 +0700" stop="20260902035000 +0700">
+    <title lang="th">ฮีโร่ ดูไบ เดสเสิร์ต คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Dubai Desert Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902035000 +0700" stop="20260902041500 +0700">
+    <title lang="th">บาห์เรน แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Bahrain Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902041500 +0700" stop="20260902044500 +0700">
+    <title lang="th">บาห์เรน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Bahrain Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902044500 +0700" stop="20260902051000 +0700">
+    <title lang="th">กาตาร์ มาสเตอร์ส ไฮไลต์ รอบ 3</title>
+    <title lang="en">Qatar Masters Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902051000 +0700" stop="20260902053500 +0700">
+    <title lang="th">กาตาร์ มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Qatar Masters Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902053500 +0700" stop="20260902060000 +0700">
+    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Magical Kenya Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902060000 +0700" stop="20260902063000 +0700">
+    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Magical Kenya Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902063000 +0700" stop="20260902065500 +0700">
+    <title lang="th">อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Investec South African Open Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902065500 +0700" stop="20260902072500 +0700">
+    <title lang="th">อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Investec South African Open Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902072500 +0700" stop="20260902075000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Joburg Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902075000 +0700" stop="20260902082000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Joburg Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902082000 +0700" stop="20260902084500 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Hero Indian Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902084500 +0700" stop="20260902091000 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Indian Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902091000 +0700" stop="20260902140500 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902140500 +0700" stop="20260902143000 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Volvo China Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902143000 +0700" stop="20260902145500 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Volvo China Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902145500 +0700" stop="20260902152500 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Turkish Airlines Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902152500 +0700" stop="20260902155500 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Turkish Airlines Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902155500 +0700" stop="20260902162000 +0700">
+    <title lang="th">เอสเตรยา ดัมม์ คาตาลุนญาแชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Estrella Damm Catalunya Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902162000 +0700" stop="20260902164500 +0700">
+    <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Soudal Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902164500 +0700" stop="20260902171500 +0700">
+    <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Soudal Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902171500 +0700" stop="20260902174500 +0700">
+    <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902174500 +0700" stop="20260902181500 +0700">
+    <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260902181500 +0700" stop="20260903001000 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903001000 +0700" stop="20260903004000 +0700">
+    <title lang="th">เคแอลเอ็ม โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">KLM Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903004000 +0700" stop="20260903011000 +0700">
+    <title lang="th">เคแอลเอ็ม โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KLM Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903011000 +0700" stop="20260903013500 +0700">
+    <title lang="th">โอเพ่น ดิ อิตาเลีย ไฮไลต์ รอบ 3</title>
+    <title lang="en">Open d'Italia Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903013500 +0700" stop="20260903020000 +0700">
+    <title lang="th">โอเพ่น ดิ อิตาเลีย ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open d'Italia Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903020000 +0700" stop="20260903065500 +0700">
+    <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบ 3</title>
+    <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903065500 +0700" stop="20260903072000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">BMW International Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903072000 +0700" stop="20260903075000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW International Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903075000 +0700" stop="20260903082000 +0700">
+    <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">GENESIS SCOTTISH OPEN Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903082000 +0700" stop="20260903084500 +0700">
+    <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">GENESIS SCOTTISH OPEN Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903084500 +0700" stop="20260903091000 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Danish Golf Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903091000 +0700" stop="20260903093500 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Danish Golf Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903093500 +0700" stop="20260903100000 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Nexo Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260901234500 +0700" stop="20260902044500 +0700">
+  <programme channel="ch0000000000100002528" start="20260903100000 +0700" stop="20260903155500 +0700">
     <title lang="th">รีรัน: ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด รอบสุดท้าย</title>
     <title lang="en">RERUN: Husqvarna British Masters hosted by Sir Nick Faldo Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20260902044500 +0700" stop="20260902050000 +0700">
-    <title lang="th">เอสเตรยา ดัมม์ คาตาลุนญาแชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Estrella Damm Catalunya Championship Highlights Final</title>
+  <programme channel="ch0000000000100002528" start="20260903155500 +0700" stop="20260903161500 +0700">
+    <title lang="th">ดูไบ อินวิเตชันแนล ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dubai Invitational Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903161500 +0700" stop="20260903163500 +0700">
+    <title lang="th">ฮีโร่ ดูไบ เดสเสิร์ต คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Dubai Desert Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903163500 +0700" stop="20260903170500 +0700">
+    <title lang="th">บาห์เรน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Bahrain Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903170500 +0700" stop="20260903173000 +0700">
+    <title lang="th">กาตาร์ มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Qatar Masters Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903173000 +0700" stop="20260903180000 +0700">
+    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Magical Kenya Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903180000 +0700" stop="20260903183000 +0700">
+    <title lang="th">อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Investec South African Open Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903183000 +0700" stop="20260903233000 +0700">
+    <title lang="th">LIVE: โอเมก้า ยูโรเปียน มาสเตอร์ส รอบแรก</title>
+    <title lang="en">LIVE: Omega European Masters Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260903233000 +0700" stop="20260904000000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Joburg Open Highlights Final</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260830234000 +0700" stop="20260831000000 +0700">
