@@ -255,6 +255,11 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
+  <channel id="ch0000000000100002094">
+    <display-name lang="th">เพลย์สปอร์ต 6</display-name>
+    <display-name lang="en">PLAY SPORTS 6</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
+  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -276,11 +281,6 @@
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717135007006041.png"/>
   </channel>
   <channel id="ch0000000000100001212">
-    <display-name lang="th">กอล์ฟพลัส</display-name>
-    <display-name lang="en">Golf Plus</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251231235118035025.png"/>
-  </channel>
-  <channel id="ch0000000000100001931">
     <display-name lang="th">กอล์ฟพลัส</display-name>
     <display-name lang="en">Golf Plus</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251231235118035025.png"/>
@@ -334,6 +334,11 @@
     <display-name lang="th">เพลย์สปอร์ต 90</display-name>
     <display-name lang="en">PLAY SPORTS 90</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png"/>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
+    <display-name lang="en">PLAY SPORTS 95</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
   </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
@@ -440,155 +445,59 @@
     <display-name lang="en">FAREWELL CONCERT ASANEE - WASAN</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260821095419068044.png"/>
   </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
   <channel id="ch0000000000100002093">
     <display-name>ch0000000000100002093</display-name>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100002754">
     <display-name>ch0000000000100002754</display-name>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100001291">
     <display-name>ch0000000000100001291</display-name>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <channel id="ch0000000000100002323">
     <display-name>ch0000000000100002323</display-name>
@@ -596,17 +505,110 @@
   <channel id="ch0000000000100002095">
     <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001931">
+    <display-name>ch0000000000100001931</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
   </channel>
   <channel id="ch0000000000100001353">
     <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260902225500 +0700" stop="20260903004000 +0700">
     <title>Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
@@ -4067,6 +4069,10 @@
     <title>LOVE ME LIKE I DO วุ่นรักมัดใจท่านประธาน (EP. 15-16)</title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001081" start="20260906230000 +0700" stop="20260907010000 +0700">
+    <title>ZHAO YAO เจาเหยา ลิขิตรักนางพญามาร (EP. 1-2)</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001091" start="20260902220000 +0700" stop="20260903001500 +0700">
     <title>Speed Racer</title>
     <desc>The classic 1960s animated series explodes on the screen in this dazzling live-action adaptation from the makers of The Matrix trilogy.</desc>
@@ -5499,7 +5505,7 @@
     <title>HERO WANTED หมายหัวล่า ฮีโร่แค้นระห่ำ</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001093" start="20260906230000 +0700" stop="20260906233000 +0700">
+  <programme channel="ch0000000000100001093" start="20260906230000 +0700" stop="20260907010000 +0700">
     <title>OPERATION BLOOD HUNT ปฎิบัติการปะทะมนุษย์หมาป่า</title>
     <category>Entertainment</category>
   </programme>
@@ -20949,7 +20955,7 @@
     <desc>รายการที่จะนำเสนอเพลงเพราะ เพลงฮิต จากศิลปินดัง ตลอด 2 ชั่วโมง</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001183" start="20260906220000 +0700" stop="20260906230000 +0700">
+  <programme channel="ch0000000000100001183" start="20260906220000 +0700" stop="20260907000000 +0700">
     <title>YOUNGSTER Variety (Rerun)</title>
     <desc>ช่วงเวลาที่รวบรวมความสนุกหลากหลายรูปแบบมามอบให้คุณผู้ชม ทั้งเรื่องราวที่เป็นกระแสในโลกโซเชี่ยล อัพเดทข่าวสารในทุกวงการพูดคุยกับศิลปินที่กำลังเป็นที่นิยมพร้อมโชว์สุดพิเศษและรวมไปถึงเหล่านักแสดงมากความสามารถที่จะมาพูดคุยถึงบรรยากาศและความสนุกในกองละคร</desc>
     <category>Entertainment</category>
@@ -27417,7 +27423,7 @@
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260905080000 +0700" stop="20260905090000 +0700">
-    <title>CNN NewsNight: Episode 266</title>
+    <title>CNN NewsNight</title>
     <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
     <category>Current Events,News</category>
   </programme>
@@ -41083,6 +41089,14 @@
     <desc>GENERAL</desc>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001358" start="20260906220000 +0700" stop="20260906230000 +0700">
+    <title>Arirang Prime Ep.249</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20260906230000 +0700" stop="20260907000000 +0700">
+    <title>Gugak The Music Of Korea Ep.156</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001360" start="20260902231500 +0700" stop="20260903000000 +0700">
     <title>อัศจรรย์บันลือโลก</title>
     <desc>อัศจรรย์บันลือโลก</desc>
@@ -46982,7 +46996,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260902233000 +0700" stop="20260903000000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Spain: More protection from the heat</title>
+    <desc>Seville is trying out new methods to protect its residents from an onslaught of heat. +++ When dreams come true for children in care: In the Republic of Moldova, summer camps give young people a welcome break.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903000000 +0700" stop="20260903000200 +0700">
@@ -46994,7 +47009,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903003000 +0700" stop="20260903010000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: Making Films Against the Odds</title>
+    <desc>Four international filmmakers and their works have been selected for this year's Berlinale Talents, the Berlin International Film Festival's networking event. This year's theme: "Creativity and Confusion."</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903010000 +0700" stop="20260903010200 +0700">
@@ -47018,22 +47034,25 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903023000 +0700" stop="20260903030000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Precision in Hamburg: New bridge reaches its destination</title>
+    <desc>Hamburg’s new Sternbrücke bridge is hauled through the streets before being placed with millimeter precision above the railway tracks.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903030000 +0700" stop="20260903030200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260903030200 +0700" stop="20260903031500 +0700">
+  <programme channel="ch0000000000100001903" start="20260903030200 +0700" stop="20260903031600 +0700">
     <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260903031500 +0700" stop="20260903033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+  <programme channel="ch0000000000100001903" start="20260903031600 +0700" stop="20260903033000 +0700">
+    <title>Business: Why international students still choose Germany</title>
+    <desc>Higher living costs, a weaker labor market and language barriers shape student life. International students discuss the opportunities and challenges they face in Germany.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903033000 +0700" stop="20260903040000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: How vegetable gardens feed communities and minds</title>
+    <desc>As prices rise and cities expand, people in India are using small-scale farming to earn extra income, build a greener future and pass on insights to the next generation. Plus: a hightech greenhouse in the Netherlands.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903040000 +0700" stop="20260903040200 +0700">
@@ -47057,7 +47076,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903053000 +0700" stop="20260903060000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Spain: More protection from the heat</title>
+    <desc>Seville is trying out new methods to protect its residents from an onslaught of heat. +++ When dreams come true for children in care: In the Republic of Moldova, summer camps give young people a welcome break.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903060000 +0700" stop="20260903060200 +0700">
@@ -47068,7 +47088,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903061500 +0700" stop="20260903063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business: Why international students still choose Germany</title>
+    <desc>Higher living costs, a weaker labor market and language barriers shape student life. International students discuss the opportunities and challenges they face in Germany.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903063000 +0700" stop="20260903070000 +0700">
@@ -47090,11 +47111,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903080200 +0700" stop="20260903083000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Precision in Hamburg: New bridge reaches its destination</title>
+    <desc>Hamburg’s new Sternbrücke bridge is hauled through the streets before being placed with millimeter precision above the railway tracks.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903083000 +0700" stop="20260903090000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Spain: More protection from the heat</title>
+    <desc>Seville is trying out new methods to protect its residents from an onslaught of heat. +++ When dreams come true for children in care: In the Republic of Moldova, summer camps give young people a welcome break.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903090000 +0700" stop="20260903090200 +0700">
@@ -47129,12 +47152,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903111500 +0700" stop="20260903113000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: Football and freedom - Afghan women against the world</title>
+    <desc>After the Taliban takeover, Afghanistan’s women footballers were forced into exile. Najma Arefi and her teammates are fighting for the right to represent their country. And have been successful.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903113000 +0700" stop="20260903120000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
-    <category>Magazine</category>
+    <title>DW News Focus: Germany's secret missile test signals a major defense shift</title>
+    <desc>Berlin is considering a €12 billion long-range ballistic strike program, and the overnight LORA missile test may be a glimpse of what's coming.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903120000 +0700" stop="20260903120300 +0700">
     <title>DW News</title>
@@ -47153,11 +47177,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903131500 +0700" stop="20260903133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: The TikTok priest who brings Polish Gen Z back to church</title>
+    <desc>Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903133000 +0700" stop="20260903140000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: How can we prevent animals ending up as roadkill?</title>
+    <desc>Millions of animals die in collisions with cars each year. How can drivers and automakers prevent such crashes? Plus: Retrofitters in India turn old vehicles into eco-friendly rides, and Flixtrain vs. Deutsche Bahn.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903140000 +0700" stop="20260903140200 +0700">
@@ -47186,7 +47212,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903163000 +0700" stop="20260903170000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Spain: More protection from the heat</title>
+    <desc>Seville is trying out new methods to protect its residents from an onslaught of heat. +++ When dreams come true for children in care: In the Republic of Moldova, summer camps give young people a welcome break.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903170000 +0700" stop="20260903171500 +0700">
@@ -47194,7 +47221,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903171500 +0700" stop="20260903173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: The TikTok priest who brings Polish Gen Z back to church</title>
+    <desc>Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903173000 +0700" stop="20260903180000 +0700">
@@ -47218,11 +47246,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903191500 +0700" stop="20260903193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: The TikTok priest who brings Polish Gen Z back to church</title>
+    <desc>Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903193000 +0700" stop="20260903200000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: The Far Right's Rise: Is Germany at a Breaking Point?</title>
+    <desc>The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903200000 +0700" stop="20260903203000 +0700">
@@ -47254,23 +47284,21 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903223000 +0700" stop="20260903230000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: The Far Right's Rise: Is Germany at a Breaking Point?</title>
+    <desc>The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903230000 +0700" stop="20260903230200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260903230200 +0700" stop="20260903231500 +0700">
-    <title>DW News Focus</title>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260903231500 +0700" stop="20260903233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
-    <category>Documentaries</category>
+  <programme channel="ch0000000000100001903" start="20260903230200 +0700" stop="20260903233000 +0700">
+    <title>DW News Focus: Germany's secret missile test signals a major defense shift</title>
+    <desc>Berlin is considering a €12 billion long-range ballistic strike program, and the overnight LORA missile test may be a glimpse of what's coming.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260903233000 +0700" stop="20260904000000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: Not at war, yet under attack: Germany's Russia challenge</title>
+    <desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904000000 +0700" stop="20260904000200 +0700">
@@ -47282,7 +47310,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904003000 +0700" stop="20260904010000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: The Far Right's Rise: Is Germany at a Breaking Point?</title>
+    <desc>The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904010000 +0700" stop="20260904010200 +0700">
@@ -47306,7 +47335,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904023000 +0700" stop="20260904030000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Spain: More protection from the heat</title>
+    <desc>Seville is trying out new methods to protect its residents from an onslaught of heat. +++ When dreams come true for children in care: In the Republic of Moldova, summer camps give young people a welcome break.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904030000 +0700" stop="20260904030200 +0700">
@@ -47317,11 +47347,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904031500 +0700" stop="20260904033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: The TikTok priest who brings Polish Gen Z back to church</title>
+    <desc>Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904033000 +0700" stop="20260904040000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Precision in Hamburg: New bridge reaches its destination</title>
+    <desc>Hamburg’s new Sternbrücke bridge is hauled through the streets before being placed with millimeter precision above the railway tracks.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904040000 +0700" stop="20260904040200 +0700">
@@ -47356,12 +47388,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904061500 +0700" stop="20260904063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: The TikTok priest who brings Polish Gen Z back to church</title>
+    <desc>Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904063000 +0700" stop="20260904070000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: Not at war, yet under attack: Germany's Russia challenge</title>
+    <desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904070000 +0700" stop="20260904070200 +0700">
@@ -47381,7 +47414,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904080200 +0700" stop="20260904083000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: The Far Right's Rise: Is Germany at a Breaking Point?</title>
+    <desc>The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904083000 +0700" stop="20260904090000 +0700">
@@ -47417,12 +47451,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904110200 +0700" stop="20260904113000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: The Far Right's Rise: Is Germany at a Breaking Point?</title>
+    <desc>The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904113000 +0700" stop="20260904120000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: Not at war, yet under attack: Germany's Russia challenge</title>
+    <desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904120000 +0700" stop="20260904120200 +0700">
@@ -47445,7 +47480,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904131500 +0700" stop="20260904133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: The Future of Travel: Apps, AI, Robots - and the Loss of Adventure?</title>
+    <desc>Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904133000 +0700" stop="20260904140000 +0700">
@@ -47470,7 +47506,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904153000 +0700" stop="20260904160000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: The Far Right's Rise: Is Germany at a Breaking Point?</title>
+    <desc>The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904160000 +0700" stop="20260904163000 +0700">
@@ -47478,7 +47515,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904163000 +0700" stop="20260904170000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: Can India revive its repair culture and curb e-waste?</title>
+    <desc>Many Indians used to get electronic goods fixed, but now many products cannot be mended. Some Indians want the right to repair. Plus how a community scheme in a wildlife reserve in Nilgiris is taking on tourist trash.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904170000 +0700" stop="20260904171500 +0700">
@@ -47486,11 +47524,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904171500 +0700" stop="20260904173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: The Future of Travel: Apps, AI, Robots - and the Loss of Adventure?</title>
+    <desc>Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904173000 +0700" stop="20260904180000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Community and Culture from the Ground Up</title>
+    <desc>Culture starts with creators. Afrimaxx meets African innovators using food, fashion, art and wellness to build communities and make an impact beyond the feed.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904180000 +0700" stop="20260904183000 +0700">
@@ -47498,8 +47538,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904183000 +0700" stop="20260904190000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: Not at war, yet under attack: Germany's Russia challenge</title>
+    <desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904190000 +0700" stop="20260904190200 +0700">
@@ -47510,11 +47550,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904191500 +0700" stop="20260904193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: The Future of Travel: Apps, AI, Robots - and the Loss of Adventure?</title>
+    <desc>Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904193000 +0700" stop="20260904200000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Old wisdom, bold ideas</title>
+    <desc>Ugandan schools are teaching students about clan totems, plants or animals that are taboo to kill or eat. Aim is to give them a personal stake in conservation. Upcycled art that wants to rewire thinking about e-waste.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904200000 +0700" stop="20260904203000 +0700">
@@ -47546,7 +47588,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904223000 +0700" stop="20260904230000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: Can India revive its repair culture and curb e-waste?</title>
+    <desc>Many Indians used to get electronic goods fixed, but now many products cannot be mended. Some Indians want the right to repair. Plus how a community scheme in a wildlife reserve in Nilgiris is taking on tourist trash.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904230000 +0700" stop="20260904230200 +0700">
@@ -47557,7 +47600,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904231500 +0700" stop="20260904233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: The Future of Travel: Apps, AI, Robots - and the Loss of Adventure?</title>
+    <desc>Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260904233000 +0700" stop="20260905000000 +0700">
@@ -47573,7 +47617,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905003000 +0700" stop="20260905010000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Chinese revival of the iconic MG brand</title>
+    <desc>From classic British roadsters to electric cars for Europe: Journalists, designers and enthusiasts explain how the SAIC takeover reinvented a classic sportscar company through cross cultural cooperation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905010000 +0700" stop="20260905010200 +0700">
@@ -47584,11 +47629,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905011500 +0700" stop="20260905013000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: How this invasive tree made wildfires worse</title>
+    <desc>Eucalyptus has been planted across the world for quick profits. But the highly flammable and invasive tree is now reshaping fire behavior.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905013000 +0700" stop="20260905020000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Can AI tell if you're 18+ just from your hand movements?</title>
+    <desc>A French startup has developed an AI age verification that doesn't require personal data. Can it deliver on its promises? Plus: biodegradable batteries made from fungi and a closer look at what IQ actually is.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905020000 +0700" stop="20260905020200 +0700">
@@ -47612,11 +47659,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905031500 +0700" stop="20260905033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: The Future of Travel: Apps, AI, Robots - and the Loss of Adventure?</title>
+    <desc>Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905033000 +0700" stop="20260905040000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: The Far Right's Rise: Is Germany at a Breaking Point?</title>
+    <desc>The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905040000 +0700" stop="20260905040200 +0700">
@@ -47643,7 +47692,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905053000 +0700" stop="20260905060000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Did Kaluma Boy expose Kenya's broken and corrupt system?</title>
+    <desc>In Kenya, corruption scandals and a failing health system leave families stranded. When hospitals and governments vanish, citizens turn to TikTok and civil society for help to build roads, equip schools or anything else. The story of Kaluma Boy caring for his sick father exposes a dysfunctional state and the power of online solidarity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905060000 +0700" stop="20260905060200 +0700">
@@ -47654,11 +47704,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905061500 +0700" stop="20260905063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: The Future of Travel: Apps, AI, Robots - and the Loss of Adventure?</title>
+    <desc>Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905063000 +0700" stop="20260905070000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Chinese revival of the iconic MG brand</title>
+    <desc>From classic British roadsters to electric cars for Europe: Journalists, designers and enthusiasts explain how the SAIC takeover reinvented a classic sportscar company through cross cultural cooperation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905070000 +0700" stop="20260905070200 +0700">
@@ -47669,11 +47721,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905071500 +0700" stop="20260905073000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905073000 +0700" stop="20260905080000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Can AI tell if you're 18+ just from your hand movements?</title>
+    <desc>A French startup has developed an AI age verification that doesn't require personal data. Can it deliver on its promises? Plus: biodegradable batteries made from fungi and a closer look at what IQ actually is.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905080000 +0700" stop="20260905080300 +0700">
@@ -47706,7 +47760,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905100200 +0700" stop="20260905101500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Reclaiming the roots - "Why do traditions still matter?”</title>
+    <desc>Khmer clothing returning to the spotlight. Thailand’s light festivals balancing beauty with sustainability. Indonesian musicians blending ancient sounds with modern beats. Traditions aren’t fading — they’re being reimagined. This episode explores a cultural revival across Southeast Asia.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905101500 +0700" stop="20260905103000 +0700">
@@ -47717,11 +47772,11 @@
     <title>Arts Unveiled: Experiencing and understanding the art world</title>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260905110000 +0700" stop="20260905110300 +0700">
+  <programme channel="ch0000000000100001903" start="20260905110000 +0700" stop="20260905110200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260905110300 +0700" stop="20260905120000 +0700">
+  <programme channel="ch0000000000100001903" start="20260905110200 +0700" stop="20260905120000 +0700">
     <title>DocFilm: Panic Button - Life as an Investigative Journalist in Kyrgyzstan</title>
     <desc>What does it mean to practice investigative journalism in Kyrgyzstan? What are the consequences of holding politicians accountable for corruption? Here, practicing journalism can be life-threatening.</desc>
     <category>Documentaries</category>
@@ -47747,7 +47802,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905130200 +0700" stop="20260905131500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905131500 +0700" stop="20260905140000 +0700">
@@ -47760,7 +47816,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905140200 +0700" stop="20260905141500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Reclaiming the roots - "Why do traditions still matter?”</title>
+    <desc>Khmer clothing returning to the spotlight. Thailand’s light festivals balancing beauty with sustainability. Indonesian musicians blending ancient sounds with modern beats. Traditions aren’t fading — they’re being reimagined. This episode explores a cultural revival across Southeast Asia.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905141500 +0700" stop="20260905143000 +0700">
@@ -47768,7 +47825,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905143000 +0700" stop="20260905150000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Did Kaluma Boy expose Kenya's broken and corrupt system?</title>
+    <desc>In Kenya, corruption scandals and a failing health system leave families stranded. When hospitals and governments vanish, citizens turn to TikTok and civil society for help to build roads, equip schools or anything else. The story of Kaluma Boy caring for his sick father exposes a dysfunctional state and the power of online solidarity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905150000 +0700" stop="20260905151500 +0700">
@@ -47776,7 +47834,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905151500 +0700" stop="20260905153000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: The TikTok priest who brings Polish Gen Z back to church</title>
+    <desc>Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905153000 +0700" stop="20260905160000 +0700">
@@ -47788,7 +47847,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905161500 +0700" stop="20260905163000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905163000 +0700" stop="20260905170000 +0700">
@@ -47804,7 +47864,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905173000 +0700" stop="20260905180000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Did Kaluma Boy expose Kenya's broken and corrupt system?</title>
+    <desc>In Kenya, corruption scandals and a failing health system leave families stranded. When hospitals and governments vanish, citizens turn to TikTok and civil society for help to build roads, equip schools or anything else. The story of Kaluma Boy caring for his sick father exposes a dysfunctional state and the power of online solidarity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905180000 +0700" stop="20260905181500 +0700">
@@ -47837,7 +47898,8 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905203000 +0700" stop="20260905210000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Community and Culture from the Ground Up</title>
+    <desc>Culture starts with creators. Afrimaxx meets African innovators using food, fashion, art and wellness to build communities and make an impact beyond the feed.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905210000 +0700" stop="20260905210200 +0700">
@@ -47853,11 +47915,11 @@
     <title>DW News: Africa</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260905220000 +0700" stop="20260905220300 +0700">
+  <programme channel="ch0000000000100001903" start="20260905220000 +0700" stop="20260905220200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260905220300 +0700" stop="20260905230000 +0700">
+  <programme channel="ch0000000000100001903" start="20260905220200 +0700" stop="20260905230000 +0700">
     <title>DocFilm: Panic Button - Life as an Investigative Journalist in Kyrgyzstan</title>
     <desc>What does it mean to practice investigative journalism in Kyrgyzstan? What are the consequences of holding politicians accountable for corruption? Here, practicing journalism can be life-threatening.</desc>
     <category>Documentaries</category>
@@ -47871,11 +47933,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905231500 +0700" stop="20260905233000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260905233000 +0700" stop="20260906000000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Can AI tell if you're 18+ just from your hand movements?</title>
+    <desc>A French startup has developed an AI age verification that doesn't require personal data. Can it deliver on its promises? Plus: biodegradable batteries made from fungi and a closer look at what IQ actually is.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906000000 +0700" stop="20260906000200 +0700">
@@ -47897,7 +47961,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906010200 +0700" stop="20260906011500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Reclaiming the roots - "Why do traditions still matter?”</title>
+    <desc>Khmer clothing returning to the spotlight. Thailand’s light festivals balancing beauty with sustainability. Indonesian musicians blending ancient sounds with modern beats. Traditions aren’t fading — they’re being reimagined. This episode explores a cultural revival across Southeast Asia.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906011500 +0700" stop="20260906013000 +0700">
@@ -47913,7 +47978,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906020200 +0700" stop="20260906021500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906021500 +0700" stop="20260906030000 +0700">
@@ -47947,14 +48013,15 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906043000 +0700" stop="20260906050000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Chinese revival of the iconic MG brand</title>
+    <desc>From classic British roadsters to electric cars for Europe: Journalists, designers and enthusiasts explain how the SAIC takeover reinvented a classic sportscar company through cross cultural cooperation.</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260906050000 +0700" stop="20260906050300 +0700">
+  <programme channel="ch0000000000100001903" start="20260906050000 +0700" stop="20260906050200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260906050300 +0700" stop="20260906060000 +0700">
+  <programme channel="ch0000000000100001903" start="20260906050200 +0700" stop="20260906060000 +0700">
     <title>DocFilm: Panic Button - Life as an Investigative Journalist in Kyrgyzstan</title>
     <desc>What does it mean to practice investigative journalism in Kyrgyzstan? What are the consequences of holding politicians accountable for corruption? Here, practicing journalism can be life-threatening.</desc>
     <category>Documentaries</category>
@@ -47980,7 +48047,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906070200 +0700" stop="20260906071500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Reclaiming the roots - "Why do traditions still matter?”</title>
+    <desc>Khmer clothing returning to the spotlight. Thailand’s light festivals balancing beauty with sustainability. Indonesian musicians blending ancient sounds with modern beats. Traditions aren’t fading — they’re being reimagined. This episode explores a cultural revival across Southeast Asia.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906071500 +0700" stop="20260906073000 +0700">
@@ -47996,7 +48064,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906080200 +0700" stop="20260906081500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906081500 +0700" stop="20260906090000 +0700">
@@ -48017,7 +48086,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906093000 +0700" stop="20260906100000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Did Kaluma Boy expose Kenya's broken and corrupt system?</title>
+    <desc>In Kenya, corruption scandals and a failing health system leave families stranded. When hospitals and governments vanish, citizens turn to TikTok and civil society for help to build roads, equip schools or anything else. The story of Kaluma Boy caring for his sick father exposes a dysfunctional state and the power of online solidarity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906100000 +0700" stop="20260906100200 +0700">
@@ -48025,11 +48095,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906100200 +0700" stop="20260906103000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: Can India revive its repair culture and curb e-waste?</title>
+    <desc>Many Indians used to get electronic goods fixed, but now many products cannot be mended. Some Indians want the right to repair. Plus how a community scheme in a wildlife reserve in Nilgiris is taking on tourist trash.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906103000 +0700" stop="20260906110000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Chinese revival of the iconic MG brand</title>
+    <desc>From classic British roadsters to electric cars for Europe: Journalists, designers and enthusiasts explain how the SAIC takeover reinvented a classic sportscar company through cross cultural cooperation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906110000 +0700" stop="20260906110200 +0700">
@@ -48050,7 +48122,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906120200 +0700" stop="20260906121500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Reclaiming the roots - "Why do traditions still matter?”</title>
+    <desc>Khmer clothing returning to the spotlight. Thailand’s light festivals balancing beauty with sustainability. Indonesian musicians blending ancient sounds with modern beats. Traditions aren’t fading — they’re being reimagined. This episode explores a cultural revival across Southeast Asia.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906121500 +0700" stop="20260906123000 +0700">
@@ -48091,7 +48164,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906151500 +0700" stop="20260906153000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: The Future of Travel: Apps, AI, Robots - and the Loss of Adventure?</title>
+    <desc>Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906153000 +0700" stop="20260906160000 +0700">
@@ -48107,7 +48181,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906163000 +0700" stop="20260906170000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Community and Culture from the Ground Up</title>
+    <desc>Culture starts with creators. Afrimaxx meets African innovators using food, fashion, art and wellness to build communities and make an impact beyond the feed.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906170000 +0700" stop="20260906171500 +0700">
@@ -48115,7 +48190,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906171500 +0700" stop="20260906173000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906173000 +0700" stop="20260906180000 +0700">
@@ -48131,7 +48207,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906183000 +0700" stop="20260906190000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Chinese revival of the iconic MG brand</title>
+    <desc>From classic British roadsters to electric cars for Europe: Journalists, designers and enthusiasts explain how the SAIC takeover reinvented a classic sportscar company through cross cultural cooperation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906190000 +0700" stop="20260906191500 +0700">
@@ -48148,7 +48225,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906201500 +0700" stop="20260906203000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: No Distance too Far</title>
+    <desc>Juana Hernández keeps Mexico City moving. A street cleaner by day, she turns every shift into training for a 100km ultramarathon, proving resilience, grit and self-belief can overcome any obstacle.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906203000 +0700" stop="20260906210000 +0700">
@@ -48160,7 +48238,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906210200 +0700" stop="20260906211500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Reclaiming the roots - "Why do traditions still matter?”</title>
+    <desc>Khmer clothing returning to the spotlight. Thailand’s light festivals balancing beauty with sustainability. Indonesian musicians blending ancient sounds with modern beats. Traditions aren’t fading — they’re being reimagined. This episode explores a cultural revival across Southeast Asia.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906211500 +0700" stop="20260906213000 +0700">
@@ -48168,7 +48247,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906213000 +0700" stop="20260906220000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Can AI tell if you're 18+ just from your hand movements?</title>
+    <desc>A French startup has developed an AI age verification that doesn't require personal data. Can it deliver on its promises? Plus: biodegradable batteries made from fungi and a closer look at what IQ actually is.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906220000 +0700" stop="20260906220200 +0700">
@@ -48176,7 +48256,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906220200 +0700" stop="20260906223000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: Creativity, Community and Culture from the Ground Up</title>
+    <desc>Culture starts with creators. Afrimaxx meets African innovators using food, fashion, art and wellness to build communities and make an impact beyond the feed.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906223000 +0700" stop="20260906230000 +0700">
@@ -48196,7 +48277,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260906233000 +0700" stop="20260907000000 +0700">
-    <title>REV: The Global Auto and Mobility Show</title>
+    <title>REV: The Chinese revival of the iconic MG brand</title>
+    <desc>From classic British roadsters to electric cars for Europe: Journalists, designers and enthusiasts explain how the SAIC takeover reinvented a classic sportscar company through cross cultural cooperation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001904" start="20260902234000 +0700" stop="20260903003000 +0700">
@@ -53456,9 +53538,101 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260905111500 +0700" stop="20260905120000 +0700">
+  <programme channel="ch0000000000100002181" start="20260905111500 +0700" stop="20260905133000 +0700">
     <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
     <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260905133000 +0700" stop="20260905154500 +0700">
+    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
+    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260905154500 +0700" stop="20260905180000 +0700">
+    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
+    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260905180000 +0700" stop="20260905201500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260905201500 +0700" stop="20260905225500 +0700">
+    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
+    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260905225500 +0700" stop="20260906010000 +0700">
+    <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906013000 +0700" stop="20260906014500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906014500 +0700" stop="20260906033000 +0700">
+    <title>Classic Matches: 1960 European Cup (5th) La Quinta</title>
+    <desc>Eintracht Frankfurt vs Real Madrid 59/60. Real Madrid won their fifth European Cup in Glasgow, Scotland</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906033000 +0700" stop="20260906061500 +0700">
+    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
+    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906061500 +0700" stop="20260906074000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906074000 +0700" stop="20260906080000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906080000 +0700" stop="20260906081500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906081500 +0700" stop="20260906102500 +0700">
+    <title>Pre-season 26/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906102500 +0700" stop="20260906104000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906104000 +0700" stop="20260906110000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906110000 +0700" stop="20260906111500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906111500 +0700" stop="20260906132500 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906132500 +0700" stop="20260906163500 +0700">
+    <title>Champions League 13/14: Real Madrid vs Atlético de Madrid (10th) La Décima</title>
+    <desc>The first ever cross city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906163500 +0700" stop="20260906183500 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906183500 +0700" stop="20260906195000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906195000 +0700" stop="20260906220500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906220500 +0700" stop="20260906232000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260906232000 +0700" stop="20260907013000 +0700">
+    <title>Pre-season 26/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260902000000 +0700" stop="20260903000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
