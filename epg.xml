@@ -330,16 +330,6 @@
     <display-name lang="en">PLAY SPORTS 90</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png"/>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
-    <display-name lang="en">PLAY SPORTS 95</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name lang="th">เพลย์สปอร์ต 96</display-name>
-    <display-name lang="en">PLAY SPORTS 96</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134957064655.png"/>
-  </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
     <display-name lang="en">CNN</display-name>
@@ -445,170 +435,176 @@
     <display-name lang="en">FAREWELL CONCERT ASANEE - WASAN</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260821095419068044.png"/>
   </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001931">
-    <display-name>ch0000000000100001931</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
   <channel id="ch0000000000100002325">
     <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
   </channel>
   <channel id="ch0000000000100002094">
     <display-name>ch0000000000100002094</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
   <channel id="ch0000000000100002314">
     <display-name>ch0000000000100002314</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
   </channel>
   <channel id="ch0000000000100002323">
     <display-name>ch0000000000100002323</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
   </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
   </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
   <channel id="ch0000000000100002312">
     <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
   </channel>
   <channel id="ch0000000000100002322">
     <display-name>ch0000000000100002322</display-name>
   </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
   <channel id="ch0000000000100001372">
     <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
   </channel>
   <channel id="ch0000000000100002524">
     <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100001931">
+    <display-name>ch0000000000100001931</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260902225500 +0700" stop="20260903004000 +0700">
     <title>Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
@@ -1267,8 +1263,8 @@
     <desc>ข่าว</desc>
   </programme>
   <programme channel="ch0000000000100001041" start="20260905110500 +0700" stop="20260905113000 +0700">
-    <title>สารคดีสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง</title>
-    <desc>สารคดีสมเด็จพระบรมราชชนนีพันปีหลวง / รายการที่นำเสนอเรื่องราวของการอนุรักษ์สิ่งแวดล้อม / รายการท่องเที่ยวเชิงวัฒนธรรม</desc>
+    <title>ในดวงใจนิรันดร์</title>
+    <desc>นำเสนอประเด็นเกี่ยวกับสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง นอกจากนี้ ยังนำเสนอนโยบายสำคัญของรัฐบาล และประเด็นชี้แจงข้อเข้าใจคลาดเคลื่อน</desc>
   </programme>
   <programme channel="ch0000000000100001041" start="20260905113000 +0700" stop="20260905120000 +0700">
     <title>Change the World</title>
@@ -1283,8 +1279,8 @@
     <desc>อัพเดททุกวงการกีฬา</desc>
   </programme>
   <programme channel="ch0000000000100001041" start="20260905133000 +0700" stop="20260905140000 +0700">
-    <title>ยัง (Young) สามารถ</title>
-    <desc>รายการวาไรตี้ที่มุ่งเน้นสร้างแรงบันดาลใจให้กับคนรุ่นใหม่ในอาชีพเกษตรกรรม</desc>
+    <title>เคลียร์คัด ชัดเจน</title>
+    <desc>เคลียร์คัด ชัดเจน ทุกเหตุการณ์อย่างทันเหตุการณ์</desc>
   </programme>
   <programme channel="ch0000000000100001041" start="20260905140000 +0700" stop="20260905140500 +0700">
     <title>NBT NEWS ข่าวต้นชั่วโมง</title>
@@ -1314,9 +1310,13 @@
     <title>NBT DOCUMENTARY สาระดี @ เอ็น บี ที</title>
     <desc>สารคดี</desc>
   </programme>
-  <programme channel="ch0000000000100001041" start="20260905170000 +0700" stop="20260905173000 +0700">
+  <programme channel="ch0000000000100001041" start="20260905170000 +0700" stop="20260905172700 +0700">
     <title>AI ใกล้ตัว</title>
     <desc>มุ่งเน้นการให้ความรู้เกี่ยวกับเทคโนโลยี Artificial Intelligence (AI) ที่เข้ามามีบทบาทในชีวิตประจำวัน เพื่อให้ผู้ชมสามารถปรับตัวและนำไปใช้งานได้อย่างเท่าทันในยุคดิจิทัล</desc>
+  </programme>
+  <programme channel="ch0000000000100001041" start="20260905172700 +0700" stop="20260905173000 +0700">
+    <title>3 นาทีกับอัยการแผ่นดิน</title>
+    <desc>เป็นรายการที่ให้ความรู้เกี่ยวกับกฎหมาย</desc>
   </programme>
   <programme channel="ch0000000000100001041" start="20260905173000 +0700" stop="20260905180000 +0700">
     <title>NBT ทั่วไทย</title>
@@ -7963,16 +7963,12 @@
     <title>ข่าวเด่นเช้านี้ (สด)</title>
     <desc>สอบถามข้อมูลเพิ่มเติม 0-2615-2213</desc>
   </programme>
-  <programme channel="ch0000000000100001124" start="20260905090000 +0700" stop="20260905093000 +0700">
-    <title>ครูของฉัน (Re)</title>
+  <programme channel="ch0000000000100001124" start="20260905090000 +0700" stop="20260905093500 +0700">
+    <title>คุยกับ ครม.อนุทิน</title>
     <desc>สอบถามข้อมูลเพิ่มเติม 0-2615-2213</desc>
   </programme>
-  <programme channel="ch0000000000100001124" start="20260905093000 +0700" stop="20260905095500 +0700">
+  <programme channel="ch0000000000100001124" start="20260905093500 +0700" stop="20260905100000 +0700">
     <title>คนไทยหัวใจไม่ท้อ</title>
-    <desc>สอบถามข้อมูลเพิ่มเติม 0-2615-2213</desc>
-  </programme>
-  <programme channel="ch0000000000100001124" start="20260905095500 +0700" stop="20260905100000 +0700">
-    <title>สารคดี</title>
     <desc>สอบถามข้อมูลเพิ่มเติม 0-2615-2213</desc>
   </programme>
   <programme channel="ch0000000000100001124" start="20260905100000 +0700" stop="20260905100500 +0700">
@@ -10659,27 +10655,27 @@
   </programme>
   <programme channel="ch0000000000100001151" start="20260906000000 +0700" stop="20260906003000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906003000 +0700" stop="20260906010000 +0700">
     <title>The Media Show</title>
-    <desc>A globaltopical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc>The Media Show</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906010000 +0700" stop="20260906013000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906013000 +0700" stop="20260906020000 +0700">
-    <title>Talking Movies</title>
-    <desc>Marking America's 250th anniversaryleading figures in US media</desc>
+    <title>TBA</title>
+    <desc>TBA</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906020000 +0700" stop="20260906023000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906023000 +0700" stop="20260906030000 +0700">
@@ -10689,17 +10685,17 @@
   </programme>
   <programme channel="ch0000000000100001151" start="20260906030000 +0700" stop="20260906033000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906033000 +0700" stop="20260906040000 +0700">
-    <title>AI Decoded</title>
-    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <title>TBA</title>
+    <desc>TBA</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906040000 +0700" stop="20260906043000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906043000 +0700" stop="20260906050000 +0700">
@@ -10709,52 +10705,52 @@
   </programme>
   <programme channel="ch0000000000100001151" start="20260906050000 +0700" stop="20260906053000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906053000 +0700" stop="20260906060000 +0700">
-    <title>Streets of Gold: Mumbai</title>
-    <desc>Breakfast at Anupam Mittal's home offers a glimpse into one of India's best-known business moguls. A Shark Tank India investorhe is the country's answer to the entrepreneurs seen on Dragon's Den.</desc>
+    <title>TBA</title>
+    <desc>TBA</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906060000 +0700" stop="20260906063000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906063000 +0700" stop="20260906070000 +0700">
     <title>Talking Business</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc>Talking Business</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906070000 +0700" stop="20260906073000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906073000 +0700" stop="20260906080000 +0700">
     <title>The Travel Show</title>
-    <desc>Marking 80 years since the Vespa's debutQasa Alom takes to the roads of Tuscany. He explores the region with a reputation as a playground for the rich and famous and its blue-collared history.</desc>
+    <desc>The Travel Show</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906080000 +0700" stop="20260906083000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906083000 +0700" stop="20260906090000 +0700">
-    <title>Talking Movies</title>
-    <desc>Marking America's 250th anniversaryleading figures in US media</desc>
+    <title>TBA</title>
+    <desc>TBA</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906090000 +0700" stop="20260906100000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906100000 +0700" stop="20260906103000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906103000 +0700" stop="20260906110000 +0700">
@@ -10764,62 +10760,56 @@
   </programme>
   <programme channel="ch0000000000100001151" start="20260906110000 +0700" stop="20260906113000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001151" start="20260906113000 +0700" stop="20260906114500 +0700">
-    <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001151" start="20260906114500 +0700" stop="20260906120000 +0700">
+  <programme channel="ch0000000000100001151" start="20260906113000 +0700" stop="20260906120000 +0700">
     <title>The President's Path</title>
-    <desc>Join Caitrรญona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
-    <category>News</category>
+    <desc>The President's Path</desc>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906120000 +0700" stop="20260906123000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906123000 +0700" stop="20260906130000 +0700">
     <title>The Media Show</title>
-    <desc>A globaltopical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc>The Media Show</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906130000 +0700" stop="20260906133000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906133000 +0700" stop="20260906140000 +0700">
     <title>The Travel Show</title>
-    <desc>Marking 80 years since the Vespa's debutQasa Alom takes to the roads of Tuscany. He explores the region with a reputation as a playground for the rich and famous and its blue-collared history.</desc>
+    <desc>The Travel Show</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906140000 +0700" stop="20260906143000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906143000 +0700" stop="20260906150000 +0700">
     <title>Tech Now</title>
-    <desc>Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+    <desc>Tech Now</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906150000 +0700" stop="20260906153000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906153000 +0700" stop="20260906160000 +0700">
-    <title>Streets of Gold: Mumbai</title>
-    <desc>Breakfast at Anupam Mittal's home offers a glimpse into one of India's best-known business moguls. A Shark Tank India investorhe is the country's answer to the entrepreneurs seen on Dragon's Den.</desc>
+    <title>TBA</title>
+    <desc>TBA</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906160000 +0700" stop="20260906163000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906163000 +0700" stop="20260906170000 +0700">
@@ -10829,22 +10819,22 @@
   </programme>
   <programme channel="ch0000000000100001151" start="20260906170000 +0700" stop="20260906180000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906180000 +0700" stop="20260906183000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906183000 +0700" stop="20260906190000 +0700">
     <title>Talking Business</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc>Talking Business</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906190000 +0700" stop="20260906193000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906193000 +0700" stop="20260906200000 +0700">
@@ -10854,32 +10844,32 @@
   </programme>
   <programme channel="ch0000000000100001151" start="20260906200000 +0700" stop="20260906203000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906203000 +0700" stop="20260906210000 +0700">
-    <title>Talking Movies</title>
-    <desc>Marking America's 250th anniversaryleading figures in US media</desc>
+    <title>TBA</title>
+    <desc>TBA</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906210000 +0700" stop="20260906220000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906220000 +0700" stop="20260906230000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906230000 +0700" stop="20260906233000 +0700">
     <title>BBC News</title>
-    <desc>The latest news from the BBC.</desc>
+    <desc>BBC News</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001151" start="20260906233000 +0700" stop="20260907000000 +0700">
-    <title>Streets of Gold: Mumbai</title>
-    <desc>Breakfast at Anupam Mittal's home offers a glimpse into one of India's best-known business moguls. A Shark Tank India investorhe is the country's answer to the entrepreneurs seen on Dragon's Den.</desc>
+    <title>TBA</title>
+    <desc>TBA</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001152" start="20260902233000 +0700" stop="20260903000000 +0700">
@@ -11434,6 +11424,186 @@
     <title>เงินทองต้องวางแผน Happy Money, Happy Retirement</title>
     <desc>เงินทองต้องวางแผน Happy Money, Happy Retirement</desc>
   </programme>
+  <programme channel="ch0000000000100001152" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>R : เที่ยวชุมชน ยลวิถี</title>
+    <desc>R : เที่ยวชุมชน ยลวิถี</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>R : สารคดีเฉลิมพระเกียรติราชวงศ์จักรี</title>
+    <desc>R : สารคดีเฉลิมพระเกียรติราชวงศ์จักรี</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>R : ๑ ในพระราชดำริ</title>
+    <desc>R : ๑ ในพระราชดำริ</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906013000 +0700" stop="20260906020000 +0700">
+    <title>R : เงินทองต้องวางแผน Happy Money, Happy Retirement</title>
+    <desc>R : เงินทองต้องวางแผน Happy Money, Happy Retirement</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>Happy Family</title>
+    <desc>Happy Family</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>R : แผ่นดินทระนง</title>
+    <desc>R : แผ่นดินทระนง</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>R : 100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</title>
+    <desc>R : 100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>เรื่องของพ่อ รอทุกคนเล่า</title>
+    <desc>เรื่องของพ่อ รอทุกคนเล่า</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>R : ที่นี่บ้านเรา</title>
+    <desc>R : ที่นี่บ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>R : แฟ้มลับคดีอร่อย season2</title>
+    <desc>R : แฟ้มลับคดีอร่อย season2</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>The Green Diary season 1</title>
+    <desc>The Green Diary season 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>R : การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R : การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>ว11101 วิทยาศาสตร์และเทคโนโลยี</title>
+    <desc>ว11101 วิทยาศาสตร์และเทคโนโลยี</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>ท11101 ภาษาไทย</title>
+    <desc>ท11101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>ค11101 คณิตศาสตร์</title>
+    <desc>ค11101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>ศ11101 ศิลปะ</title>
+    <desc>ศ11101 ศิลปะ</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>ค11101 คณิตศาสตร์</title>
+    <desc>ค11101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>ท11101 ภาษาไทย</title>
+    <desc>ท11101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>ง11101 การงานอาชีพ</title>
+    <desc>ง11101 การงานอาชีพ</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ส11101 สังคมศึกษา</title>
+    <desc>ส11101 สังคมศึกษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906140000 +0700" stop="20260906143000 +0700">
+    <title>เรื่องของพ่อ รอทุกคนเล่า</title>
+    <desc>เรื่องของพ่อ รอทุกคนเล่า</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906143000 +0700" stop="20260906150000 +0700">
+    <title>ที่นี่บ้านเรา</title>
+    <desc>ที่นี่บ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906150000 +0700" stop="20260906153000 +0700">
+    <title>แฟ้มลับคดีอร่อย season2</title>
+    <desc>แฟ้มลับคดีอร่อย season2</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>The Green Diary season 1</title>
+    <desc>The Green Diary season 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>ตามอำเภอจาน</title>
+    <desc>ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>เที่ยวชุมชน ยลวิถี</title>
+    <desc>เที่ยวชุมชน ยลวิถี</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>สารคดีเฉลิมพระเกียรติราชวงศ์จักรี</title>
+    <desc>สารคดีเฉลิมพระเกียรติราชวงศ์จักรี</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>๑ ในพระราชดำริ</title>
+    <desc>๑ ในพระราชดำริ</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>เงินทองต้องวางแผน Happy Money, Happy Retirement</title>
+    <desc>เงินทองต้องวางแผน Happy Money, Happy Retirement</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>Happy Family</title>
+    <desc>Happy Family</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>แผ่นดินทระนง</title>
+    <desc>แผ่นดินทระนง</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</title>
+    <desc>100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>จิตอาสาพลังบวก</title>
+    <desc>จิตอาสาพลังบวก</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>R : ที่นี่บ้านเรา</title>
+    <desc>R : ที่นี่บ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>R : แฟ้มลับคดีอร่อย season2</title>
+    <desc>R : แฟ้มลับคดีอร่อย season2</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>R : The Green Diary season 1</title>
+    <desc>R : The Green Diary season 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001152" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>R : ตามอำเภอจาน</title>
+    <desc>R : ตามอำเภอจาน</desc>
+  </programme>
   <programme channel="ch0000000000100001153" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>ตามอำเภอจาน</title>
     <desc>ตามอำเภอจาน</desc>
@@ -11969,6 +12139,174 @@
   <programme channel="ch0000000000100001153" start="20260905233000 +0700" stop="20260906000000 +0700">
     <title>ที่นี่บ้านเรา</title>
     <desc>ที่นี่บ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906000000 +0700" stop="20260906010000 +0700">
+    <title>รายการชุดการฝึกเพื่อพัฒนาฝีมือแรงงาน</title>
+    <desc>รายการชุดการฝึกเพื่อพัฒนาฝีมือแรงงาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906010000 +0700" stop="20260906020000 +0700">
+    <title>คลายฉงน</title>
+    <desc>คลายฉงน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906020000 +0700" stop="20260906030000 +0700">
+    <title>R : เล็ก ๆ เปลี่ยนโลก</title>
+    <desc>R : เล็ก ๆ เปลี่ยนโลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>R : I am ฉันจะเป็น</title>
+    <desc>R : I am ฉันจะเป็น</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>R : Cook it Better</title>
+    <desc>R : Cook it Better</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>ภัตตาคารบ้านทุ่ง</title>
+    <desc>ภัตตาคารบ้านทุ่ง</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>R : ตามอำเภอจาน</title>
+    <desc>R : ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>R : ช่างประจำบ้าน</title>
+    <desc>R : ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>R : เงินทองต้องวางแผน Life Event</title>
+    <desc>R : เงินทองต้องวางแผน Life Event</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906060000 +0700" stop="20260906063000 +0700">
+    <title>R : Animal Speak</title>
+    <desc>R : Animal Speak</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906063000 +0700" stop="20260906070000 +0700">
+    <title>Strong Together</title>
+    <desc>Strong Together</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906070000 +0700" stop="20260906073000 +0700">
+    <title>R : Active Morning</title>
+    <desc>R : Active Morning</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906073000 +0700" stop="20260906075500 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906075500 +0700" stop="20260906080100 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906080100 +0700" stop="20260906083000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906083000 +0700" stop="20260906093000 +0700">
+    <title>ค12101 คณิตศาสตร์ เรื่อง 1 รูป แทน 10 หน่วย</title>
+    <desc>ค12101 คณิตศาสตร์ เรื่อง 1 รูป แทน 10 หน่วย</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906093000 +0700" stop="20260906103000 +0700">
+    <title>อ12101 ภาษาอังกฤษ เรื่อง My Favorite Sport (2)</title>
+    <desc>อ12101 ภาษาอังกฤษ เรื่อง My Favorite Sport (2)</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906103000 +0700" stop="20260906113000 +0700">
+    <title>ท12101 ภาษาไทย</title>
+    <desc>ท12101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906113000 +0700" stop="20260906120000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906120000 +0700" stop="20260906122500 +0700">
+    <title>ข่าวเที่ยง</title>
+    <desc>ข่าวเที่ยง</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906122500 +0700" stop="20260906123000 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906123000 +0700" stop="20260906133000 +0700">
+    <title>ส12102 ประวัติศาสตร์</title>
+    <desc>ส12102 ประวัติศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906133000 +0700" stop="20260906143000 +0700">
+    <title>R : ค12101 คณิตศาสตร์</title>
+    <desc>R : ค12101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906143000 +0700" stop="20260906150000 +0700">
+    <title>เที่ยวชุมชน ยลวิถี</title>
+    <desc>เที่ยวชุมชน ยลวิถี</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906150000 +0700" stop="20260906153000 +0700">
+    <title>ย้อนวันวาน ย่านชุมชน กทม.</title>
+    <desc>ย้อนวันวาน ย่านชุมชน กทม.</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>I am ฉันจะเป็น</title>
+    <desc>I am ฉันจะเป็น</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>Cook it Better</title>
+    <desc>Cook it Better</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>กีฬาพาไปลอง</title>
+    <desc>กีฬาพาไปลอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>ตามอำเภอจาน</title>
+    <desc>ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>ช่างประจำบ้าน</title>
+    <desc>ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906183000 +0700" stop="20260906193000 +0700">
+    <title>รายการชุดการฝึกเพื่อพัฒนาฝีมือแรงงาน</title>
+    <desc>รายการชุดการฝึกเพื่อพัฒนาฝีมือแรงงาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>เงินทองต้องวางแผน Life Event</title>
+    <desc>เงินทองต้องวางแผน Life Event</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906203500 +0700" stop="20260906213000 +0700">
+    <title>คลายฉงน</title>
+    <desc>คลายฉงน</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906213000 +0700" stop="20260906223000 +0700">
+    <title>เล็ก ๆ เปลี่ยนโลก</title>
+    <desc>เล็ก ๆ เปลี่ยนโลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>Animal Speak</title>
+    <desc>Animal Speak</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>ที่นี่บ้านเรา</title>
+    <desc>ที่นี่บ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001153" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>ภัตตาคารบ้านทุ่ง</title>
+    <desc>ภัตตาคารบ้านทุ่ง</desc>
   </programme>
   <programme channel="ch0000000000100001161" start="20260903000000 +0700" stop="20260903003500 +0700">
     <title>ซีรีส์จีน มหัศจรรย์รักแดนดอกท้อ (Fairyland Romance)</title>
@@ -13019,7 +13357,7 @@
     <desc>-</desc>
   </programme>
   <programme channel="ch0000000000100001163" start="20260906093500 +0700" stop="20260906100000 +0700">
-    <title>อลังการงานจีน</title>
+    <title>คุยกับ ครม อนุทิน</title>
     <desc>-</desc>
   </programme>
   <programme channel="ch0000000000100001163" start="20260906100000 +0700" stop="20260906100500 +0700">
@@ -18495,11 +18833,11 @@
     <title>Home of Sports Weekend</title>
     <desc>รายการกีฬา</desc>
   </programme>
-  <programme channel="ch0000000000100001171" start="20260906170000 +0700" stop="20260906181500 +0700">
-    <title>เข้มข่าวค่ำ ช่วง 1</title>
+  <programme channel="ch0000000000100001171" start="20260906170000 +0700" stop="20260906182000 +0700">
+    <title>เข้มข่าวค่ำ</title>
     <desc>เกาะติดทุกสถานการณ์เจาะลึกเข้มข้นมากขึ้นรายงานสดจากพื้นที่โดยทีมผู้สื่อข่าวภาคสนาม</desc>
   </programme>
-  <programme channel="ch0000000000100001171" start="20260906181500 +0700" stop="20260906202000 +0700">
+  <programme channel="ch0000000000100001171" start="20260906182000 +0700" stop="20260906202000 +0700">
     <title>ถ่ายทอดสด Thai Fight League</title>
     <desc>การแข่งขันมวยไทยที่เป็นทัวร์นาเมนท์มวยไทยระดับโลก</desc>
   </programme>
@@ -18507,19 +18845,15 @@
     <title>ข่าวในพระราชสำนัก</title>
     <desc>ข่าวในพระราชสำนัก</desc>
   </programme>
-  <programme channel="ch0000000000100001171" start="20260906203000 +0700" stop="20260906210000 +0700">
-    <title>เข้มข่าวค่ำ ช่วง 2</title>
+  <programme channel="ch0000000000100001171" start="20260906203000 +0700" stop="20260906213000 +0700">
+    <title>เข้มข่าวค่ำ</title>
     <desc>เกาะติดทุกสถานการณ์เจาะลึกเข้มข้นมากขึ้นรายงานสดจากพื้นที่โดยทีมผู้สื่อข่าวภาคสนาม</desc>
   </programme>
-  <programme channel="ch0000000000100001171" start="20260906210000 +0700" stop="20260906211000 +0700">
-    <title>Match Day</title>
-    <desc>วิเคราะห์ก่อนเกมฟุตบอล La Liga ระหว่าง บาเลนเซีย พบ บาร์ซา</desc>
+  <programme channel="ch0000000000100001171" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>Game On</title>
+    <desc>ไฮไลท์ไทยลีก</desc>
   </programme>
-  <programme channel="ch0000000000100001171" start="20260906211000 +0700" stop="20260906231500 +0700">
-    <title>ถ่ายทอดสดฟุตบอล La Liga 2026/27</title>
-    <desc>ระหว่าง บาเลนเซีย พบ บาร์ซา</desc>
-  </programme>
-  <programme channel="ch0000000000100001171" start="20260906231500 +0700" stop="20260906235959 +0700">
+  <programme channel="ch0000000000100001171" start="20260906220000 +0700" stop="20260906235959 +0700">
     <title>Home of Sports Weekend</title>
     <desc>รายการกีฬา</desc>
   </programme>
@@ -29997,6 +30331,182 @@
     <title>ธรรมสาธุ</title>
     <desc>ธรรมสาธุ</desc>
   </programme>
+  <programme channel="ch0000000000100001283" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>Happy Family</title>
+    <desc>Happy Family</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>Good Morning vocab King</title>
+    <desc>Good Morning vocab King</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>ธรรมสาธุ</title>
+    <desc>ธรรมสาธุ</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906013000 +0700" stop="20260906020000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ ปี 1-2</title>
+    <desc>เพื่อชีวิตและสุขภาพ ปี 1-2</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>ตามอำเภอจาน</title>
+    <desc>ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>ทัวร์ไม่กลัวฝรั่ง</title>
+    <desc>ทัวร์ไม่กลัวฝรั่ง</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>Click</title>
+    <desc>Click</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</title>
+    <desc>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>Vocab Journey Kid’s story</title>
+    <desc>Vocab Journey Kid’s story</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>Sparkling English</title>
+    <desc>Sparkling English</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>กีฬาพาไปลอง</title>
+    <desc>กีฬาพาไปลอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>R การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>ว21102 วิทยาศาสตร์และเทคโนโลยี ม.1</title>
+    <desc>ว21102 วิทยาศาสตร์และเทคโนโลยี ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>อ21102 ภาษาอังกฤษ ม.1</title>
+    <desc>อ21102 ภาษาอังกฤษ ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>ท21102 ภาษาไทย ม.1</title>
+    <desc>ท21102 ภาษาไทย ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>ส21103 สังคมศึกษา ม.1</title>
+    <desc>ส21103 สังคมศึกษา ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>พ21103 สุขศึกษา ม.1</title>
+    <desc>พ21103 สุขศึกษา ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>อ21102 ภาษาอังกฤษ ม.1</title>
+    <desc>อ21102 ภาษาอังกฤษ ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>ส21103 สังคมศึกษา ม.1</title>
+    <desc>ส21103 สังคมศึกษา ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ศ21102 ศิลปะ ม.1 (นาฏศิลป์)</title>
+    <desc>ศ21102 ศิลปะ ม.1 (นาฏศิลป์)</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906140000 +0700" stop="20260906150000 +0700">
+    <title>ง21102 การงานอาชีพ ม.1</title>
+    <desc>ง21102 การงานอาชีพ ม.1</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906150000 +0700" stop="20260906153000 +0700">
+    <title>Click</title>
+    <desc>Click</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</title>
+    <desc>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>Vocab Journey Kid’s story</title>
+    <desc>Vocab Journey Kid’s story</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>Sparkling English</title>
+    <desc>Sparkling English</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>fud fid fo fi</title>
+    <desc>fud fid fo fi</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>English Level up</title>
+    <desc>English Level up</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>Good Morning vocab King</title>
+    <desc>Good Morning vocab King</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>ธรรมสาธุ</title>
+    <desc>ธรรมสาธุ</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ ปี 1-2</title>
+    <desc>เพื่อชีวิตและสุขภาพ ปี 1-2</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>R : สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>R : สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>Click</title>
+    <desc>Click</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</title>
+    <desc>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>Vocab Journey Kid’s story</title>
+    <desc>Vocab Journey Kid’s story</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>Sparkling English</title>
+    <desc>Sparkling English</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>fud fid fo fi</title>
+    <desc>fud fid fo fi</desc>
+  </programme>
+  <programme channel="ch0000000000100001283" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>English Level up</title>
+    <desc>English Level up</desc>
+  </programme>
   <programme channel="ch0000000000100001284" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>R ท่องโลก ๑๐+๑</title>
     <desc>R ท่องโลก ๑๐+๑</desc>
@@ -30545,6 +31055,186 @@
     <title>ASEAN FOCUS</title>
     <desc>ASEAN FOCUS</desc>
   </programme>
+  <programme channel="ch0000000000100001284" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>ASEAN FOCUS</title>
+    <desc>ASEAN FOCUS</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>สีสันแอฟริกา</title>
+    <desc>สีสันแอฟริกา</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>ภาษาพม่า</title>
+    <desc>ภาษาพม่า</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906013000 +0700" stop="20260906020000 +0700">
+    <title>Spirit of Asia</title>
+    <desc>Spirit of Asia</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>สารคดี The Moving Pictures</title>
+    <desc>สารคดี The Moving Pictures</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>ธรรมสาธุ</title>
+    <desc>ธรรมสาธุ</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>แง้มประตูสู่ลาว ปี ๑-๒</title>
+    <desc>แง้มประตูสู่ลาว ปี ๑-๒</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>วิถีอาเซียน</title>
+    <desc>วิถีอาเซียน</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>รอบบ้านเรา</title>
+    <desc>รอบบ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>ท่องโลก ๑๐+๑</title>
+    <desc>ท่องโลก ๑๐+๑</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>สวัสดีเวียดนาม</title>
+    <desc>สวัสดีเวียดนาม</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>ท22102 ภาษาไทย ม.2</title>
+    <desc>ท22102 ภาษาไทย ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>ว22102 วิทยาศาสตร์และเทคโนโลยี ม.2</title>
+    <desc>ว22102 วิทยาศาสตร์และเทคโนโลยี ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>ว22102 วิทยาศาสตร์และเทคโนโลยี ม.2</title>
+    <desc>ว22102 วิทยาศาสตร์และเทคโนโลยี ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>ส22104 ประวัติศาสตร์ ม.2</title>
+    <desc>ส22104 ประวัติศาสตร์ ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>ส22103 สังคมศึกษา ม.2</title>
+    <desc>ส22103 สังคมศึกษา ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>ท22102 ภาษาไทย ม.2</title>
+    <desc>ท22102 ภาษาไทย ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>อ22102 ภาษาอังกฤษ ม.2</title>
+    <desc>อ22102 ภาษาอังกฤษ ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>พ22103 สุขศึกษา ม.2</title>
+    <desc>พ22103 สุขศึกษา ม.2</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906140000 +0700" stop="20260906143000 +0700">
+    <title>ธรรมสาธุ</title>
+    <desc>ธรรมสาธุ</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906143000 +0700" stop="20260906150000 +0700">
+    <title>R แง้มประตูสู่ลาว ปี ๑-๒</title>
+    <desc>R แง้มประตูสู่ลาว ปี ๑-๒</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906150000 +0700" stop="20260906153000 +0700">
+    <title>R วิถีอาเซียน</title>
+    <desc>R วิถีอาเซียน</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>R รอบบ้านเรา</title>
+    <desc>R รอบบ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>R ท่องโลก ๑๐+๑</title>
+    <desc>R ท่องโลก ๑๐+๑</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>R สวัสดีเวียดนาม</title>
+    <desc>R สวัสดีเวียดนาม</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>R ภาษาเกาหลี</title>
+    <desc>R ภาษาเกาหลี</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>ASEAN FOCUS</title>
+    <desc>ASEAN FOCUS</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>R สีสันแอฟริกา</title>
+    <desc>R สีสันแอฟริกา</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>R ภาษาพม่า</title>
+    <desc>R ภาษาพม่า</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>Spirit of Asia</title>
+    <desc>Spirit of Asia</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>R แง้มประตูสู่ลาว ปี ๑-๒</title>
+    <desc>R แง้มประตูสู่ลาว ปี ๑-๒</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>R วิถีอาเซียน</title>
+    <desc>R วิถีอาเซียน</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>R รอบบ้านเรา</title>
+    <desc>R รอบบ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>R ท่องโลก ๑๐+๑</title>
+    <desc>R ท่องโลก ๑๐+๑</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>R สวัสดีเวียดนาม</title>
+    <desc>R สวัสดีเวียดนาม</desc>
+  </programme>
+  <programme channel="ch0000000000100001284" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>R ภาษาเกาหลี</title>
+    <desc>R ภาษาเกาหลี</desc>
+  </programme>
   <programme channel="ch0000000000100001285" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>R รอบภูมิภาค</title>
     <desc>R รอบภูมิภาค</desc>
@@ -31065,6 +31755,174 @@
     <title>เกษตรไทยไอดอล</title>
     <desc>เกษตรไทยไอดอล</desc>
   </programme>
+  <programme channel="ch0000000000100001285" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>R ตามอำเภอจาน</title>
+    <desc>R ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>R เกษตรไทยไอดอล</title>
+    <desc>R เกษตรไทยไอดอล</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>R แผ่นดินทระนง</title>
+    <desc>R แผ่นดินทระนง</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906013000 +0700" stop="20260906020000 +0700">
+    <title>อันดามัน</title>
+    <desc>อันดามัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>หน้าต่างตะวันตก</title>
+    <desc>หน้าต่างตะวันตก</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>R The Green Diary season 1</title>
+    <desc>R The Green Diary season 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>R ช่างประจำบ้าน</title>
+    <desc>R ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906033000 +0700" stop="20260906043000 +0700">
+    <title>เกษตรขั้นเทพ</title>
+    <desc>เกษตรขั้นเทพ</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>R ไปตามฝัน</title>
+    <desc>R ไปตามฝัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>Active Morning</title>
+    <desc>Active Morning</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>R : การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R : การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>ค23102 คณิตศาสตร์ ม.3</title>
+    <desc>ค23102 คณิตศาสตร์ ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>ท23102 ภาษาไทย ม.3</title>
+    <desc>ท23102 ภาษาไทย ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>อ23102 ภาษาอังกฤษ ม.3</title>
+    <desc>อ23102 ภาษาอังกฤษ ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>ศ23102 ศิลปะ (ทัศนศิลป์) ม.3</title>
+    <desc>ศ23102 ศิลปะ (ทัศนศิลป์) ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>ว23102 วิทยาศาสตร์และเทคโนโลยี ม.3</title>
+    <desc>ว23102 วิทยาศาสตร์และเทคโนโลยี ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>อ23102 ภาษาอังกฤษ ม.3</title>
+    <desc>อ23102 ภาษาอังกฤษ ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>ส23102 สังคมศึกษา ม.3</title>
+    <desc>ส23102 สังคมศึกษา ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ศ23102 ศิลปะ (นาฏศิลป์) ม.3</title>
+    <desc>ศ23102 ศิลปะ (นาฏศิลป์) ม.3</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906140000 +0700" stop="20260906143000 +0700">
+    <title>R The Green Diary season 1</title>
+    <desc>R The Green Diary season 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906143000 +0700" stop="20260906150000 +0700">
+    <title>R ช่างประจำบ้าน</title>
+    <desc>R ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906150000 +0700" stop="20260906160000 +0700">
+    <title>R เกษตรขั้นเทพ</title>
+    <desc>R เกษตรขั้นเทพ</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>R ไปตามฝัน</title>
+    <desc>R ไปตามฝัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>R รอบภูมิภาค</title>
+    <desc>R รอบภูมิภาค</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>R เมืองไทยดี๊ดี</title>
+    <desc>R เมืองไทยดี๊ดี</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>R ตามอำเภอจาน</title>
+    <desc>R ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>R เกษตรไทยไอดอล</title>
+    <desc>R เกษตรไทยไอดอล</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>R แผ่นดินทระนง</title>
+    <desc>R แผ่นดินทระนง</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>R อันดามัน</title>
+    <desc>R อันดามัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>R สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>R สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>R การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>R ช่างประจำบ้าน</title>
+    <desc>R ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906213000 +0700" stop="20260906223000 +0700">
+    <title>R เกษตรขั้นเทพ</title>
+    <desc>R เกษตรขั้นเทพ</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>R ไปตามฝัน</title>
+    <desc>R ไปตามฝัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>R รอบภูมิภาค</title>
+    <desc>R รอบภูมิภาค</desc>
+  </programme>
+  <programme channel="ch0000000000100001285" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>R เมืองไทยดี๊ดี</title>
+    <desc>R เมืองไทยดี๊ดี</desc>
+  </programme>
   <programme channel="ch0000000000100001286" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>ปลดล็อคสมองเสื่อม</title>
     <desc>ปลดล็อคสมองเสื่อม</desc>
@@ -31568,6 +32426,158 @@
   <programme channel="ch0000000000100001286" start="20260905233000 +0700" stop="20260906000000 +0700">
     <title>ธรรมดี...ได้ดี Follow Me</title>
     <desc>ธรรมดี...ได้ดี Follow Me</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>Young @ Heart</title>
+    <desc>Young @ Heart</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906003000 +0700" stop="20260906013000 +0700">
+    <title>Healthy Friday</title>
+    <desc>Healthy Friday</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906013000 +0700" stop="20260906020000 +0700">
+    <title>Hope</title>
+    <desc>Hope</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>Work with a Healthy Life</title>
+    <desc>Work with a Healthy Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>ปลดชนวนป่วนใจ</title>
+    <desc>ปลดชนวนป่วนใจ</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906030000 +0700" stop="20260906040000 +0700">
+    <title>ศิริราช The Life</title>
+    <desc>ศิริราช The Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>Work with a Healthy Life</title>
+    <desc>Work with a Healthy Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>Hope</title>
+    <desc>Hope</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>ทราบแล้วเปลี่ยน</title>
+    <desc>ทราบแล้วเปลี่ยน</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906053000 +0700" stop="20260906054500 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906054500 +0700" stop="20260906060000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906060000 +0700" stop="20260906080100 +0700">
+    <title>R : อนุบาลปีที่ 3</title>
+    <desc>R : อนุบาลปีที่ 3</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906080100 +0700" stop="20260906082500 +0700">
+    <title>THU อนุบาลปีที่ 3 (ต่อ)</title>
+    <desc>THU อนุบาลปีที่ 3 (ต่อ)</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906082500 +0700" stop="20260906083000 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906083000 +0700" stop="20260906105500 +0700">
+    <title>R อนุบาลปีที่ 3</title>
+    <desc>R อนุบาลปีที่ 3</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906105500 +0700" stop="20260906110000 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906110000 +0700" stop="20260906113000 +0700">
+    <title>ปลดชนวนป่วนใจ</title>
+    <desc>ปลดชนวนป่วนใจ</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906113000 +0700" stop="20260906123000 +0700">
+    <title>ศิริราช The Life</title>
+    <desc>ศิริราช The Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906123000 +0700" stop="20260906130000 +0700">
+    <title>Work with a Healthy Life</title>
+    <desc>Work with a Healthy Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906130000 +0700" stop="20260906133000 +0700">
+    <title>Hope</title>
+    <desc>Hope</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906133000 +0700" stop="20260906143000 +0700">
+    <title>Rama Show</title>
+    <desc>Rama Show</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906143000 +0700" stop="20260906153000 +0700">
+    <title>Young @ Heart</title>
+    <desc>Young @ Heart</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>ปลดล็อคสมองเสื่อม</title>
+    <desc>ปลดล็อคสมองเสื่อม</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>Healthy Friday</title>
+    <desc>Healthy Friday</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906163000 +0700" stop="20260906173000 +0700">
+    <title>Healthy Living</title>
+    <desc>Healthy Living</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>รุ่นใหญ่พาซ่า</title>
+    <desc>รุ่นใหญ่พาซ่า</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>ปลดชนวนป่วนใจ</title>
+    <desc>ปลดชนวนป่วนใจ</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906183000 +0700" stop="20260906193000 +0700">
+    <title>ศิริราช The Life</title>
+    <desc>ศิริราช The Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>Work with a Healthy Life</title>
+    <desc>Work with a Healthy Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>ปลดล็อคสมองเสื่อม</title>
+    <desc>ปลดล็อคสมองเสื่อม</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906213000 +0700" stop="20260906223000 +0700">
+    <title>Rama Show</title>
+    <desc>Rama Show</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906223000 +0700" stop="20260906233000 +0700">
+    <title>Healthy Fine Day</title>
+    <desc>Healthy Fine Day</desc>
+  </programme>
+  <programme channel="ch0000000000100001286" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>Healthy Living</title>
+    <desc>Healthy Living</desc>
   </programme>
   <programme channel="ch0000000000100001291" start="20260902230000 +0700" stop="20260903000000 +0700">
     <title>พ่อแม่สู้ สู้</title>
@@ -32077,6 +33087,178 @@
     <title>เป็นพ่อ...เป็นแม่</title>
     <desc>เป็นพ่อ...เป็นแม่</desc>
   </programme>
+  <programme channel="ch0000000000100001291" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>เป็นพ่อ...เป็นแม่</title>
+    <desc>เป็นพ่อ...เป็นแม่</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906003000 +0700" stop="20260906013000 +0700">
+    <title>Rama Kid D</title>
+    <desc>Rama Kid D</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906013000 +0700" stop="20260906023000 +0700">
+    <title>อนุบาลชาญสมร</title>
+    <desc>อนุบาลชาญสมร</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>จิ๋วซ่าส์ นักประดิษฐ์</title>
+    <desc>จิ๋วซ่าส์ นักประดิษฐ์</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>I am ฉันจะเป็น</title>
+    <desc>I am ฉันจะเป็น</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>สมองดีสร้างได้</title>
+    <desc>สมองดีสร้างได้</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>Happy Parenting</title>
+    <desc>Happy Parenting</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>Rama Idol</title>
+    <desc>Rama Idol</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>Rama Talent อัจฉริยะท้าประลอง</title>
+    <desc>Rama Talent อัจฉริยะท้าประลอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906053000 +0700" stop="20260906054500 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906054500 +0700" stop="20260906060000 +0700">
+    <title>R : การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R : การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906060000 +0700" stop="20260906080100 +0700">
+    <title>อนุบาลปีที่ 1</title>
+    <desc>อนุบาลปีที่ 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906080100 +0700" stop="20260906082500 +0700">
+    <title>อนุบาลปีที่ 1</title>
+    <desc>อนุบาลปีที่ 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906082500 +0700" stop="20260906083000 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906083000 +0700" stop="20260906105500 +0700">
+    <title>อนุบาลปีที่ 1</title>
+    <desc>อนุบาลปีที่ 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906105500 +0700" stop="20260906110000 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906110000 +0700" stop="20260906113000 +0700">
+    <title>ต้นกล้าป่ามหัศจรรย์</title>
+    <desc>ต้นกล้าป่ามหัศจรรย์</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906113000 +0700" stop="20260906120000 +0700">
+    <title>จิ๋วซ่าส์ นักประดิษฐ์</title>
+    <desc>จิ๋วซ่าส์ นักประดิษฐ์</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906120000 +0700" stop="20260906123000 +0700">
+    <title>I am ฉันจะเป็น</title>
+    <desc>I am ฉันจะเป็น</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906123000 +0700" stop="20260906130000 +0700">
+    <title>สมองดีสร้างได้</title>
+    <desc>สมองดีสร้างได้</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906130000 +0700" stop="20260906133000 +0700">
+    <title>Happy Parenting</title>
+    <desc>Happy Parenting</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906133000 +0700" stop="20260906140000 +0700">
+    <title>Rama Idol</title>
+    <desc>Rama Idol</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906140000 +0700" stop="20260906143000 +0700">
+    <title>Rama Talent อัจฉริยะท้าประลอง</title>
+    <desc>Rama Talent อัจฉริยะท้าประลอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906143000 +0700" stop="20260906153000 +0700">
+    <title>พ่อแม่สู้ สู้</title>
+    <desc>พ่อแม่สู้ สู้</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>GenWhy</title>
+    <desc>GenWhy</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>Davy &amp; Friend Final</title>
+    <desc>Davy &amp; Friend Final</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>ไดอารี่หนูกุ๊ก</title>
+    <desc>ไดอารี่หนูกุ๊ก</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>Veggie</title>
+    <desc>Veggie</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>การศึกษาพิเศษ สำหรับเด็กพิเศษ</title>
+    <desc>การศึกษาพิเศษ สำหรับเด็กพิเศษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>เป็นพ่อ...เป็นแม่</title>
+    <desc>เป็นพ่อ...เป็นแม่</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>Happy Parenting</title>
+    <desc>Happy Parenting</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>Rama Idol</title>
+    <desc>Rama Idol</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906203500 +0700" stop="20260906213000 +0700">
+    <title>พ่อแม่สู้ สู้</title>
+    <desc>พ่อแม่สู้ สู้</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>GenWhy</title>
+    <desc>GenWhy</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>Davy &amp; Friend Final</title>
+    <desc>Davy &amp; Friend Final</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>ไดอารี่หนูกุ๊ก</title>
+    <desc>ไดอารี่หนูกุ๊ก</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>Veggie</title>
+    <desc>Veggie</desc>
+  </programme>
+  <programme channel="ch0000000000100001291" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>การศึกษาพิเศษ สำหรับเด็กพิเศษ</title>
+    <desc>การศึกษาพิเศษ สำหรับเด็กพิเศษ</desc>
+  </programme>
   <programme channel="ch0000000000100001292" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>Change</title>
     <desc>Change</desc>
@@ -32553,6 +33735,154 @@
     <title>ลัดคิวหมอ</title>
     <desc>ลัดคิวหมอ</desc>
   </programme>
+  <programme channel="ch0000000000100001292" start="20260906000000 +0700" stop="20260906010000 +0700">
+    <title>Rama Square</title>
+    <desc>Rama Square</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>Work with a Healthy Life</title>
+    <desc>Work with a Healthy Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906013000 +0700" stop="20260906023000 +0700">
+    <title>พบหมอรามา</title>
+    <desc>พบหมอรามา</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>Healthy Living</title>
+    <desc>Healthy Living</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906030000 +0700" stop="20260906040000 +0700">
+    <title>ยาหมอบอก</title>
+    <desc>ยาหมอบอก</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906040000 +0700" stop="20260906050000 +0700">
+    <title>ลัดคิวหมอ</title>
+    <desc>ลัดคิวหมอ</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>Well-Being</title>
+    <desc>Well-Being</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906053000 +0700" stop="20260906054500 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906054500 +0700" stop="20260906060000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906060000 +0700" stop="20260906080100 +0700">
+    <title>อนุบาลปีที่ 2</title>
+    <desc>อนุบาลปีที่ 2</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906080100 +0700" stop="20260906082500 +0700">
+    <title>อนุบาลปีที่ 2(ต่อ)</title>
+    <desc>อนุบาลปีที่ 2(ต่อ)</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906082500 +0700" stop="20260906083000 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906083000 +0700" stop="20260906105500 +0700">
+    <title>R อนุบาลปีที่ 2</title>
+    <desc>R อนุบาลปีที่ 2</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906105500 +0700" stop="20260906110000 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>สวยศาสตร์</title>
+    <desc>สวยศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906120000 +0700" stop="20260906130000 +0700">
+    <title>ยาหมอบอก</title>
+    <desc>ยาหมอบอก</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ลัดคิวหมอ</title>
+    <desc>ลัดคิวหมอ</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906140000 +0700" stop="20260906143000 +0700">
+    <title>Well-Being</title>
+    <desc>Well-Being</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906143000 +0700" stop="20260906153000 +0700">
+    <title>Rama Square</title>
+    <desc>Rama Square</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>Work with a Healthy Life</title>
+    <desc>Work with a Healthy Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906160000 +0700" stop="20260906170000 +0700">
+    <title>พบหมอรามา</title>
+    <desc>พบหมอรามา</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>Healthy Living</title>
+    <desc>Healthy Living</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>Food Choice</title>
+    <desc>Food Choice</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>ศิริราช 360 องศา</title>
+    <desc>ศิริราช 360 องศา</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906183000 +0700" stop="20260906193000 +0700">
+    <title>ลัดคิวหมอ</title>
+    <desc>ลัดคิวหมอ</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>RAMA THE GAME</title>
+    <desc>RAMA THE GAME</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>สวยศาสตร์</title>
+    <desc>สวยศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>Re-Mind</title>
+    <desc>Re-Mind</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>คนสู้โรค</title>
+    <desc>คนสู้โรค</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>Change</title>
+    <desc>Change</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>Food Choice</title>
+    <desc>Food Choice</desc>
+  </programme>
+  <programme channel="ch0000000000100001292" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>ศิริราช 360 องศา</title>
+    <desc>ศิริราช 360 องศา</desc>
+  </programme>
   <programme channel="ch0000000000100001293" start="20260902230000 +0700" stop="20260903000000 +0700">
     <title>Photoshop</title>
     <desc>Photoshop</desc>
@@ -32905,6 +34235,122 @@
     <title>การบริหารจัดการน้ำ เพื่อความยั่งยืน (Water Management for Sustainability)</title>
     <desc>การบริหารจัดการน้ำ เพื่อความยั่งยืน (Water Management for Sustainability)</desc>
   </programme>
+  <programme channel="ch0000000000100001293" start="20260906000000 +0700" stop="20260906010000 +0700">
+    <title>เศรษฐศาสตร์เพื่อการบริหารจัดการสมัยใหม่</title>
+    <desc>เศรษฐศาสตร์เพื่อการบริหารจัดการสมัยใหม่</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906010000 +0700" stop="20260906020000 +0700">
+    <title>Digital-DNA : พัฒนาทักษะดิจิทัลสำหรับผู้ประกอบการออนไลน์</title>
+    <desc>Digital-DNA : พัฒนาทักษะดิจิทัลสำหรับผู้ประกอบการออนไลน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906020000 +0700" stop="20260906030000 +0700">
+    <title>หลวงแพ่งแบ่งบุญ (วัดวชิรธรรมวาส)</title>
+    <desc>หลวงแพ่งแบ่งบุญ (วัดวชิรธรรมวาส)</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906030000 +0700" stop="20260906040000 +0700">
+    <title>พระเจ้าสิบชาติ</title>
+    <desc>พระเจ้าสิบชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906040000 +0700" stop="20260906050000 +0700">
+    <title>บวก ลบ คูณ หาร การคำนวณพื้นฐานของวิทยาศาสตร์การอาหาร by ครูชมบี</title>
+    <desc>บวก ลบ คูณ หาร การคำนวณพื้นฐานของวิทยาศาสตร์การอาหาร by ครูชมบี</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906050000 +0700" stop="20260906060000 +0700">
+    <title>การบัญชีภาษีอากร</title>
+    <desc>การบัญชีภาษีอากร</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>สุนทรียศาสตร์และศิลปวิจารณ์</title>
+    <desc>สุนทรียศาสตร์และศิลปวิจารณ์</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>การทำผลิตภัณฑ์ Skin Care บำรุงและฟื้นฟูผิว</title>
+    <desc>การทำผลิตภัณฑ์ Skin Care บำรุงและฟื้นฟูผิว</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>แก้วโกสินทร์</title>
+    <desc>แก้วโกสินทร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>การเป็นผู้ประกอบการและการจัดการธุรกิจขนาดย่อมด้านธุรกิจเกษตร</title>
+    <desc>การเป็นผู้ประกอบการและการจัดการธุรกิจขนาดย่อมด้านธุรกิจเกษตร</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>การสร้างสื่อดิจิทัลมืออาชีพเพื่อการสื่อสารยุคใหม่</title>
+    <desc>การสร้างสื่อดิจิทัลมืออาชีพเพื่อการสื่อสารยุคใหม่</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>การหาปริพันธ์ของฟังก์ชัน</title>
+    <desc>การหาปริพันธ์ของฟังก์ชัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>Digital-DNA : เริ่มต้นธุรกิจด้วยเทคโนโลยีดิจิทัล</title>
+    <desc>Digital-DNA : เริ่มต้นธุรกิจด้วยเทคโนโลยีดิจิทัล</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ลานธรรมนำโชค</title>
+    <desc>ลานธรรมนำโชค</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906140000 +0700" stop="20260906150000 +0700">
+    <title>วันสุขเสวนา</title>
+    <desc>วันสุขเสวนา</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906150000 +0700" stop="20260906160000 +0700">
+    <title>สุนทรียแห่งศิลปะ</title>
+    <desc>สุนทรียแห่งศิลปะ</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906160000 +0700" stop="20260906170000 +0700">
+    <title>การทำผลิตภัณฑ์ ทา ถู นวด จากสมุนไพรไทยเพื่อใช้ดูแลสุขภาพ</title>
+    <desc>การทำผลิตภัณฑ์ ทา ถู นวด จากสมุนไพรไทยเพื่อใช้ดูแลสุขภาพ</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906170000 +0700" stop="20260906175500 +0700">
+    <title>สนุกกับภาษา</title>
+    <desc>สนุกกับภาษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906180600 +0700" stop="20260906190000 +0700">
+    <title>สมการเชิงอนุพันธ์และปัญหาค่าขอบ</title>
+    <desc>สมการเชิงอนุพันธ์และปัญหาค่าขอบ</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906190000 +0700" stop="20260906200000 +0700">
+    <title>แคลคูลัสประยุกต์สำหรับวิศวกร</title>
+    <desc>แคลคูลัสประยุกต์สำหรับวิศวกร</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906203000 +0700" stop="20260906210000 +0700">
+    <title>มทร.รัตนโกสินทร์</title>
+    <desc>มทร.รัตนโกสินทร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906210000 +0700" stop="20260906220000 +0700">
+    <title>นิทานธรรมนำชีวิต</title>
+    <desc>นิทานธรรมนำชีวิต</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906220000 +0700" stop="20260906230000 +0700">
+    <title>คิหิสุข พุทธรรม นำปัญญา</title>
+    <desc>คิหิสุข พุทธรรม นำปัญญา</desc>
+  </programme>
+  <programme channel="ch0000000000100001293" start="20260906230000 +0700" stop="20260907000000 +0700">
+    <title>การทำผลิตภัณฑ์ทำความสะอาดช่องปากและฟัน</title>
+    <desc>การทำผลิตภัณฑ์ทำความสะอาดช่องปากและฟัน</desc>
+  </programme>
   <programme channel="ch0000000000100001294" start="20260902230000 +0700" stop="20260903000000 +0700">
     <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
     <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
@@ -33218,6 +34664,110 @@
     <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
   </programme>
   <programme channel="ch0000000000100001294" start="20260905230000 +0700" stop="20260906000000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906000000 +0700" stop="20260906010000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906010000 +0700" stop="20260906020000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906020000 +0700" stop="20260906030000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906030000 +0700" stop="20260906040000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906040000 +0700" stop="20260906050000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906050000 +0700" stop="20260906060000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906070000 +0700" stop="20260906083000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906083000 +0700" stop="20260906093000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906093000 +0700" stop="20260906103000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906103000 +0700" stop="20260906113000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906113000 +0700" stop="20260906120000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906120000 +0700" stop="20260906123000 +0700">
+    <title>ข่าวเที่ยง</title>
+    <desc>ข่าวเที่ยง</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906123000 +0700" stop="20260906133000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906133000 +0700" stop="20260906143000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906143000 +0700" stop="20260906153000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906153000 +0700" stop="20260906163000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906163000 +0700" stop="20260906173000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906173000 +0700" stop="20260906180100 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906180100 +0700" stop="20260906190000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906190000 +0700" stop="20260906200000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906203000 +0700" stop="20260906210000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906210000 +0700" stop="20260906220000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906220000 +0700" stop="20260906230000 +0700">
+    <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
+    <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
+  </programme>
+  <programme channel="ch0000000000100001294" start="20260906230000 +0700" stop="20260907000000 +0700">
     <title>มหาวิทยาลัยสุโขทัยธรรมาธิราช</title>
     <desc>มหาวิทยาลัยสุโขทัยธรรมาธิราช</desc>
   </programme>
@@ -33649,6 +35199,134 @@
     <title>R นวัตกรรมการเรียนการสอน-วิทยาศาสตร์ Ver.Eng</title>
     <desc>R นวัตกรรมการเรียนการสอน-วิทยาศาสตร์ Ver.Eng</desc>
   </programme>
+  <programme channel="ch0000000000100001295" start="20260906000000 +0700" stop="20260906010000 +0700">
+    <title>R การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</title>
+    <desc>R การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906010000 +0700" stop="20260906020000 +0700">
+    <title>R นวัตกรรมการบริหาร Ver.Thai</title>
+    <desc>R นวัตกรรมการบริหาร Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906020000 +0700" stop="20260906030000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-คณิตศาสตร์ Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-คณิตศาสตร์ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906030000 +0700" stop="20260906040000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906040000 +0700" stop="20260906050000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-ภาษาต่างประเทศ Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-ภาษาต่างประเทศ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906050000 +0700" stop="20260906060000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-ภาษาไทย Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-ภาษาไทย Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>R อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</title>
+    <desc>R อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>R อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</title>
+    <desc>R อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</title>
+    <desc>การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>นวัตกรรมการบริหาร Ver.Thai</title>
+    <desc>นวัตกรรมการบริหาร Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906100000 +0700" stop="20260906103000 +0700">
+    <title>นวัตกรรมการเรียนการสอน-คณิตศาสตร์ Ver.Thai</title>
+    <desc>นวัตกรรมการเรียนการสอน-คณิตศาสตร์ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906103000 +0700" stop="20260906110000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Thai</title>
+    <desc>นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>นวัตกรรมการเรียนการสอน-ภาษาต่างประเทศ Ver.Thai</title>
+    <desc>นวัตกรรมการเรียนการสอน-ภาษาต่างประเทศ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>นวัตกรรมการเรียนการสอน-ภาษาไทย Ver.Thai</title>
+    <desc>นวัตกรรมการเรียนการสอน-ภาษาไทย Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906140000 +0700" stop="20260906150000 +0700">
+    <title>อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</title>
+    <desc>อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906150000 +0700" stop="20260906160000 +0700">
+    <title>อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</title>
+    <desc>อบรมครูด้วยระบบประชุมทางไกลผ่านวีดิทัศน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>R การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</title>
+    <desc>R การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>R : การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R : การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906170000 +0700" stop="20260906175500 +0700">
+    <title>R นวัตกรรมการบริหาร Ver.Thai</title>
+    <desc>R นวัตกรรมการบริหาร Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906180600 +0700" stop="20260906190000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-คณิตศาสตร์ Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-คณิตศาสตร์ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906190000 +0700" stop="20260906200000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>นวัตกรรมการเรียนการสอน-สังคมศึกษา ศาสนา และวัฒนธรรม Ver.Thai</title>
+    <desc>นวัตกรรมการเรียนการสอน-สังคมศึกษา ศาสนา และวัฒนธรรม Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906210000 +0700" stop="20260906220000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-ภาษาต่างประเทศ Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-ภาษาต่างประเทศ Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906220000 +0700" stop="20260906230000 +0700">
+    <title>R นวัตกรรมการเรียนการสอน-ภาษาไทย Ver.Thai</title>
+    <desc>R นวัตกรรมการเรียนการสอน-ภาษาไทย Ver.Thai</desc>
+  </programme>
+  <programme channel="ch0000000000100001295" start="20260906230000 +0700" stop="20260907000000 +0700">
+    <title>R การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</title>
+    <desc>R การแก้ไขปัญหาเฉพาะด้าน Ver.Thai</desc>
+  </programme>
   <programme channel="ch0000000000100001311" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>MV MALL</title>
     <desc>MV MALL</desc>
@@ -34014,6 +35692,126 @@
     <desc>รายการ คอซองคอเพลง</desc>
   </programme>
   <programme channel="ch0000000000100001311" start="20260905233000 +0700" stop="20260906000000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>รายการ วาไรตี้ผีดุ</title>
+    <desc>รายการ วาไรตี้ผีดุ</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>RE. รายการ RARE CAMPING</title>
+    <desc>RE. รายการ RARE CAMPING</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906010000 +0700" stop="20260906030000 +0700">
+    <title>RE. หนังไทย ศพห้าปี</title>
+    <desc>RE. หนังไทย ศพห้าปี</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906030000 +0700" stop="20260906053000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>ธรรมวัตรรับอรุณ/สวดมนต์จีน</title>
+    <desc>ธรรมวัตรรับอรุณ/สวดมนต์จีน</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906060000 +0700" stop="20260906073000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906073000 +0700" stop="20260906080000 +0700">
+    <title>รายการ 1 ในไทยแลนด์</title>
+    <desc>รายการ 1 ในไทยแลนด์</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906080000 +0700" stop="20260906083000 +0700">
+    <title>การ์ตูน ตำรวจเหล็กพิทักษ์โลก</title>
+    <desc>การ์ตูน ตำรวจเหล็กพิทักษ์โลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906083000 +0700" stop="20260906090000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>RE. รายการ เกษตรสำราญ</title>
+    <desc>RE. รายการ เกษตรสำราญ</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906100000 +0700" stop="20260906103000 +0700">
+    <title>รายการ ล้อหมุนทั่วไทย</title>
+    <desc>รายการ ล้อหมุนทั่วไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906103000 +0700" stop="20260906110000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906110000 +0700" stop="20260906113000 +0700">
+    <title>รายการ AWAYCATION</title>
+    <desc>รายการ AWAYCATION</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906113000 +0700" stop="20260906120000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906120000 +0700" stop="20260906125000 +0700">
+    <title>รายการ Smart อปท.</title>
+    <desc>รายการ Smart อปท.</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906125000 +0700" stop="20260906130000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>รายการ บ้านโหราศาสตร์</title>
+    <desc>รายการ บ้านโหราศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906140000 +0700" stop="20260906141000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906141000 +0700" stop="20260906150000 +0700">
+    <title>รายการ ชีวิตต้องวิน</title>
+    <desc>รายการ ชีวิตต้องวิน</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906150000 +0700" stop="20260906153000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906153000 +0700" stop="20260906162000 +0700">
+    <title>RE. รายการ คุณหมอขอถาม</title>
+    <desc>RE. รายการ คุณหมอขอถาม</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906162000 +0700" stop="20260906180000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906180000 +0700" stop="20260906183000 +0700">
+    <title>RE. การ์ตูน ตำรวจเหล็กพิทักษ์โลก</title>
+    <desc>RE. การ์ตูน ตำรวจเหล็กพิทักษ์โลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906183000 +0700" stop="20260906200000 +0700">
+    <title>หนังไทย หม่ำต้มยำผี</title>
+    <desc>หนังไทย หม่ำต้มยำผี</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906200000 +0700" stop="20260906210000 +0700">
+    <title>RE. รายการ สภาชาวบ้าน</title>
+    <desc>RE. รายการ สภาชาวบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906213000 +0700" stop="20260906223000 +0700">
+    <title>รายการ ประตูมิติ</title>
+    <desc>รายการ ประตูมิติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906223000 +0700" stop="20260906224000 +0700">
+    <title>MV MALL</title>
+    <desc>MV MALL</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906224000 +0700" stop="20260906233000 +0700">
+    <title>รายการ คอซองคอเพลง</title>
+    <desc>รายการ คอซองคอเพลง</desc>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20260906233000 +0700" stop="20260907000000 +0700">
     <title>MV MALL</title>
     <desc>MV MALL</desc>
   </programme>
@@ -36586,6 +38384,154 @@
     <title>TV Drama</title>
     <desc>TV Drama</desc>
   </programme>
+  <programme channel="ch0000000000100001353" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>Bond with China</title>
+    <desc>Bond with China</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>Network News</title>
+    <desc>Network News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906013000 +0700" stop="20260906014500 +0700">
+    <title>Dreamchaser</title>
+    <desc>Dreamchaser</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906014500 +0700" stop="20260906021500 +0700">
+    <title>Chinese Story</title>
+    <desc>Chinese Story</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906021500 +0700" stop="20260906024500 +0700">
+    <title>International Depth</title>
+    <desc>International Depth</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906024500 +0700" stop="20260906030000 +0700">
+    <title>Nostalgia</title>
+    <desc>Nostalgia</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>China News</title>
+    <desc>China News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>Focus Today</title>
+    <desc>Focus Today</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906040000 +0700" stop="20260906050000 +0700">
+    <title>China Showbiz</title>
+    <desc>China Showbiz</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>Across the Strait</title>
+    <desc>Across the Strait</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>Asia Today</title>
+    <desc>Asia Today</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906060000 +0700" stop="20260906063000 +0700">
+    <title>China News</title>
+    <desc>China News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906063000 +0700" stop="20260906070000 +0700">
+    <title>Focus Today</title>
+    <desc>Focus Today</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906070000 +0700" stop="20260906080000 +0700">
+    <title>Global News</title>
+    <desc>Global News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906080000 +0700" stop="20260906083000 +0700">
+    <title>Asia Today</title>
+    <desc>Asia Today</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906083000 +0700" stop="20260906103000 +0700">
+    <title>Special Program</title>
+    <desc>Special Program</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906103000 +0700" stop="20260906110000 +0700">
+    <title>Across the Strait</title>
+    <desc>Across the Strait</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>China News</title>
+    <desc>China News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906120000 +0700" stop="20260906123000 +0700">
+    <title>International Depth</title>
+    <desc>International Depth</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906123000 +0700" stop="20260906131500 +0700">
+    <title>TV Drama</title>
+    <desc>TV Drama</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906131500 +0700" stop="20260906140000 +0700">
+    <title>TV Drama</title>
+    <desc>TV Drama</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906140000 +0700" stop="20260906144500 +0700">
+    <title>TV Drama</title>
+    <desc>TV Drama</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906144500 +0700" stop="20260906153000 +0700">
+    <title>TV Drama</title>
+    <desc>TV Drama</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906153000 +0700" stop="20260906154500 +0700">
+    <title>Nostalgia</title>
+    <desc>Nostalgia</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906154500 +0700" stop="20260906160000 +0700">
+    <title>Dreamchaser</title>
+    <desc>Dreamchaser</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906160000 +0700" stop="20260906170000 +0700">
+    <title>Health China</title>
+    <desc>Health China</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906170000 +0700" stop="20260906180000 +0700">
+    <title>Universal Show</title>
+    <desc>Universal Show</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906180000 +0700" stop="20260906183000 +0700">
+    <title>China News</title>
+    <desc>China News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906183000 +0700" stop="20260906193000 +0700">
+    <title>China's Public Opinion Field</title>
+    <desc>China's Public Opinion Field</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>Across the Strait</title>
+    <desc>Across the Strait</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>China News</title>
+    <desc>China News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906203000 +0700" stop="20260906210000 +0700">
+    <title>Focus Today</title>
+    <desc>Focus Today</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>Bond with China</title>
+    <desc>Bond with China</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>Network News</title>
+    <desc>Network News</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>Treasures Found</title>
+    <desc>Treasures Found</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906223000 +0700" stop="20260906232000 +0700">
+    <title>TV Drama</title>
+    <desc>TV Drama</desc>
+  </programme>
+  <programme channel="ch0000000000100001353" start="20260906232000 +0700" stop="20260907001000 +0700">
+    <title>TV Drama</title>
+    <desc>TV Drama</desc>
+  </programme>
   <programme channel="ch0000000000100001354" start="20260902230000 +0700" stop="20260903000000 +0700">
     <title>Global Business</title>
     <desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
@@ -38835,6 +40781,310 @@
   <programme channel="ch0000000000100001356" start="20260905233000 +0700" stop="20260906000000 +0700">
     <title>Tomorrow Today: The Science Magazine</title>
     <desc>Tomorrow Today: The Science Magazine</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906000000 +0700" stop="20260906000200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906000200 +0700" stop="20260906003000 +0700">
+    <title>DocFilm: Will Non-alcoholic Wine Save the Winemakers?</title>
+    <desc>DocFilm: Will Non-alcoholic Wine Save the Winemakers?</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>In Good Shape: The Health Show</title>
+    <desc>In Good Shape: The Health Show</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906010000 +0700" stop="20260906010200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906010200 +0700" stop="20260906011500 +0700">
+    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <desc>Best of DW-online Content: Best of DW-online Content</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906011500 +0700" stop="20260906013000 +0700">
+    <title>Reporter: On Location</title>
+    <desc>Reporter: On Location</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906013000 +0700" stop="20260906020000 +0700">
+    <title>Euromaxx: Lifestyle Europe</title>
+    <desc>Euromaxx: Lifestyle Europe</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906020000 +0700" stop="20260906020200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906020200 +0700" stop="20260906021500 +0700">
+    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <desc>Sports Life: Overcoming Challenges with Sports</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906021500 +0700" stop="20260906030000 +0700">
+    <title>DocFilm: Delivered! - The Courier Driver Business</title>
+    <desc>DocFilm: Delivered! - The Courier Driver Business</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906030000 +0700" stop="20260906030200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906030200 +0700" stop="20260906031500 +0700">
+    <title>DW News Focus: Understand the world, one story at a time</title>
+    <desc>DW News Focus: Understand the world, one story at a time</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906031500 +0700" stop="20260906033000 +0700">
+    <title>Reporter: On Location</title>
+    <desc>Reporter: On Location</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>DocFilm: Will Non-alcoholic Wine Save the Winemakers?</title>
+    <desc>DocFilm: Will Non-alcoholic Wine Save the Winemakers?</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906040000 +0700" stop="20260906040200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906040200 +0700" stop="20260906043000 +0700">
+    <title>DW News: Africa</title>
+    <desc>DW News: Africa</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906043000 +0700" stop="20260906060000 +0700">
+    <title>DocFilm: Pakistan on the Brink</title>
+    <desc>DocFilm: Pakistan on the Brink</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906060000 +0700" stop="20260906060200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906060200 +0700" stop="20260906061500 +0700">
+    <title>DW News Focus: Understand the world, one story at a time</title>
+    <desc>DW News Focus: Understand the world, one story at a time</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906061500 +0700" stop="20260906063000 +0700">
+    <title>Reporter: On Location</title>
+    <desc>Reporter: On Location</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906063000 +0700" stop="20260906070000 +0700">
+    <title>Euromaxx: Lifestyle Europe</title>
+    <desc>Euromaxx: Lifestyle Europe</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906070000 +0700" stop="20260906070200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906070200 +0700" stop="20260906071500 +0700">
+    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <desc>Best of DW-online Content: Best of DW-online Content</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906071500 +0700" stop="20260906073000 +0700">
+    <title>Shift: Living in the Digital Age</title>
+    <desc>Shift: Living in the Digital Age</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906073000 +0700" stop="20260906080000 +0700">
+    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <desc>Arts Unveiled: Experiencing and understanding the art world</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906080000 +0700" stop="20260906080200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906080200 +0700" stop="20260906081500 +0700">
+    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <desc>Sports Life: Overcoming Challenges with Sports</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906081500 +0700" stop="20260906090000 +0700">
+    <title>DocFilm: Billion Dollar Babies - The Big Business of Eel Trafficking - Part 1</title>
+    <desc>DocFilm: Billion Dollar Babies - The Big Business of Eel Trafficking - Part 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906090000 +0700" stop="20260906090200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906090200 +0700" stop="20260906091500 +0700">
+    <title>DW News Focus: Understand the world, one story at a time</title>
+    <desc>DW News Focus: Understand the world, one story at a time</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906091500 +0700" stop="20260906093000 +0700">
+    <title>Shift: Living in the Digital Age</title>
+    <desc>Shift: Living in the Digital Age</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906093000 +0700" stop="20260906100000 +0700">
+    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <desc>The 77 Percent: The Magazine for Africa's Youth</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906100000 +0700" stop="20260906100200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906100200 +0700" stop="20260906103000 +0700">
+    <title>Eco India: The Environment Magazine</title>
+    <desc>Eco India: The Environment Magazine</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906103000 +0700" stop="20260906110000 +0700">
+    <title>REV: The Global Auto and Mobility Show</title>
+    <desc>REV: The Global Auto and Mobility Show</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906110000 +0700" stop="20260906110200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906110200 +0700" stop="20260906113000 +0700">
+    <title>Euromaxx: Lifestyle Europe</title>
+    <desc>Euromaxx: Lifestyle Europe</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906113000 +0700" stop="20260906120000 +0700">
+    <title>DocFilm: Will Non-alcoholic Wine Save the Winemakers?</title>
+    <desc>DocFilm: Will Non-alcoholic Wine Save the Winemakers?</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906120000 +0700" stop="20260906120200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906120200 +0700" stop="20260906121500 +0700">
+    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <desc>Best of DW-online Content: Best of DW-online Content</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906121500 +0700" stop="20260906123000 +0700">
+    <title>Reporter: On Location</title>
+    <desc>Reporter: On Location</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906123000 +0700" stop="20260906130000 +0700">
+    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <desc>Arts Unveiled: Experiencing and understanding the art world</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906130000 +0700" stop="20260906130300 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906130300 +0700" stop="20260906140000 +0700">
+    <title>DocFilm: The Milwaukee Cannibal - My Friend Dahmer</title>
+    <desc>DocFilm: The Milwaukee Cannibal - "My Friend Dahmer"</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906140000 +0700" stop="20260906140200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906140200 +0700" stop="20260906141500 +0700">
+    <title>DW News Focus: Understand the world, one story at a time</title>
+    <desc>DW News Focus: Understand the world, one story at a time</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906141500 +0700" stop="20260906143000 +0700">
+    <title>Shift: Living in the Digital Age</title>
+    <desc>Shift: Living in the Digital Age</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906143000 +0700" stop="20260906150000 +0700">
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Best of DW Podcasts: Best of DW Podcasts</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906150000 +0700" stop="20260906151500 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906151500 +0700" stop="20260906153000 +0700">
+    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <desc>Best of DW-online Content: Best of DW-online Content</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <desc>Arts Unveiled: Experiencing and understanding the art world</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906160000 +0700" stop="20260906161500 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906161500 +0700" stop="20260906163000 +0700">
+    <title>Reporter: On Location</title>
+    <desc>Reporter: On Location</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>Afrimaxx: Modern African Lifestyle</title>
+    <desc>Afrimaxx: Modern African Lifestyle</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906170000 +0700" stop="20260906171500 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906171500 +0700" stop="20260906173000 +0700">
+    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <desc>Sports Life: Overcoming Challenges with Sports</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906173000 +0700" stop="20260906180000 +0700">
+    <title>Euromaxx: Lifestyle Europe</title>
+    <desc>Euromaxx: Lifestyle Europe</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906180000 +0700" stop="20260906181500 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906181500 +0700" stop="20260906183000 +0700">
+    <title>Shift: Living in the Digital Age</title>
+    <desc>Shift: Living in the Digital Age</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>REV: The Global Auto and Mobility Show</title>
+    <desc>REV: The Global Auto and Mobility Show</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906190000 +0700" stop="20260906191500 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906191500 +0700" stop="20260906200000 +0700">
+    <title>DocFilm: Voyage Around a Volcano - A Train Trip to Italy's Mount Etna</title>
+    <desc>DocFilm: Voyage Around a Volcano - A Train Trip to Italy's Mount Etna</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906200000 +0700" stop="20260906201500 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906201500 +0700" stop="20260906203000 +0700">
+    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <desc>Sports Life: Overcoming Challenges with Sports</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906203000 +0700" stop="20260906210000 +0700">
+    <title>DW News: Africa</title>
+    <desc>DW News: Africa</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906210000 +0700" stop="20260906210200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906210200 +0700" stop="20260906211500 +0700">
+    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <desc>Best of DW-online Content: Best of DW-online Content</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906211500 +0700" stop="20260906213000 +0700">
+    <title>Reporter: On Location</title>
+    <desc>Reporter: On Location</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>Tomorrow Today: The Science Magazine</title>
+    <desc>Tomorrow Today: The Science Magazine</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906220000 +0700" stop="20260906220200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906220200 +0700" stop="20260906223000 +0700">
+    <title>Afrimaxx: Modern African Lifestyle</title>
+    <desc>Afrimaxx: Modern African Lifestyle</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Best of DW Podcasts: Best of DW Podcasts</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906230000 +0700" stop="20260906230200 +0700">
+    <title>DW News</title>
+    <desc>DW News</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906230200 +0700" stop="20260906231500 +0700">
+    <title>DW News Focus: Understand the world, one story at a time</title>
+    <desc>DW News Focus: Understand the world, one story at a time</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906231500 +0700" stop="20260906233000 +0700">
+    <title>Shift: Living in the Digital Age</title>
+    <desc>Shift: Living in the Digital Age</desc>
+  </programme>
+  <programme channel="ch0000000000100001356" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>REV: The Global Auto and Mobility Show</title>
+    <desc>REV: The Global Auto and Mobility Show</desc>
   </programme>
   <programme channel="ch0000000000100001357" start="20260902235100 +0700" stop="20260903000000 +0700">
     <title>LIVE: Sports</title>
@@ -41425,6 +43675,110 @@
     <title>ทุรคามหาเทวี</title>
     <desc>ทุรคามหาเทวี</desc>
   </programme>
+  <programme channel="ch0000000000100001360" start="20260906060000 +0700" stop="20260906061000 +0700">
+    <title>เรื่องดีมีสุข</title>
+    <desc>เรื่องดีมีสุข</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906061000 +0700" stop="20260906080000 +0700">
+    <title>เล่าข่าวข้น</title>
+    <desc>เล่าข่าวข้น</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906080000 +0700" stop="20260906081000 +0700">
+    <title>เรื่องดีมีสุข</title>
+    <desc>เรื่องดีมีสุข</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906081000 +0700" stop="20260906085500 +0700">
+    <title>เรื่องดีทั่วไทย</title>
+    <desc>เรื่องดีทั่วไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906085500 +0700" stop="20260906094000 +0700">
+    <title>Gossip การเมือง</title>
+    <desc>Gossip การเมือง</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906094000 +0700" stop="20260906100500 +0700">
+    <title>JKN Hi Shopping</title>
+    <desc>JKN Hi Shopping</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906100500 +0700" stop="20260906102500 +0700">
+    <title>แสงสว่างในหัวใจ</title>
+    <desc>แสงสว่างในหัวใจ</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906102500 +0700" stop="20260906105500 +0700">
+    <title>The Top Of World</title>
+    <desc>The Top Of World</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906105500 +0700" stop="20260906115000 +0700">
+    <title>เสน่ห์ไทย</title>
+    <desc>เสน่ห์ไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906115000 +0700" stop="20260906115500 +0700">
+    <title>ทิศทางไทย สินค้าชุมชนเพื่อสังคมแบ่งปัน</title>
+    <desc>ทิศทางไทย สินค้าชุมชนเพื่อสังคมแบ่งปัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906115500 +0700" stop="20260906133000 +0700">
+    <title>Top ข่าวเที่ยง</title>
+    <desc>Top ข่าวเที่ยง</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906133000 +0700" stop="20260906134000 +0700">
+    <title>เรื่องดีมีสุข</title>
+    <desc>เรื่องดีมีสุข</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906134000 +0700" stop="20260906143500 +0700">
+    <title>เรื่องนี้มีดราม่า</title>
+    <desc>เรื่องนี้มีดราม่า</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906143500 +0700" stop="20260906153500 +0700">
+    <title>The Animal Kingdom อาณาจักรสัตว์โลก</title>
+    <desc>The Animal Kingdom อาณาจักรสัตว์โลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906153500 +0700" stop="20260906154500 +0700">
+    <title>JKN Hi Shopping</title>
+    <desc>JKN Hi Shopping</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906154500 +0700" stop="20260906160500 +0700">
+    <title>วันรุ่น90</title>
+    <desc>วันรุ่น90</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906160500 +0700" stop="20260906164500 +0700">
+    <title>ผ่าประเด็นโลกสุดสัปดาห์</title>
+    <desc>ผ่าประเด็นโลกสุดสัปดาห์</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906164500 +0700" stop="20260906173000 +0700">
+    <title>Top Headline</title>
+    <desc>Top Headline</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906173000 +0700" stop="20260906180000 +0700">
+    <title>รู้ทันคดีโกง</title>
+    <desc>รู้ทันคดีโกง</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906180000 +0700" stop="20260906181000 +0700">
+    <title>JKN Hi Shopping</title>
+    <desc>JKN Hi Shopping</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906181000 +0700" stop="20260906200000 +0700">
+    <title>มวยไทยมรดกโลก</title>
+    <desc>มวยไทยมรดกโลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906200000 +0700" stop="20260906201000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906201000 +0700" stop="20260906211000 +0700">
+    <title>ลายกนก ยกสยาม</title>
+    <desc>ลายกนก ยกสยาม</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906211000 +0700" stop="20260906230000 +0700">
+    <title>เล่าข่าวข้น</title>
+    <desc>เล่าข่าวข้น</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906230000 +0700" stop="20260906231000 +0700">
+    <title>เรื่องดีมีสุข</title>
+    <desc>เรื่องดีมีสุข</desc>
+  </programme>
+  <programme channel="ch0000000000100001360" start="20260906231000 +0700" stop="20260907000000 +0700">
+    <title>ทุรคามหาเทวี</title>
+    <desc>ทุรคามหาเทวี</desc>
+  </programme>
   <programme channel="ch0000000000100001361" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>R : World Why วิทย์</title>
     <desc>R : World Why วิทย์</desc>
@@ -41920,6 +44274,170 @@
   <programme channel="ch0000000000100001361" start="20260905233000 +0700" stop="20260906000000 +0700">
     <title>เงินทองต้องวางแผน Happy Money, Happy Retirement</title>
     <desc>เงินทองต้องวางแผน Happy Money, Happy Retirement</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>จิ๋วซ่าส์นักประดิษฐ์</title>
+    <desc>จิ๋วซ่าส์นักประดิษฐ์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>R : ผีเสื้อกระพือปีก</title>
+    <desc>R : ผีเสื้อกระพือปีก</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>R : เงินทองต้องวางแผน Happy Money, Happy Retirement</title>
+    <desc>R : เงินทองต้องวางแผน Happy Money, Happy Retirement</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906013000 +0700" stop="20260906023000 +0700">
+    <title>R : สื่อวีดิทัศน์มหาวิทยาลัยราชภัฏเทพสตรี</title>
+    <desc>R : สื่อวีดิทัศน์มหาวิทยาลัยราชภัฏเทพสตรี</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>R : ตามอำเภอจาน</title>
+    <desc>R : ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>R : คิดวิทย์ Science Yard</title>
+    <desc>R : คิดวิทย์ Science Yard</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>R : World Why วิทย์</title>
+    <desc>R : World Why วิทย์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>R : คิดวิทย์</title>
+    <desc>R : คิดวิทย์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>R : ฟิสิกส์สนุก</title>
+    <desc>R : ฟิสิกส์สนุก</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>R : คิดการใหญ่</title>
+    <desc>R : คิดการใหญ่</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>R : การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R : การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>ท13101 ภาษาไทย</title>
+    <desc>ท13101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>ค13101 คณิตศาสตร์</title>
+    <desc>ค13101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>ว13101 วิทยาศาสตร์และเทคโนโลยี</title>
+    <desc>ว13101 วิทยาศาสตร์และเทคโนโลยี</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>ง13101 การงานอาชีพ</title>
+    <desc>ง13101 การงานอาชีพ</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>อ13101 ภาษาอังกฤษ</title>
+    <desc>อ13101 ภาษาอังกฤษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>ท13101 ภาษาไทย</title>
+    <desc>ท13101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>ค13101 คณิตศาสตร์</title>
+    <desc>ค13101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ส13101 สังคมศึกษา</title>
+    <desc>ส13101 สังคมศึกษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906140000 +0700" stop="20260906143000 +0700">
+    <title>เรื่องเด็ดเอ็ดตะโร</title>
+    <desc>เรื่องเด็ดเอ็ดตะโร</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906143000 +0700" stop="20260906153000 +0700">
+    <title>Coding for Better Life</title>
+    <desc>Coding for Better Life</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>จิ๋วซ่าส์ นักประดิษฐ์</title>
+    <desc>จิ๋วซ่าส์ นักประดิษฐ์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>ผีเสื้อกระพือปีก</title>
+    <desc>ผีเสื้อกระพือปีก</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>เงินทองต้องวางแผน Happy Money, Happy Retirement</title>
+    <desc>เงินทองต้องวางแผน Happy Money, Happy Retirement</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906170000 +0700" stop="20260906175500 +0700">
+    <title>สื่อวีดิทัศน์มหาวิทยาลัยราชภัฏเทพสตรี</title>
+    <desc>สื่อวีดิทัศน์มหาวิทยาลัยราชภัฏเทพสตรี</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>Lab Zaa</title>
+    <desc>Lab Zaa</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>คิดวิทย์ Science Yard</title>
+    <desc>คิดวิทย์ Science Yard</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>World Why วิทย์</title>
+    <desc>World Why วิทย์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>คิดวิทย์</title>
+    <desc>คิดวิทย์</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>ฟิสิกส์สนุก</title>
+    <desc>ฟิสิกส์สนุก</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>คิดการใหญ่</title>
+    <desc>คิดการใหญ่</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>R : เรื่องเด็ดเอ็ดตะโร</title>
+    <desc>R : เรื่องเด็ดเอ็ดตะโร</desc>
+  </programme>
+  <programme channel="ch0000000000100001361" start="20260906230000 +0700" stop="20260907000000 +0700">
+    <title>R : Coding for Better Life</title>
+    <desc>R : Coding for Better Life</desc>
   </programme>
   <programme channel="ch0000000000100001372" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>R : The Green Diary season 1</title>
@@ -42461,6 +44979,178 @@
     <title>R : ตามอำเภอจาน</title>
     <desc>R : ตามอำเภอจาน</desc>
   </programme>
+  <programme channel="ch0000000000100001372" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>R : สื่อวีดิทัศน์การจัดการเรียนรู้ภาษาไทยด้วยสื่อวีดิทัศน์</title>
+    <desc>R : สื่อวีดิทัศน์การจัดการเรียนรู้ภาษาไทยด้วยสื่อวีดิทัศน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>ธรรมชาติมาโชว์</title>
+    <desc>ธรรมชาติมาโชว์</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906010000 +0700" stop="20260906020000 +0700">
+    <title>R : ครอบครัวเดียวกัน</title>
+    <desc>R : ครอบครัวเดียวกัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>R : Animal Speak</title>
+    <desc>R : Animal Speak</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>ช่างประจำบ้าน</title>
+    <desc>ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906030000 +0700" stop="20260906033000 +0700">
+    <title>R : The Green Diary season 1</title>
+    <desc>R : The Green Diary season 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906033000 +0700" stop="20260906040000 +0700">
+    <title>R : คลิป MU</title>
+    <desc>R : คลิป MU</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>R : เมืองไทยดี๊ดี</title>
+    <desc>R : เมืองไทยดี๊ดี</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>R : ธรรมชาติมาโชว์</title>
+    <desc>R : ธรรมชาติมาโชว์</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>R : ตามอำเภอจาน</title>
+    <desc>R : ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906053000 +0700" stop="20260906063000 +0700">
+    <title>R : ครอบครัวเดียวกัน</title>
+    <desc>R : ครอบครัวเดียวกัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906063000 +0700" stop="20260906070000 +0700">
+    <title>R : Wild Survival</title>
+    <desc>R : Wild Survival</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906070000 +0700" stop="20260906073000 +0700">
+    <title>R : ช่างประจำบ้าน</title>
+    <desc>R : ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906073000 +0700" stop="20260906075500 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906075500 +0700" stop="20260906080100 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906080100 +0700" stop="20260906083000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906083000 +0700" stop="20260906093000 +0700">
+    <title>ค14101 คณิตศาสตร์</title>
+    <desc>ค14101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906093000 +0700" stop="20260906103000 +0700">
+    <title>อ14101 ภาษาอังกฤษ</title>
+    <desc>อ14101 ภาษาอังกฤษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906103000 +0700" stop="20260906113000 +0700">
+    <title>ส14101 สังคมศึกษา</title>
+    <desc>ส14101 สังคมศึกษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906113000 +0700" stop="20260906120000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906120000 +0700" stop="20260906122500 +0700">
+    <title>ข่าวเที่ยง</title>
+    <desc>ข่าวเที่ยง</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906122500 +0700" stop="20260906123000 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906123000 +0700" stop="20260906133000 +0700">
+    <title>ว14101 วิทยาศาสตร์และเทคโนโลยี เทคโนโลยี</title>
+    <desc>ว14101 วิทยาศาสตร์และเทคโนโลยี เทคโนโลยี</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906133000 +0700" stop="20260906143000 +0700">
+    <title>R : ค14101 คณิตศาสตร์</title>
+    <desc>R : ค14101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906143000 +0700" stop="20260906150000 +0700">
+    <title>สื่อวีดิทัศน์การจัดการเรียนรู้ภาษาไทยด้วยสื่อวีดิทัศน์</title>
+    <desc>สื่อวีดิทัศน์การจัดการเรียนรู้ภาษาไทยด้วยสื่อวีดิทัศน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906150000 +0700" stop="20260906153000 +0700">
+    <title>ธรรมชาติมาโชว์</title>
+    <desc>ธรรมชาติมาโชว์</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906153000 +0700" stop="20260906163000 +0700">
+    <title>เล็ก ๆ เปลี่ยนโลก</title>
+    <desc>เล็ก ๆ เปลี่ยนโลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>ตามอำเภอจาน</title>
+    <desc>ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906170000 +0700" stop="20260906175500 +0700">
+    <title>ครอบครัวเดียวกัน</title>
+    <desc>ครอบครัวเดียวกัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>ช่างประจำบ้าน</title>
+    <desc>ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>The Green Diary season 1</title>
+    <desc>The Green Diary season 1</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>คลิป MU</title>
+    <desc>คลิป MU</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>เมืองไทยดี๊ดี</title>
+    <desc>เมืองไทยดี๊ดี</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>Wild Survival</title>
+    <desc>Wild Survival</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>Animal Speak</title>
+    <desc>Animal Speak</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906220000 +0700" stop="20260906230000 +0700">
+    <title>R : เล็ก ๆ เปลี่ยนโลก</title>
+    <desc>R : เล็ก ๆ เปลี่ยนโลก</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>R : ตามอำเภอจาน</title>
+    <desc>R : ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001372" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>R : Wild Survival</title>
+    <desc>R : Wild Survival</desc>
+  </programme>
   <programme channel="ch0000000000100001381" start="20260902230000 +0700" stop="20260903000000 +0700">
     <title>พินิจนคร</title>
     <desc>พินิจนคร</desc>
@@ -42953,6 +45643,162 @@
     <title>คลายฉงน</title>
     <desc>คลายฉงน</desc>
   </programme>
+  <programme channel="ch0000000000100001381" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>R : คิดการใหญ่</title>
+    <desc>R : คิดการใหญ่</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>R : วิชาพึ่งตนเอง</title>
+    <desc>R : วิชาพึ่งตนเอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906010000 +0700" stop="20260906013000 +0700">
+    <title>R : 100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</title>
+    <desc>R : 100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906013000 +0700" stop="20260906020000 +0700">
+    <title>R : ๑ ในพระราชดำริ</title>
+    <desc>R : ๑ ในพระราชดำริ</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>ภัตตาคารบ้านทุ่ง</title>
+    <desc>ภัตตาคารบ้านทุ่ง</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906023000 +0700" stop="20260906033000 +0700">
+    <title>R : คลายฉงน</title>
+    <desc>R : คลายฉงน</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906033000 +0700" stop="20260906043000 +0700">
+    <title>จากรากสู่เรา</title>
+    <desc>จากรากสู่เรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906043000 +0700" stop="20260906053000 +0700">
+    <title>พินิจนคร</title>
+    <desc>พินิจนคร</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>R : การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R : การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>อ15101 ภาษาอังกฤษ</title>
+    <desc>อ15101 ภาษาอังกฤษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>ค15101 คณิตศาสตร์</title>
+    <desc>ค15101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>ท15101 ภาษาไทย</title>
+    <desc>ท15101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>ส15101 สังคมศึกษา</title>
+    <desc>ส15101 สังคมศึกษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>ท15101 ภาษาไทย</title>
+    <desc>ท15101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>ค15101 คณิตศาสตร์</title>
+    <desc>ค15101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>พ15101 สุขศึกษาและพลศึกษา</title>
+    <desc>พ15101 สุขศึกษาและพลศึกษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ส15102 ประวัติศาสตร์</title>
+    <desc>ส15102 ประวัติศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906140000 +0700" stop="20260906150000 +0700">
+    <title>สื่อวีดิทัศน์การจัดการเรียนรู้ภาษาไทยด้วยสื่อวีดิทัศน์</title>
+    <desc>สื่อวีดิทัศน์การจัดการเรียนรู้ภาษาไทยด้วยสื่อวีดิทัศน์</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906150000 +0700" stop="20260906153000 +0700">
+    <title>คลายฉงน</title>
+    <desc>คลายฉงน</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906153000 +0700" stop="20260906163000 +0700">
+    <title>จากรากสู่เรา</title>
+    <desc>จากรากสู่เรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>มรดกภูมิปัญญาทางวัฒนธรรม</title>
+    <desc>มรดกภูมิปัญญาทางวัฒนธรรม</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906170000 +0700" stop="20260906175500 +0700">
+    <title>พินิจนคร</title>
+    <desc>พินิจนคร</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>ที่นี่บ้านเรา</title>
+    <desc>ที่นี่บ้านเรา</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>ตามอำเภอจาน</title>
+    <desc>ตามอำเภอจาน</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>R : เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>คิดการใหญ่</title>
+    <desc>คิดการใหญ่</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906210000 +0700" stop="20260906213000 +0700">
+    <title>วิชาพึ่งตนเอง</title>
+    <desc>วิชาพึ่งตนเอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906213000 +0700" stop="20260906220000 +0700">
+    <title>100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</title>
+    <desc>100 ปี ไกลบ้าน ตามเสด็จพระพุทธเจ้าหลวง</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>๑ ในพระราชดำริ</title>
+    <desc>๑ ในพระราชดำริ</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>ภัตตาคารบ้านทุ่ง</title>
+    <desc>ภัตตาคารบ้านทุ่ง</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>R : มรดกภูมิปัญญาทางวัฒนธรรม</title>
+    <desc>R : มรดกภูมิปัญญาทางวัฒนธรรม</desc>
+  </programme>
+  <programme channel="ch0000000000100001381" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>ที่นี่บ้านเรา</title>
+    <desc>ที่นี่บ้านเรา</desc>
+  </programme>
   <programme channel="ch0000000000100001391" start="20260902233000 +0700" stop="20260903000000 +0700">
     <title>R : ซีรีส์วิถีคน</title>
     <desc>R : ซีรีส์วิถีคน</desc>
@@ -43444,6 +46290,170 @@
   <programme channel="ch0000000000100001391" start="20260905233000 +0700" stop="20260906000000 +0700">
     <title>องค์ความรู้จากศาลฎีกา</title>
     <desc>องค์ความรู้จากศาลฎีกา</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906000000 +0700" stop="20260906003000 +0700">
+    <title>องค์ความรู้จากศาลฎีกา</title>
+    <desc>องค์ความรู้จากศาลฎีกา</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906003000 +0700" stop="20260906010000 +0700">
+    <title>เปิดโลกธุรกิจสตาร์ทอัพ</title>
+    <desc>เปิดโลกธุรกิจสตาร์ทอัพ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906010000 +0700" stop="20260906020000 +0700">
+    <title>กว่าจะโต</title>
+    <desc>กว่าจะโต</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906020000 +0700" stop="20260906023000 +0700">
+    <title>Business Grow โตด้วยนวัตกรรม</title>
+    <desc>Business Grow โตด้วยนวัตกรรม</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906023000 +0700" stop="20260906030000 +0700">
+    <title>รู้กฎหมายสบายใจ</title>
+    <desc>รู้กฎหมายสบายใจ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906030000 +0700" stop="20260906040000 +0700">
+    <title>ครอบครัวเดียวกัน</title>
+    <desc>ครอบครัวเดียวกัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906040000 +0700" stop="20260906043000 +0700">
+    <title>บทเรียนชีวิตจากคดีปกครอง</title>
+    <desc>บทเรียนชีวิตจากคดีปกครอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906043000 +0700" stop="20260906050000 +0700">
+    <title>ซีรีส์วิถีคน</title>
+    <desc>ซีรีส์วิถีคน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906050000 +0700" stop="20260906053000 +0700">
+    <title>ช่างประจำบ้าน</title>
+    <desc>ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906053000 +0700" stop="20260906060000 +0700">
+    <title>การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906060000 +0700" stop="20260906070000 +0700">
+    <title>ท16101 ภาษาไทย</title>
+    <desc>ท16101 ภาษาไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906070000 +0700" stop="20260906080100 +0700">
+    <title>ส16102 ประวัติศาสตร์</title>
+    <desc>ส16102 ประวัติศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906080100 +0700" stop="20260906080600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906080600 +0700" stop="20260906090000 +0700">
+    <title>ว16101 วิทยาศาสตร์และเทคโนโลยี</title>
+    <desc>ว16101 วิทยาศาสตร์และเทคโนโลยี</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906090000 +0700" stop="20260906100000 +0700">
+    <title>พ16101 สุขศึกษาและพลศึกษา</title>
+    <desc>พ16101 สุขศึกษาและพลศึกษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906100000 +0700" stop="20260906110000 +0700">
+    <title>ค16101 คณิตศาสตร์</title>
+    <desc>ค16101 คณิตศาสตร์</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906110000 +0700" stop="20260906120000 +0700">
+    <title>อ16101 ภาษาอังกฤษ</title>
+    <desc>อ16101 ภาษาอังกฤษ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906120000 +0700" stop="20260906120500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906120500 +0700" stop="20260906130000 +0700">
+    <title>ส16101 สังคมศึกษา</title>
+    <desc>ส16101 สังคมศึกษา</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906130000 +0700" stop="20260906140000 +0700">
+    <title>ศ16101 ศิลปะ</title>
+    <desc>ศ16101 ศิลปะ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906140000 +0700" stop="20260906143000 +0700">
+    <title>รู้กฎหมายสบายใจ</title>
+    <desc>รู้กฎหมายสบายใจ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906143000 +0700" stop="20260906153000 +0700">
+    <title>R : ครอบครัวเดียวกัน</title>
+    <desc>R : ครอบครัวเดียวกัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906153000 +0700" stop="20260906160000 +0700">
+    <title>บทเรียนชีวิตจากคดีปกครอง</title>
+    <desc>บทเรียนชีวิตจากคดีปกครอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906160000 +0700" stop="20260906163000 +0700">
+    <title>ซีรีส์วิถีคน</title>
+    <desc>ซีรีส์วิถีคน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906163000 +0700" stop="20260906170000 +0700">
+    <title>ช่างประจำบ้าน</title>
+    <desc>ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title>กฎหมายเพื่อประชาชน</title>
+    <desc>กฎหมายเพื่อประชาชน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906173000 +0700" stop="20260906175500 +0700">
+    <title>องค์ความรู้จากศาลฎีกา</title>
+    <desc>องค์ความรู้จากศาลฎีกา</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906175500 +0700" stop="20260906180100 +0700">
+    <title>พยากรณ์อากาศประจำวัน</title>
+    <desc>พยากรณ์อากาศประจำวัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906180100 +0700" stop="20260906180600 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906180600 +0700" stop="20260906183000 +0700">
+    <title>สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc>สัมมาทิฎฐิ ทะลุมิติมายา</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906183000 +0700" stop="20260906190000 +0700">
+    <title>วิกฤติพลิกชีวิตบวก</title>
+    <desc>วิกฤติพลิกชีวิตบวก</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906190000 +0700" stop="20260906193000 +0700">
+    <title>SET Social Impact</title>
+    <desc>SET Social Impact</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906193000 +0700" stop="20260906200000 +0700">
+    <title>R : การ์ตูนภัยพิบัติทางธรรมชาติ</title>
+    <desc>R : การ์ตูนภัยพิบัติทางธรรมชาติ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906200000 +0700" stop="20260906203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc>ข่าวในพระราชสำนัก</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906203000 +0700" stop="20260906203500 +0700">
+    <title>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
+    <desc>เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906203500 +0700" stop="20260906210000 +0700">
+    <title>รู้กฎหมายสบายใจ</title>
+    <desc>รู้กฎหมายสบายใจ</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906210000 +0700" stop="20260906220000 +0700">
+    <title>R : ครอบครัวเดียวกัน</title>
+    <desc>R : ครอบครัวเดียวกัน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906220000 +0700" stop="20260906223000 +0700">
+    <title>บทเรียนชีวิตจากคดีปกครอง</title>
+    <desc>บทเรียนชีวิตจากคดีปกครอง</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906223000 +0700" stop="20260906230000 +0700">
+    <title>ซีรีส์วิถีคน</title>
+    <desc>ซีรีส์วิถีคน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906230000 +0700" stop="20260906233000 +0700">
+    <title>ช่างประจำบ้าน</title>
+    <desc>ช่างประจำบ้าน</desc>
+  </programme>
+  <programme channel="ch0000000000100001391" start="20260906233000 +0700" stop="20260907000000 +0700">
+    <title>กฎหมายเพื่อประชาชน</title>
+    <desc>กฎหมายเพื่อประชาชน</desc>
   </programme>
   <programme channel="ch0000000000100001401" start="20260902230000 +0700" stop="20260903000000 +0700">
     <title>Club 18</title>
