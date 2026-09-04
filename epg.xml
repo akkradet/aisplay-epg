@@ -255,11 +255,6 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name lang="th">เพลย์สปอร์ต 6</display-name>
-    <display-name lang="en">PLAY SPORTS 6</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
-  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -339,6 +334,11 @@
     <display-name lang="th">เพลย์สปอร์ต 95</display-name>
     <display-name lang="en">PLAY SPORTS 95</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name lang="th">เพลย์สปอร์ต 96</display-name>
+    <display-name lang="en">PLAY SPORTS 96</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134957064655.png"/>
   </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
@@ -445,170 +445,170 @@
     <display-name lang="en">FAREWELL CONCERT ASANEE - WASAN</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260821095419068044.png"/>
   </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001931">
-    <display-name>ch0000000000100001931</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
   <channel id="ch0000000000100001353">
     <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
   </channel>
   <channel id="ch0000000000100002321">
     <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001931">
+    <display-name>ch0000000000100001931</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <channel id="ch0000000000100001284">
     <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260902225500 +0700" stop="20260903004000 +0700">
     <title>Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
@@ -52359,9 +52359,139 @@
     <title lang="en">HIGHLIGHT Thai League 1 MD 21</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002041" start="20260904230000 +0700" stop="20260904233000 +0700">
+  <programme channel="ch0000000000100002041" start="20260904230000 +0700" stop="20260905000000 +0700">
     <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
     <title lang="en">HIGHLIGHT Thai League 2 MD 22</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905000000 +0700" stop="20260905020000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Pattani FC vs BG Pathum United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905020000 +0700" stop="20260905040000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Uttaradit FC vs Muangthong United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905040000 +0700" stop="20260905060000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Nakhon Si United vs Khon Kaen United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905060000 +0700" stop="20260905080000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Chanthaburi FC vs Mahasarakham SBT FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905080000 +0700" stop="20260905100000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Ayutthaya United vs BG Pathum United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905100000 +0700" stop="20260905120000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: PT Prachuap FC vs Rayong FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905120000 +0700" stop="20260905140000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: True Bangkok United vs Muangthong United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905140000 +0700" stop="20260905160000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Ratchaburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905160000 +0700" stop="20260905180000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Uttaradit FC vs Muangthong United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905180000 +0700" stop="20260905183000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">Thai League 1 MD 22 All Goals</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905183000 +0700" stop="20260905210000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">LIVE: Rasisalai United vs Port FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905210000 +0700" stop="20260905230000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Pattani FC vs BG Pathum United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260905230000 +0700" stop="20260906000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 23</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906000000 +0700" stop="20260906020000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Rasisalai United vs Port FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906020000 +0700" stop="20260906040000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Mahasarakham CC vs Songkhla FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906040000 +0700" stop="20260906060000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Chiangmai United vs Pattaya United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906060000 +0700" stop="20260906080000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Chanthaburi FC vs Khon Kaen United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906080000 +0700" stop="20260906100000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Singha Chiangrai United vs Chonburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906100000 +0700" stop="20260906120000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: True Bangkok United vs Sisaket United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906120000 +0700" stop="20260906140000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Rasisalai United vs Port FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906140000 +0700" stop="20260906160000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Rayong FC vs PT Prachuap FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906160000 +0700" stop="20260906180000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Nakhon Pathom United vs Nakhon Ratchasima Mazda FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906180000 +0700" stop="20260906183000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">Thai League 1 MD 22 All Goals</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906183000 +0700" stop="20260906210000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">LIVE: Sukhothai FC vs Buriram United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906210000 +0700" stop="20260906230000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">RERUN: Rasisalai United vs Port FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260906230000 +0700" stop="20260907000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 22</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 23</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20260902220000 +0700" stop="20260903000000 +0700">
@@ -52487,6 +52617,136 @@
   <programme channel="ch0000000000100002052" start="20260904220000 +0700" stop="20260905000000 +0700">
     <title lang="th">รีรัน: สมุทรสาคร ซิตี้ พบ นรา ยูไนเต็ด</title>
     <title lang="en">RERUN: Samutsakhon City vs Nara United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905000000 +0700" stop="20260905020000 +0700">
+    <title lang="th">รีรัน: ปลวกแดง ยูไนเต็ด พบ สโมสรฟุตบอลกองเรือรบ</title>
+    <title lang="en">RERUN: Pluankdaeng United vs Fleet United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905020000 +0700" stop="20260905040000 +0700">
+    <title lang="th">รีรัน: เอซีดีซี เอฟซี พบ สโมสรฟุตบอลราชนาวี</title>
+    <title lang="en">RERUN: AC.DC. FC vs Navy FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905040000 +0700" stop="20260905060000 +0700">
+    <title lang="th">รีรัน: อุดร ยูไนเต็ด พบ ร้อยเอ็ด พีบี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Udon United vs Roi-Et PB United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905060000 +0700" stop="20260905080000 +0700">
+    <title lang="th">รีรัน: หัวหิน ซิตี้ พบ สุพรรณบุรี เอฟซี</title>
+    <title lang="en">RERUN: Huahin City vs Suphanburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905080000 +0700" stop="20260905100000 +0700">
+    <title lang="th">รีรัน: ชาติตระการ ซิตี้ พบ กำแพงเพชร เอฟซี</title>
+    <title lang="en">RERUN: Chattrakan City vs Kamphengphet FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905100000 +0700" stop="20260905120000 +0700">
+    <title lang="th">รีรัน: บีจีซี บัณฑิตเอเซีย พบ บีอาร์ยู บุรีราษฎร์ อะคาเดมี</title>
+    <title lang="en">RERUN: BGC College of Asian Scholars vs BRU Burirat Academy</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905120000 +0700" stop="20260905140000 +0700">
+    <title lang="th">รีรัน: คัสตอม ยูไนเต็ด พบ ฉะเชิงเทรา ไฮเทค เอฟซี</title>
+    <title lang="en">RERUN: Customs United vs Chachoengsao Hi-Tek FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905140000 +0700" stop="20260905160000 +0700">
+    <title lang="th">รีรัน: รร. นาหลวง พบ แอลพีจีเอสเอส เขลางค์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Naluang School vs LPGSS Khelang United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905160000 +0700" stop="20260905170000 +0700">
+    <title lang="th">PLAY นี้มีเรื่อง ตอนที่ 1: เมืองไทยคัพ</title>
+    <title lang="en">PLAY with Stories EP 1: Muangthai Cup</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905170000 +0700" stop="20260905173000 +0700">
+    <title lang="th">PLAY นี้มีเรื่อง ตอนที่ 5: ไทยลีก 2, 3</title>
+    <title lang="en">PLAY with Stories EP 5: Thai League 2, 3</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905173000 +0700" stop="20260905200000 +0700">
+    <title lang="th">LIVE: สิงห์ เชียงราย ยูไนเต็ด พบ ชลบุรี เอฟซี</title>
+    <title lang="en">LIVE: Singha Chiangrai United vs Chonburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905200000 +0700" stop="20260905220000 +0700">
+    <title lang="th">รีรัน: พีเอสยู สุราษฎร์ธานี ซิตี้ พบ เมืองตรัง ยูไนเต็ด</title>
+    <title lang="en">RERUN: PSU Suratthani City vs Muangtrang United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260905220000 +0700" stop="20260906000000 +0700">
+    <title lang="th">รีรัน: ม. นอร์ทกรุงเทพ พบ พราม แบงค็อก</title>
+    <title lang="en">RERUN: North Bangkok University vs Prime Bangkok</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906000000 +0700" stop="20260906020000 +0700">
+    <title lang="th">รีรัน: คัสตอม ยูไนเต็ด พบ ฉะเชิงเทรา ไฮเทค เอฟซี</title>
+    <title lang="en">RERUN: Customs United vs Chachoengsao Hi-Tek FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906020000 +0700" stop="20260906040000 +0700">
+    <title lang="th">รีรัน: สมุทรสาคร ซิตี้ พบ อัสสัมชัญ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Samutsakhon City vs Assumption United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906040000 +0700" stop="20260906060000 +0700">
+    <title lang="th">รีรัน: ขอนแก่น เอฟซี พบ สุรินทร์ ซิตี้</title>
+    <title lang="en">RERUN: Khonkaen FC vs Surin City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906060000 +0700" stop="20260906080000 +0700">
+    <title lang="th">รีรัน: สมุย ยูไนเต็ด พบ นรา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Samui United vs Nara United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906080000 +0700" stop="20260906100000 +0700">
+    <title lang="th">รีรัน: เอฟซี ยะลา พบ กระบี่ เอฟซี</title>
+    <title lang="en">RERUN: FC Yala vs Krabi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906100000 +0700" stop="20260906120000 +0700">
+    <title lang="th">รีรัน: บีจีซี บัณฑิตเอเซีย พบ บีอาร์ยู บุรีราษฎร์ อะคาเดมี</title>
+    <title lang="en">RERUN: BGC College of Asian Scholars vs BRU Burirat Academy</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906120000 +0700" stop="20260906140000 +0700">
+    <title lang="th">รีรัน: เชียงราย ทีเอสซี เอฟซี พบ พิษณุโลก เอฟซี</title>
+    <title lang="en">RERUN: Chiangrai TSC FC vs Phitsanulok FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906140000 +0700" stop="20260906160000 +0700">
+    <title lang="th">รีรัน: รร. นาหลวง พบ แอลพีจีเอสเอส เขลางค์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Naluang School vs LPGSS Khelang United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906160000 +0700" stop="20260906170000 +0700">
+    <title lang="th">PLAY นี้มีเรื่อง ตอนที่ 2: ไทยลีก 1</title>
+    <title lang="en">PLAY with Stories EP 2: Thai League 1</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906170000 +0700" stop="20260906173000 +0700">
+    <title lang="th">PLAY นี้มีเรื่อง ตอนที่ 8: ไทยลีก 2</title>
+    <title lang="en">PLAY with Stories EP 8: Thai League 2</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906173000 +0700" stop="20260906200000 +0700">
+    <title lang="th">LIVE: อยุธยา ยูไนเต็ด พบ ราชบุรี เอฟซี</title>
+    <title lang="en">LIVE: Ayutthaya United vs Ratchaburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906200000 +0700" stop="20260906220000 +0700">
+    <title lang="th">รีรัน: อุตรดิตถ์ เอฟซี พบ สิงห์ เชียงราย ซิตี้</title>
+    <title lang="en">RERUN: Uttaradit FC vs Singha Chiangrai City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260906220000 +0700" stop="20260907000000 +0700">
+    <title lang="th">รีรัน: ม. นอร์ทกรุงเทพ พบ พราม แบงค็อก</title>
+    <title lang="en">RERUN: North Bangkok University vs Prime Bangkok</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002091" start="20260902000000 +0700" stop="20260903000000 +0700">
