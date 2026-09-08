@@ -435,44 +435,62 @@
     <display-name lang="en">FAREWELL CONCERT ASANEE - WASAN</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260821095419068044.png"/>
   </channel>
-  <channel id="ch0000000000100002790">
-    <display-name>ch0000000000100002790</display-name>
+  <channel id="ch0000000000100002788">
+    <display-name>ch0000000000100002788</display-name>
   </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
   </channel>
-  <channel id="ch0000000000100002782">
-    <display-name>ch0000000000100002782</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
   </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002814">
-    <display-name>ch0000000000100002814</display-name>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
   <channel id="ch0000000000100002785">
     <display-name>ch0000000000100002785</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
-  <channel id="ch0000000000100002783">
-    <display-name>ch0000000000100002783</display-name>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002784">
+    <display-name>ch0000000000100002784</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
@@ -480,182 +498,164 @@
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
   </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002812">
-    <display-name>ch0000000000100002812</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
   <channel id="ch0000000000100002721">
     <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100002791">
-    <display-name>ch0000000000100002791</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100002787">
-    <display-name>ch0000000000100002787</display-name>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
   </channel>
   <channel id="ch0000000000100002792">
     <display-name>ch0000000000100002792</display-name>
   </channel>
-  <channel id="ch0000000000100002811">
-    <display-name>ch0000000000100002811</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002781">
-    <display-name>ch0000000000100002781</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
   <channel id="ch0000000000100002813">
     <display-name>ch0000000000100002813</display-name>
   </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100002786">
     <display-name>ch0000000000100002786</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002782">
+    <display-name>ch0000000000100002782</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
   </channel>
-  <channel id="ch0000000000100002784">
-    <display-name>ch0000000000100002784</display-name>
+  <channel id="ch0000000000100002790">
+    <display-name>ch0000000000100002790</display-name>
   </channel>
-  <channel id="ch0000000000100002789">
-    <display-name>ch0000000000100002789</display-name>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
   </channel>
-  <channel id="ch0000000000100002801">
-    <display-name>ch0000000000100002801</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
   <channel id="ch0000000000100002095">
     <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100002789">
+    <display-name>ch0000000000100002789</display-name>
   </channel>
-  <channel id="ch0000000000100002788">
-    <display-name>ch0000000000100002788</display-name>
+  <channel id="ch0000000000100002783">
+    <display-name>ch0000000000100002783</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
+  <channel id="ch0000000000100002781">
+    <display-name>ch0000000000100002781</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002811">
+    <display-name>ch0000000000100002811</display-name>
+  </channel>
+  <channel id="ch0000000000100002801">
+    <display-name>ch0000000000100002801</display-name>
+  </channel>
+  <channel id="ch0000000000100002787">
+    <display-name>ch0000000000100002787</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002791">
+    <display-name>ch0000000000100002791</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002814">
+    <display-name>ch0000000000100002814</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002812">
+    <display-name>ch0000000000100002812</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260906214500 +0700" stop="20260907000000 +0700">
     <title>Sinners</title>
@@ -5653,34 +5653,29 @@
     <title>MOONRISE KINGDOM คู่กิ๊กซ่าส์ สารพัดแสบ</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260906230500 +0700" stop="20260907001000 +0700">
+  <programme channel="ch0000000000100001101" start="20260906233000 +0700" stop="20260907004000 +0700">
+    <title>The Wheel Of Time S3: The Shadow In The Night</title>
+    <desc>Tensions flare between Egwene and Rand. Moiraine and Lan come to terms with their destiny.</desc>
+    <category>Drama</category>
+  </programme>
+  <programme channel="ch0000000000100001101" start="20260907004000 +0700" stop="20260907014000 +0700">
+    <title>The Wheel Of Time S3: Goldeneyes</title>
+    <desc>Perrin begins to embrace his role as a leader among the people of the Two Rivers.</desc>
+    <category>Drama</category>
+  </programme>
+  <programme channel="ch0000000000100001101" start="20260907014000 +0700" stop="20260907025000 +0700">
+    <title>The Wheel Of Time S3: He Who Comes With The Dawn</title>
+    <desc>Nynaeve, Elayne, Mat, and Min confront the Black Ajah and their futures. Moiraine and Lan prepare to face their fate. Rand and Egwene set their destinies in motion.</desc>
+    <category>Drama</category>
+  </programme>
+  <programme channel="ch0000000000100001101" start="20260907025000 +0700" stop="20260907035500 +0700">
+    <title>The Wheel Of Time S2: A Taste Of Solitude</title>
+    <desc>Moiraine, Lan, Nynaeve, Egwene, Perrin, and Mat find themselves more alone than ever.</desc>
+    <category>Drama</category>
+  </programme>
+  <programme channel="ch0000000000100001101" start="20260907035500 +0700" stop="20260907050000 +0700">
     <title>The Wheel Of Time S2: Strangers And Friends</title>
     <desc>The Two Rivers youths forge new relationships, while Lan tries to mend an old one.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907001000 +0700" stop="20260907011500 +0700">
-    <title>The Wheel Of Time S2: What Might Be</title>
-    <desc>Nynaeve faces her greatest fears. Rand seeks guidance on his powers from an unexpected source.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907011500 +0700" stop="20260907021500 +0700">
-    <title>The Wheel Of Time S2: Daughter Of The Night</title>
-    <desc>Moiraine searches for Rand while Nynaeve mourns her losses.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907021500 +0700" stop="20260907032000 +0700">
-    <title>The Wheel Of Time S2: Damane</title>
-    <desc>Moiraine and Rand flee for their lives. Egwene and Nynaeve encounter a new foe.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907032000 +0700" stop="20260907043000 +0700">
-    <title>The Wheel Of Time S2: Eyes Without Pity</title>
-    <desc>Rand makes a risky alliance and Egwene comes to terms with her new position.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907043000 +0700" stop="20260907050000 +0700">
-    <title>Cobra Kai: Cobra Kai Never Dies</title>
-    <desc>Robbie is in hot water with his father. Johnny plans to shut down Cobra Kai after Miguel is injured. Samantha and Kyler's relationship hits rock bottom. A vandalized billboard creates tension for Daniel.</desc>
     <category>Drama</category>
   </programme>
   <programme channel="ch0000000000100001101" start="20260907050000 +0700" stop="20260907054500 +0700">
@@ -5693,90 +5688,75 @@
     <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907063000 +0700" stop="20260907071500 +0700">
+  <programme channel="ch0000000000100001101" start="20260907063000 +0700" stop="20260907070000 +0700">
+    <title>Cobra Kai: Counterbalance</title>
+    <desc>Cobra Kai gains it's second student. Daniel has an intricate plan to get payback on Johnny. Miguel defends Samantha against Kyler during lunch break.</desc>
+    <category>Drama</category>
+  </programme>
+  <programme channel="ch0000000000100001101" start="20260907070000 +0700" stop="20260907074500 +0700">
     <title>Chicago Med S11: Reckoning, Pt. 2</title>
     <desc>The doctors at Gaffney are thrust into a race against time as they work to unravel a baffling medical mystery linked to the passenger jet.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907071500 +0700" stop="20260907080000 +0700">
+  <programme channel="ch0000000000100001101" start="20260907074500 +0700" stop="20260907083000 +0700">
     <title>Chicago Med S11: Twist &amp; Shout</title>
     <desc>Archer and Lenox treat two friends who were injured in St. Patrick's Day festivities. Hannah and Ripley treat a woman in the middle of a messy divorce.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907080000 +0700" stop="20260907084500 +0700">
+  <programme channel="ch0000000000100001101" start="20260907083000 +0700" stop="20260907091500 +0700">
     <title>Chicago Med S11: Reckoning, Pt. 2</title>
     <desc>The doctors at Gaffney are thrust into a race against time as they work to unravel a baffling medical mystery linked to the passenger jet.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907084500 +0700" stop="20260907093000 +0700">
+  <programme channel="ch0000000000100001101" start="20260907091500 +0700" stop="20260907100000 +0700">
     <title>Chicago Med S11: Twist &amp; Shout</title>
     <desc>Archer and Lenox treat two friends who were injured in St. Patrick's Day festivities. Hannah and Ripley treat a woman in the middle of a messy divorce.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907093000 +0700" stop="20260907101500 +0700">
+  <programme channel="ch0000000000100001101" start="20260907100000 +0700" stop="20260907104500 +0700">
     <title>The Tonight Show Starring Jimmy Fallon S13</title>
     <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907101500 +0700" stop="20260907110000 +0700">
+  <programme channel="ch0000000000100001101" start="20260907104500 +0700" stop="20260907113000 +0700">
     <title>Late Night With Seth Meyers S13</title>
     <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907110000 +0700" stop="20260907114500 +0700">
+  <programme channel="ch0000000000100001101" start="20260907113000 +0700" stop="20260907121500 +0700">
     <title>NCIS S22: In From the Cold</title>
     <desc>NCIS works with the CIA to discover what secrets are being kept by Captain Butler, an elderly former spy with dementia.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907114500 +0700" stop="20260907123000 +0700">
+  <programme channel="ch0000000000100001101" start="20260907121500 +0700" stop="20260907130000 +0700">
     <title>NCIS S22: Knight and Day</title>
     <desc>Things become tense when Knight is assigned to protect his wife after the home of a high-level defense contractor is attacked.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907123000 +0700" stop="20260907131500 +0700">
+  <programme channel="ch0000000000100001101" start="20260907130000 +0700" stop="20260907134500 +0700">
     <title>NCIS S22: Hardboiled</title>
     <desc>Torres receives intel from a confidential informant regarding top secret naval information that's at risk of being sold.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907131500 +0700" stop="20260907140000 +0700">
+  <programme channel="ch0000000000100001101" start="20260907134500 +0700" stop="20260907143000 +0700">
     <title>NCIS S22: Out of Control</title>
     <desc>NCIS investigates a murder related to a car that begins driving on its own.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907140000 +0700" stop="20260907144500 +0700">
+  <programme channel="ch0000000000100001101" start="20260907143000 +0700" stop="20260907151500 +0700">
     <title>Chicago Med S11: Reckoning, Pt. 2</title>
     <desc>The doctors at Gaffney are thrust into a race against time as they work to unravel a baffling medical mystery linked to the passenger jet.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907144500 +0700" stop="20260907153000 +0700">
+  <programme channel="ch0000000000100001101" start="20260907151500 +0700" stop="20260907160000 +0700">
     <title>Chicago Med S11: Twist &amp; Shout</title>
     <desc>Archer and Lenox treat two friends who were injured in St. Patrick's Day festivities. Hannah and Ripley treat a woman in the middle of a messy divorce.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260907153000 +0700" stop="20260907161500 +0700">
-    <title>Chicago Med S11: Reckoning, Pt. 2</title>
-    <desc>The doctors at Gaffney are thrust into a race against time as they work to unravel a baffling medical mystery linked to the passenger jet.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907161500 +0700" stop="20260907170000 +0700">
-    <title>Chicago Med S11: Twist &amp; Shout</title>
-    <desc>Archer and Lenox treat two friends who were injured in St. Patrick's Day festivities. Hannah and Ripley treat a woman in the middle of a messy divorce.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907170000 +0700" stop="20260907183000 +0700">
-    <title>Terror Birds</title>
-    <desc>Maddy and her college friends trek into the wilderness to find her father, but instead, they encounter killer terror birds once thought to be extinct.</desc>
-    <category>Action, Sci-Fi</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907183000 +0700" stop="20260907191500 +0700">
-    <title>Chicago Med S11: The Cost Of Living</title>
-    <desc>Archer confronts his own mortality while on a complex case. One patient’s quirky habit baffles Charles and Theo.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260907191500 +0700" stop="20260907200000 +0700">
-    <title>Chicago Med S11: The Book Of Charles</title>
-    <desc>Dr. Charles grapples with his own mental health following a harrowing experience working the suicide prevention line.</desc>
-    <category>Drama</category>
+  <programme channel="ch0000000000100001101" start="20260907160000 +0700" stop="20260907200000 +0700">
+    <title>2026 SPOTV K-Pop Awards</title>
+    <desc>The 2026 SPOTV K-Pop Awards (Sept 6, KINTEX) is a global music ceremony blending Circle Chart data with fan voting. Jointly organized by SPOTV and BIGC, the event features a massive lineup of next-gen artists and top Hallyu presenters.</desc>
+    <category>Award Ceremony</category>
   </programme>
   <programme channel="ch0000000000100001101" start="20260907200000 +0700" stop="20260907204500 +0700">
     <title>Chicago Med S11: The Cost Of Living</title>
@@ -5843,40 +5823,20 @@
     <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260908054500 +0700" stop="20260908063000 +0700">
+  <programme channel="ch0000000000100001101" start="20260908054500 +0700" stop="20260908062500 +0700">
     <title>The Tonight Show Starring Jimmy Fallon S13</title>
     <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260908063000 +0700" stop="20260908070000 +0700">
-    <title>Cobra Kai: Counterbalance</title>
-    <desc>Cobra Kai gains it's second student. Daniel has an intricate plan to get payback on Johnny. Miguel defends Samantha against Kyler during lunch break.</desc>
+  <programme channel="ch0000000000100001101" start="20260908062500 +0700" stop="20260908065500 +0700">
+    <title>Cobra Kai: Quiver</title>
+    <desc>Johnny's dojo class attracts a group of misfits while his son Robby, who harbors ulterior motives, lands a new job. Samantha makes a new friend in science class. Daniel inspires interest in karate from an unlikely person.</desc>
     <category>Drama</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260908070000 +0700" stop="20260908074500 +0700">
-    <title>Chicago Med S11: The Cost Of Living</title>
-    <desc>Archer confronts his own mortality while on a complex case. One patient’s quirky habit baffles Charles and Theo.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260908074500 +0700" stop="20260908083000 +0700">
-    <title>Chicago Med S11: The Book Of Charles</title>
-    <desc>Dr. Charles grapples with his own mental health following a harrowing experience working the suicide prevention line.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260908083000 +0700" stop="20260908091500 +0700">
-    <title>Chicago Med S11: The Cost Of Living</title>
-    <desc>Archer confronts his own mortality while on a complex case. One patient’s quirky habit baffles Charles and Theo.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260908091500 +0700" stop="20260908100000 +0700">
-    <title>Chicago Med S11: The Book Of Charles</title>
-    <desc>Dr. Charles grapples with his own mental health following a harrowing experience working the suicide prevention line.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260908100000 +0700" stop="20260908105500 +0700">
-    <title>The Real Housewives Of Orange County S20: Old Friends, New Era</title>
-    <desc>Vicki returns only to find herself in the middle of Shannon and Tamra, who are at odds after an explosive encounter.</desc>
-    <category>Reality, Lifestyle</category>
+  <programme channel="ch0000000000100001101" start="20260908065500 +0700" stop="20260908105500 +0700">
+    <title>2026 SPOTV K-Pop Awards</title>
+    <desc>The 2026 SPOTV K-Pop Awards (Sept 6, KINTEX) is a global music ceremony blending Circle Chart data with fan voting. Jointly organized by SPOTV and BIGC, the event features a massive lineup of next-gen artists and top Hallyu presenters.</desc>
+    <category>Award Ceremony</category>
   </programme>
   <programme channel="ch0000000000100001101" start="20260908105500 +0700" stop="20260908114000 +0700">
     <title>The Tonight Show Starring Jimmy Fallon S13</title>
@@ -6003,65 +5963,40 @@
     <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260909063000 +0700" stop="20260909070000 +0700">
-    <title>Cobra Kai: Quiver</title>
-    <desc>Johnny's dojo class attracts a group of misfits while his son Robby, who harbors ulterior motives, lands a new job. Samantha makes a new friend in science class. Daniel inspires interest in karate from an unlikely person.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260909070000 +0700" stop="20260909074500 +0700">
+  <programme channel="ch0000000000100001101" start="20260909063000 +0700" stop="20260909072000 +0700">
     <title>The Librarians: The Next Chapter S2: And The Burning Heart</title>
     <desc>Investigating rage at an international boarding school, the Librarians meet a man claiming to be Merlin. Together, they must conquer their own anger and uncover the source of the magic before time runs out.</desc>
     <category>Drama, Fantasy, Mystery</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260909074500 +0700" stop="20260909083000 +0700">
+  <programme channel="ch0000000000100001101" start="20260909072000 +0700" stop="20260909081000 +0700">
     <title>The Librarians: The Next Chapter S2: And The Tethered Wish</title>
     <desc>A freed Genie causes chaos across Belgrade by granting wishes. The Librarians must trap him back in his bottle—a task made harder when Vikram accidentally wishes himself magically tethered to Jacob Stone.</desc>
     <category>Drama, Fantasy, Mystery</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260909083000 +0700" stop="20260909091500 +0700">
+  <programme channel="ch0000000000100001101" start="20260909081000 +0700" stop="20260909090000 +0700">
     <title>The Librarians: The Next Chapter S2: And The Burning Heart</title>
     <desc>Investigating rage at an international boarding school, the Librarians meet a man claiming to be Merlin. Together, they must conquer their own anger and uncover the source of the magic before time runs out.</desc>
     <category>Drama, Fantasy, Mystery</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260909091500 +0700" stop="20260909100000 +0700">
+  <programme channel="ch0000000000100001101" start="20260909090000 +0700" stop="20260909094500 +0700">
     <title>The Librarians: The Next Chapter S2: And The Tethered Wish</title>
     <desc>A freed Genie causes chaos across Belgrade by granting wishes. The Librarians must trap him back in his bottle—a task made harder when Vikram accidentally wishes himself magically tethered to Jacob Stone.</desc>
     <category>Drama, Fantasy, Mystery</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260909100000 +0700" stop="20260909104500 +0700">
+  <programme channel="ch0000000000100001101" start="20260909094500 +0700" stop="20260909103000 +0700">
     <title>Below Deck Down Under S4: Canouan And Done</title>
     <desc>Capt. Jason draws a line in the sand with his HODs before the final charter. A returning charter guest proves difficult for the galley team. The crew says goodbye.</desc>
     <category>Reality</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260909104500 +0700" stop="20260909113000 +0700">
+  <programme channel="ch0000000000100001101" start="20260909103000 +0700" stop="20260909111500 +0700">
     <title>The Tonight Show Starring Jimmy Fallon S13</title>
     <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260909113000 +0700" stop="20260909121500 +0700">
-    <title>Late Night With Seth Meyers S13</title>
-    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-    <category>Talk Show</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260909121500 +0700" stop="20260909130000 +0700">
-    <title>NCIS S22: Humbug</title>
-    <desc>When a shocking tell-all threatens to ruin Christmas for a decorated Marine, NCIS must unwrap the truth and deliver a holiday miracle -- before the book hits shelves and turns a hero's legacy into a holiday disaster.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260909130000 +0700" stop="20260909134500 +0700">
-    <title>NCIS S22: Baker's Man</title>
-    <desc>After NCIS learns that the owner of Parker's favorite bakery is being blackmailed, they hatch a plan to save her.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260909134500 +0700" stop="20260909143000 +0700">
-    <title>NCIS S22: For Better or Worse</title>
-    <desc>NCIS stages a fake wedding for two of its own in an attempt to take down the mob.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260909143000 +0700" stop="20260909151500 +0700">
-    <title>NCIS S22: Fun and Games</title>
-    <desc>NCIS investigates the fatal poisoning of one of Kasie's forensic scientists. Meanwhile, McGee is questioned by the Pentagon regarding the contents of his book.</desc>
-    <category>Drama</category>
+  <programme channel="ch0000000000100001101" start="20260909111500 +0700" stop="20260909151500 +0700">
+    <title>2026 SPOTV K-Pop Awards</title>
+    <desc>The 2026 SPOTV K-Pop Awards (Sept 6, KINTEX) is a global music ceremony blending Circle Chart data with fan voting. Jointly organized by SPOTV and BIGC, the event features a massive lineup of next-gen artists and top Hallyu presenters.</desc>
+    <category>Award Ceremony</category>
   </programme>
   <programme channel="ch0000000000100001101" start="20260909151500 +0700" stop="20260909160000 +0700">
     <title>The Librarians: The Next Chapter S2: And The Tethered Wish</title>
@@ -6213,27 +6148,17 @@
     <desc>It’s the surreal singing show where huge celebrities compete undercover, keeping their true identities hidden. Expect jaw-dropping reveals as we ask, “who is behind the mask?”</desc>
     <category>Reality</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260910191000 +0700" stop="20260910202000 +0700">
-    <title>The Masked Singer U.K. S7: Episode 5</title>
-    <desc>It’s a double unmasking in the surreal singing show where huge celebrities compete to keep their true identities hidden. Expect amazing reveals as we ask, “who is behind the mask?”</desc>
-    <category>Reality</category>
+  <programme channel="ch0000000000100001101" start="20260910191000 +0700" stop="20260910230000 +0700">
+    <title>2026 SPOTV K-Pop Awards</title>
+    <desc>The 2026 SPOTV K-Pop Awards (Sept 6, KINTEX) is a global music ceremony blending Circle Chart data with fan voting. Jointly organized by SPOTV and BIGC, the event features a massive lineup of next-gen artists and top Hallyu presenters.</desc>
+    <category>Award Ceremony</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260910202000 +0700" stop="20260910213000 +0700">
-    <title>The Masked Singer U.K. S7: Episode 6</title>
-    <desc>It’s the surreal singing show where huge celebrities compete undercover, keeping their true identities hidden. Expect jaw-dropping reveals as we ask, “who is behind the mask?”</desc>
-    <category>Reality</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260910213000 +0700" stop="20260910225500 +0700">
-    <title>Asteroid: Final Impact</title>
-    <desc>Scientist Steve Thomas must risk his reputation, career, and life in order to save mankind from a huge asteroid headed straight for Earth.</desc>
-    <category>Action, Disaster</category>
-  </programme>
-  <programme channel="ch0000000000100001101" start="20260910225500 +0700" stop="20260910234000 +0700">
+  <programme channel="ch0000000000100001101" start="20260910230000 +0700" stop="20260910234500 +0700">
     <title>The Tonight Show Starring Jimmy Fallon S13</title>
     <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
     <category>Talk Show</category>
   </programme>
-  <programme channel="ch0000000000100001101" start="20260910234000 +0700" stop="20260911002500 +0700">
+  <programme channel="ch0000000000100001101" start="20260910234500 +0700" stop="20260911003000 +0700">
     <title>Late Night With Seth Meyers S13</title>
     <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
     <category>Talk Show</category>
@@ -52424,6 +52349,91 @@
     <title lang="en">HIGHLIGHT Thai League 1 MD 23</title>
     <category>Football</category>
   </programme>
+  <programme channel="ch0000000000100002041" start="20260909160000 +0700" stop="20260909180000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ นัดที่ 2: บุรีรัมย์ ยูไนเต็ด พบ เซลังงอร์</title>
+    <title lang="en">RERUN: Final 2: Buriram United vs Selangor</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260909180000 +0700" stop="20260909200000 +0700">
+    <title lang="th">รีรัน: อุตรดิตถ์ เอฟซี พบ เมืองทอง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Uttaradit FC vs Muangthong United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260909200000 +0700" stop="20260909220000 +0700">
+    <title lang="th">รีรัน: สิงห์ เชียงราย ยูไนเต็ด พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: Singha Chiangrai United vs Chonburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260909220000 +0700" stop="20260910000000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ ศรีสะเกษ ยูไนเต็ด</title>
+    <title lang="en">RERUN: True Bangkok United vs Sisaket United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910000000 +0700" stop="20260910020000 +0700">
+    <title lang="th">รีรัน: หนองบัว พิชญ เอฟซี พบ นครศรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nongbua Pitchaya FC vs Nakhon Si United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910020000 +0700" stop="20260910040000 +0700">
+    <title lang="th">รีรัน: เกษตรศาสตร์ เอฟซี พบ ปัตตานี เอฟซี</title>
+    <title lang="en">RERUN: Kasetsart FC vs Pattani FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910040000 +0700" stop="20260910060000 +0700">
+    <title lang="th">รีรัน: มหาสารคาม เอสบีที เอฟซี พบ ศรีสะเกษ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Mahasarakham SBT FC vs Sisaket United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910060000 +0700" stop="20260910080000 +0700">
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: Ratchaburi FC vs Uthai Thani FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910080000 +0700" stop="20260910100000 +0700">
+    <title lang="th">รีรัน: ชลบุรี เอฟซี พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chonburi FC vs Ayutthaya United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910100000 +0700" stop="20260910120000 +0700">
+    <title lang="th">รีรัน: หนองบัว พิชญ เอฟซี พบ นครศรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nongbua Pitchaya FC vs Nakhon Si United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910120000 +0700" stop="20260910140000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ ทรู แบงค็อก ยูไนเต็ด</title>
+    <title lang="en">RERUN: Lamphun Warriors vs True Bangkok United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910140000 +0700" stop="20260910150000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 24</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 24</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910150000 +0700" stop="20260910160000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 23</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 23</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910160000 +0700" stop="20260910180000 +0700">
+    <title lang="th">รีรัน: หนองบัว พิชญ เอฟซี พบ เกษตรศาสตร์ เอฟซี</title>
+    <title lang="en">RERUN: Nongbua Pitchaya FC vs Kasetsart FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910180000 +0700" stop="20260910200000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Uthai Thani FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910200000 +0700" stop="20260910220000 +0700">
+    <title lang="th">รีรัน: สุโขทัย เอฟซี พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Sukhothai FC vs Buriram United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260910220000 +0700" stop="20260911000000 +0700">
+    <title lang="th">รีรัน: พีที สตูล เอฟซี พบ พลังกาญจน์ เอฟซี</title>
+    <title lang="en">RERUN: PT Satun FC vs Kanchanaburi Power FC</title>
+    <category>Football</category>
+  </programme>
   <programme channel="ch0000000000100002052" start="20260906220000 +0700" stop="20260907000000 +0700">
     <title lang="th">รีรัน: ม. นอร์ทกรุงเทพ พบ พราม แบงค็อก</title>
     <title lang="en">RERUN: North Bangkok University vs Prime Bangkok</title>
@@ -53411,215 +53421,191 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260907111500 +0700" stop="20260907133500 +0700">
+  <programme channel="ch0000000000100002181" start="20260907111500 +0700" stop="20260907132500 +0700">
     <title>Pre-season 26/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
     <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260907133500 +0700" stop="20260907153000 +0700">
-    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
-    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260907153000 +0700" stop="20260907160000 +0700">
-    <title>Live Training</title>
-    <desc>Catch the regular first team training pre-match.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260907160000 +0700" stop="20260907173000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260907173000 +0700" stop="20260907181500 +0700">
-    <title>Live: Press Conference Liga</title>
-    <desc>Pre-match press conference.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260907181500 +0700" stop="20260907194500 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260907194500 +0700" stop="20260907222000 +0700">
-    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
-    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260907222000 +0700" stop="20260907224000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260907224000 +0700" stop="20260908010000 +0700">
-    <title>Champions League: Real Madrid vs Bayern Munich 23/24</title>
-    <desc>Semi-Final (second leg). Real Madrid host Bayern Munich in the Estadio Santiago Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908010000 +0700" stop="20260908011500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908011500 +0700" stop="20260908030000 +0700">
-    <title>Classic Matches: 1960 European Cup (5th) La Quinta</title>
-    <desc>Eintracht Frankfurt vs Real Madrid 59/60. Real Madrid won their fifth European Cup in Glasgow, Scotland</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908030000 +0700" stop="20260908033000 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908033000 +0700" stop="20260908061500 +0700">
-    <title>Champions League 01/02: Real Madrid vs Bayer Leverkusen (9th) La Novena</title>
-    <desc>Watch Real Madrid's 9th Champions League triumph against Bayer Leverkusen.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908061500 +0700" stop="20260908073000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907132500 +0700" stop="20260907144000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908073000 +0700" stop="20260908080000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907144000 +0700" stop="20260907151000 +0700">
     <title>The Match Preview</title>
     <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908080000 +0700" stop="20260908081500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908081500 +0700" stop="20260908103000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907151000 +0700" stop="20260907172500 +0700">
     <title>Liga 26/27: Real Madrid vs Málaga</title>
     <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908103000 +0700" stop="20260908110000 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908110000 +0700" stop="20260908111500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908111500 +0700" stop="20260908132500 +0700">
-    <title>Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
-    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908132500 +0700" stop="20260908144000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907172500 +0700" stop="20260907183500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908144000 +0700" stop="20260908151000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907183500 +0700" stop="20260907185500 +0700">
     <title>The Match Preview</title>
     <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908151000 +0700" stop="20260908172500 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908172500 +0700" stop="20260908183500 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908183500 +0700" stop="20260908185500 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908185500 +0700" stop="20260908220000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907185500 +0700" stop="20260907220000 +0700">
     <title>Champions League: Manchester City vs Real Madrid 23/24</title>
     <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908220000 +0700" stop="20260908231000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907220000 +0700" stop="20260907230000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908231000 +0700" stop="20260908232500 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908232500 +0700" stop="20260908234500 +0700">
+  <programme channel="ch0000000000100002181" start="20260907230000 +0700" stop="20260907232000 +0700">
     <title>The Match Preview</title>
     <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908234500 +0700" stop="20260909010000 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme channel="ch0000000000100002181" start="20260907232000 +0700" stop="20260908001500 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909010000 +0700" stop="20260909011500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  <programme channel="ch0000000000100002181" start="20260908001500 +0700" stop="20260908011500 +0700">
+    <title>Live: Champions League Countdown</title>
+    <desc>Join us for live Champions League build-up as Real Madrid host Inter Milan in the Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909011500 +0700" stop="20260909013500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908011500 +0700" stop="20260908013500 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909013500 +0700" stop="20260909020000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908013500 +0700" stop="20260908020000 +0700">
     <title>The Match Preview</title>
     <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909020000 +0700" stop="20260909041500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908020000 +0700" stop="20260908041500 +0700">
     <title>Club World Cup 2017:  Real Madrid vs Gremio</title>
     <desc>Watch Los Blancos clinch the Club World Cup by beating the champions of South America.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909041500 +0700" stop="20260909063000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908041500 +0700" stop="20260908063000 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909063000 +0700" stop="20260909070000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908063000 +0700" stop="20260908070000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909070000 +0700" stop="20260909071500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908070000 +0700" stop="20260908071500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909071500 +0700" stop="20260909085500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908071500 +0700" stop="20260908085500 +0700">
     <title>European Super Cup 2002:  Real Madrid vs Feyenoord</title>
     <desc>Real Madrid´s perfomance from Roberto Carlos, Zidane and Figo.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909085500 +0700" stop="20260909111000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908085500 +0700" stop="20260908111000 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909111000 +0700" stop="20260909112500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908111000 +0700" stop="20260908112500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909112500 +0700" stop="20260909132500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908112500 +0700" stop="20260908132500 +0700">
     <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
     <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909132500 +0700" stop="20260909154000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908132500 +0700" stop="20260908154000 +0700">
     <title>Club World Cup 2017:  Real Madrid vs Gremio</title>
     <desc>Watch Los Blancos clinch the Club World Cup by beating the champions of South America.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909154000 +0700" stop="20260909175000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908154000 +0700" stop="20260908175000 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909175000 +0700" stop="20260909200500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908175000 +0700" stop="20260908200500 +0700">
     <title>Liga 26/27: Real Madrid vs Málaga</title>
     <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909200500 +0700" stop="20260909230000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908200500 +0700" stop="20260908230000 +0700">
     <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
     <desc>It's the Champions League winners vs the Europa League winners.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909230000 +0700" stop="20260910014500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908230000 +0700" stop="20260909014500 +0700">
     <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
     <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910014500 +0700" stop="20260910015500 +0700">
+  <programme channel="ch0000000000100002181" start="20260909014500 +0700" stop="20260909015500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910015500 +0700" stop="20260910040000 +0700">
+  <programme channel="ch0000000000100002181" start="20260909015500 +0700" stop="20260909040000 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910040000 +0700" stop="20260910050000 +0700">
+  <programme channel="ch0000000000100002181" start="20260909040000 +0700" stop="20260909050000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910050000 +0700" stop="20260910071500 +0700">
-    <title>TBC: Liga 26/27: Real Betis vs Real Madrid</title>
-    <desc>TBC: Matchday 4 of Liga. Real Madrid face Real Betis in the La Cartuja Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20260909050000 +0700" stop="20260909071500 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910071500 +0700" stop="20260910073000 +0700">
+  <programme channel="ch0000000000100002181" start="20260909071500 +0700" stop="20260909073000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910073000 +0700" stop="20260910101500 +0700">
+  <programme channel="ch0000000000100002181" start="20260909073000 +0700" stop="20260909101500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910101500 +0700" stop="20260910110000 +0700">
+  <programme channel="ch0000000000100002181" start="20260909101500 +0700" stop="20260909110000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909110000 +0700" stop="20260909111500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909111500 +0700" stop="20260909122000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909122000 +0700" stop="20260909151500 +0700">
+    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
+    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909151500 +0700" stop="20260909173000 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909173000 +0700" stop="20260909194500 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909194500 +0700" stop="20260909231500 +0700">
+    <title>Champions League 15/16: Real Madrid vs Atlético de Madrid (11th) La Undécima</title>
+    <desc>Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909231500 +0700" stop="20260910013000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910013000 +0700" stop="20260910014500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910014500 +0700" stop="20260910034500 +0700">
+    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
+    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910034500 +0700" stop="20260910055500 +0700">
+    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
+    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910055500 +0700" stop="20260910081500 +0700">
+    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
+    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910081500 +0700" stop="20260910083000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910083000 +0700" stop="20260910104500 +0700">
+    <title>Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910104500 +0700" stop="20260910110000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
@@ -53627,29 +53613,33 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910111500 +0700" stop="20260910122000 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme channel="ch0000000000100002181" start="20260910111500 +0700" stop="20260910133000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910122000 +0700" stop="20260910151500 +0700">
-    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
-    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260910133000 +0700" stop="20260910150000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910151500 +0700" stop="20260910173000 +0700">
+  <programme channel="ch0000000000100002181" start="20260910150000 +0700" stop="20260910171500 +0700">
+    <title>Real Madrid City</title>
+    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910171500 +0700" stop="20260910190000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910190000 +0700" stop="20260910211500 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910173000 +0700" stop="20260910194500 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910194500 +0700" stop="20260910231500 +0700">
-    <title>Champions League 15/16: Real Madrid vs Atlético de Madrid (11th) La Undécima</title>
-    <desc>Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910231500 +0700" stop="20260911013000 +0700">
+  <programme channel="ch0000000000100002181" start="20260910211500 +0700" stop="20260910233500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910233500 +0700" stop="20260911020000 +0700">
+    <title>Classic Matches: 2002 UCL Final  (9th) La Novena</title>
+    <desc>Champions League Final 01/02.Watch Real Madrid's ninth Champions League triumph against Leverkusen in Glasgow.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260906000000 +0700" stop="20260907000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -53885,6 +53875,36 @@
     <category lang="en">Boxing</category>
   </programme>
   <programme channel="ch0000000000100002261" start="20260909200000 +0700" stop="20260910010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
+    <title lang="en">RERUN: RWS</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260910010000 +0700" stop="20260910080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (1 กันยายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (1 September 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260910080000 +0700" stop="20260910150000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (31 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (31 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260910150000 +0700" stop="20260910180000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (28 สิงหาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (28 August 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260910180000 +0700" stop="20260910200000 +0700">
+    <title lang="th">LIVE: ศึกเพชรยินดี (10 กันยายน 2026)</title>
+    <title lang="en">LIVE: Petchyindee (10 September 2026)</title>
+    <category lang="th">Golf</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20260910200000 +0700" stop="20260911010000 +0700">
     <title lang="th">รีรัน: มวยราชดำเนิน เวิลด์ ซีรีส์</title>
     <title lang="en">RERUN: RWS</title>
     <category lang="th">Golf</category>
@@ -54396,6 +54416,86 @@
     <category>NBA, Basketball</category>
   </programme>
   <programme channel="ch0000000000100002401" start="20260908210000 +0700" stop="20260909000000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909000000 +0700" stop="20260909030000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909030000 +0700" stop="20260909060000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909060000 +0700" stop="20260909090000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909090000 +0700" stop="20260909120000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909120000 +0700" stop="20260909150000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909150000 +0700" stop="20260909180000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909180000 +0700" stop="20260909210000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260909210000 +0700" stop="20260910000000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910000000 +0700" stop="20260910030000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910030000 +0700" stop="20260910060000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910060000 +0700" stop="20260910090000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910090000 +0700" stop="20260910120000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910120000 +0700" stop="20260910150000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910150000 +0700" stop="20260910180000 +0700">
+    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
+    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910180000 +0700" stop="20260910210000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
+    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
+    <category>NBA, Basketball</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20260910210000 +0700" stop="20260911000000 +0700">
     <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
     <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
     <category>NBA, Basketball</category>
@@ -55563,6 +55663,126 @@
   <programme channel="ch0000000000100002528" start="20260909233500 +0700" stop="20260910000000 +0700">
     <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Hero Indian Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910000000 +0700" stop="20260910002500 +0700">
+    <title lang="th">กาตาร์ มาสเตอร์ส ไฮไลต์ รอบ 3</title>
+    <title lang="en">Qatar Masters Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910002500 +0700" stop="20260910005000 +0700">
+    <title lang="th">กาตาร์ มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Qatar Masters Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910005000 +0700" stop="20260910011500 +0700">
+    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Magical Kenya Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910011500 +0700" stop="20260910014500 +0700">
+    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Magical Kenya Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910014500 +0700" stop="20260910021500 +0700">
+    <title lang="th">อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Investec South African Open Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910021500 +0700" stop="20260910071500 +0700">
+    <title lang="th">รีรัน: โอเมก้า ยูโรเปียน มาสเตอร์ส รอบ 3</title>
+    <title lang="en">RERUN: Omega European Masters Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910071500 +0700" stop="20260910074000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Joburg Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910074000 +0700" stop="20260910081000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Joburg Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910081000 +0700" stop="20260910083500 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Hero Indian Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910083500 +0700" stop="20260910090000 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Indian Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910090000 +0700" stop="20260910092500 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Volvo China Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910092500 +0700" stop="20260910095000 +0700">
+    <title lang="th">วอลโว่ ไชน่า โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Volvo China Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910095000 +0700" stop="20260910145000 +0700">
+    <title lang="th">รีรัน: โอเมก้า ยูโรเปียน มาสเตอร์ส รอบสุดท้าย</title>
+    <title lang="en">RERUN: Omega European Masters Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910145000 +0700" stop="20260910152000 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Turkish Airlines Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910152000 +0700" stop="20260910155000 +0700">
+    <title lang="th">เตอร์กิช แอร์ไลน์ส โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Turkish Airlines Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910155000 +0700" stop="20260910161500 +0700">
+    <title lang="th">เอสเตรยา ดัมม์ คาตาลุนญาแชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Estrella Damm Catalunya Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910161500 +0700" stop="20260910164000 +0700">
+    <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Soudal Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910164000 +0700" stop="20260910171000 +0700">
+    <title lang="th">ซูดาล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Soudal Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910171000 +0700" stop="20260910174000 +0700">
+    <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910174000 +0700" stop="20260910181000 +0700">
+    <title lang="th">ออสเตรียน แอลไพน์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Austrian Alpine Open presented by Kitzbühel Tirol Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910181000 +0700" stop="20260910184000 +0700">
+    <title lang="th">เคแอลเอ็ม โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">KLM Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910184000 +0700" stop="20260910191000 +0700">
+    <title lang="th">เคแอลเอ็ม โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KLM Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910191000 +0700" stop="20260910193000 +0700">
+    <title lang="th">โอเพ่น ดิ อิตาเลีย ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open d'Italia Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20260910193000 +0700" stop="20260911010000 +0700">
+    <title lang="th">LIVE: แอมเจน ไอริช โอเพ่น รอบแรก</title>
+    <title lang="en">LIVE: Amgen Irish Open Round 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20260906234000 +0700" stop="20260907000000 +0700">
@@ -57830,31 +58050,31 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002761" start="20260906000000 +0700" stop="20260907000000 +0700">
-    <title lang="th">9 ก.ย. คอนเสิร์ต อัสนี-วสันต์ เริ่ม 18.30 น.</title>
-    <title lang="en">9 Sep: Asanee-Wasan Concert (6:30PM)</title>
+    <title lang="th">9 ก.ย. คอนเสิร์ต อัสนี-วสันต์ เริ่ม 19.00 น.</title>
+    <title lang="en">9 Sep: Asanee-Wasan Concert (7PM)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002761" start="20260907000000 +0700" stop="20260908000000 +0700">
-    <title lang="th">9 ก.ย. คอนเสิร์ต อัสนี-วสันต์ เริ่ม 18.30 น.</title>
-    <title lang="en">9 Sep: Asanee-Wasan Concert (6:30PM)</title>
+    <title lang="th">9 ก.ย. คอนเสิร์ต อัสนี-วสันต์ เริ่ม 19.00 น.</title>
+    <title lang="en">9 Sep: Asanee-Wasan Concert (7PM)</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002761" start="20260908000000 +0700" stop="20260908183000 +0700">
-    <title lang="th">เริ่ม 18.30 น. คอนเสิร์ต อัสนี-วสันต์</title>
-    <title lang="en">Start 6.30PM Asanee-Wasan Concert</title>
+  <programme channel="ch0000000000100002761" start="20260908000000 +0700" stop="20260909000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">9 Sep: Asanee-Wasan Concert (7PM)</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002761" start="20260908183000 +0700" stop="20260908220000 +0700">
+  <programme channel="ch0000000000100002761" start="20260909000000 +0700" stop="20260909190000 +0700">
+    <title lang="th">เริ่ม 19.00 น. คอนเสิร์ต อัสนี-วสันต์</title>
+    <title lang="en">Start 7PM Asanee-Wasan Concert</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002761" start="20260909190000 +0700" stop="20260909230000 +0700">
     <title lang="th">LIVE: คอนเสิร์ต อัสนี-วสันต์</title>
     <title lang="en">LIVE: Asanee-Wasan Concert</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002761" start="20260908220000 +0700" stop="20260909000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002761" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002761" start="20260909230000 +0700" stop="20260910000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
