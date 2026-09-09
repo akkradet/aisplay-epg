@@ -430,232 +430,266 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
+  <channel id="ch0000000000100002781">
+    <display-name lang="th">เอเชียนเกมส์ 901</display-name>
+    <display-name lang="en">Asian Games 901</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901093955069632.png"/>
+  </channel>
+  <channel id="ch0000000000100002782">
+    <display-name lang="th">เอเชียนเกมส์ 902</display-name>
+    <display-name lang="en">Asian Games 902</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094020069633.png"/>
+  </channel>
+  <channel id="ch0000000000100002783">
+    <display-name lang="th">เอเชียนเกมส์ 903</display-name>
+    <display-name lang="en">Asian Games 903</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094040069634.png"/>
+  </channel>
+  <channel id="ch0000000000100002784">
+    <display-name lang="th">เอเชียนเกมส์ 904</display-name>
+    <display-name lang="en">Asian Games 904</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094102069635.png"/>
+  </channel>
+  <channel id="ch0000000000100002785">
+    <display-name lang="th">เอเชียนเกมส์ 905</display-name>
+    <display-name lang="en">Asian Games 905</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094213069636.png"/>
+  </channel>
+  <channel id="ch0000000000100002786">
+    <display-name lang="th">เอเชียนเกมส์ 906</display-name>
+    <display-name lang="en">Asian Games 906</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094243069637.png"/>
+  </channel>
+  <channel id="ch0000000000100002791">
+    <display-name lang="th">เอเชียนเกมส์ 907</display-name>
+    <display-name lang="en">Asian Games 907</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094302069638.png"/>
+  </channel>
+  <channel id="ch0000000000100002787">
+    <display-name lang="th">เอเชียนเกมส์ 908</display-name>
+    <display-name lang="en">Asian Games 908</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094321069639.png"/>
+  </channel>
+  <channel id="ch0000000000100002801">
+    <display-name lang="th">เอเชียนเกมส์ 909</display-name>
+    <display-name lang="en">Asian Games 909</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094341069641.png"/>
+  </channel>
+  <channel id="ch0000000000100002788">
+    <display-name lang="th">เอเชียนเกมส์ 910</display-name>
+    <display-name lang="en">Asian Games 910</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094401069640.png"/>
+  </channel>
+  <channel id="ch0000000000100002789">
+    <display-name lang="th">เอเชียนเกมส์ 911</display-name>
+    <display-name lang="en">Asian Games 911</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094417069651.png"/>
+  </channel>
+  <channel id="ch0000000000100002790">
+    <display-name lang="th">เอเชียนเกมส์ 912</display-name>
+    <display-name lang="en">Asian Games 912</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094435069652.png"/>
+  </channel>
+  <channel id="ch0000000000100002811">
+    <display-name lang="th">เอเชียนเกมส์ 913</display-name>
+    <display-name lang="en">Asian Games 913</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094454069653.png"/>
+  </channel>
+  <channel id="ch0000000000100002812">
+    <display-name lang="th">เอเชียนเกมส์ 914</display-name>
+    <display-name lang="en">Asian Games 914</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094513069654.png"/>
+  </channel>
+  <channel id="ch0000000000100002813">
+    <display-name lang="th">เอเชียนเกมส์ 915</display-name>
+    <display-name lang="en">Asian Games 915</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094534069655.png"/>
+  </channel>
+  <channel id="ch0000000000100002814">
+    <display-name lang="th">เอเชียนเกมส์ 916</display-name>
+    <display-name lang="en">Asian Games 916</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094556069656.png"/>
+  </channel>
+  <channel id="ch0000000000100002792">
+    <display-name lang="th">เอเชียนเกมส์ 917</display-name>
+    <display-name lang="en">Asian Games 917</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094614069657.png"/>
+  </channel>
   <channel id="ch0000000000100002761">
     <display-name lang="th">อัสนี - วสันต์ FAREWELL CONCERT ''อยากจะย้ำชัดๆ ครั้งสุดท้าย''</display-name>
     <display-name lang="en">FAREWELL CONCERT ASANEE - WASAN</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260821095419068044.png"/>
   </channel>
-  <channel id="ch0000000000100002801">
-    <display-name>ch0000000000100002801</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
   <channel id="ch0000000000100002098">
     <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002814">
-    <display-name>ch0000000000100002814</display-name>
-  </channel>
-  <channel id="ch0000000000100002786">
-    <display-name>ch0000000000100002786</display-name>
-  </channel>
-  <channel id="ch0000000000100002788">
-    <display-name>ch0000000000100002788</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002789">
-    <display-name>ch0000000000100002789</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100002785">
-    <display-name>ch0000000000100002785</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002783">
-    <display-name>ch0000000000100002783</display-name>
-  </channel>
-  <channel id="ch0000000000100002781">
-    <display-name>ch0000000000100002781</display-name>
-  </channel>
-  <channel id="ch0000000000100002784">
-    <display-name>ch0000000000100002784</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002782">
-    <display-name>ch0000000000100002782</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002811">
-    <display-name>ch0000000000100002811</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002787">
-    <display-name>ch0000000000100002787</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002792">
-    <display-name>ch0000000000100002792</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002791">
-    <display-name>ch0000000000100002791</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002813">
-    <display-name>ch0000000000100002813</display-name>
-  </channel>
-  <channel id="ch0000000000100002790">
-    <display-name>ch0000000000100002790</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
   </channel>
   <channel id="ch0000000000100001291">
     <display-name>ch0000000000100001291</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
-  <channel id="ch0000000000100002812">
-    <display-name>ch0000000000100002812</display-name>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100002329">
     <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
   <channel id="ch0000000000100002330">
     <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260907230500 +0700" stop="20260908005000 +0700">
     <title>My Mom Jayne: A Film By Mariska Hargitay</title>
@@ -27245,9 +27279,14 @@
     <desc>Max Foster has a definitive roundup of the day’s top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20260910030000 +0700" stop="20260910040000 +0700">
+  <programme channel="ch0000000000100001237" start="20260910030000 +0700" stop="20260910034500 +0700">
     <title>Quest Means Business</title>
     <desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20260910034500 +0700" stop="20260910040000 +0700">
+    <title>Quest's World of Wonder: August 2026 81A</title>
+    <desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip! The road is inextricably tied to the history of and major milestones in the United States.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260910040000 +0700" stop="20260910043000 +0700">
@@ -46767,7 +46806,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908030200 +0700" stop="20260908031500 +0700">
-    <title>DW News Focus</title>
+    <title>REV: Are Chinese EVs spying on Europe?</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908031500 +0700" stop="20260908033000 +0700">
     <title>DW Geopolitics: Is the Donbas worth the fight?</title>
@@ -46797,15 +46836,16 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908053000 +0700" stop="20260908060000 +0700">
-    <title>The Dip: Business Podcast</title>
-    <desc>The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <title>The Dip: Europe vs American Big Tech: Is the US already dominating the EU?</title>
+    <desc>Is Europe too dependent on American tech companies? From cloud services and AI infrastructure to email and data storage, much of Europe's digital economy runs on technology controlled by US firms.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908060000 +0700" stop="20260908060200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908060200 +0700" stop="20260908061500 +0700">
-    <title>DW News Focus</title>
+    <title>REV: Why Mercedes became South Africa’s icon</title>
+    <desc>In South Africa, Mercedes-Benz is more than just a luxury car brand — it’s a cultural symbol shaped by history, resilience, and engineering. From the iconic W123 to locally built engines and decades of production in East London, these vehicles have become deeply embedded in everyday life.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908061500 +0700" stop="20260908063000 +0700">
     <title>DW Geopolitics: Is the Donbas worth the fight?</title>
@@ -46822,7 +46862,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908070200 +0700" stop="20260908071500 +0700">
-    <title>DW News Focus</title>
+    <title>Travel: Why Gaudí's Sagrada Familia will blow your mind</title>
+    <desc>Antoni Gaudí’s Sagrada Familia in Barcelona is a living masterpiece — and probably the world's most famous construction site. 2026 marks 100 years since the death of the visionary who redefined architecture.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908071500 +0700" stop="20260908080000 +0700">
     <title>DocFilm: Palestine Comedy Club - Part 1</title>
@@ -46856,7 +46897,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908094500 +0700" stop="20260908100000 +0700">
-    <title>Reporter: On Location</title>
+    <title>Reporter: America’s AI Boom - Who Pays the Price?</title>
+    <desc>The artificial intelligence boom is creating demand for computing power. Data centers are springing up across the U.S.— and opposition is growing.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908100000 +0700" stop="20260908100300 +0700">
@@ -46929,7 +46971,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908144500 +0700" stop="20260908150000 +0700">
-    <title>Reporter: On Location</title>
+    <title>Reporter: America’s AI Boom - Who Pays the Price?</title>
+    <desc>The artificial intelligence boom is creating demand for computing power. Data centers are springing up across the U.S.— and opposition is growing.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908150000 +0700" stop="20260908153000 +0700">
@@ -46937,8 +46980,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908153000 +0700" stop="20260908160000 +0700">
-    <title>The Dip: Business Podcast</title>
-    <desc>The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <title>The Dip: Europe vs American Big Tech: Is the US already dominating the EU?</title>
+    <desc>Is Europe too dependent on American tech companies? From cloud services and AI infrastructure to email and data storage, much of Europe's digital economy runs on technology controlled by US firms.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908160000 +0700" stop="20260908163000 +0700">
     <title>DW News</title>
@@ -46976,13 +47019,8 @@
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260908190200 +0700" stop="20260908191500 +0700">
+  <programme channel="ch0000000000100001903" start="20260908190200 +0700" stop="20260908193000 +0700">
     <title>DW News Focus</title>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260908191500 +0700" stop="20260908193000 +0700">
-    <title>Asia 2050: Vision 2050 - Children of Bamboo</title>
-    <desc>Each year, Asia contributes to emissions by constructing towers from concrete, timber, and steel, exacerbating the planet’s decline and the increasing unpredictability of our climate. However, on the tropical island of Bali, a collective of designers, craftsmen, and social entrepreneurs is working with indigenous communities in what is known as a restorative economy.</desc>
-    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260908193000 +0700" stop="20260908200000 +0700">
     <title>Tomorrow Today: Can AI tell if you're 18+ just from your hand movements?</title>
@@ -47861,7 +47899,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911163000 +0700" stop="20260911170000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: Nature's Gifts: Safeguarding India's green riches</title>
+    <desc>From traditional indigenous spices in Kerala to the threatened Himalayan salamander, communities are finding ways to protect India's abundant natural heritage.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911170000 +0700" stop="20260911171500 +0700">
@@ -47874,7 +47913,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911173000 +0700" stop="20260911180000 +0700">
-    <title>Afrimaxx: Modern African Lifestyle</title>
+    <title>Afrimaxx: From Myth to Modernity: Africa Reimagines Tradition</title>
+    <desc>Afrimaxx takes a look behind the scenes of a new ballet production which blends mythology with Amapiano. Across Africa, young creatives are reinterpreting cultural heritage in ways that bridge the past and the present.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911180000 +0700" stop="20260911183000 +0700">
@@ -47899,7 +47939,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911193000 +0700" stop="20260911200000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Kenya villagers seek justice in BP pollution case</title>
+    <desc>From a Kenyan community’s lawsuit against BP to Uganda's anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911200000 +0700" stop="20260911203000 +0700">
@@ -47931,7 +47972,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911223000 +0700" stop="20260911230000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: Nature's Gifts: Safeguarding India's green riches</title>
+    <desc>From traditional indigenous spices in Kerala to the threatened Himalayan salamander, communities are finding ways to protect India's abundant natural heritage.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911230000 +0700" stop="20260911230200 +0700">
@@ -52728,99 +52770,91 @@
     <title>UCL Match: [Team] (H/A) 26/27</title>
     <desc>Full coverage of the UEFA Champions League game against [Team].</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260907232000 +0700" stop="20260908001500 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908001500 +0700" stop="20260908011500 +0700">
-    <title>Live: Champions League Countdown</title>
-    <desc>Join us for live Champions League build-up as Real Madrid host Inter Milan in the Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908011500 +0700" stop="20260908013500 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908013500 +0700" stop="20260908020000 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908020000 +0700" stop="20260908041500 +0700">
-    <title>Club World Cup 2017:  Real Madrid vs Gremio</title>
-    <desc>Watch Los Blancos clinch the Club World Cup by beating the champions of South America.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908041500 +0700" stop="20260908063000 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908063000 +0700" stop="20260908070000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908070000 +0700" stop="20260908071500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908071500 +0700" stop="20260908085500 +0700">
-    <title>European Super Cup 2002:  Real Madrid vs Feyenoord</title>
-    <desc>Real Madrid´s perfomance from Roberto Carlos, Zidane and Figo.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908085500 +0700" stop="20260908111000 +0700">
+  <programme channel="ch0000000000100002181" start="20260907233000 +0700" stop="20260908014500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908111000 +0700" stop="20260908112500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908014500 +0700" stop="20260908020000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908112500 +0700" stop="20260908132500 +0700">
-    <title>Pre-season 2026/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
-    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908132500 +0700" stop="20260908154000 +0700">
-    <title>Club World Cup 2017:  Real Madrid vs Gremio</title>
-    <desc>Watch Los Blancos clinch the Club World Cup by beating the champions of South America.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908154000 +0700" stop="20260908175000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908020000 +0700" stop="20260908040500 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260908175000 +0700" stop="20260908200500 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908200500 +0700" stop="20260908230000 +0700">
-    <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
-    <desc>It's the Champions League winners vs the Europa League winners.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260908230000 +0700" stop="20260909014500 +0700">
-    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
-    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909014500 +0700" stop="20260909015500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909015500 +0700" stop="20260909040000 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909040000 +0700" stop="20260909050000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908040500 +0700" stop="20260908051000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909050000 +0700" stop="20260909071500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908051000 +0700" stop="20260908071500 +0700">
     <title>Liga 26/27: Real Madrid vs Málaga</title>
     <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909071500 +0700" stop="20260909073000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908071500 +0700" stop="20260908073000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909073000 +0700" stop="20260909101500 +0700">
+  <programme channel="ch0000000000100002181" start="20260908073000 +0700" stop="20260908094500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909101500 +0700" stop="20260909110000 +0700">
+  <programme channel="ch0000000000100002181" start="20260908094500 +0700" stop="20260908110000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260908110000 +0700" stop="20260908111500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260908111500 +0700" stop="20260908122000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260908122000 +0700" stop="20260908151500 +0700">
+    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
+    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260908151500 +0700" stop="20260908173000 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260908173000 +0700" stop="20260908194500 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260908194500 +0700" stop="20260908231500 +0700">
+    <title>Champions League 15/16: Real Madrid vs Atlético de Madrid (11th) La Undécima</title>
+    <desc>Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260908231500 +0700" stop="20260909013000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909013000 +0700" stop="20260909014500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909014500 +0700" stop="20260909034500 +0700">
+    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
+    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909034500 +0700" stop="20260909055500 +0700">
+    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
+    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909055500 +0700" stop="20260909081500 +0700">
+    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
+    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909081500 +0700" stop="20260909083000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909083000 +0700" stop="20260909103000 +0700">
+    <title>Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909103000 +0700" stop="20260909110000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
@@ -52828,65 +52862,85 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909111500 +0700" stop="20260909122000 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909122000 +0700" stop="20260909151500 +0700">
-    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
-    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909151500 +0700" stop="20260909173000 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909173000 +0700" stop="20260909194500 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909194500 +0700" stop="20260909231500 +0700">
-    <title>Champions League 15/16: Real Madrid vs Atlético de Madrid (11th) La Undécima</title>
-    <desc>Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909231500 +0700" stop="20260910013000 +0700">
+  <programme channel="ch0000000000100002181" start="20260909111500 +0700" stop="20260909132000 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909132000 +0700" stop="20260909150000 +0700">
+    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
+    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909150000 +0700" stop="20260909171500 +0700">
+    <title>Real Madrid City</title>
+    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909171500 +0700" stop="20260909190000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909190000 +0700" stop="20260909193000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909193000 +0700" stop="20260909214500 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909214500 +0700" stop="20260909230000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260909230000 +0700" stop="20260910013000 +0700">
+    <title>Classic Matches: 2002 UCL Final  (9th) La Novena</title>
+    <desc>Champions League Final 01/02.Watch Real Madrid's ninth Champions League triumph against Leverkusen in Glasgow.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260910013000 +0700" stop="20260910014500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910014500 +0700" stop="20260910034500 +0700">
-    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
-    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
+  <programme channel="ch0000000000100002181" start="20260910014500 +0700" stop="20260910030000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910034500 +0700" stop="20260910055500 +0700">
-    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
-    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
+  <programme channel="ch0000000000100002181" start="20260910030000 +0700" stop="20260910033000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910055500 +0700" stop="20260910081500 +0700">
-    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
-    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
+  <programme channel="ch0000000000100002181" start="20260910033000 +0700" stop="20260910040000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910081500 +0700" stop="20260910083000 +0700">
+  <programme channel="ch0000000000100002181" start="20260910040000 +0700" stop="20260910050000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910050000 +0700" stop="20260910071500 +0700">
+    <title>The Match</title>
+    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910071500 +0700" stop="20260910073000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910083000 +0700" stop="20260910104500 +0700">
-    <title>Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
-    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20260910073000 +0700" stop="20260910083500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910083500 +0700" stop="20260910104500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260910104500 +0700" stop="20260910110000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260910110000 +0700" stop="20260910111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260910111500 +0700" stop="20260910133000 +0700">
-    <title>Liga 26/27: Espanyol vs Real Madrid</title>
-    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260910133000 +0700" stop="20260910150000 +0700">
     <title>Classic Highlights</title>
@@ -54411,9 +54465,174 @@
     <title lang="en">RERUN: FM Championship Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260909214500 +0700" stop="20260910050000 +0700">
+  <programme channel="ch0000000000100002525" start="20260909214500 +0700" stop="20260910003000 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
     <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910003000 +0700" stop="20260910010500 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Standard Portland Classic Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910010500 +0700" stop="20260910014000 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Standard Portland Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910014000 +0700" stop="20260910020000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">CPKC Women's Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910020000 +0700" stop="20260910022500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910022500 +0700" stop="20260910063500 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: FM Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910063500 +0700" stop="20260910092000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910092000 +0700" stop="20260910122000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบ 3</title>
+    <title lang="en">RERUN: The Standard Portland Classic Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910122000 +0700" stop="20260910152000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบสุดท้าย</title>
+    <title lang="en">RERUN: The Standard Portland Classic Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910152000 +0700" stop="20260910175500 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบ 3</title>
+    <title lang="en">RERUN: CPKC Women's Open Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910175500 +0700" stop="20260910205000 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910205000 +0700" stop="20260910233500 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260910233500 +0700" stop="20260911023500 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบสุดท้าย</title>
+    <title lang="en">RERUN: The Standard Portland Classic Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911023500 +0700" stop="20260911053000 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911053000 +0700" stop="20260911055500 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911055500 +0700" stop="20260911062000 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Honda LPGA Thailand Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911062000 +0700" stop="20260911064500 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Blue Bay LPGA Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911064500 +0700" stop="20260911071000 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911071000 +0700" stop="20260911073500 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911073500 +0700" stop="20260911081000 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Standard Portland Classic Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911081000 +0700" stop="20260911111000 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบสุดท้าย</title>
+    <title lang="en">RERUN: The Standard Portland Classic Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911111000 +0700" stop="20260911113000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">CPKC Women's Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911113000 +0700" stop="20260911142500 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911142500 +0700" stop="20260911145500 +0700">
+    <title lang="th">เอฟเอ็ม แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">FM Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911145500 +0700" stop="20260911174000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: FM Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911174000 +0700" stop="20260911181000 +0700">
+    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Chevron Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911181000 +0700" stop="20260911183500 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911183500 +0700" stop="20260911185500 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Mizuho Americas Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911185500 +0700" stop="20260911192000 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911192000 +0700" stop="20260911194500 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911194500 +0700" stop="20260911224500 +0700">
+    <title lang="th">รีรัน: เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก รอบสุดท้าย</title>
+    <title lang="en">RERUN: The Standard Portland Classic Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911224500 +0700" stop="20260911231000 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Dow Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911231000 +0700" stop="20260911233500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260911233500 +0700" stop="20260912023000 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260907235500 +0700" stop="20260908002000 +0700">
@@ -57151,21 +57370,21 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002761" start="20260907000000 +0700" stop="20260908000000 +0700">
-    <title lang="th">9 ก.ย. คอนเสิร์ต อัสนี-วสันต์ เริ่ม 19.00 น.</title>
-    <title lang="en">9 Sep: Asanee-Wasan Concert (7PM)</title>
+    <title lang="th">9 ก.ย. คอนเสิร์ต อัสนี-วสันต์ เริ่ม 18.30 น.</title>
+    <title lang="en">9 Sep: Asanee-Wasan Concert (6.30PM)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002761" start="20260908000000 +0700" stop="20260909000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">9 Sep: Asanee-Wasan Concert (7PM)</title>
+    <title lang="en">9 Sep: Asanee-Wasan Concert (6.30PM)</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002761" start="20260909000000 +0700" stop="20260909190000 +0700">
-    <title lang="th">เริ่ม 19.00 น. คอนเสิร์ต อัสนี-วสันต์</title>
-    <title lang="en">Start 7PM Asanee-Wasan Concert</title>
+  <programme channel="ch0000000000100002761" start="20260909000000 +0700" stop="20260909183000 +0700">
+    <title lang="th">เริ่ม 18.30 น. คอนเสิร์ต อัสนี-วสันต์</title>
+    <title lang="en">Start 6.30PM Asanee-Wasan Concert</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002761" start="20260909190000 +0700" stop="20260909230000 +0700">
+  <programme channel="ch0000000000100002761" start="20260909183000 +0700" stop="20260909230000 +0700">
     <title lang="th">LIVE: คอนเสิร์ต อัสนี-วสันต์</title>
     <title lang="en">LIVE: Asanee-Wasan Concert</title>
     <category>Sports</category>
@@ -57185,7 +57404,7 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002781" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57239,7 +57458,7 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260910191500 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002781" start="20260910191500 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57293,49 +57512,49 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260911191500 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002781" start="20260911191500 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002782" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002782" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002782" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002783" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002783" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002783" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002784" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57389,7 +57608,7 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260910191500 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002784" start="20260910191500 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57443,241 +57662,241 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260911191500 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002784" start="20260911191500 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002785" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002785" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002785" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002786" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002786" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002786" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002787" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002787" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002787" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002788" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002788" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002788" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002789" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002789" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002789" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002790" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002790" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002790" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002791" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002791" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002791" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002792" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002792" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002792" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002792" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002792" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002792" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002801" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002801" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002801" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002811" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002811" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002811" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002812" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002812" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002812" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002813" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002813" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002813" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002813" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002813" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002813" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260909000000 +0700" stop="20260910000000 +0700">
+  <programme channel="ch0000000000100002814" start="20260909000000 +0700" stop="20260909235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260910000000 +0700" stop="20260911000000 +0700">
+  <programme channel="ch0000000000100002814" start="20260910000000 +0700" stop="20260910235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260911000000 +0700" stop="20260912000000 +0700">
+  <programme channel="ch0000000000100002814" start="20260911000000 +0700" stop="20260911235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
