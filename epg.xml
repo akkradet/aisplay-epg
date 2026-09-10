@@ -525,91 +525,113 @@
     <display-name lang="en">Asian Games 917</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094614069657.png"/>
   </channel>
-  <channel id="ch0000000000100002761">
-    <display-name lang="th">อัสนี - วสันต์ FAREWELL CONCERT ''อยากจะย้ำชัดๆ ครั้งสุดท้าย''</display-name>
-    <display-name lang="en">FAREWELL CONCERT ASANEE - WASAN</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260821095419068044.png"/>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
   <channel id="ch0000000000100002251">
     <display-name>ch0000000000100002251</display-name>
   </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
   </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
   </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
   <channel id="ch0000000000100001361">
     <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
   <channel id="ch0000000000100002326">
     <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
   </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100002721">
     <display-name>ch0000000000100002721</display-name>
@@ -617,83 +639,59 @@
   <channel id="ch0000000000100002742">
     <display-name>ch0000000000100002742</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
   <channel id="ch0000000000100001391">
     <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
   </channel>
   <channel id="ch0000000000100002094">
     <display-name>ch0000000000100002094</display-name>
   </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
   <channel id="ch0000000000100002351">
     <display-name>ch0000000000100002351</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260908235500 +0700" stop="20260909015000 +0700">
     <title>Rocketman</title>
@@ -28678,6 +28676,550 @@
     <desc>Three mothers devote their lives to sons with special needs, helping them overcome challenges, gain independence and find purpose through unwavering love, patience and companionship.</desc>
     <category>News</category>
   </programme>
+  <programme channel="ch0000000000100001281" start="20260908233000 +0700" stop="20260909000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909000000 +0700" stop="20260909060000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909060000 +0700" stop="20260909063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909063000 +0700" stop="20260909070000 +0700">
+    <title>สุขใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909070000 +0700" stop="20260909073000 +0700">
+    <title>สูงวัย ไซเบอร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909073000 +0700" stop="20260909080000 +0700">
+    <title>คีตศิลป์ ดนตรีไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909080000 +0700" stop="20260909083000 +0700">
+    <title>ข่าวการศึกษา/สมุนไพรน่ารู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909083000 +0700" stop="20260909090000 +0700">
+    <title>คิดเป็นทำเป็น เกษตรศิลป์/มรดกโลกทางวัฒนธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909090000 +0700" stop="20260909093000 +0700">
+    <title>IDOL CLUB ปี 3 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909093000 +0700" stop="20260909100000 +0700">
+    <title>Parenting Hacks เลี้ยงลูกฉบับง่าย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909100000 +0700" stop="20260909103000 +0700">
+    <title>ถิ่นวิถี สุนทรีย์สำรับ/World Wide Science </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909103000 +0700" stop="20260909110000 +0700">
+    <title>รู้ทันโลกดิจิทัล/Digital Learner </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909110000 +0700" stop="20260909113000 +0700">
+    <title>Tech Check Up/Tech Tutor </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909113000 +0700" stop="20260909120000 +0700">
+    <title>Social Studies/Chic Society </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909120000 +0700" stop="20260909123000 +0700">
+    <title>Social Story/ตามรอยมืออาชีพจิ๋ว </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909123000 +0700" stop="20260909130000 +0700">
+    <title>รู้ทันคนทำงาน/Growing Goal </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909130000 +0700" stop="20260909133000 +0700">
+    <title>ข่าวการศึกษา/English Battle </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909133000 +0700" stop="20260909140000 +0700">
+    <title>จีนง่ายได้เรื่อง/Japan มาดูมะ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909140000 +0700" stop="20260909143000 +0700">
+    <title>สะพายกล้องท่องลาว (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909143000 +0700" stop="20260909150000 +0700">
+    <title>E-BIKE FIX ซ่อมเองได้ มอเตอร์ไซค์ไฟฟ้า </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909150000 +0700" stop="20260909151500 +0700">
+    <title>Wellness Kitchen ครัวสร้างสุข </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909151500 +0700" stop="20260909153000 +0700">
+    <title>The diary บันทึกประวัติศาสตร์ชาติไทยฯ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909153000 +0700" stop="20260909160000 +0700">
+    <title>คีตศิลป์ ดนตรีไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909160000 +0700" stop="20260909163000 +0700">
+    <title>สูงวัย ไซเบอร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909163000 +0700" stop="20260909170000 +0700">
+    <title>ห้องเรียนของหนู </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909170000 +0700" stop="20260909173000 +0700">
+    <title>ข่าวการศึกษา/สมุนไพรน่ารู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909173000 +0700" stop="20260909180000 +0700">
+    <title>คิดเป็นทำเป็น เกษตรศิลป์/มรดกโลกทางวัฒนธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909180000 +0700" stop="20260909183000 +0700">
+    <title>หุ่นดีสร้างได้ ปี 2 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909183000 +0700" stop="20260909190000 +0700">
+    <title>ฟิตให้เฟิร์ม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909190000 +0700" stop="20260909200000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับนักศึกษา สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909200000 +0700" stop="20260909203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909203000 +0700" stop="20260909213000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับนักศึกษา สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909213000 +0700" stop="20260909220000 +0700">
+    <title>IDOL CLUB ปี 3 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909220000 +0700" stop="20260909230000 +0700">
+    <title>ที่นี่มีเรื่อง </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909230000 +0700" stop="20260909233000 +0700">
+    <title>สุขใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260909233000 +0700" stop="20260910000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910000000 +0700" stop="20260910060000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910060000 +0700" stop="20260910063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910063000 +0700" stop="20260910070000 +0700">
+    <title>ปล่อยใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910070000 +0700" stop="20260910073000 +0700">
+    <title>คุณธรรม คุณทำได้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910073000 +0700" stop="20260910080000 +0700">
+    <title>สยามศิลป์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910080000 +0700" stop="20260910083000 +0700">
+    <title>ข่าวการศึกษา/ลุยเดี่ยวเกี่ยวประเด็น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910083000 +0700" stop="20260910090000 +0700">
+    <title>สุขพอ ขอปัน </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910090000 +0700" stop="20260910093000 +0700">
+    <title>Let's go solar cell </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910093000 +0700" stop="20260910100000 +0700">
+    <title>OnScreen Market ตลาดบนจอ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910100000 +0700" stop="20260910110000 +0700">
+    <title>สกร. วาไรตี้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910110000 +0700" stop="20260910113000 +0700">
+    <title>Sports Code </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910113000 +0700" stop="20260910120000 +0700">
+    <title>Bring Bright Science/Cool วิทย์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910120000 +0700" stop="20260910123000 +0700">
+    <title>In Sci/Math Digest </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910123000 +0700" stop="20260910130000 +0700">
+    <title>Math is Fun/Think Math </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910130000 +0700" stop="20260910133000 +0700">
+    <title>ข่าวการศึกษา/I can say </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910133000 +0700" stop="20260910140000 +0700">
+    <title>ฟังให้ได้ศัพท์ ชุดภาษาเวียดนาม/Say It Right ใช้ได้ชัวร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910140000 +0700" stop="20260910143000 +0700">
+    <title>Hello English </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910143000 +0700" stop="20260910150000 +0700">
+    <title>ก้าวทัน Smart Tech </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910150000 +0700" stop="20260910153000 +0700">
+    <title>สถานีอาชีพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910153000 +0700" stop="20260910160000 +0700">
+    <title>สยามศิลป์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910160000 +0700" stop="20260910163000 +0700">
+    <title>คุณธรรม คุณทำได้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910163000 +0700" stop="20260910170000 +0700">
+    <title>Kids จะเล่น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910170000 +0700" stop="20260910173000 +0700">
+    <title>ข่าวการศึกษา/Petch Journey </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910173000 +0700" stop="20260910180000 +0700">
+    <title>สุขพอ ขอปัน </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910180000 +0700" stop="20260910190000 +0700">
+    <title>ลีลา ลีลาศ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910190000 +0700" stop="20260910200000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910200000 +0700" stop="20260910203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910203000 +0700" stop="20260910213000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910213000 +0700" stop="20260910220000 +0700">
+    <title>Let's go solar cell </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910220000 +0700" stop="20260910223000 +0700">
+    <title>รู้'รักษ์ พลังงาน </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910223000 +0700" stop="20260910230000 +0700">
+    <title>ดนตรีบำบัด </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910230000 +0700" stop="20260910233000 +0700">
+    <title>ปล่อยใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260910233000 +0700" stop="20260911000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911000000 +0700" stop="20260911060000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911060000 +0700" stop="20260911063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911063000 +0700" stop="20260911070000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911070000 +0700" stop="20260911073000 +0700">
+    <title>วัยเก๋าเล่าอาชีพ ปี 4 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911073000 +0700" stop="20260911080000 +0700">
+    <title>ศิลป์สร้างสุข (ภาพ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911080000 +0700" stop="20260911083000 +0700">
+    <title>ข่าวการศึกษา/ที่นี่ประเทศไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911083000 +0700" stop="20260911090000 +0700">
+    <title>การปฐมพยาบาลเบื้องต้น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911090000 +0700" stop="20260911093000 +0700">
+    <title>เขย่าความคิดกับวิทย์รักษ์โลก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911093000 +0700" stop="20260911100000 +0700">
+    <title>Parenting Hacks เลี้ยงลูกฉบับง่าย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911100000 +0700" stop="20260911103000 +0700">
+    <title>พัฒนาครู </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911103000 +0700" stop="20260911110000 +0700">
+    <title>English Wisdom/Heal Zone </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911110000 +0700" stop="20260911113000 +0700">
+    <title>Better Me/สุขปนศิลป์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911113000 +0700" stop="20260911120000 +0700">
+    <title>Inspire English/Make My Day English </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911120000 +0700" stop="20260911123000 +0700">
+    <title>Unlock English/ทางไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911123000 +0700" stop="20260911130000 +0700">
+    <title>ติวไทย ให้เธอเต็ม/ไทยศึกษา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911130000 +0700" stop="20260911133000 +0700">
+    <title>ข่าวการศึกษา/Alphabet Let's go </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911133000 +0700" stop="20260911140000 +0700">
+    <title>Chinese for Careers/Simply Korean </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911140000 +0700" stop="20260911143000 +0700">
+    <title>Sematkan Malaysia/ห้องเรียนเรื่องลาว ปี 1 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911143000 +0700" stop="20260911150000 +0700">
+    <title>เกษตรยุคใหม่ หัวใจเทคโนโลยี </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911150000 +0700" stop="20260911153000 +0700">
+    <title>ชุมชนชื่นใจ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911153000 +0700" stop="20260911160000 +0700">
+    <title>ศิลป์สร้างสุข (ภาพ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911160000 +0700" stop="20260911163000 +0700">
+    <title>วัยเก๋าเล่าอาชีพ ปี 4 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911163000 +0700" stop="20260911170000 +0700">
+    <title>Family Center ปี 1 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911170000 +0700" stop="20260911173000 +0700">
+    <title>ข่าวการศึกษา/วิถีอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911173000 +0700" stop="20260911180000 +0700">
+    <title>การปฐมพยาบาลเบื้องต้น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911180000 +0700" stop="20260911190000 +0700">
+    <title>ฟื้นฟูดูเฟิร์ม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911190000 +0700" stop="20260911200000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911200000 +0700" stop="20260911203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911203000 +0700" stop="20260911213000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911213000 +0700" stop="20260911220000 +0700">
+    <title>พัฒนาครู </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911220000 +0700" stop="20260911223000 +0700">
+    <title>รู้ทันสื่อ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911223000 +0700" stop="20260911230000 +0700">
+    <title>กฎหมายคลายเครียด </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911230000 +0700" stop="20260911233000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260911233000 +0700" stop="20260912000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912000000 +0700" stop="20260912060000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912060000 +0700" stop="20260912063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912063000 +0700" stop="20260912070000 +0700">
+    <title>นิทานอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912070000 +0700" stop="20260912073000 +0700">
+    <title>นิทานคุณหนู/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912073000 +0700" stop="20260912080000 +0700">
+    <title>Cooking Diary ชุด Little Chef </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912080000 +0700" stop="20260912083000 +0700">
+    <title>ข่าวการศึกษา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912083000 +0700" stop="20260912090000 +0700">
+    <title>Good Guide </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912090000 +0700" stop="20260912100000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912100000 +0700" stop="20260912110000 +0700">
+    <title>Easy TCAS </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912110000 +0700" stop="20260912113000 +0700">
+    <title>Art of Careers ศิลปะแห่งอาชีพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912113000 +0700" stop="20260912120000 +0700">
+    <title>Social Studies/Chic Society </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912120000 +0700" stop="20260912123000 +0700">
+    <title>Social Story/ตามรอยมืออาชีพจิ๋ว </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912123000 +0700" stop="20260912130000 +0700">
+    <title>รู้ทันคนทำงาน/Growing Goal </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912130000 +0700" stop="20260912133000 +0700">
+    <title>ข่าวการศึกษา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912133000 +0700" stop="20260912140000 +0700">
+    <title>จีนง่ายได้เรื่อง/Japan มาดูมะ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912140000 +0700" stop="20260912143000 +0700">
+    <title>Belajar Bahasa Malaysia/เมียนมา ภาษาพาสนุก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912143000 +0700" stop="20260912150000 +0700">
+    <title>Cick &amp; Sell คลิกแล้วขาย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912150000 +0700" stop="20260912151500 +0700">
+    <title>Wellness Kicthen ครัวสร้างสุข </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912151500 +0700" stop="20260912153000 +0700">
+    <title>The diary บันทึกประวัติศาสตร์ชาติไทยฯ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912153000 +0700" stop="20260912160000 +0700">
+    <title>Cooking Diary ชุด Little Chef </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912160000 +0700" stop="20260912163000 +0700">
+    <title>นิทานอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912163000 +0700" stop="20260912170000 +0700">
+    <title>นิทานคุณหนู/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912170000 +0700" stop="20260912173000 +0700">
+    <title>สีสันภาษาจีน/จีนจำเป็น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912173000 +0700" stop="20260912180000 +0700">
+    <title>Good Guide </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912180000 +0700" stop="20260912183000 +0700">
+    <title>หุ่นดีสร้างได้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912183000 +0700" stop="20260912190000 +0700">
+    <title>ฟิตให้เฟิร์ม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912190000 +0700" stop="20260912200000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912200000 +0700" stop="20260912203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912203000 +0700" stop="20260912213000 +0700">
+    <title>Easy TCAS </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912213000 +0700" stop="20260912220000 +0700">
+    <title>เขย่าความคิดกับวิทย์รักษ์โลก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912220000 +0700" stop="20260912230000 +0700">
+    <title>ประวัติศาสตร์นอกตำรา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912230000 +0700" stop="20260912233000 +0700">
+    <title>ดนตรีบำบัด </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260912233000 +0700" stop="20260913000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
   <programme channel="ch0000000000100001283" start="20260908233000 +0700" stop="20260909000000 +0700">
     <title>R : fud fid fo fi</title>
     <desc>R : fud fid fo fi</desc>
@@ -33030,6 +33572,51 @@
     <title>R นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Eng</title>
     <desc>R นวัตกรรมการเรียนการสอน-บูรณาการ Ver.Eng</desc>
   </programme>
+  <programme channel="ch0000000000100001298" start="20260910000000 +0700" stop="20260910063000 +0700">
+    <title>ลูกทุ่งเพื่อชีวิต</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260910063000 +0700" stop="20260910182500 +0700">
+    <title>ลิเกจอแก้ว</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260910182500 +0700" stop="20260910192500 +0700">
+    <title>สังเวียนชนไก่</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260910192500 +0700" stop="20260910205500 +0700">
+    <title>วัฒนธรรมพื้นบ้านวัวไทย</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260910205500 +0700" stop="20260911013000 +0700">
+    <title>กลางกรุงสราญ</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260911013000 +0700" stop="20260911063000 +0700">
+    <title>ลูกทุ่งเพื่อชีวิต</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260911063000 +0700" stop="20260911182500 +0700">
+    <title>ลิเกจอแก้ว</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260911182500 +0700" stop="20260911192500 +0700">
+    <title>สังเวียนชนไก่</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260911192500 +0700" stop="20260911205500 +0700">
+    <title>วัฒนธรรมพื้นบ้านวัวไทย</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260911205500 +0700" stop="20260912013000 +0700">
+    <title>กลางกรุงสราญ</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260912013000 +0700" stop="20260912063000 +0700">
+    <title>ลูกทุ่งเพื่อชีวิต</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260912063000 +0700" stop="20260912182500 +0700">
+    <title>ลิเกจอแก้ว</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260912182500 +0700" stop="20260912192500 +0700">
+    <title>สังเวียนชนไก่</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260912192500 +0700" stop="20260912205500 +0700">
+    <title>วัฒนธรรมพื้นบ้านวัวไทย</title>
+  </programme>
+  <programme channel="ch0000000000100001298" start="20260912205500 +0700" stop="20260913013000 +0700">
+    <title>กลางกรุงสราญ</title>
+  </programme>
   <programme channel="ch0000000000100001311" start="20260908233000 +0700" stop="20260909000000 +0700">
     <title>MV MALL</title>
     <desc>MV MALL</desc>
@@ -37110,7 +37697,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001355" start="20260910170000 +0700" stop="20260910180000 +0700">
-    <title>"11/9/2025"</title>
+    <title>-11/9/2025-</title>
     <desc>A round-up of the day's local, international and entertainment news and sports reports.</desc>
     <category>News</category>
   </programme>
@@ -37365,8 +37952,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001355" start="20260912200000 +0700" stop="20260912210000 +0700">
-    <title>HOT TOPICS</title>
-    <desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+    <title>Twenty-five years Typhoon Nari</title>
+    <desc>Typhoon Nari once flooded Greater Taipei, inundating the metro and paralyzing the city overnight. Twenty-five years on, the capital's flood defenses have continued to evolve. But if Typhoon Nari struck again, would Taipei truly be ready?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001355" start="20260912210000 +0700" stop="20260912220000 +0700">
@@ -44138,19 +44725,14 @@
     <category>Netball</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260909153000 +0700" stop="20260909160000 +0700">
-    <title>MP '26: Ibiza Marathon, MP '26</title>
-    <desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-    <category>Athletics</category>
-  </programme>
-  <programme channel="ch0000000000100001772" start="20260909160000 +0700" stop="20260909180000 +0700">
-    <title>WSWC '27 Gr. B: Japan v Puerto Rico</title>
-    <desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group B from Lima, Peru throughout the stage.</desc>
-    <category>Softball</category>
-  </programme>
-  <programme channel="ch0000000000100001772" start="20260909180000 +0700" stop="20260909183000 +0700">
     <title>Royal Ascot: Queens of the Turf</title>
     <desc>A short documentary celebrating four pioneering female jockeys whose historic Royal Ascot wins challenged tradition, reshaped perceptions and advanced equality in racing.</desc>
     <category>Horseracing</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260909160000 +0700" stop="20260909183000 +0700">
+    <title>WSWC '27 Gr. B: Japan v Puerto Rico</title>
+    <desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group B from Lima, Peru throughout the stage.</desc>
+    <category>Softball</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260909183000 +0700" stop="20260909193000 +0700">
     <title>CSI Dinard '26 Highlights: Dinard '26 H/L - Derby</title>
@@ -44402,20 +44984,20 @@
     <desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group B from Lima, Peru throughout the stage.</desc>
     <category>Softball</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260912182000 +0700" stop="20260912192500 +0700">
-    <title>Paris Marathon 2026 '26 H/L</title>
-    <desc>The Paris Marathon on 12 April 2026 brings 55,000+ runners to the 42.195 km race. Starting at the Champs-Élysées, the scenic course passes the Louvre and the Eiffel Tower.</desc>
-    <category>Athletics</category>
-  </programme>
-  <programme channel="ch0000000000100001772" start="20260912192500 +0700" stop="20260912195500 +0700">
+  <programme channel="ch0000000000100001772" start="20260912182000 +0700" stop="20260912185000 +0700">
     <title>LGCT '26: LGCT '26 Valkenswaard H/Ls</title>
     <desc>The individual Longines Global Champions Tour spans two rounds per event. Faults and times are combined to name the winner, with points counting toward a season ranking.</desc>
     <category>Equestrian</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20260912195500 +0700" stop="20260912215500 +0700">
-    <title>Serie A Women's Cup '26: Como 1907 v Juventus</title>
-    <desc>The Serie A Women's Cup will take place prior to the start of the SERIE A Women season. Watch Como 1907 v Juventus.</desc>
+  <programme channel="ch0000000000100001772" start="20260912185000 +0700" stop="20260912205000 +0700">
+    <title>Serie A Women's Cup '26: Inter v Lazio</title>
+    <desc>The Serie A Women's Cup will take place prior to the start of the SERIE A Women season. Watch Inter v Lazio.</desc>
     <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100001772" start="20260912205000 +0700" stop="20260912215500 +0700">
+    <title>Paris Marathon 2026 '26 H/L</title>
+    <desc>The Paris Marathon on 12 April 2026 brings 55,000+ runners to the 42.195 km race. Starting at the Champs-Élysées, the scenic course passes the Louvre and the Eiffel Tower.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20260912215500 +0700" stop="20260912225500 +0700">
     <title>Supertri Final Jersey '26: Supertri Final Jersey '26 H/Ls</title>
@@ -46388,7 +46970,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909003000 +0700" stop="20260909010000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How corporations, billionaires and military power are reshaping influence</title>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909010000 +0700" stop="20260909010200 +0700">
@@ -46454,20 +47037,17 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909053000 +0700" stop="20260909060000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How corporations, billionaires and military power are reshaping influence</title>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909060000 +0700" stop="20260909060200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909060200 +0700" stop="20260909061500 +0700">
-    <title>DW News Focus</title>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260909061500 +0700" stop="20260909063000 +0700">
-    <title>Asia 2050: Vision 2050 - Children of Bamboo</title>
-    <desc>Each year, Asia contributes to emissions by constructing towers from concrete, timber, and steel, exacerbating the planet’s decline and the increasing unpredictability of our climate. However, on the tropical island of Bali, a collective of designers, craftsmen, and social entrepreneurs is working with indigenous communities in what is known as a restorative economy.</desc>
-    <category>Documentaries</category>
+  <programme channel="ch0000000000100001903" start="20260909060200 +0700" stop="20260909063000 +0700">
+    <title>DW News Focus: New York City unveils cover-up over toxic cloud</title>
+    <desc>More than 170,000 pages of long-hidden records show New York City officials knew the air quality around Ground Zero was toxic, but publicly maintained it was safe to breathe.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909063000 +0700" stop="20260909070000 +0700">
     <title>In Good Shape: When the immune system goes rogue</title>
@@ -46521,12 +47101,12 @@
   <programme channel="ch0000000000100001903" start="20260909100200 +0700" stop="20260909101500 +0700">
     <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909101500 +0700" stop="20260909104500 +0700">
+  <programme channel="ch0000000000100001903" start="20260909101500 +0700" stop="20260909104600 +0700">
     <title>Close up: Osteoarthritis - New Hope for the Knee</title>
     <desc>Cold therapy, knee distraction or cartilage transplantation from the nose to the knee: what really helps with knee pain? New procedures are bringing fresh hope to people with osteoarthritis and joint degeneration.</desc>
     <category>Documentaries</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909104500 +0700" stop="20260909110000 +0700">
+  <programme channel="ch0000000000100001903" start="20260909104600 +0700" stop="20260909110000 +0700">
     <title>Shift: How to Deal with the Data Center Dilemma</title>
     <desc>AI needs more and more computing power and that means more and more data centers. But where should they be built? And who pays the price in water, energy and resources?</desc>
     <category>Magazine</category>
@@ -46541,20 +47121,22 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909113000 +0700" stop="20260909120000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How corporations, billionaires and military power are reshaping influence</title>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909120000 +0700" stop="20260909120200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909120200 +0700" stop="20260909121500 +0700">
-    <title>DW News Focus</title>
+  <programme channel="ch0000000000100001903" start="20260909120200 +0700" stop="20260909123000 +0700">
+    <title>DW News Focus: New York City unveils cover-up over toxic cloud</title>
+    <desc>More than 170,000 pages of long-hidden records show New York City officials knew the air quality around Ground Zero was toxic, but publicly maintained it was safe to breathe.</desc>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909121500 +0700" stop="20260909130000 +0700">
-    <title>DocFilm: Palestine Comedy Club - Part 1</title>
-    <desc>Six Palestinian comedians go on tour in Israel and the Palestinian territories. What begins as a stand-up comedy show evolves, in the face of terror and war, into a plea for humanity.</desc>
-    <category>Documentaries</category>
+  <programme channel="ch0000000000100001903" start="20260909123000 +0700" stop="20260909130000 +0700">
+    <title>Global Us: Could Syria's railway revival offer an alternative to Hormuz?</title>
+    <desc>After years of war, Syria plans to revive its railways. Extreme heat challenges Taiwan, while monster bikes connect remote villages in Cameroon.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909130000 +0700" stop="20260909130200 +0700">
     <title>DW News</title>
@@ -46564,7 +47146,7 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909131500 +0700" stop="20260909133000 +0700">
-    <title>History: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
+    <title>DocFilm: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
     <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category>Documentaries</category>
   </programme>
@@ -46586,17 +47168,22 @@
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909153000 +0700" stop="20260909160000 +0700">
-    <title>Eco India: Can India revive its repair culture and curb e-waste?</title>
-    <desc>Many Indians used to get electronic goods fixed, but now many products cannot be mended. Some Indians want the right to repair. Plus how a community scheme in a wildlife reserve in Nilgiris is taking on tourist trash.</desc>
-    <category>Magazine</category>
+  <programme channel="ch0000000000100001903" start="20260909153000 +0700" stop="20260909154600 +0700">
+    <title>DW News Focus: Merz calls AfD ‘remigration’ plan ‘ethnic cleansing’ in fiery debate</title>
+    <desc>Days after an election in the eastern GERMAN state of Saxony-Anhalt gave the far-right AfD PARTY its best ever result in a state election, its co-leader Weidel and Chancellor Merz have faced off in the German Parliament.</desc>
+  </programme>
+  <programme channel="ch0000000000100001903" start="20260909154600 +0700" stop="20260909160000 +0700">
+    <title>DW Geopolitics: Is the Donbas worth the fight?</title>
+    <desc>Could the Donbas region be the key to ending the war in Ukraine? The Ukrainian territory, made up of Donetsk and Luhansk, has seen some of the bloodiest fighting of Russia's war.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909160000 +0700" stop="20260909163000 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909163000 +0700" stop="20260909170000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How corporations, billionaires and military power are reshaping influence</title>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909170000 +0700" stop="20260909171500 +0700">
@@ -46604,7 +47191,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909171500 +0700" stop="20260909173000 +0700">
-    <title>History: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
+    <title>DocFilm: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
     <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category>Documentaries</category>
   </programme>
@@ -46617,24 +47204,24 @@
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909183000 +0700" stop="20260909190000 +0700">
-    <title>DocFilm: Off to Scotland - Happiness, Solitude and Oysters</title>
-    <desc>Lars used to be a police officer. Together with his wife Sandy and their young son, he moved from Germany to a remote Scottish island in the Atlantic.</desc>
+  <programme channel="ch0000000000100001903" start="20260909183000 +0700" stop="20260909184600 +0700">
+    <title>DW News Focus: Merz calls AfD ‘remigration’ plan ‘ethnic cleansing’ in fiery debate</title>
+    <desc>Days after an election in the eastern GERMAN state of Saxony-Anhalt gave the far-right AfD PARTY its best ever result in a state election, its co-leader Weidel and Chancellor Merz have faced off in the German Parliament.</desc>
+  </programme>
+  <programme channel="ch0000000000100001903" start="20260909184600 +0700" stop="20260909190000 +0700">
+    <title>DocFilm: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
+    <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909190000 +0700" stop="20260909190200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909190200 +0700" stop="20260909191500 +0700">
-    <title>DW News Focus</title>
+  <programme channel="ch0000000000100001903" start="20260909190200 +0700" stop="20260909193100 +0700">
+    <title>DW News Focus: New York City unveils cover-up over toxic cloud</title>
+    <desc>More than 170,000 pages of long-hidden records show New York City officials knew the air quality around Ground Zero was toxic, but publicly maintained it was safe to breathe.</desc>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909191500 +0700" stop="20260909193000 +0700">
-    <title>History: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
-    <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
-    <category>Documentaries</category>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260909193000 +0700" stop="20260909200000 +0700">
+  <programme channel="ch0000000000100001903" start="20260909193100 +0700" stop="20260909200000 +0700">
     <title>The 77 Percent: Street Debate: Did Kaluma Boy expose Kenya's broken and corrupt system?</title>
     <desc>In Kenya, corruption scandals and a failing health system leave families stranded. When hospitals and governments vanish, citizens turn to TikTok and civil society for help to build roads, equip schools or anything else. The story of Kaluma Boy caring for his sick father exposes a dysfunctional state and the power of online solidarity.</desc>
     <category>Magazine</category>
@@ -46665,18 +47252,20 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909223000 +0700" stop="20260909230000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How corporations, billionaires and military power are reshaping influence</title>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260909230000 +0700" stop="20260909230200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909230200 +0700" stop="20260909231500 +0700">
-    <title>DW News Focus</title>
+  <programme channel="ch0000000000100001903" start="20260909230200 +0700" stop="20260909231900 +0700">
+    <title>DW News Focus: Merz calls AfD ‘remigration’ plan ‘ethnic cleansing’ in fiery debate</title>
+    <desc>Days after an election in the eastern GERMAN state of Saxony-Anhalt gave the far-right AfD PARTY its best ever result in a state election, its co-leader Weidel and Chancellor Merz have faced off in the German Parliament.</desc>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260909231500 +0700" stop="20260909233000 +0700">
-    <title>History: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
+  <programme channel="ch0000000000100001903" start="20260909231900 +0700" stop="20260909233000 +0700">
+    <title>DocFilm: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
     <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category>Documentaries</category>
   </programme>
@@ -46719,8 +47308,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910023000 +0700" stop="20260910030000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
-    <category>Magazine</category>
+    <title>DW News Focus: New York City unveils cover-up over toxic cloud</title>
+    <desc>More than 170,000 pages of long-hidden records show New York City officials knew the air quality around Ground Zero was toxic, but publicly maintained it was safe to breathe.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910030000 +0700" stop="20260910030200 +0700">
     <title>DW News</title>
@@ -46730,7 +47319,7 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910031500 +0700" stop="20260910033000 +0700">
-    <title>History: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
+    <title>DocFilm: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
     <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category>Documentaries</category>
   </programme>
@@ -46772,7 +47361,7 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910061500 +0700" stop="20260910063000 +0700">
-    <title>History: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
+    <title>DocFilm: From Opium to Fentanyl: Do We Keep Falling for The Same Lie?</title>
     <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category>Documentaries</category>
   </programme>
@@ -46795,7 +47384,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910080200 +0700" stop="20260910083000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How corporations, billionaires and military power are reshaping influence</title>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910083000 +0700" stop="20260910090000 +0700">
@@ -46935,7 +47525,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910193000 +0700" stop="20260910200000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: AfD Surge: What’s next for Germany?</title>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910200000 +0700" stop="20260910203000 +0700">
@@ -46967,7 +47558,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910223000 +0700" stop="20260910230000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: AfD Surge: What’s next for Germany?</title>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910230000 +0700" stop="20260910230200 +0700">
@@ -46983,8 +47575,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260910233000 +0700" stop="20260911000000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: AfD and Russia: Why Saxony-Anhalt matters for Germany</title>
+    <desc>The AfD won a record 44% in Saxony-Anhalt. But does the result signal a regional protest vote, or a broader shift in German politics?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911000000 +0700" stop="20260911000200 +0700">
@@ -46996,7 +47588,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911003000 +0700" stop="20260911010000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: AfD Surge: What’s next for Germany?</title>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911010000 +0700" stop="20260911010200 +0700">
@@ -47037,7 +47630,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911033000 +0700" stop="20260911040000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: How corporations, billionaires and military power are reshaping influence</title>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911040000 +0700" stop="20260911040200 +0700">
@@ -47077,8 +47671,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911063000 +0700" stop="20260911070000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: AfD and Russia: Why Saxony-Anhalt matters for Germany</title>
+    <desc>The AfD won a record 44% in Saxony-Anhalt. But does the result signal a regional protest vote, or a broader shift in German politics?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911070000 +0700" stop="20260911070200 +0700">
@@ -47098,7 +47692,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911080200 +0700" stop="20260911083000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: AfD Surge: What’s next for Germany?</title>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911083000 +0700" stop="20260911090000 +0700">
@@ -47134,12 +47729,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911110200 +0700" stop="20260911113000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: AfD Surge: What’s next for Germany?</title>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911113000 +0700" stop="20260911120000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: AfD and Russia: Why Saxony-Anhalt matters for Germany</title>
+    <desc>The AfD won a record 44% in Saxony-Anhalt. But does the result signal a regional protest vote, or a broader shift in German politics?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911120000 +0700" stop="20260911120200 +0700">
@@ -47188,7 +47784,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911153000 +0700" stop="20260911160000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: AfD Surge: What’s next for Germany?</title>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911160000 +0700" stop="20260911163000 +0700">
@@ -47219,8 +47816,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911183000 +0700" stop="20260911190000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing: AfD and Russia: Why Saxony-Anhalt matters for Germany</title>
+    <desc>The AfD won a record 44% in Saxony-Anhalt. But does the result signal a regional protest vote, or a broader shift in German politics?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260911190000 +0700" stop="20260911190200 +0700">
@@ -47345,7 +47942,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260912033000 +0700" stop="20260912040000 +0700">
-    <title>To the Point: International Debate from Berlin</title>
+    <title>To the Point: AfD Surge: What’s next for Germany?</title>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <category>Shows</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260912040000 +0700" stop="20260912040200 +0700">
@@ -52630,161 +53228,125 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909111500 +0700" stop="20260909132000 +0700">
+  <programme channel="ch0000000000100002181" start="20260909111500 +0700" stop="20260909132500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909132000 +0700" stop="20260909150000 +0700">
-    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
-    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
+  <programme channel="ch0000000000100002181" start="20260909132500 +0700" stop="20260909154000 +0700">
+    <title>Club World Cup 2017:  Real Madrid vs Gremio</title>
+    <desc>Watch Los Blancos clinch the Club World Cup by beating the champions of South America.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909150000 +0700" stop="20260909171500 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  <programme channel="ch0000000000100002181" start="20260909154000 +0700" stop="20260909175000 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909171500 +0700" stop="20260909190000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20260909175000 +0700" stop="20260909200000 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909190000 +0700" stop="20260909193000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20260909200000 +0700" stop="20260909233000 +0700">
+    <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
+    <desc>It's the Champions League winners vs the Europa League winners.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909193000 +0700" stop="20260909214500 +0700">
+  <programme channel="ch0000000000100002181" start="20260909233000 +0700" stop="20260910014500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260909214500 +0700" stop="20260909230000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260909230000 +0700" stop="20260910013000 +0700">
-    <title>Classic Matches: 2002 UCL Final  (9th) La Novena</title>
-    <desc>Champions League Final 01/02.Watch Real Madrid's ninth Champions League triumph against Leverkusen in Glasgow.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910013000 +0700" stop="20260910014500 +0700">
+  <programme channel="ch0000000000100002181" start="20260910014500 +0700" stop="20260910020000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910014500 +0700" stop="20260910030000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20260910020000 +0700" stop="20260910040500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910030000 +0700" stop="20260910033000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910033000 +0700" stop="20260910040000 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910040000 +0700" stop="20260910050000 +0700">
+  <programme channel="ch0000000000100002181" start="20260910040500 +0700" stop="20260910051000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910050000 +0700" stop="20260910071500 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  <programme channel="ch0000000000100002181" start="20260910051000 +0700" stop="20260910071500 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260910071500 +0700" stop="20260910073000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910073000 +0700" stop="20260910083500 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme channel="ch0000000000100002181" start="20260910073000 +0700" stop="20260910094500 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910083500 +0700" stop="20260910104500 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910104500 +0700" stop="20260910110000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20260910094500 +0700" stop="20260910110000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260910110000 +0700" stop="20260910111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910111500 +0700" stop="20260910133000 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260910111500 +0700" stop="20260910122000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910133000 +0700" stop="20260910150000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20260910122000 +0700" stop="20260910151500 +0700">
+    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
+    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910150000 +0700" stop="20260910171500 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910171500 +0700" stop="20260910190000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260910190000 +0700" stop="20260910211500 +0700">
+  <programme channel="ch0000000000100002181" start="20260910151500 +0700" stop="20260910173000 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910211500 +0700" stop="20260910233500 +0700">
+  <programme channel="ch0000000000100002181" start="20260910173000 +0700" stop="20260910194500 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910194500 +0700" stop="20260910231500 +0700">
+    <title>Champions League 15/16: Real Madrid vs Atlético de Madrid (11th) La Undécima</title>
+    <desc>Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260910231500 +0700" stop="20260911013000 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260910233500 +0700" stop="20260911020000 +0700">
-    <title>Classic Matches: 2002 UCL Final  (9th) La Novena</title>
-    <desc>Champions League Final 01/02.Watch Real Madrid's ninth Champions League triumph against Leverkusen in Glasgow.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260911020000 +0700" stop="20260911021500 +0700">
+  <programme channel="ch0000000000100002181" start="20260911013000 +0700" stop="20260911014500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911021500 +0700" stop="20260911030000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20260911014500 +0700" stop="20260911034500 +0700">
+    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
+    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911030000 +0700" stop="20260911033000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show</desc>
+  <programme channel="ch0000000000100002181" start="20260911034500 +0700" stop="20260911055500 +0700">
+    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
+    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911033000 +0700" stop="20260911040000 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260911040000 +0700" stop="20260911050000 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260911050000 +0700" stop="20260911071500 +0700">
-    <title>TBC: Champions League 26/27: Real Madrid vs Inter</title>
-    <desc>TBC: Matchday 1 of the Champions League. Real Madrid host Inter in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260911071500 +0700" stop="20260911081500 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme channel="ch0000000000100002181" start="20260911055500 +0700" stop="20260911081500 +0700">
+    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
+    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260911081500 +0700" stop="20260911083000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911083000 +0700" stop="20260911104500 +0700">
-    <title>Liga 26/27: Espanyol vs Real Madrid</title>
-    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20260911083000 +0700" stop="20260911103000 +0700">
+    <title>Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911104500 +0700" stop="20260911110000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20260911103000 +0700" stop="20260911110000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260911110000 +0700" stop="20260911111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911111500 +0700" stop="20260911133000 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260911111500 +0700" stop="20260911132000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911133000 +0700" stop="20260911150000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20260911132000 +0700" stop="20260911150000 +0700">
+    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
+    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260911150000 +0700" stop="20260911171500 +0700">
     <title>Real Madrid City</title>
@@ -52794,23 +53356,27 @@
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911190000 +0700" stop="20260911211500 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260911190000 +0700" stop="20260911193000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911211500 +0700" stop="20260911233500 +0700">
+  <programme channel="ch0000000000100002181" start="20260911193000 +0700" stop="20260911214500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911233500 +0700" stop="20260912020000 +0700">
+  <programme channel="ch0000000000100002181" start="20260911214500 +0700" stop="20260911230000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260911230000 +0700" stop="20260912013000 +0700">
     <title>Classic Matches: 2002 UCL Final  (9th) La Novena</title>
     <desc>Champions League Final 01/02.Watch Real Madrid's ninth Champions League triumph against Leverkusen in Glasgow.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260912020000 +0700" stop="20260912021500 +0700">
+  <programme channel="ch0000000000100002181" start="20260912013000 +0700" stop="20260912014500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260912021500 +0700" stop="20260912030000 +0700">
+  <programme channel="ch0000000000100002181" start="20260912014500 +0700" stop="20260912030000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
@@ -52827,20 +53393,20 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260912050000 +0700" stop="20260912071500 +0700">
-    <title>TBC: Champions League 26/27: Real Madrid vs Inter</title>
-    <desc>TBC: Matchday 1 of the Champions League. Real Madrid host Inter in the Estadio Bernabéu.</desc>
+    <title>Champions League 26/27: Real Madrid vs Inter</title>
+    <desc>Matchday 1 of the Champions League. Real Madrid host Inter in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260912071500 +0700" stop="20260912081500 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260912081500 +0700" stop="20260912083000 +0700">
+  <programme channel="ch0000000000100002181" start="20260912071500 +0700" stop="20260912073000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260912083000 +0700" stop="20260912104500 +0700">
-    <title>TBC: Liga 26/27: Real Betis vs Real Madrid</title>
-    <desc>TBC: Matchday 4 of Liga. Real Madrid face Real Betis in the La Cartuja Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20260912073000 +0700" stop="20260912083500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260912083500 +0700" stop="20260912104500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260912104500 +0700" stop="20260912110000 +0700">
     <title>Realmadrid Life</title>
@@ -55892,25 +56458,13 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260912041500 +0700" stop="20260912044500 +0700">
-    <title lang="th">5 and 6 Nations Classics: 2014 - Wales v Scotland</title>
-    <title lang="en">Premier Sports Extra: Premier Sports Extra</title>
-    <desc lang="th">A look at some of the best matches in the history of rugby's Six Nations.</desc>
-    <desc lang="en">A look back at some of the big games on Premier Sports.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002561" start="20260912043000 +0700" stop="20260912061000 +0700">
-    <title>SANZAAR International Tour Serie: Australia v Japan</title>
-    <desc>The Wallabies welcome Japan to Queensland.</desc>
+    <title>5 and 6 Nations Classics: 2014 - Wales v Scotland</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260912044500 +0700" stop="20260912071500 +0700">
     <title>AFL: Fremantle v Geelong</title>
     <desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002561" start="20260912061000 +0700" stop="20260912080000 +0700">
-    <title>SANZAAR International Tour Serie: Argentina v Australia</title>
-    <desc>Australia face off against the Pumas in this intetnational test at the Estadio 23 de Agosto.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260912071500 +0700" stop="20260912073000 +0700">
