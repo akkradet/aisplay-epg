@@ -255,6 +255,16 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
+  <channel id="ch0000000000100002091">
+    <display-name lang="th">เพลย์สปอร์ต 3</display-name>
+    <display-name lang="en">PLAY SPORTS 3</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134307018922.png"/>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name lang="th">เพลย์สปอร์ต 6</display-name>
+    <display-name lang="en">PLAY SPORTS 6</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
+  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -339,6 +349,11 @@
     <display-name lang="th">เพลย์สปอร์ต 90</display-name>
     <display-name lang="en">PLAY SPORTS 90</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png"/>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
+    <display-name lang="en">PLAY SPORTS 95</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
   </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
@@ -525,173 +540,164 @@
     <display-name lang="en">Asian Games 917</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094614069657.png"/>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
   </channel>
   <channel id="ch0000000000100002325">
     <display-name>ch0000000000100002325</display-name>
   </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100001372">
     <display-name>ch0000000000100001372</display-name>
   </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
   <channel id="ch0000000000100002754">
     <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260909230500 +0700" stop="20260910012500 +0700">
     <title>Anchorman 2: The Legend Continues</title>
@@ -5156,7 +5162,7 @@
     <title>HYDE PARK ON HUDSON แกร่งสุดมหาบุรุษรูสเวลท์</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001093" start="20260913230000 +0700" stop="20260913233000 +0700">
+  <programme channel="ch0000000000100001093" start="20260913230000 +0700" stop="20260914010000 +0700">
     <title>MOJIN: THE LOST LEGEND ล่าขุมทรัพย์ลึกใต้โลก</title>
     <category>Entertainment</category>
   </programme>
@@ -33555,13 +33561,9 @@
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260911020000 +0700" stop="20260911023000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260911023000 +0700" stop="20260911030000 +0700">
-    <title>Al Jazeera Reels: Iran - The Country Behind the Confrontation</title>
-    <desc>The world sees Iran as conflict. Seven stories look at the country behind it: a state built to survive pressure, and the people living with the cost</desc>
+  <programme channel="ch0000000000100001351" start="20260911020000 +0700" stop="20260911030000 +0700">
+    <title>Al Jazeera World: Erdogan: The Making of Modern Türkiye</title>
+    <desc>An exclusive interview with Turkish President Recep Tayyip Erdogan on his country's foreign policy, regional conflicts, and 25 years of AK Party rule.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260911030000 +0700" stop="20260911033000 +0700">
     <title>News Live</title>
@@ -33652,13 +33654,9 @@
     <desc>101 East explores how ancient traditions are being given a modern makeover as young Chinese look for new ways to find love.</desc>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260911160000 +0700" stop="20260911163000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260911163000 +0700" stop="20260911170000 +0700">
-    <title>The Bottom Line</title>
-    <desc>With constant Israeli attacks, engineered deprivation and 2 million people trapped, has Gaza reached the breaking point?</desc>
+  <programme channel="ch0000000000100001351" start="20260911160000 +0700" stop="20260911170000 +0700">
+    <title>Al Jazeera World: Erdogan: The Making of Modern Türkiye</title>
+    <desc>An exclusive interview with Turkish President Recep Tayyip Erdogan on his country's foreign policy, regional conflicts, and 25 years of AK Party rule.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260911170000 +0700" stop="20260911180000 +0700">
     <title>Newshour</title>
@@ -33720,7 +33718,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260912023000 +0700" stop="20260912030000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260912030000 +0700" stop="20260912033000 +0700">
@@ -33773,12 +33771,9 @@
     <title>Studio B: Unscripted: Raoul Peck &amp; Viet Thanh Nguyen Pt 1</title>
     <desc>Oscar-nominated filmmaker Raoul Peck and Pulitzer Prize-winning author Viet Thanh Nguyen discuss the road to making art that's political and subversive.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260912110000 +0700" stop="20260912113000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260912113000 +0700" stop="20260912120000 +0700">
-    <title>Fight For The Pacific: Fallout Zone</title>
+  <programme channel="ch0000000000100001351" start="20260912110000 +0700" stop="20260912120000 +0700">
+    <title>Al Jazeera World: Erdogan: The Making of Modern Türkiye</title>
+    <desc>An exclusive interview with Turkish President Recep Tayyip Erdogan on his country's foreign policy, regional conflicts, and 25 years of AK Party rule.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260912120000 +0700" stop="20260912123000 +0700">
     <title>News Live</title>
@@ -33795,7 +33790,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260912133000 +0700" stop="20260912140000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260912140000 +0700" stop="20260912150000 +0700">
@@ -33846,7 +33841,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260912213000 +0700" stop="20260912220000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260912220000 +0700" stop="20260912230000 +0700">
@@ -33881,7 +33876,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260913023000 +0700" stop="20260913030000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>The Iran war has become ever more challenging for the trump administration to sell. Plus, COVID and the crisis of mistrust in the media.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260913030000 +0700" stop="20260913033000 +0700">
@@ -33890,7 +33885,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260913033000 +0700" stop="20260913040000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>National security expert Peter Bergen argues that one of the most profound outcomes of 9/11 has been to create an "imperial presidency" in the U.S.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260913040000 +0700" stop="20260913050000 +0700">
     <title>Newshour</title>
@@ -33958,7 +33953,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260913133000 +0700" stop="20260913140000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>The Iran war has become ever more challenging for the trump administration to sell. Plus, COVID and the crisis of mistrust in the media.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260913140000 +0700" stop="20260913150000 +0700">
@@ -33971,7 +33966,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260913153000 +0700" stop="20260913160000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>National security expert Peter Bergen argues that one of the most profound outcomes of 9/11 has been to create an "imperial presidency" in the U.S.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260913160000 +0700" stop="20260913163000 +0700">
     <title>News Live</title>
@@ -33979,7 +33974,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260913163000 +0700" stop="20260913170000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Why are borrowing costs rising worldwide and is the era of cheap money over?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260913170000 +0700" stop="20260913180000 +0700">
@@ -34003,14 +33998,9 @@
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20260913210000 +0700" stop="20260913213000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20260913213000 +0700" stop="20260913220000 +0700">
-    <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
-    <category>News</category>
+  <programme channel="ch0000000000100001351" start="20260913210000 +0700" stop="20260913220000 +0700">
+    <title>Al Jazeera World: Erdogan: The Making of Modern Türkiye</title>
+    <desc>An exclusive interview with Turkish President Recep Tayyip Erdogan on his country's foreign policy, regional conflicts, and 25 years of AK Party rule.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260913220000 +0700" stop="20260913230000 +0700">
     <title>Newshour</title>
@@ -50553,7 +50543,72 @@
     <title lang="en">RERUN: Port FC vs Lamphun Warriors</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002041" start="20260912230000 +0700" stop="20260912233000 +0700">
+  <programme channel="ch0000000000100002041" start="20260912230000 +0700" stop="20260913000000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 1 (2026/27)</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 1 (2026/27)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913000000 +0700" stop="20260913020000 +0700">
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: BG Pathum United vs Rasisalai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913020000 +0700" stop="20260913040000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Sisaket United vs Ayutthaya United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913040000 +0700" stop="20260913060000 +0700">
+    <title lang="th">รีรัน: อุทัยธานี เอฟซี พบ ปัตตานี เอฟซี</title>
+    <title lang="en">RERUN: Uthai Thani FC vs Pattani FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913060000 +0700" stop="20260913080000 +0700">
+    <title lang="th">รีรัน: บุรีรัมย์ ยูไนเต็ด พบ สิงห์ เชียงราย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Buriram United vs Singha Chiangrai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913080000 +0700" stop="20260913100000 +0700">
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ เชียงใหม่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Chiangmai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913100000 +0700" stop="20260913120000 +0700">
+    <title lang="th">รีรัน: ขอนแก่น ยูไนเต็ด พบ มหาสารคาม ซีซี เอฟซี</title>
+    <title lang="en">RERUN: Khon Kaen United vs Mahasarakham CC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913120000 +0700" stop="20260913140000 +0700">
+    <title lang="th">รีรัน: สงขลา เอฟซี พบ พีที สตูล เอฟซี</title>
+    <title lang="en">RERUN: Songkhla FC vs PT Satun FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913140000 +0700" stop="20260913160000 +0700">
+    <title lang="th">รีรัน: การท่าเรือ เอฟซี พบ ลำพูน วอริเออร์</title>
+    <title lang="en">RERUN: Port FC vs Lamphun Warriors</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913160000 +0700" stop="20260913180000 +0700">
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ หนองบัว พิชญ เอฟซี</title>
+    <title lang="en">RERUN: Muangthong United vs Nongbua Pitchaya FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913180000 +0700" stop="20260913183000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 1 (2026/27)</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 1 (2026/27)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913183000 +0700" stop="20260913210000 +0700">
+    <title lang="th">LIVE: ชลบุรี เอฟซี พบ ระยอง เอฟซี</title>
+    <title lang="en">LIVE: Chonburi FC vs Rayong FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913210000 +0700" stop="20260913230000 +0700">
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: BG Pathum United vs Rasisalai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20260913230000 +0700" stop="20260914000000 +0700">
     <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 1 (2026/27)</title>
     <title lang="en">HIGHLIGHT Thai League 2 MD 1 (2026/27)</title>
     <category>Football</category>
@@ -50751,6 +50806,71 @@
   <programme channel="ch0000000000100002052" start="20260912220000 +0700" stop="20260913000000 +0700">
     <title lang="th">รีรัน: สโมสรฟุตบอลกองเรือรบ พบ บูรพา ยูไนเต็ด</title>
     <title lang="en">RERUN: Fleet United vs Burapha United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913000000 +0700" stop="20260913020000 +0700">
+    <title lang="th">รีรัน: ขอนแก่น เอฟซี พบ สุรินทร์ โขงชีมูล เอฟซี</title>
+    <title lang="en">RERUN: Khonkaen FC vs Surin Khongcheemool FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913020000 +0700" stop="20260913040000 +0700">
+    <title lang="th">รีรัน: วีอาร์เอ็น เมืองนนท์ เอฟซี พบ สมุทรสงคราม ซิตี้</title>
+    <title lang="en">RERUN: VRN Muangnon FC vs Samutsongkhram City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913040000 +0700" stop="20260913060000 +0700">
+    <title lang="th">รีรัน: แม่โจ้ ยูไนเต็ด พบ เชียงใหม่ เอฟซี</title>
+    <title lang="en">RERUN: Maejo United vs Chiangmai FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913060000 +0700" stop="20260913080000 +0700">
+    <title lang="th">รีรัน: พราม แบงค็อก พบ ม. นอร์ทกรุงเทพ</title>
+    <title lang="en">RERUN: Prime Bangkok vs North Bangkok University</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913080000 +0700" stop="20260913100000 +0700">
+    <title lang="th">รีรัน: ฟูเทร่า ยูไนเต็ด พบ ลพบุรี ซิตี้</title>
+    <title lang="en">RERUN: Futera United vs Lopburi City</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913100000 +0700" stop="20260913120000 +0700">
+    <title lang="th">รีรัน: บีจีซี บัณฑิตเอเซีย พบ กรุงเทพมหานคร</title>
+    <title lang="en">RERUN: BGC College of Asian Scholars vs Bangkok FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913120000 +0700" stop="20260913140000 +0700">
+    <title lang="th">รีรัน: สิงห์บุรี วอร์ริเออร์ พบ ม. ปทุมธานี</title>
+    <title lang="en">RERUN: Singburi Warriors vs Pathumthani University</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913140000 +0700" stop="20260913160000 +0700">
+    <title lang="th">รีรัน: บีจี พีทียู ท่าโขลง พบ รร. กีฬากรุงเทพมหานคร</title>
+    <title lang="en">RERUN: BG PTU Thakhlong vs Bangkok Sports School</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913160000 +0700" stop="20260913170000 +0700">
+    <title lang="th">PLAY นี้มีเรื่อง ตอนที่ 2: ไทยลีก 1</title>
+    <title lang="en">PLAY with Stories EP 2: Thai League 1</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913170000 +0700" stop="20260913173000 +0700">
+    <title lang="th">PLAY นี้มีเรื่อง ตอนที่ 6: ไฮไลต์ ไทยลีก 2, 3</title>
+    <title lang="en">PLAY with Stories EP 6: Thai League 2, 3 (Season Highlight)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913173000 +0700" stop="20260913200000 +0700">
+    <title lang="th">LIVE: พีที ประจวบ เอฟซี พบ สุโขทัย เอฟซี</title>
+    <title lang="en">LIVE: PT Prachuap FC vs Sukhothai FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913200000 +0700" stop="20260913220000 +0700">
+    <title lang="th">รีรัน: บูรพา ยูไนเต็ด พบ คัสตอม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Burapha United vs Customs United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20260913220000 +0700" stop="20260914000000 +0700">
+    <title lang="th">รีรัน: เชียงใหม่ เอฟซี พบ อุตรดิตถ์ เอฟซี</title>
+    <title lang="en">RERUN: Chiangmai FC vs Uttaradit FC</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002091" start="20260909000000 +0700" stop="20260910000000 +0700">
@@ -51725,10 +51845,6 @@
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911171500 +0700" stop="20260911190000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
   <programme channel="ch0000000000100002181" start="20260911180000 +0700" stop="20260911184500 +0700">
     <title>Live: Press Conference</title>
     <desc>Pre-match press conference.</desc>
@@ -51737,27 +51853,11 @@
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911190000 +0700" stop="20260911193000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260911193000 +0700" stop="20260911214500 +0700">
-    <title>Liga 26/27: Espanyol vs Real Madrid</title>
-    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
-  </programme>
   <programme channel="ch0000000000100002181" start="20260911200000 +0700" stop="20260911221500 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260911214500 +0700" stop="20260911230000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
   <programme channel="ch0000000000100002181" start="20260911221500 +0700" stop="20260912004500 +0700">
-    <title>Classic Matches: 2002 UCL Final  (9th) La Novena</title>
-    <desc>Champions League Final 01/02.Watch Real Madrid's ninth Champions League triumph against Leverkusen in Glasgow.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260911230000 +0700" stop="20260912013000 +0700">
     <title>Classic Matches: 2002 UCL Final  (9th) La Novena</title>
     <desc>Champions League Final 01/02.Watch Real Madrid's ninth Champions League triumph against Leverkusen in Glasgow.</desc>
   </programme>
@@ -56220,8 +56320,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260910191500 +0700" stop="20260910235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -56274,8 +56374,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260911191500 +0700" stop="20260911235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -56328,8 +56428,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260912191500 +0700" stop="20260912235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -56382,8 +56482,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260913191500 +0700" stop="20260913235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -56484,8 +56584,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260910191500 +0700" stop="20260910235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -56538,8 +56638,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260911191500 +0700" stop="20260911235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -56592,8 +56692,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260912191500 +0700" stop="20260912235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -56646,8 +56746,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260913191500 +0700" stop="20260913235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
+    <title lang="en">Rerun &amp; Highlight Asian Games</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
