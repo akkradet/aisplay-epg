@@ -38,7 +38,7 @@
   <channel id="ch0000000000100001131">
     <display-name lang="th">เวิร์คพอยท์</display-name>
     <display-name lang="en">Workpoint TV</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716140248006624.png"/>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260915132355006624.png"/>
   </channel>
   <channel id="ch0000000000100001141">
     <display-name lang="th">ทรูโฟร์ยู</display-name>
@@ -530,98 +530,86 @@
     <display-name lang="en">Asian Games 917</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094614069657.png"/>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
   </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
   </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
   </channel>
   <channel id="ch0000000000100002330">
     <display-name>ch0000000000100002330</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
   </channel>
   <channel id="ch0000000000100002329">
     <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
   <channel id="ch0000000000100002252">
     <display-name>ch0000000000100002252</display-name>
   </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
   </channel>
   <channel id="ch0000000000100002324">
     <display-name>ch0000000000100002324</display-name>
@@ -629,71 +617,83 @@
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
   </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
   <channel id="ch0000000000100002321">
     <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260913234500 +0700" stop="20260914011500 +0700">
     <title>Final Destination 5</title>
@@ -58230,6 +58230,236 @@
     <title lang="en">RERUN: SC Freiburg vs Borussia Moenchengladbach</title>
     <category>Sports</category>
   </programme>
+  <programme channel="ch0000000000100002701" start="20260915140000 +0700" stop="20260915160000 +0700">
+    <title lang="th">รีรัน: คาร์ลสรูห์ พบ เอเนอร์กี ค็อตบุส</title>
+    <title lang="en">RERUN: Karlsruher SC vs Energie Cottbus</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260915160000 +0700" stop="20260915170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 12</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 12</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260915170000 +0700" stop="20260915180000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 3 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 3 - Bundesliga 2026/27</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260915180000 +0700" stop="20260915200000 +0700">
+    <title lang="th">รีรัน: เอาก์สบวร์ก พบ ไบเออร์ เลเวอร์คูเซ่น</title>
+    <title lang="en">RERUN: FC Augsburg vs Bayer 04 Leverkusen</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260915200000 +0700" stop="20260915220000 +0700">
+    <title lang="th">รีรัน: ไมนซ์ 05 พบ ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: 1. FSV Mainz 05 vs Eintracht Frankfurt</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260915220000 +0700" stop="20260915223000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 26 สัปดาห์ที่ 23</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 26 Matchday 23</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260915223000 +0700" stop="20260915230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 27 สัปดาห์ที่ 24</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 27 Matchday 24</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260915230000 +0700" stop="20260916000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 29</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 29</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916000000 +0700" stop="20260916020000 +0700">
+    <title lang="th">รีรัน: มักเดบวร์ก พบ ไกเซอร์สเลาเทิร์น</title>
+    <title lang="en">RERUN: 1. FC Magdeburg vs 1. FC Kaiserslautern</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916020000 +0700" stop="20260916030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 33</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 33</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916030000 +0700" stop="20260916050000 +0700">
+    <title lang="th">รีรัน: โบคุม พบ กรอยเทอร์ เฟือร์ธ</title>
+    <title lang="en">RERUN: VfL Bochum vs SpVgg Greuther Furth</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916050000 +0700" stop="20260916060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 34</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 34</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916060000 +0700" stop="20260916063000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 22 สัปดาห์ที่ 19</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 22 Matchday 19</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916063000 +0700" stop="20260916064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: RB Leipzig</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916064500 +0700" stop="20260916070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: เอฟซี ชาลเก้ 04</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: FC Schalke 04</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916070000 +0700" stop="20260916090000 +0700">
+    <title lang="th">รีรัน: เอาก์สบวร์ก พบ ไบเออร์ เลเวอร์คูเซ่น</title>
+    <title lang="en">RERUN: FC Augsburg vs Bayer 04 Leverkusen</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916090000 +0700" stop="20260916110000 +0700">
+    <title lang="th">รีรัน: โคโลญจน์ พบ แวร์เดอร์ เบรเมน</title>
+    <title lang="en">RERUN: 1. FC Koeln vs SV Werder Bremen</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916110000 +0700" stop="20260916120000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 4 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 4 - Bundesliga 2026/27</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916120000 +0700" stop="20260916140000 +0700">
+    <title lang="th">รีรัน: แอร์เบ ไลป์ซิก พบ ฮัมบูร์ก</title>
+    <title lang="en">RERUN: RB Leipzig vs Hamburger SV</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916140000 +0700" stop="20260916160000 +0700">
+    <title lang="th">รีรัน: ซังต์ เพาลี พบ โวล์ฟสบวร์ก</title>
+    <title lang="en">RERUN: FC St. Pauli vs VfL Wolfsburg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916160000 +0700" stop="20260916170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 13</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 13</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916170000 +0700" stop="20260916180000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 5 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 5 - Bundesliga 2026/27</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916180000 +0700" stop="20260916200000 +0700">
+    <title lang="th">รีรัน: ไมนซ์ 05 พบ ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: 1. FSV Mainz 05 vs Eintracht Frankfurt</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916200000 +0700" stop="20260916220000 +0700">
+    <title lang="th">รีรัน: แอร์เบ ไลป์ซิก พบ ฮัมบูร์ก</title>
+    <title lang="en">RERUN: RB Leipzig vs Hamburger SV</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916220000 +0700" stop="20260916223000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 27 สัปดาห์ที่ 24</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 27 Matchday 24</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916223000 +0700" stop="20260916230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 28 สัปดาห์ที่ 25</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 28 Matchday 25</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260916230000 +0700" stop="20260917000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 30</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 30</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917000000 +0700" stop="20260917020000 +0700">
+    <title lang="th">รีรัน: ไฮเดนไฮม์ พบ โฮลสไตน์ คีล</title>
+    <title lang="en">RERUN: 1. FC Heidenheim vs Holstein Kiel</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917020000 +0700" stop="20260917030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 34</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 34</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917030000 +0700" stop="20260917050000 +0700">
+    <title lang="th">รีรัน: คาร์ลสรูห์ พบ เอเนอร์กี ค็อตบุส</title>
+    <title lang="en">RERUN: Karlsruher SC vs Energie Cottbus</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917050000 +0700" stop="20260917060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 1</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917060000 +0700" stop="20260917063000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 23 สัปดาห์ที่ 20</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 23 Matchday 20</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917063000 +0700" stop="20260917064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: เอฟซี ชาลเก้ 04</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: FC Schalke 04</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917064500 +0700" stop="20260917070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: อูนิโอน เบอร์ลิน</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: 1 FC Union Berlin</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917070000 +0700" stop="20260917090000 +0700">
+    <title lang="th">รีรัน: อูนิโอน เบอร์ลิน พบ ชาลเก้ 04</title>
+    <title lang="en">RERUN: 1. FC Union Berlin vs FC Schalke 04</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917090000 +0700" stop="20260917110000 +0700">
+    <title lang="th">รีรัน: โบรุสเซีย ดอร์ทมุนด์ พบ พาเดอร์บอร์น 07</title>
+    <title lang="en">RERUN: Borussia Dortmund vs SC Paderborn 07</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917110000 +0700" stop="20260917120000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 4 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 4 - Bundesliga 2026/27</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917120000 +0700" stop="20260917140000 +0700">
+    <title lang="th">รีรัน: ไมนซ์ 05 พบ ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: 1. FSV Mainz 05 vs Eintracht Frankfurt</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917140000 +0700" stop="20260917160000 +0700">
+    <title lang="th">รีรัน: ออสนาบรุค พบ แฮร์ธา เบอร์ลิน</title>
+    <title lang="en">RERUN: VfL Osnabrueck vs Hertha BSC</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917160000 +0700" stop="20260917170000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 14</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 14</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917170000 +0700" stop="20260917180000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 4 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 4 - Bundesliga 2026/27</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917180000 +0700" stop="20260917200000 +0700">
+    <title lang="th">รีรัน: ไฟรบวร์ก พบ โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: SC Freiburg vs Borussia Moenchengladbach</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917200000 +0700" stop="20260917220000 +0700">
+    <title lang="th">รีรัน: แอร์เบ ไลป์ซิก พบ ฮัมบูร์ก</title>
+    <title lang="en">RERUN: RB Leipzig vs Hamburger SV</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917220000 +0700" stop="20260917223000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 28 สัปดาห์ที่ 25</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 28 Matchday 25</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917223000 +0700" stop="20260917230000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 ตอนที่ 29 สัปดาห์ที่ 26</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 29 Matchday 26</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20260917230000 +0700" stop="20260918000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 31</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 31</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002721" start="20260913223000 +0700" stop="20260914003000 +0700">
     <title lang="th">LIVE: เอลเวอร์สแบร์ก พบ บาเยิร์น มิวนิค (บุนเดสลีกา - สัปดาห์ที่ 3)</title>
     <title lang="en">LIVE: SV Elversberg vs FC Bayern Munich (Bundesliga - Matchday 3)</title>
@@ -58481,8 +58711,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260914000000 +0700" stop="20260914080000 +0700">
-    <title lang="th">เริ่ม 08:00 บาสเกตบอลชาย - แบ่งกลุ่ม: บาห์เรน พบ คาซัคสถาน</title>
-    <title lang="en">Upcoming 08:00AM Men's Basketball - Group: Bahrain vs Kazakhstan</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58493,8 +58723,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260914101500 +0700" stop="20260914120000 +0700">
-    <title lang="th">เริ่ม 12:00 ฟุตบอลหญิง - แบ่งกลุ่ม: ฟิลิปปินส์ พบ อุซเบกิสถาน</title>
-    <title lang="en">Upcoming 12:00AM Women's Football - Group: Philippines vs Uzbekistan</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58505,24 +58735,26 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260914140000 +0700" stop="20260914173000 +0700">
-    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม: ญี่ปุ่น พบ ไทย</title>
-    <title lang="en">Upcoming 05:30PM Women's Football - Group: Japan vs Thailand</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260914173000 +0700" stop="20260914193000 +0700">
-    <title>LIVE: Women's Football - Group: Japan vs Thailand</title>
-    <category>Sports,Asian Games</category>
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: ญี่ปุ่น พบ ไทย</title>
+    <title lang="en">LIVE: Women's Football - Group: Japan vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260914193000 +0700" stop="20260914235959 +0700">
-    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
-    <title lang="en">Rerun &amp; Highlight Asian Games</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260915000000 +0700" stop="20260915133000 +0700">
-    <title lang="th">เริ่ม 13:30 ฟุตบอลชาย - แบ่งกลุ่ม: อุซเบกิสถาน พบ ฟิลิปปินส์</title>
-    <title lang="en">Upcoming 01:30PM Men's Football - Group: Uzbekistan vs Philippines</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58533,8 +58765,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260915153000 +0700" stop="20260915170000 +0700">
-    <title lang="th">เริ่ม 17:00 ฟุตบอลชาย - แบ่งกลุ่ม: เวียดนาม พบ คูเวต</title>
-    <title lang="en">Upcoming 05:00PM Men's Football - Group: Vietnam vs Kuwait</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58545,66 +58777,110 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260915190000 +0700" stop="20260915235959 +0700">
-    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
-    <title lang="en">Rerun &amp; Highlight Asian Games</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260916000000 +0700" stop="20260916080000 +0700">
-    <title lang="th">เริ่ม 08:00 บาสเกตบอลชาย - รอบก่อนรองชนะเลิศ: จอร์แดน พบ เกาหลีใต้</title>
-    <title lang="en">Upcoming 08:00AM Men's Basketball - Quarter Finals: Jordan vs South Korea</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260916080000 +0700" stop="20260916101500 +0700">
-    <title lang="th">LIVE: บาสเกตบอลชาย - รอบก่อนรองชนะเลิศ: จอร์แดน พบ เกาหลีใต้</title>
+    <title lang="th">LIVE: บาสเกตบอลชาย - รอบก่อนรองฯ: จอร์แดน พบ เกาหลีใต้</title>
     <title lang="en">LIVE: Men's Basketball - Quarter Finals: Jordan vs South Korea</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260916101500 +0700" stop="20260916110000 +0700">
-    <title lang="th">เริ่ม 11:00 บาสเกตบอลชาย - รอบก่อนรองชนะเลิศ: อิหร่าน พบ บาห์เรน</title>
-    <title lang="en">Upcoming 11:00AM Men's Basketball - Quarter Finals: Iran vs Bahrain</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260916110000 +0700" stop="20260916131500 +0700">
-    <title lang="th">LIVE: บาสเกตบอลชาย - รอบก่อนรองชนะเลิศ: อิหร่าน พบ บาห์เรน</title>
+    <title lang="th">LIVE: บาสเกตบอลชาย - รอบก่อนรองฯ: อิหร่าน พบ บาห์เรน</title>
     <title lang="en">LIVE: Men's Basketball - Quarter Finals: Iran vs Bahrain</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260916131500 +0700" stop="20260916140000 +0700">
-    <title lang="th">เริ่ม 14:00 ฟุตบอลชาย - แบ่งกลุ่ม: ไทย พบ คีร์กีซสถาน</title>
-    <title lang="en">Upcoming 02:00PM Men's Football - Group: Thailand vs Kyrgyzstan</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260916140000 +0700" stop="20260916160000 +0700">
+    <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: ไทย พบ คีร์กีซสถาน</title>
+    <title lang="en">LIVE: Men's Football - Group: Thailand vs Kyrgyzstan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260916160000 +0700" stop="20260916173000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260916173000 +0700" stop="20260916193000 +0700">
     <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: ญี่ปุ่น พบ ฮ่องกง</title>
     <title lang="en">LIVE: Men's Football - Group: Japan vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260916160000 +0700" stop="20260916170000 +0700">
-    <title lang="th">เริ่ม 17:30 ฟุตบอลชาย - แบ่งกลุ่ม: ญี่ปุ่น พบ ฮ่องกง</title>
-    <title lang="en">Upcoming 05:30PM Men's Football - Group: Japan vs Hong Kong</title>
+  <programme channel="ch0000000000100002781" start="20260916193000 +0700" stop="20260916235959 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260916170000 +0700" stop="20260916191500 +0700">
-    <title>LIVE: Men's Basketball - Quarter Finals: X vs X</title>
-    <category>Sports,Asian Games</category>
+  <programme channel="ch0000000000100002781" start="20260917000000 +0700" stop="20260917110000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260916193000 +0700" stop="20260916235959 +0700">
-    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
-    <title lang="en">Rerun &amp; Highlight Asian Games</title>
+  <programme channel="ch0000000000100002781" start="20260917110000 +0700" stop="20260917131500 +0700">
+    <title lang="th">LIVE: บาสเกตบอลหญิง - แบ่งกลุ่ม: อินโดนีเซีย พบ ไทย</title>
+    <title lang="en">LIVE: Women's Basketball - Group: Indonesia vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260917131500 +0700" stop="20260917140000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260917140000 +0700" stop="20260917160000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: ไทย พบ จีนไทเป</title>
+    <title lang="en">LIVE: Women's Football - Group: Thailand vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260917160000 +0700" stop="20260917170000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260917170000 +0700" stop="20260917190000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: คีร์กีซสถาน พบ ไทย</title>
+    <title lang="en">LIVE: Women's Volleyball - Group: Kyrgyzstan vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260917190000 +0700" stop="20260917235959 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260914000000 +0700" stop="20260914110000 +0700">
-    <title lang="th">เริ่ม 11:00 บาสเกตบอลชาย - แบ่งกลุ่ม: จีน พบ ฟิลิปปินส์</title>
-    <title lang="en">Upcoming 11:00AM Men's Basketball - Group: China vs Philippines</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58615,153 +58891,212 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260914131500 +0700" stop="20260914140000 +0700">
-    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ เวียดนาม</title>
-    <title lang="en">Upcoming 02:00PM Women's Football - Group: Chinese Taipei vs Vietnam</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260914140000 +0700" stop="20260914160000 +0700">
-    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ เวียดนาม</title>
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: จีนไทเป พบ เวียดนาม</title>
     <title lang="en">LIVE: Women's Football - Group: Chinese Taipei vs Vietnam</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260914160000 +0700" stop="20260914170000 +0700">
-    <title lang="th">เริ่ม 17:00 ฟุตบอลหญิง - แบ่งกลุ่ม: จีน พบ ฮ่องกง</title>
-    <title lang="en">Upcoming 05:00PM Women's Football - Group: China vs Hong Kong</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260914170000 +0700" stop="20260914190000 +0700">
-    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: จีน พบ ฮ่องกง</title>
-    <title lang="en">LIVE: Women's Football - Group: China vs Hong Kong</title>
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: ฮ่องกง พบ จีน</title>
+    <title lang="en">LIVE: Women's Football - Group: Hong Kong vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260914190000 +0700" stop="20260914235959 +0700">
-    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
-    <title lang="en">Rerun &amp; Highlight Asian Games</title>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260915000000 +0700" stop="20260915173000 +0700">
-    <title lang="th">เริ่ม 17:30 ฟุตบอลชาย - แบ่งกลุ่ม: กาตาร์ พบ เกาหลีใต้</title>
-    <title lang="en">Upcoming 05:30PM Men's Football - Group: Qatar Vs South Korea</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260915173000 +0700" stop="20260915193000 +0700">
     <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: กาตาร์ พบ เกาหลีใต้</title>
-    <title lang="en">LIVE: Men's Football - Group: Qatar Vs South Korea</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="en">LIVE: Men's Football - Group: Qatar vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260915193000 +0700" stop="20260915235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260916000000 +0700" stop="20260916110000 +0700">
-    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: เวียดนาม พบ กาตาร์</title>
-    <title lang="en">Upcoming 11:00AM Women's Volleyball - Pool: Vietnam vs Qatar</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260916110000 +0700" stop="20260916130000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: เวียดนาม พบ กาตาร์</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: Vietnam vs Qatar</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260916130000 +0700" stop="20260916140000 +0700">
-    <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ ฮ่องกง</title>
-    <title lang="en">Upcoming 02:00PM Women's Volleyball - Pool: South Korea vs Hong Kong</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260916140000 +0700" stop="20260916160000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ ฮ่องกง</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: South Korea vs Hong Kong</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260916160000 +0700" stop="20260916172000 +0700">
-    <title lang="th">เริ่ม 17:20 วอลเลย์บอลหญิง - แบ่งกลุ่ม: ญี่ปุ่น พบ เนปาล</title>
-    <title lang="en">Upcoming 05:20PM Women's Volleyball - Pool: Japan vs Nepal</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260916172000 +0700" stop="20260916192000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: ญี่ปุ่น พบ เนปาล</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: Japan vs Nepal</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20260916192000 +0700" stop="20260916235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260917000000 +0700" stop="20260917110000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260917110000 +0700" stop="20260917130000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ กาตาร์</title>
+    <title lang="en">LIVE: Women's Volleyball - Group: South Korea vs Qatar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260917130000 +0700" stop="20260917140000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260917140000 +0700" stop="20260917160000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: ฮ่องกง พบ เวียดนาม</title>
+    <title lang="en">LIVE: Women's Volleyball - Group: Hong Kong vs Vietnam</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260917160000 +0700" stop="20260917173000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260917173000 +0700" stop="20260917190000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: เวียดนาม พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Football - Group: Vietnam vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260917190000 +0700" stop="20260917235959 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260914000000 +0700" stop="20260914140000 +0700">
-    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีเหนือ พบ บังกลาเทศ</title>
-    <title lang="en">Upcoming 02:00PM Women's Football - Group: North Korea vs Bangladesh</title>
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260914140000 +0700" stop="20260914160000 +0700">
-    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีเหนือ พบ บังกลาเทศ</title>
-    <title lang="en">LIVE: Women's Football - Group: North Korea vs Bangladesh</title>
+    <title>LIVE: Women's Football - Group: North Korea vs Bangladesh</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260914160000 +0700" stop="20260914173000 +0700">
-    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ เมียนมาร์</title>
-    <title lang="en">Upcoming 05:30PM Women's Football - Group: South Korea v Myanmar</title>
+    <title>ASIAN GAMES Reruns &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260914173000 +0700" stop="20260914193000 +0700">
-    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ เมียนมาร์</title>
-    <title lang="en">LIVE: Women's Football - Group: South Korea v Myanmar</title>
+    <title>LIVE: Women's Football - Group: South Korea vs Myanmar</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260914193000 +0700" stop="20260914235959 +0700">
-    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
-    <title lang="en">Rerun &amp; Highlight Asian Games</title>
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260915000000 +0700" stop="20260915235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260916000000 +0700" stop="20260916110000 +0700">
-    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน พบ ฟิลิปปินส์</title>
-    <title lang="en">Upcoming 11:00AM Women's Volleyball - Pool: China vs Philippines</title>
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260916110000 +0700" stop="20260916130000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน พบ ฟิลิปปินส์</title>
-    <title lang="en">LIVE: Women's Volleyball - Pool: China vs Philippines</title>
+    <title>LIVE: Women's Volleyball - Pool: China vs Philippines</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260916130000 +0700" stop="20260916140000 +0700">
-    <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: ไทย พบ แมงโกเลีย</title>
-    <title lang="en">Upcoming 02:00PM Women's Volleyball - Pool: Thailand vs Mongolia</title>
+    <title>ASIAN GAMES Reruns &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260916140000 +0700" stop="20260916160000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: ไทย พบ แมงโกเลีย</title>
-    <title lang="en">LIVE: Women's Volleyball - Pool: Thailand vs Mongolia</title>
+    <title>LIVE: Women's Volleyball - Pool: Thailand vs Mongolia</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260916160000 +0700" stop="20260916170000 +0700">
-    <title lang="th">เริ่ม 17:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ คีร์กีซสถาน</title>
-    <title lang="en">Upcoming 05:00PM Women's Volleyball - Pool: Chinese Taipei vs Kyrgyzstan</title>
+    <title>ASIAN GAMES Reruns &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260916170000 +0700" stop="20260916190000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ คีร์กีซสถาน</title>
-    <title lang="en">LIVE: Women's Volleyball - Pool: Chinese Taipei vs Kyrgyzstan</title>
+    <title>LIVE: Women's Volleyball - Pool: Chinese Taipei vs Kyrgyzstan</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260916190000 +0700" stop="20260916235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
+    <category>Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260917000000 +0700" stop="20260917110000 +0700">
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
+    <category>Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260917110000 +0700" stop="20260917130000 +0700">
+    <title>Asian Games 2026</title>
+    <category>Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260917130000 +0700" stop="20260917170000 +0700">
+    <title>ASIAN GAMES Reruns &amp; Highlights</title>
+    <category>Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260917170000 +0700" stop="20260917190000 +0700">
+    <title>LIVE: Women's Football - Group: Hong Kong vs Philippines</title>
+    <category>Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260917190000 +0700" stop="20260917235959 +0700">
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
     <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260914000000 +0700" stop="20260914080000 +0700">
-    <title lang="th">เริ่ม 08:00 บาสเกตบอลชาย - แบ่งกลุ่ม: บาห์เรน พบ คาซัคสถาน</title>
-    <title lang="en">Upcoming 08:00AM Men's Basketball - Group: Bahrain vs Kazakhstan</title>
+    <title lang="th">เริ่ม 08:00 บาสเกตบอลชาย - แบ่งกลุ่ม บาห์เรน พบ คาซัคสถาน</title>
+    <title lang="en">Upcoming at 08:00PM Men's Basketball - Group Bahrain vs Kazakhstan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58771,7 +59106,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260914101500 +0700" stop="20260914235959 +0700">
+  <programme channel="ch0000000000100002784" start="20260914101500 +0700" stop="20260914110000 +0700">
+    <title lang="th">เริ่ม 11:00 บาสเกตบอลชาย - แบ่งกลุ่ม จีน พบ ฟิลิปปินส์</title>
+    <title lang="en">Upcoming at 11:00PM Men's Basketball - Group China vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260914110000 +0700" stop="20260914131500 +0700">
+    <title lang="th">LIVE: บาสเกตบอลชาย - แบ่งกลุ่ม: จีน พบ ฟิลิปปินส์</title>
+    <title lang="en">LIVE: Men's Basketball - Group: China vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260914131500 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58783,15 +59130,57 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002784" start="20260916000000 +0700" stop="20260916080000 +0700">
+    <title lang="th">เริ่ม 08:00 บาสเกตบอลชาย - รอบก่อนรองฯ จอร์แดน พบ เกาหลีใต้</title>
+    <title lang="en">Upcoming at 08:00PM Men's Basketball - Quarter Finals Jordan vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260916080000 +0700" stop="20260916101500 +0700">
+    <title lang="th">LIVE: บาสเกตบอลชาย - รอบก่อนรองฯ: จอร์แดน พบ เกาหลีใต้</title>
+    <title lang="en">LIVE: Men's Basketball - Quarter Finals: Jordan vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260916101500 +0700" stop="20260916110000 +0700">
+    <title lang="th">เริ่ม 11:00 บาสเกตบอลชาย - รอบก่อนรองฯ อิหร่าน พบ บาห์เรน</title>
+    <title lang="en">Upcoming at 11:00PM Men's Basketball - Quarter Finals Iran vs Bahrain</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260916110000 +0700" stop="20260916131500 +0700">
+    <title lang="th">LIVE: บาสเกตบอลชาย - รอบก่อนรองฯ: อิหร่าน พบ บาห์เรน</title>
+    <title lang="en">LIVE: Men's Basketball - Quarter Finals: Iran vs Bahrain</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002784" start="20260916131500 +0700" stop="20260916235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002784" start="20260917000000 +0700" stop="20260917110000 +0700">
+    <title lang="th">เริ่ม 11:00 บาสเกตบอลหญิง - แบ่งกลุ่ม อินโดนีเซีย พบ ไทย</title>
+    <title lang="en">Upcoming at 11:00PM Women's Basketball - Group Indonesia vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260917110000 +0700" stop="20260917131500 +0700">
+    <title lang="th">LIVE: บาสเกตบอลหญิง - แบ่งกลุ่ม: อินโดนีเซีย พบ ไทย</title>
+    <title lang="en">LIVE: Women's Basketball - Group: Indonesia vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260917131500 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002785" start="20260914000000 +0700" stop="20260914120000 +0700">
-    <title lang="th">เริ่ม 12:00 ฟุตบอลหญิง - แบ่งกลุ่ม: ฟิลิปปินส์ พบ อุซเบกิสถาน</title>
-    <title lang="en">Upcoming 12:00PM Women's Football - Group: Philippines vs Uzbekistan</title>
+    <title lang="th">เริ่ม 12:00 ฟุตบอลหญิง - แบ่งกลุ่ม ฟิลิปปินส์ พบ อุซเบกิสถาน</title>
+    <title lang="en">Upcoming at 12:00PM Women's Football - Group Philippines vs Uzbekistan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58802,14 +59191,14 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260914140000 +0700" stop="20260914170000 +0700">
-    <title lang="th">เริ่ม 17:00 ฟุตบอลหญิง - แบ่งกลุ่ม: จีน พบ ฮ่องกง</title>
-    <title lang="en">Upcoming 05:00PM Women's Football - Group: China vs Hong Kong</title>
+    <title lang="th">เริ่ม 17:00 ฟุตบอลหญิง - แบ่งกลุ่ม ฮ่องกง พบ จีน</title>
+    <title lang="en">Upcoming at 05:00PM Women's Football - Group Hong Kong vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260914170000 +0700" stop="20260914190000 +0700">
-    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: จีน พบ ฮ่องกง</title>
-    <title lang="en">LIVE: Women's Football - Group: China vs Hong Kong</title>
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: ฮ่องกง พบ จีน</title>
+    <title lang="en">LIVE: Women's Football - Group: Hong Kong vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58820,8 +59209,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260915000000 +0700" stop="20260915133000 +0700">
-    <title lang="th">เริ่ม 13:30 ฟุตบอลชาย - แบ่งกลุ่ม: อุซเบกิสถาน พบ ฟิลิปปินส์</title>
-    <title lang="en">Upcoming 01:30PM Men's Football - Group: Uzbekistan vs Philippines</title>
+    <title lang="th">เริ่ม 13:30 ฟุตบอลชาย - แบ่งกลุ่ม อุซเบกิสถาน พบ ฟิลิปปินส์</title>
+    <title lang="en">Upcoming at 01:30PM Men's Football - Group Uzbekistan vs Philippines</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58831,15 +59220,83 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002785" start="20260915153000 +0700" stop="20260915173000 +0700">
+    <title lang="th">เริ่ม 17:30 ฟุตบอลชาย - แบ่งกลุ่ม กาตาร์ พบ เกาหลีใต้</title>
+    <title lang="en">Upcoming at 05:30PM Men's Football - Group Qatar vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002785" start="20260915173000 +0700" stop="20260915193000 +0700">
     <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: กาตาร์ พบ เกาหลีใต้</title>
-    <title lang="en">LIVE: Men's Football - Group: Qatar Vs South Korea</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="en">LIVE: Men's Football - Group: Qatar vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260915193000 +0700" stop="20260915235959 +0700">
-    <title lang="th">รีรีน และ ไฮไลต์ เอเชียนเกมส์</title>
-    <title lang="en">Rerun &amp; Highlight Asian Games</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260916000000 +0700" stop="20260916140000 +0700">
+    <title lang="th">เริ่ม 14:00 ฟุตบอลชาย - แบ่งกลุ่ม ไทย พบ คีร์กีซสถาน</title>
+    <title lang="en">Upcoming at 02:00PM Men's Football - Group Thailand vs Kyrgyzstan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260916140000 +0700" stop="20260916160000 +0700">
+    <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: ไทย พบ คีร์กีซสถาน</title>
+    <title lang="en">LIVE: Men's Football - Group: Thailand vs Kyrgyzstan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260916160000 +0700" stop="20260916173000 +0700">
+    <title lang="th">เริ่ม 17:30 ฟุตบอลชาย - แบ่งกลุ่ม ญี่ปุ่น พบ ฮ่องกง</title>
+    <title lang="en">Upcoming at 05:30PM Men's Football - Group Japan vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260916173000 +0700" stop="20260916193000 +0700">
+    <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: ญี่ปุ่น พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Men's Football - Group: Japan vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260916193000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260917000000 +0700" stop="20260917120000 +0700">
+    <title lang="th">เริ่ม 12:00 ฟุตบอลหญิง - แบ่งกลุ่ม อุซเบกิสถาน พบ จีน</title>
+    <title lang="en">Upcoming at 12:00PM Women's Football - Group Uzbekistan vs China</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260917120000 +0700" stop="20260917140000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: อุซเบกิสถาน พบ จีน</title>
+    <title lang="en">LIVE: Women's Football - Group: Uzbekistan vs China</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260917140000 +0700" stop="20260917173000 +0700">
+    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม ฮ่องกง พบ ฟิลิปปินส์</title>
+    <title lang="en">Upcoming at 05:30PM Women's Football - Group Hong Kong vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260917173000 +0700" stop="20260917193000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: ฮ่องกง พบ ฟิลิปปินส์</title>
+    <title lang="en">LIVE: Women's Football - Group: Hong Kong vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002785" start="20260917193000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002786" start="20260914000000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -58848,8 +59305,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002786" start="20260915000000 +0700" stop="20260915170000 +0700">
-    <title lang="th">เริ่ม 17:00 ฟุตบอลชาย - แบ่งกลุ่ม: เวียดนาม พบ คูเวต</title>
-    <title lang="en">Upcoming 08:00AM Men's Football - Group: Vietnam vs Kuwait</title>
+    <title lang="th">เริ่ม 17:00 ฟุตบอลชาย - แบ่งกลุ่ม เวียดนาม พบ คูเวต</title>
+    <title lang="en">Upcoming at 05:00PM Men's Football - Group Vietnam vs Kuwait</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58865,33 +59322,33 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260914000000 +0700" stop="20260914080000 +0700">
+  <programme channel="ch0000000000100002786" start="20260916000000 +0700" stop="20260916235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260914080000 +0700" stop="20260914101500 +0700">
+  <programme channel="ch0000000000100002786" start="20260917000000 +0700" stop="20260917235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260914101500 +0700" stop="20260914140000 +0700">
-    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ เวียดนาม</title>
-    <title lang="en">Upcoming 14:00PM Women's Football : Group: Chinese Taipei vs Vietnam</title>
+  <programme channel="ch0000000000100002787" start="20260914000000 +0700" stop="20260914140000 +0700">
+    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม จีนไทเป พบ เวียดนาม</title>
+    <title lang="en">Upcoming at 02:00PM Women's Football - Group Chinese Taipei vs Vietnam</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002787" start="20260914140000 +0700" stop="20260914160000 +0700">
-    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ เวียดนาม</title>
-    <title lang="en">LIVE: Women's Football : Group: Chinese Taipei vs Vietnam</title>
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: จีนไทเป พบ เวียดนาม</title>
+    <title lang="en">LIVE: Women's Football - Group: Chinese Taipei vs Vietnam</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002787" start="20260914160000 +0700" stop="20260914173000 +0700">
-    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม: ญี่ปุ่น พบ ไทย</title>
-    <title lang="en">Upcoming 05:30PM Women's Football - Group: Japan vs Thailand</title>
+    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม ญี่ปุ่น พบ ไทย</title>
+    <title lang="en">Upcoming at 05:30PM Women's Football - Group Japan vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58913,6 +59370,78 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002787" start="20260916000000 +0700" stop="20260916120000 +0700">
+    <title lang="th">เริ่ม 12:00 ฟุตบอลชาย - แบ่งกลุ่ม สหรัฐอาหรับเอมิเรตส์ พบ อิหร่าน</title>
+    <title lang="en">Upcoming at 12:00PM Men's Football - Group United Arab Emirates vs Iran</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260916120000 +0700" stop="20260916140000 +0700">
+    <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: สหรัฐอาหรับเอมิเรตส์ พบ อิหร่าน</title>
+    <title lang="en">LIVE: Men's Football - Group: United Arab Emirates vs Iran</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260916140000 +0700" stop="20260916170000 +0700">
+    <title lang="th">เริ่ม 17:00 ฟุตบอลชาย - แบ่งกลุ่ม จีน พบ เกาหลีเหนือ</title>
+    <title lang="en">Upcoming at 05:00PM Men's Football - Group China vs North Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260916170000 +0700" stop="20260916190000 +0700">
+    <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: จีน พบ เกาหลีเหนือ</title>
+    <title lang="en">LIVE: Men's Football - Group: China vs North Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260916190000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260917000000 +0700" stop="20260917070000 +0700">
+    <title lang="th">เริ่ม 07:00 คริกเก็ตหญิง - แบ่งกลุ่ม บังกลาเทศ พบ จีน</title>
+    <title lang="en">Upcoming at 07:00PM Women's Cricket - Group Bangladesh vs China</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260917070000 +0700" stop="20260917100000 +0700">
+    <title lang="th">LIVE: คริกเก็ตหญิง - แบ่งกลุ่ม: บังกลาเทศ พบ จีน</title>
+    <title lang="en">LIVE: Women's Cricket - Group: Bangladesh vs China</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260917100000 +0700" stop="20260917120000 +0700">
+    <title lang="th">เริ่ม 12:00 คริกเก็ตหญิง - แบ่งกลุ่ม ปากีสถาน พบ ไทย</title>
+    <title lang="en">Upcoming at 12:00PM Women's Cricket - Group Pakistan vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260917120000 +0700" stop="20260917150000 +0700">
+    <title lang="th">LIVE: คริกเก็ตหญิง - แบ่งกลุ่ม: ปากีสถาน พบ ไทย</title>
+    <title lang="en">LIVE: Women's Cricket - Group: Pakistan vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260917150000 +0700" stop="20260917170000 +0700">
+    <title lang="th">เริ่ม 17:00 ฟุตบอลหญิง - แบ่งกลุ่ม ฮ่องกง พบ ฟิลิปปินส์</title>
+    <title lang="en">Upcoming at 05:00PM Women's Football - Group Hong Kong vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260917170000 +0700" stop="20260917190000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: ฮ่องกง พบ ฟิลิปปินส์</title>
+    <title lang="en">LIVE: Women's Football - Group: Hong Kong vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260917190000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002788" start="20260914000000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -58926,39 +59455,76 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260916000000 +0700" stop="20260916110000 +0700">
-    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน พบ ฟิลิปปินส์</title>
-    <title lang="en">Upcoming 11:00AM Women's Volleyball - Pool: China vs Philippines</title>
-    <category>Sports,Asian Games</category>
+    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม จีน พบ ฟิลิปปินส์</title>
+    <title lang="en">Upcoming at 11:00PM Women's Volleyball - Pool China vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260916110000 +0700" stop="20260916130000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน พบ ฟิลิปปินส์</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: China vs Philippines</title>
-    <category>Sports,Asian Games</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260916130000 +0700" stop="20260916140000 +0700">
-    <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: ไทย พบ แมงโกเลีย</title>
-    <title lang="en">Upcoming 02:00PM Women's Volleyball - Pool: Thailand vs Mongolia</title>
-    <category>Sports,Asian Games</category>
+    <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม ไทย พบ มองโกเลีย</title>
+    <title lang="en">Upcoming at 02:00PM Women's Volleyball - Pool Thailand vs Mongolia</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260916140000 +0700" stop="20260916160000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: ไทย พบ แมงโกเลีย</title>
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: ไทย พบ มองโกเลีย</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: Thailand vs Mongolia</title>
-    <category>Sports,Asian Games</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260916160000 +0700" stop="20260916170000 +0700">
-    <title lang="th">เริ่ม 17:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ คีร์กีซสถาน</title>
-    <title lang="en">Upcoming 05:00PM Women's Volleyball - Pool: Chinese Taipei vs Kyrgyzstan</title>
-    <category>Sports,Asian Games</category>
+    <title lang="th">เริ่ม 17:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม จีนไทเป พบ คีร์กีซสถาน</title>
+    <title lang="en">Upcoming at 05:00PM Women's Volleyball - Pool Chinese Taipei vs Kyrgyzstan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260916170000 +0700" stop="20260916190000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีน ไทเป พบ คีร์กีซสถาน</title>
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: จีนไทเป พบ คีร์กีซสถาน</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: Chinese Taipei vs Kyrgyzstan</title>
-    <category>Sports,Asian Games</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260916190000 +0700" stop="20260916235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
-    <category>Sports,Asian Games</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20260917000000 +0700" stop="20260917140000 +0700">
+    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม บังกลาเทศ พบ เกาหลีใต้</title>
+    <title lang="en">Upcoming at 02:00PM Women's Football - Group Bangladesh vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20260917140000 +0700" stop="20260917160000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: บังกลาเทศ พบ เกาหลีใต้</title>
+    <title lang="en">LIVE: Women's Football - Group: Bangladesh vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20260917160000 +0700" stop="20260917173000 +0700">
+    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม เมียนมาร์ พบ เกาหลีเหนือ</title>
+    <title lang="en">Upcoming at 05:30PM Women's Football - Group Myanmar vs North Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20260917173000 +0700" stop="20260917183000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: เมียนมาร์ พบ เกาหลีเหนือ</title>
+    <title lang="en">LIVE: Women's Football - Group: Myanmar vs North Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20260917183000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20260914000000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -58967,6 +59533,54 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20260915000000 +0700" stop="20260915235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260916000000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260917000000 +0700" stop="20260917110000 +0700">
+    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม เกาหลีใต้ พบ กาตาร์</title>
+    <title lang="en">Upcoming at 11:00PM Women's Volleyball - Group South Korea vs Qatar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260917110000 +0700" stop="20260917130000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ กาตาร์</title>
+    <title lang="en">LIVE: Women's Volleyball - Group: South Korea vs Qatar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260917130000 +0700" stop="20260917140000 +0700">
+    <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม ฮ่องกง พบ เวียดนาม</title>
+    <title lang="en">Upcoming at 02:00PM Women's Volleyball - Group Hong Kong vs Vietnam</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260917140000 +0700" stop="20260917160000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: ฮ่องกง พบ เวียดนาม</title>
+    <title lang="en">LIVE: Women's Volleyball - Group: Hong Kong vs Vietnam</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260917160000 +0700" stop="20260917172000 +0700">
+    <title lang="th">เริ่ม 17:20 วอลเลย์บอลหญิง - แบ่งกลุ่ม อินโดนีเซีย พบ เนปาล</title>
+    <title lang="en">Upcoming at 05:20PM Women's Volleyball - Group Indonesia vs Nepal</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260917172000 +0700" stop="20260917192000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: อินโดนีเซีย พบ เนปาล</title>
+    <title lang="en">LIVE: Women's Volleyball - Group: Indonesia vs Nepal</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20260917192000 +0700" stop="20260917235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58996,6 +59610,18 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002791" start="20260916000000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002791" start="20260917000000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002792" start="20260914000000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -59008,70 +59634,125 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002792" start="20260916000000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002792" start="20260917000000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002801" start="20260914000000 +0700" stop="20260914140000 +0700">
-    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีเหนือ พบ บังกลาเทศ</title>
-    <title lang="en">Upcoming 02:00PM Women's Football - Group: North Korea vs Bangladesh</title>
-    <category>Sports,Asian Games</category>
+    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม เกาหลีเหนือ พบ บังกลาเทศ</title>
+    <title lang="en">Upcoming at 02:00PM Women's Football - Group North Korea vs Bangladesh</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260914140000 +0700" stop="20260914160000 +0700">
     <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีเหนือ พบ บังกลาเทศ</title>
     <title lang="en">LIVE: Women's Football - Group: North Korea vs Bangladesh</title>
-    <category>Sports,Asian Games</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260914160000 +0700" stop="20260914173000 +0700">
-    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ เมียนมาร์</title>
-    <title lang="en">Upcoming 05:30PM Women's Football - Group: South Korea v Myanmar</title>
-    <category>Sports,Asian Games</category>
+    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม เกาหลีใต้ พบ เมียนมาร์</title>
+    <title lang="en">Upcoming at 05:30PM Women's Football - Group South Korea vs Myanmar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260914173000 +0700" stop="20260914193000 +0700">
     <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ เมียนมาร์</title>
-    <title lang="en">LIVE: Women's Football - Group: South Korea v Myanmar</title>
-    <category>Sports,Asian Games</category>
+    <title lang="en">LIVE: Women's Football - Group: South Korea vs Myanmar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260914193000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
-    <category>Sports,Asian Games</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260915000000 +0700" stop="20260915235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
-    <category>Sports,Asian Games</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260916000000 +0700" stop="20260916110000 +0700">
-    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: เวียดนาม พบ กาตาร์</title>
-    <title lang="en">Upcoming 11:00AM Women's Volleyball - Pool: Vietnam vs Qatar</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม เวียดนาม พบ กาตาร์</title>
+    <title lang="en">Upcoming at 11:00PM Women's Volleyball - Pool Vietnam vs Qatar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260916110000 +0700" stop="20260916130000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: เวียดนาม พบ กาตาร์</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: Vietnam vs Qatar</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260916130000 +0700" stop="20260916140000 +0700">
-    <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ ฮ่องกง</title>
-    <title lang="en">Upcoming 02:00PM Women's Volleyball - Pool: South Korea vs Hong Kong</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - แบ่งกลุ่ม เกาหลีใต้ พบ ฮ่องกง</title>
+    <title lang="en">Upcoming at 02:00PM Women's Volleyball - Pool South Korea vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260916140000 +0700" stop="20260916160000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: เกาหลีใต้ พบ ฮ่องกง</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: South Korea vs Hong Kong</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260916160000 +0700" stop="20260916172000 +0700">
-    <title lang="th">เริ่ม 17:20 วอลเลย์บอลหญิง - แบ่งกลุ่ม: ญี่ปุ่น พบ เนปาล</title>
-    <title lang="en">Upcoming 05:20PM Women's Volleyball - Pool: Japan vs Nepal</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <title lang="th">เริ่ม 17:20 วอลเลย์บอลหญิง - แบ่งกลุ่ม ญี่ปุ่น พบ เนปาล</title>
+    <title lang="en">Upcoming at 05:20PM Women's Volleyball - Pool Japan vs Nepal</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260916172000 +0700" stop="20260916192000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - แบ่งกลุ่ม: ญี่ปุ่น พบ เนปาล</title>
     <title lang="en">LIVE: Women's Volleyball - Pool: Japan vs Nepal</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260916192000 +0700" stop="20260916235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
-    <category>กีฬา,เอเชียนเกมส์</category>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002801" start="20260917000000 +0700" stop="20260917140000 +0700">
+    <title lang="th">เริ่ม 14:00 ฟุตบอลหญิง - แบ่งกลุ่ม ไทย พบ จีนไทเป</title>
+    <title lang="en">Upcoming at 02:00PM Women's Football - Group Thailand vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002801" start="20260917140000 +0700" stop="20260917160000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: ไทย พบ จีนไทเป</title>
+    <title lang="en">LIVE: Women's Football - Group: Thailand vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002801" start="20260917160000 +0700" stop="20260917173000 +0700">
+    <title lang="th">เริ่ม 17:30 ฟุตบอลหญิง - แบ่งกลุ่ม เวียดนาม พบ ญี่ปุ่น</title>
+    <title lang="en">Upcoming at 05:30PM Women's Football - Group Vietnam vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002801" start="20260917173000 +0700" stop="20260917190000 +0700">
+    <title lang="th">LIVE: ฟุตบอลหญิง - แบ่งกลุ่ม: เวียดนาม พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Football - Group: Vietnam vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002801" start="20260917190000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002811" start="20260914000000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -59080,6 +59761,18 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002811" start="20260915000000 +0700" stop="20260915235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002811" start="20260916000000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002811" start="20260917000000 +0700" stop="20260917235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59097,6 +59790,18 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002812" start="20260916000000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002812" start="20260917000000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002813" start="20260914000000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -59109,6 +59814,18 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002813" start="20260916000000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002813" start="20260917000000 +0700" stop="20260917235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002814" start="20260914000000 +0700" stop="20260914235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -59116,6 +59833,18 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002814" start="20260915000000 +0700" stop="20260915235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002814" start="20260916000000 +0700" stop="20260916235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002814" start="20260917000000 +0700" stop="20260917235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
