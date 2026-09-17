@@ -255,16 +255,6 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name lang="th">เพลย์สปอร์ต 6</display-name>
-    <display-name lang="en">PLAY SPORTS 6</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name lang="th">เพลย์สปอร์ต 7</display-name>
-    <display-name lang="en">PLAY SPORTS 7</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141713018926.png"/>
-  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -540,188 +530,194 @@
     <display-name lang="en">Asian Games 917</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094614069657.png"/>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002861">
-    <display-name>ch0000000000100002861</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
   <channel id="ch0000000000100002761">
     <display-name>ch0000000000100002761</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
   </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
   </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
   </channel>
   <channel id="ch0000000000100002314">
     <display-name>ch0000000000100002314</display-name>
   </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002861">
+    <display-name>ch0000000000100002861</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100002471">
     <display-name>ch0000000000100002471</display-name>
   </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260915230500 +0700" stop="20260916005000 +0700">
     <title>Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
@@ -55162,9 +55158,169 @@
     <title lang="en">FedEx St. Jude Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260917230000 +0700" stop="20260918040000 +0700">
+  <programme channel="ch0000000000100002511" start="20260917230000 +0700" stop="20260918000000 +0700">
     <title lang="th">2026 ทราเวลเลอร์ส แชมเปี้ยนชิพ</title>
     <title lang="en">2026 Travelers Championship</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918000000 +0700" stop="20260918010000 +0700">
+    <title lang="th">2026 เฟดเอ็กซ์ เซนต์ จู๊ด แชมเปี้ยนชิพ</title>
+    <title lang="en">2026 FedEx St Jude Championship</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918010000 +0700" stop="20260918020000 +0700">
+    <title lang="th">2026 บีเอ็มดับบลิว แชมเปี้ยนชิพ</title>
+    <title lang="en">2026 BMW Championship</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918020000 +0700" stop="20260918050000 +0700">
+    <title lang="th">LIVE: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">LIVE: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918050000 +0700" stop="20260918053000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">TOUR Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918053000 +0700" stop="20260918060000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">TOUR Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918060000 +0700" stop="20260918090000 +0700">
+    <title lang="th">รีรัน: ซิมมอนส์ แบงก์ โอเพ่น เพื่อมูลนิธิสเนเดกเกอร์ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Simmons Bank Open for the Snedeker Foundation Vanderbilt Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918090000 +0700" stop="20260918120000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918120000 +0700" stop="20260918123000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">TOUR Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918123000 +0700" stop="20260918130000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบแรก</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918130000 +0700" stop="20260918160000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918160000 +0700" stop="20260918190000 +0700">
+    <title lang="th">รีรัน: ซิมมอนส์ แบงก์ โอเพ่น เพื่อมูลนิธิสเนเดกเกอร์ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Simmons Bank Open for the Snedeker Foundation Vanderbilt Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918190000 +0700" stop="20260918220000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918220000 +0700" stop="20260918223000 +0700">
+    <title lang="th">รีรัน: 2026 เดอะ คัพ ตอนที่ 25</title>
+    <title lang="en">RERUN: 2026 The CUT Episode 25</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918223000 +0700" stop="20260918230000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">TOUR Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260918230000 +0700" stop="20260919000000 +0700">
+    <title lang="th">2026 ร็อกเก็ต คลาสสิก</title>
+    <title lang="en">2026 Rocket Classic</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919000000 +0700" stop="20260919010000 +0700">
+    <title lang="th">2026 วินด์แฮม แชมเปียนชิพ</title>
+    <title lang="en">2026 Wyndham Championship</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919010000 +0700" stop="20260919013000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">TOUR Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919013000 +0700" stop="20260919020000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบแรก</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919020000 +0700" stop="20260919050000 +0700">
+    <title lang="th">LIVE: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบ 2</title>
+    <title lang="en">LIVE: Biltmore Championship in Asheville Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919050000 +0700" stop="20260919053000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">TOUR Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919053000 +0700" stop="20260919060000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบแรก</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919060000 +0700" stop="20260919090000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919090000 +0700" stop="20260919120000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบ 2</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919120000 +0700" stop="20260919123000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบแรก</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919123000 +0700" stop="20260919130000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบ 2</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919130000 +0700" stop="20260919160000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบ 2</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919160000 +0700" stop="20260919190000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919190000 +0700" stop="20260919220000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบ 2</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919220000 +0700" stop="20260919223000 +0700">
+    <title lang="th">รีรัน: 2026 เดอะ คัพ ตอนที่ 26</title>
+    <title lang="en">RERUN: 2026 THE CUT Episode 26</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919223000 +0700" stop="20260919230000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบ 2</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919230000 +0700" stop="20260919233000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบแรก</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20260919233000 +0700" stop="20260920000000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบ 2</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002523" start="20260915000000 +0700" stop="20260916000000 +0700">
@@ -59711,14 +59867,14 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002791" start="20260918090000 +0700" stop="20260918120000 +0700">
-    <title lang="th">เริ่ม 12:00 คริกเก็ตหญิง - รอบก่อนรองฯ อินเดีย พบ ญี่ปุ่น</title>
-    <title lang="en">Upcoming at 12:00AM Women's Cricket - Quarter Finals India vs Japan</title>
+    <title lang="th">เริ่ม 12:00 คริกเก็ตหญิง - รอบก่อนรองฯ อินโดนีเซีย พบ ญี่ปุ่น</title>
+    <title lang="en">Upcoming at 12:00AM Women's Cricket - Quarter Finals Indonesia vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002791" start="20260918120000 +0700" stop="20260918140000 +0700">
-    <title lang="th">LIVE: คริกเก็ตหญิง - รอบก่อนรองฯ: อินเดีย พบ ญี่ปุ่น</title>
-    <title lang="en">LIVE: Women's Cricket - Quarter Finals: India vs Japan</title>
+    <title lang="th">LIVE: คริกเก็ตหญิง - รอบก่อนรองฯ: อินโดนีเซีย พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Cricket - Quarter Finals: Indonesia vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
