@@ -530,170 +530,86 @@
     <display-name lang="en">Asian Games 918</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png"/>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
   </channel>
   <channel id="ch0000000000100001356">
     <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100002753">
     <display-name>ch0000000000100002753</display-name>
@@ -701,26 +617,110 @@
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260920234500 +0700" stop="20260921020000 +0700">
     <title>The Conjuring: Last Rites</title>
@@ -27578,15 +27578,10 @@
     <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20260924220000 +0700" stop="20260924223000 +0700">
+  <programme channel="ch0000000000100001237" start="20260924220000 +0700" stop="20260924230000 +0700">
     <title>One World</title>
     <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
     <category>News,Sports</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20260924223000 +0700" stop="20260924230000 +0700">
-    <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
-    <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20260924230000 +0700" stop="20260925000000 +0700">
     <title>One World</title>
@@ -38046,8 +38041,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001355" start="20260921000000 +0700" stop="20260921010000 +0700">
-    <title>HOT TOPICS</title>
-    <desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+    <title>TVBS Entertainment Headlines</title>
+    <desc>Stay updated on the latest entertainment news and celebrity trends.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001355" start="20260921010000 +0700" stop="20260921020000 +0700">
@@ -47629,7 +47624,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260920233000 +0700" stop="20260921000000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: Cars versus bikes: The battle for Berlin's road space</title>
+    <desc>Cycling through Berlin can be risky, as drivers and bikers jostle for road space. In Hamburg, a massive bridge drew crowds as it inched through the streets. And could flying ferries be the future of waterway traffic?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921000000 +0700" stop="20260921000200 +0700">
@@ -47637,11 +47633,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921000200 +0700" stop="20260921003000 +0700">
-    <title>Euromaxx: Lifestyle Europe</title>
+    <title>Euromaxx: Young and faithful: What is it like being Jewish in Berlin?</title>
+    <desc>What is it like being Jewish in Berlin? How is climate change affecting France’s Bordeaux wines? And what’s special about England’s Yorkshire Pudding?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921003000 +0700" stop="20260921010000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921010000 +0700" stop="20260921010200 +0700">
@@ -47649,8 +47647,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921010200 +0700" stop="20260921011500 +0700">
-    <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921011500 +0700" stop="20260921014500 +0700">
     <title>DocFilm: North Sea Marine Pilots in a Storm</title>
@@ -47658,7 +47655,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921014500 +0700" stop="20260921020000 +0700">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Between utopia and reality: Liberland seeks citizens</title>
+    <desc>A small piece of land with big ambitions: "Liberland" seeks to become a homeland for people who feel restricted by traditional government structures.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921020000 +0700" stop="20260921020200 +0700">
@@ -47666,11 +47664,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921020200 +0700" stop="20260921023000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: How foraging could protect Mumbai’s green lung</title>
+    <desc>In Mumbai urban foraging is helping residents get in touch with nature, and a community kitchen in a Gujarati village has unexpected environmental benefits.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921023000 +0700" stop="20260921030000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Under the Baobab: Cameroon's Anglophone War: Who is really blocking dialogue?</title>
+    <desc>For nearly ten years, Cameroon's Anglophone conflict has survived military operations, national dialogue, international mediation attempts and repeated calls for peace. Now Archbishop Andrew Nkea says separatists at home and abroad are open to dialogue.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921030000 +0700" stop="20260921030200 +0700">
@@ -47683,7 +47683,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921033000 +0700" stop="20260921040000 +0700">
-    <title>Euromaxx: Lifestyle Europe</title>
+    <title>Euromaxx: Young and faithful: What is it like being Jewish in Berlin?</title>
+    <desc>What is it like being Jewish in Berlin? How is climate change affecting France’s Bordeaux wines? And what’s special about England’s Yorkshire Pudding?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921040000 +0700" stop="20260921040200 +0700">
@@ -47691,15 +47692,16 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921040200 +0700" stop="20260921041500 +0700">
-    <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921041500 +0700" stop="20260921044500 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921044500 +0700" stop="20260921050000 +0700">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Between utopia and reality: Liberland seeks citizens</title>
+    <desc>A small piece of land with big ambitions: "Liberland" seeks to become a homeland for people who feel restricted by traditional government structures.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921050000 +0700" stop="20260921050200 +0700">
@@ -47712,7 +47714,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921053000 +0700" stop="20260921060000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Amazonian biodiversity under threat</title>
+    <desc>What does the warming climate mean for wildlife? Researchers study reptiles in the Amazon. Plus: why ticks are becoming an ever-greater hazard in Germany.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921060000 +0700" stop="20260921060200 +0700">
@@ -47720,15 +47723,18 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921060200 +0700" stop="20260921061500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: The last Glima King</title>
+    <desc>Iceland’s ancient Viking wrestling, Glíma, faces extinction as youth participation declines. Champion Þórður Ólafsson and fellow athletes compete not just for victory, but to preserve a key part of Iceland’s cultural heritage.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921061500 +0700" stop="20260921063000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Reality check: Humanoid Robots as helpers and companions</title>
+    <desc>Humanoid robots that cook, cleanand help around the house? Tech companies are racing to bring humanoid robot assistants into our daily lives. But how close are we really to that future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921063000 +0700" stop="20260921070000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Ghana’s guitarfish are disappearing. Could snails help?</title>
+    <desc>Conservationists hope to save the guitarfish in Ghana - with snails. Plus: An underwater kelp farm in Namibia.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921070000 +0700" stop="20260921070200 +0700">
@@ -47736,46 +47742,39 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921070200 +0700" stop="20260921071500 +0700">
-    <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260921071500 +0700" stop="20260921080000 +0700">
-    <title>DocFilm: 9/11 - The Day that Changed the World - Part 2</title>
-    <desc>On September 11th, 2001, four hijacked airplanes struck the heart of America. At 8:46 am, New York time, the first airplane crashed into the World Trade Centre -- an attack whose global consequences still reverberate to this day.</desc>
+  <programme channel="ch0000000000100001903" start="20260921071500 +0700" stop="20260921073000 +0700">
+    <title>Reporter: Between utopia and reality: Liberland seeks citizens</title>
+    <desc>A small piece of land with big ambitions: "Liberland" seeks to become a homeland for people who feel restricted by traditional government structures.</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001903" start="20260921073000 +0700" stop="20260921074500 +0700">
+    <title>The Scene: Work &amp; life - "What does a good life really look like?”</title>
+    <desc>Filipino migrant workers reclaiming their power. Indonesians escaping big city hustle and bustle for slow living. The region’s wealthy questioning whether luxury brings fulfillment.  This episode dives into the pressures, dreams, and realities of working — and living — in Southeast Asia.</desc>
     <category>Documentaries</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260921080000 +0700" stop="20260921080200 +0700">
+  <programme channel="ch0000000000100001903" start="20260921074500 +0700" stop="20260921080000 +0700">
+    <title>Planet A: This boat can fly</title>
+    <desc>It looks like a gimmick from a James Bond film, but it’s ACTUALLY real. Candela, a company based in Stockholm, is making fully-electric hydrofoil ferries that float not on but above the water. But... why?</desc>
+  </programme>
+  <programme channel="ch0000000000100001903" start="20260921080000 +0700" stop="20260921093000 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260921080200 +0700" stop="20260921083000 +0700">
-    <title>DocFilm: North Sea Marine Pilots in a Storm</title>
-    <desc>Marine pilots must make crucial decisions under extreme conditions. Transferring from a cargo ship to a small pilot boat in hurricane-force gusts can be fatal.</desc>
-    <category>Documentaries</category>
+  <programme channel="ch0000000000100001903" start="20260921093000 +0700" stop="20260921094500 +0700">
+    <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260921083000 +0700" stop="20260921090000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <category>Documentaries</category>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260921090000 +0700" stop="20260921090200 +0700">
-    <title>DW News</title>
-    <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260921090200 +0700" stop="20260921091500 +0700">
-    <title>DW News Focus: Understand the world, one story at a time</title>
-    <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260921091500 +0700" stop="20260921100000 +0700">
-    <title>DocFilm: Ways Out of Hate</title>
-    <desc>How do we break free from a spiral of hate? This documentary follows people in Bosnia, Mexico, and Canada who have found ways to deal with hate—and to overcome it.</desc>
-    <category>Documentaries</category>
+  <programme channel="ch0000000000100001903" start="20260921094500 +0700" stop="20260921100000 +0700">
+    <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921100000 +0700" stop="20260921100200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921100200 +0700" stop="20260921101500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: The last Glima King</title>
+    <desc>Iceland’s ancient Viking wrestling, Glíma, faces extinction as youth participation declines. Champion Þórður Ólafsson and fellow athletes compete not just for victory, but to preserve a key part of Iceland’s cultural heritage.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921101500 +0700" stop="20260921110000 +0700">
@@ -47787,25 +47786,16 @@
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260921110200 +0700" stop="20260921113000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
-    <category>Magazine</category>
+  <programme channel="ch0000000000100001903" start="20260921110200 +0700" stop="20260921111500 +0700">
+    <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260921113000 +0700" stop="20260921120000 +0700">
-    <title>The Dip: Business Podcast</title>
-    <desc>The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260921120000 +0700" stop="20260921120200 +0700">
+  <programme channel="ch0000000000100001903" start="20260921111500 +0700" stop="20260921123000 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20260921120200 +0700" stop="20260921121500 +0700">
-    <title>DW News Focus</title>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20260921121500 +0700" stop="20260921130000 +0700">
-    <title>DocFilm: 9/11 - The Day that Changed the World - Part 2</title>
-    <desc>On September 11th, 2001, four hijacked airplanes struck the heart of America. At 8:46 am, New York time, the first airplane crashed into the World Trade Centre -- an attack whose global consequences still reverberate to this day.</desc>
-    <category>Documentaries</category>
+  <programme channel="ch0000000000100001903" start="20260921123000 +0700" stop="20260921130000 +0700">
+    <title>The Dip: The oil shock is making government debt more dangerous</title>
+    <desc>As an oil shock drives inflation and borrowing costs higher, the investors financing governments are gaining greater power over public spending, economic policy and political promises. Guests Kathleen Brooks, Research Director at XTB, and Carsten Brzeski, Global Head of Macro at ING, explain the consequences.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921130000 +0700" stop="20260921130200 +0700">
     <title>DW News</title>
@@ -47815,11 +47805,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921131500 +0700" stop="20260921133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: Inside a high-tech lab designing food for a hotter world</title>
+    <desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921133000 +0700" stop="20260921140000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: What does it mean to be Coloured in South Africa today?</title>
+    <desc>In this 77 Street Debate, young South Africans in Newclare challenge old labels, push back against stereotypes and redefine identity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921140000 +0700" stop="20260921140200 +0700">
@@ -47839,7 +47831,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921153000 +0700" stop="20260921160000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921160000 +0700" stop="20260921163000 +0700">
@@ -47856,20 +47849,21 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921171500 +0700" stop="20260921173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: Inside a high-tech lab designing food for a hotter world</title>
+    <desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921173000 +0700" stop="20260921180000 +0700">
-    <title>The Dip: Business Podcast</title>
-    <desc>The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <title>The Dip: The oil shock is making government debt more dangerous</title>
+    <desc>As an oil shock drives inflation and borrowing costs higher, the investors financing governments are gaining greater power over public spending, economic policy and political promises. Guests Kathleen Brooks, Research Director at XTB, and Carsten Brzeski, Global Head of Macro at ING, explain the consequences.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921180000 +0700" stop="20260921183000 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921183000 +0700" stop="20260921190000 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921190000 +0700" stop="20260921190200 +0700">
@@ -47880,11 +47874,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921191500 +0700" stop="20260921193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: Inside a high-tech lab designing food for a hotter world</title>
+    <desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921193000 +0700" stop="20260921200000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Under the Baobab: Cameroon's Anglophone War: Who is really blocking dialogue?</title>
+    <desc>For nearly ten years, Cameroon's Anglophone conflict has survived military operations, national dialogue, international mediation attempts and repeated calls for peace. Now Archbishop Andrew Nkea says separatists at home and abroad are open to dialogue.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921200000 +0700" stop="20260921203000 +0700">
@@ -47916,8 +47912,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921223000 +0700" stop="20260921230000 +0700">
-    <title>The Dip: Business Podcast</title>
-    <desc>The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <title>The Dip: The oil shock is making government debt more dangerous</title>
+    <desc>As an oil shock drives inflation and borrowing costs higher, the investors financing governments are gaining greater power over public spending, economic policy and political promises. Guests Kathleen Brooks, Research Director at XTB, and Carsten Brzeski, Global Head of Macro at ING, explain the consequences.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921230000 +0700" stop="20260921230200 +0700">
     <title>DW News</title>
@@ -47927,12 +47923,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921231500 +0700" stop="20260921233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: Inside a high-tech lab designing food for a hotter world</title>
+    <desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260921233000 +0700" stop="20260922000000 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922000000 +0700" stop="20260922000200 +0700">
@@ -47944,7 +47941,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922003000 +0700" stop="20260922010000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Ghana’s guitarfish are disappearing. Could snails help?</title>
+    <desc>Conservationists hope to save the guitarfish in Ghana - with snails. Plus: An underwater kelp farm in Namibia.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922010000 +0700" stop="20260922010300 +0700">
@@ -47952,7 +47950,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922010300 +0700" stop="20260922020000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -47965,7 +47963,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922023000 +0700" stop="20260922030000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: Cars versus bikes: The battle for Berlin's road space</title>
+    <desc>Cycling through Berlin can be risky, as drivers and bikers jostle for road space. In Hamburg, a massive bridge drew crowds as it inched through the streets. And could flying ferries be the future of waterway traffic?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922030000 +0700" stop="20260922030200 +0700">
@@ -47976,12 +47975,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922031500 +0700" stop="20260922033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: Inside a high-tech lab designing food for a hotter world</title>
+    <desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922033000 +0700" stop="20260922040000 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922040000 +0700" stop="20260922040300 +0700">
@@ -47989,7 +47989,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922040300 +0700" stop="20260922050000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -48002,8 +48002,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922053000 +0700" stop="20260922060000 +0700">
-    <title>The Dip: Business Podcast</title>
-    <desc>The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <title>The Dip: The oil shock is making government debt more dangerous</title>
+    <desc>As an oil shock drives inflation and borrowing costs higher, the investors financing governments are gaining greater power over public spending, economic policy and political promises. Guests Kathleen Brooks, Research Director at XTB, and Carsten Brzeski, Global Head of Macro at ING, explain the consequences.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922060000 +0700" stop="20260922060200 +0700">
     <title>DW News</title>
@@ -48013,11 +48013,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922061500 +0700" stop="20260922063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: Inside a high-tech lab designing food for a hotter world</title>
+    <desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922063000 +0700" stop="20260922070000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: War, Memory, Future</title>
+    <desc>25 years of the Jewish Museum Berlin: fostering dialog and understanding. Daniel Donskoy - multi-talented artist straddling global cultures. And: music as a counterpoint to war. The Youth Orchestra of Ukraine.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922070000 +0700" stop="20260922070200 +0700">
@@ -48037,11 +48039,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922080200 +0700" stop="20260922083000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922083000 +0700" stop="20260922090000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Ghana’s guitarfish are disappearing. Could snails help?</title>
+    <desc>Conservationists hope to save the guitarfish in Ghana - with snails. Plus: An underwater kelp farm in Namibia.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922090000 +0700" stop="20260922090200 +0700">
@@ -48052,12 +48056,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922091500 +0700" stop="20260922094500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922094500 +0700" stop="20260922100000 +0700">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Between utopia and reality: Liberland seeks citizens</title>
+    <desc>A small piece of land with big ambitions: "Liberland" seeks to become a homeland for people who feel restricted by traditional government structures.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922100000 +0700" stop="20260922100300 +0700">
@@ -48065,7 +48070,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922100300 +0700" stop="20260922110000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -48074,7 +48079,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922110200 +0700" stop="20260922113000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Amazonian biodiversity under threat</title>
+    <desc>What does the warming climate mean for wildlife? Researchers study reptiles in the Amazon. Plus: why ticks are becoming an ever-greater hazard in Germany.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922113000 +0700" stop="20260922120000 +0700">
@@ -48090,12 +48096,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922121500 +0700" stop="20260922124500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922124500 +0700" stop="20260922130000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Reality check: Humanoid Robots as helpers and companions</title>
+    <desc>Humanoid robots that cook, cleanand help around the house? Tech companies are racing to bring humanoid robot assistants into our daily lives. But how close are we really to that future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922130000 +0700" stop="20260922130200 +0700">
@@ -48106,11 +48113,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922131500 +0700" stop="20260922133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business Beyond: Why Europe is poorer than it should be</title>
+    <desc>Europe is falling behind. Its share of the global economy has been shrinking for decades, and it’s projected to grow more slowly than rivals like the US and China.But one of Europe’s biggest economic problems may be of its own making. The EU was built to function as one huge economy — where people, money, goods and businesses can move freely across borders.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922133000 +0700" stop="20260922140000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: How foraging could protect Mumbai’s green lung</title>
+    <desc>In Mumbai urban foraging is helping residents get in touch with nature, and a community kitchen in a Gujarati village has unexpected environmental benefits.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922140000 +0700" stop="20260922140200 +0700">
@@ -48121,12 +48130,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922141500 +0700" stop="20260922144500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922144500 +0700" stop="20260922150000 +0700">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Between utopia and reality: Liberland seeks citizens</title>
+    <desc>A small piece of land with big ambitions: "Liberland" seeks to become a homeland for people who feel restricted by traditional government structures.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922150000 +0700" stop="20260922153000 +0700">
@@ -48134,15 +48144,16 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922153000 +0700" stop="20260922160000 +0700">
-    <title>The Dip: Business Podcast</title>
-    <desc>The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <title>The Dip: The oil shock is making government debt more dangerous</title>
+    <desc>As an oil shock drives inflation and borrowing costs higher, the investors financing governments are gaining greater power over public spending, economic policy and political promises. Guests Kathleen Brooks, Research Director at XTB, and Carsten Brzeski, Global Head of Macro at ING, explain the consequences.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922160000 +0700" stop="20260922163000 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922163000 +0700" stop="20260922170000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922170000 +0700" stop="20260922171500 +0700">
@@ -48150,11 +48161,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922171500 +0700" stop="20260922173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business Beyond: Why Europe is poorer than it should be</title>
+    <desc>Europe is falling behind. Its share of the global economy has been shrinking for decades, and it’s projected to grow more slowly than rivals like the US and China.But one of Europe’s biggest economic problems may be of its own making. The EU was built to function as one huge economy — where people, money, goods and businesses can move freely across borders.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922173000 +0700" stop="20260922180000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: Cars versus bikes: The battle for Berlin's road space</title>
+    <desc>Cycling through Berlin can be risky, as drivers and bikers jostle for road space. In Hamburg, a massive bridge drew crowds as it inched through the streets. And could flying ferries be the future of waterway traffic?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922180000 +0700" stop="20260922183000 +0700">
@@ -48162,7 +48175,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922183000 +0700" stop="20260922190000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Ghana’s guitarfish are disappearing. Could snails help?</title>
+    <desc>Conservationists hope to save the guitarfish in Ghana - with snails. Plus: An underwater kelp farm in Namibia.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922190000 +0700" stop="20260922190200 +0700">
@@ -48173,11 +48187,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922191500 +0700" stop="20260922193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business Beyond: Why Europe is poorer than it should be</title>
+    <desc>Europe is falling behind. Its share of the global economy has been shrinking for decades, and it’s projected to grow more slowly than rivals like the US and China.But one of Europe’s biggest economic problems may be of its own making. The EU was built to function as one huge economy — where people, money, goods and businesses can move freely across borders.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922193000 +0700" stop="20260922200000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Amazonian biodiversity under threat</title>
+    <desc>What does the warming climate mean for wildlife? Researchers study reptiles in the Amazon. Plus: why ticks are becoming an ever-greater hazard in Germany.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922200000 +0700" stop="20260922203000 +0700">
@@ -48196,12 +48212,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922211500 +0700" stop="20260922214500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922214500 +0700" stop="20260922220000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Reality check: Humanoid Robots as helpers and companions</title>
+    <desc>Humanoid robots that cook, cleanand help around the house? Tech companies are racing to bring humanoid robot assistants into our daily lives. But how close are we really to that future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922220000 +0700" stop="20260922220200 +0700">
@@ -48213,7 +48230,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922223000 +0700" stop="20260922230000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: What does it mean to be Coloured in South Africa today?</title>
+    <desc>In this 77 Street Debate, young South Africans in Newclare challenge old labels, push back against stereotypes and redefine identity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922230000 +0700" stop="20260922230200 +0700">
@@ -48224,12 +48242,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922231500 +0700" stop="20260922233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business Beyond: Why Europe is poorer than it should be</title>
+    <desc>Europe is falling behind. Its share of the global economy has been shrinking for decades, and it’s projected to grow more slowly than rivals like the US and China.But one of Europe’s biggest economic problems may be of its own making. The EU was built to function as one huge economy — where people, money, goods and businesses can move freely across borders.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260922233000 +0700" stop="20260923000000 +0700">
-    <title>Global Us: What connects us all</title>
-    <category>Magazine</category>
+    <title>Berlin Briefing: Berlin Briefing</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923000000 +0700" stop="20260923000200 +0700">
     <title>DW News</title>
@@ -48240,7 +48260,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923003000 +0700" stop="20260923010000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: The hunt for greener solutions</title>
+    <desc>In the air, on land and water, our everyday operations have to become more sustainable. Drastically reducing pollution from aircraft, ships, and boats is the aim of the game. But how much are countries and governments actually doing to achieve it?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923010000 +0700" stop="20260923010200 +0700">
@@ -48264,7 +48285,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923023000 +0700" stop="20260923030000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923030000 +0700" stop="20260923030200 +0700">
@@ -48275,12 +48297,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923031500 +0700" stop="20260923033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business Beyond: Why Europe is poorer than it should be</title>
+    <desc>Europe is falling behind. Its share of the global economy has been shrinking for decades, and it’s projected to grow more slowly than rivals like the US and China.But one of Europe’s biggest economic problems may be of its own making. The EU was built to function as one huge economy — where people, money, goods and businesses can move freely across borders.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923033000 +0700" stop="20260923040000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
-    <category>Magazine</category>
+    <title>Berlin Briefing: Berlin Briefing</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923040000 +0700" stop="20260923040200 +0700">
     <title>DW News</title>
@@ -48303,7 +48327,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923053000 +0700" stop="20260923060000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: The hunt for greener solutions</title>
+    <desc>In the air, on land and water, our everyday operations have to become more sustainable. Drastically reducing pollution from aircraft, ships, and boats is the aim of the game. But how much are countries and governments actually doing to achieve it?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923060000 +0700" stop="20260923060200 +0700">
@@ -48314,13 +48339,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923061500 +0700" stop="20260923063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business Beyond: Why Europe is poorer than it should be</title>
+    <desc>Europe is falling behind. Its share of the global economy has been shrinking for decades, and it’s projected to grow more slowly than rivals like the US and China.But one of Europe’s biggest economic problems may be of its own making. The EU was built to function as one huge economy — where people, money, goods and businesses can move freely across borders.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923063000 +0700" stop="20260923070000 +0700">
-    <title>In Good Shape: Life, breath and hope: A journey through lung health</title>
-    <desc>A remarkable survival story opens this episode, followed by a look at how our lungs affect more than we think. Plus: Sleep apnea, cancer prevention, and the amazing benefits of exercise.</desc>
-    <category>Magazine</category>
+    <title>Berlin Briefing: Berlin Briefing</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923070000 +0700" stop="20260923070200 +0700">
     <title>DW News</title>
@@ -48330,12 +48356,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923071500 +0700" stop="20260923074500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923074500 +0700" stop="20260923080000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Reality check: Humanoid Robots as helpers and companions</title>
+    <desc>Humanoid robots that cook, cleanand help around the house? Tech companies are racing to bring humanoid robot assistants into our daily lives. But how close are we really to that future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923080000 +0700" stop="20260923080200 +0700">
@@ -48343,11 +48370,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923080200 +0700" stop="20260923083000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: What does it mean to be Coloured in South Africa today?</title>
+    <desc>In this 77 Street Debate, young South Africans in Newclare challenge old labels, push back against stereotypes and redefine identity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923083000 +0700" stop="20260923090000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: How foraging could protect Mumbai’s green lung</title>
+    <desc>In Mumbai urban foraging is helping residents get in touch with nature, and a community kitchen in a Gujarati village has unexpected environmental benefits.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923090000 +0700" stop="20260923090300 +0700">
@@ -48355,7 +48384,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923090300 +0700" stop="20260923100000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -48367,12 +48396,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923101500 +0700" stop="20260923104500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923104500 +0700" stop="20260923110000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: Reality check: Humanoid Robots as helpers and companions</title>
+    <desc>Humanoid robots that cook, cleanand help around the house? Tech companies are racing to bring humanoid robot assistants into our daily lives. But how close are we really to that future?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923110000 +0700" stop="20260923110200 +0700">
@@ -48385,8 +48415,9 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923113000 +0700" stop="20260923120000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
-    <category>Magazine</category>
+    <title>Berlin Briefing: Berlin Briefing</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923120000 +0700" stop="20260923120200 +0700">
     <title>DW News</title>
@@ -48408,11 +48439,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923131500 +0700" stop="20260923133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Stalin wasn’t so bad, was he?</title>
+    <desc>More than 70 years after his death, Joseph Stalin is making a remarkable comeback in Putin’s Russia. Across the country, new monuments are being erected, while Soviet-era memorials are being restored and put back on display. At the same time, public opinion polls show growing approval of the dictator who ruled the Soviet Union through fear, repression and terror.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923133000 +0700" stop="20260923140000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Ghana’s guitarfish are disappearing. Could snails help?</title>
+    <desc>Conservationists hope to save the guitarfish in Ghana - with snails. Plus: An underwater kelp farm in Namibia.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923140000 +0700" stop="20260923140300 +0700">
@@ -48420,7 +48453,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923140300 +0700" stop="20260923150000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -48429,7 +48462,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923153000 +0700" stop="20260923160000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: How foraging could protect Mumbai’s green lung</title>
+    <desc>In Mumbai urban foraging is helping residents get in touch with nature, and a community kitchen in a Gujarati village has unexpected environmental benefits.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923160000 +0700" stop="20260923163000 +0700">
@@ -48437,7 +48471,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923163000 +0700" stop="20260923170000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: The hunt for greener solutions</title>
+    <desc>In the air, on land and water, our everyday operations have to become more sustainable. Drastically reducing pollution from aircraft, ships, and boats is the aim of the game. But how much are countries and governments actually doing to achieve it?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923170000 +0700" stop="20260923171500 +0700">
@@ -48445,12 +48480,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923171500 +0700" stop="20260923173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Stalin wasn’t so bad, was he?</title>
+    <desc>More than 70 years after his death, Joseph Stalin is making a remarkable comeback in Putin’s Russia. Across the country, new monuments are being erected, while Soviet-era memorials are being restored and put back on display. At the same time, public opinion polls show growing approval of the dictator who ruled the Soviet Union through fear, repression and terror.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923173000 +0700" stop="20260923180000 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Rivers Under Pressure - Where Is Germany’s Water Going?</title>
+    <desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923180000 +0700" stop="20260923183000 +0700">
@@ -48470,11 +48506,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923191500 +0700" stop="20260923193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Stalin wasn’t so bad, was he?</title>
+    <desc>More than 70 years after his death, Joseph Stalin is making a remarkable comeback in Putin’s Russia. Across the country, new monuments are being erected, while Soviet-era memorials are being restored and put back on display. At the same time, public opinion polls show growing approval of the dictator who ruled the Soviet Union through fear, repression and terror.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923193000 +0700" stop="20260923200000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: What does it mean to be Coloured in South Africa today?</title>
+    <desc>In this 77 Street Debate, young South Africans in Newclare challenge old labels, push back against stereotypes and redefine identity.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923200000 +0700" stop="20260923203000 +0700">
@@ -48490,7 +48528,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923210300 +0700" stop="20260923220000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -48503,7 +48541,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923223000 +0700" stop="20260923230000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: The hunt for greener solutions</title>
+    <desc>In the air, on land and water, our everyday operations have to become more sustainable. Drastically reducing pollution from aircraft, ships, and boats is the aim of the game. But how much are countries and governments actually doing to achieve it?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923230000 +0700" stop="20260923230200 +0700">
@@ -48514,11 +48553,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923231500 +0700" stop="20260923233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Stalin wasn’t so bad, was he?</title>
+    <desc>More than 70 years after his death, Joseph Stalin is making a remarkable comeback in Putin’s Russia. Across the country, new monuments are being erected, while Soviet-era memorials are being restored and put back on display. At the same time, public opinion polls show growing approval of the dictator who ruled the Soviet Union through fear, repression and terror.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260923233000 +0700" stop="20260924000000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: How to live with dementia</title>
+    <desc>What helps more with dementia — exercising or relaxing? +++ "Mudlarking" — Treasure hunting in London</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924000000 +0700" stop="20260924000200 +0700">
@@ -48530,7 +48571,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924003000 +0700" stop="20260924010000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: War, Memory, Future</title>
+    <desc>25 years of the Jewish Museum Berlin: fostering dialog and understanding. Daniel Donskoy - multi-talented artist straddling global cultures. And: music as a counterpoint to war. The Youth Orchestra of Ukraine.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924010000 +0700" stop="20260924010200 +0700">
@@ -48554,7 +48596,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924023000 +0700" stop="20260924030000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: The hunt for greener solutions</title>
+    <desc>In the air, on land and water, our everyday operations have to become more sustainable. Drastically reducing pollution from aircraft, ships, and boats is the aim of the game. But how much are countries and governments actually doing to achieve it?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924030000 +0700" stop="20260924030200 +0700">
@@ -48565,11 +48608,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924031500 +0700" stop="20260924033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Stalin wasn’t so bad, was he?</title>
+    <desc>More than 70 years after his death, Joseph Stalin is making a remarkable comeback in Putin’s Russia. Across the country, new monuments are being erected, while Soviet-era memorials are being restored and put back on display. At the same time, public opinion polls show growing approval of the dictator who ruled the Soviet Union through fear, repression and terror.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924033000 +0700" stop="20260924040000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: How foraging could protect Mumbai’s green lung</title>
+    <desc>In Mumbai urban foraging is helping residents get in touch with nature, and a community kitchen in a Gujarati village has unexpected environmental benefits.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924040000 +0700" stop="20260924040200 +0700">
@@ -48593,7 +48638,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924053000 +0700" stop="20260924060000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: How to live with dementia</title>
+    <desc>What helps more with dementia — exercising or relaxing? +++ "Mudlarking" — Treasure hunting in London</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924060000 +0700" stop="20260924060200 +0700">
@@ -48604,7 +48650,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924061500 +0700" stop="20260924063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Stalin wasn’t so bad, was he?</title>
+    <desc>More than 70 years after his death, Joseph Stalin is making a remarkable comeback in Putin’s Russia. Across the country, new monuments are being erected, while Soviet-era memorials are being restored and put back on display. At the same time, public opinion polls show growing approval of the dictator who ruled the Soviet Union through fear, repression and terror.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924063000 +0700" stop="20260924070000 +0700">
@@ -48617,7 +48664,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924070300 +0700" stop="20260924080000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -48626,11 +48673,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924080200 +0700" stop="20260924083000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: The hunt for greener solutions</title>
+    <desc>In the air, on land and water, our everyday operations have to become more sustainable. Drastically reducing pollution from aircraft, ships, and boats is the aim of the game. But how much are countries and governments actually doing to achieve it?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924083000 +0700" stop="20260924090000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: How to live with dementia</title>
+    <desc>What helps more with dementia — exercising or relaxing? +++ "Mudlarking" — Treasure hunting in London</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924090000 +0700" stop="20260924090200 +0700">
@@ -48665,11 +48714,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924111500 +0700" stop="20260924113000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: The last Glima King</title>
+    <desc>Iceland’s ancient Viking wrestling, Glíma, faces extinction as youth participation declines. Champion Þórður Ólafsson and fellow athletes compete not just for victory, but to preserve a key part of Iceland’s cultural heritage.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924113000 +0700" stop="20260924120000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: How to live with dementia</title>
+    <desc>What helps more with dementia — exercising or relaxing? +++ "Mudlarking" — Treasure hunting in London</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924120000 +0700" stop="20260924120300 +0700">
@@ -48677,7 +48728,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924120300 +0700" stop="20260924130000 +0700">
-    <title>DocFilm: Life on the Spectrum - Part One</title>
+    <title>DocFilm: Life on the Spectrum - Part 1</title>
     <desc>People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
     <category>Documentaries</category>
   </programme>
@@ -48689,11 +48740,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924131500 +0700" stop="20260924133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: US Americans on a heritage tour in Germany - See what they found out!</title>
+    <desc>Back in Germany: How does it feel returning to the place your ancestors once left behind? We join a group of US Americans on a journey through East Frisia. They discover the region their families emigrated from generations ago. As well as meeting living members of their ancestral families, the Americans also visit the German Emigration Center in Bremerhaven.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924133000 +0700" stop="20260924140000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: Cars versus bikes: The battle for Berlin's road space</title>
+    <desc>Cycling through Berlin can be risky, as drivers and bikers jostle for road space. In Hamburg, a massive bridge drew crowds as it inched through the streets. And could flying ferries be the future of waterway traffic?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924140000 +0700" stop="20260924140200 +0700">
@@ -48722,7 +48775,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924163000 +0700" stop="20260924170000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: How to live with dementia</title>
+    <desc>What helps more with dementia — exercising or relaxing? +++ "Mudlarking" — Treasure hunting in London</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924170000 +0700" stop="20260924171500 +0700">
@@ -48730,7 +48784,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924171500 +0700" stop="20260924173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: US Americans on a heritage tour in Germany - See what they found out!</title>
+    <desc>Back in Germany: How does it feel returning to the place your ancestors once left behind? We join a group of US Americans on a journey through East Frisia. They discover the region their families emigrated from generations ago. As well as meeting living members of their ancestral families, the Americans also visit the German Emigration Center in Bremerhaven.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924173000 +0700" stop="20260924180000 +0700">
@@ -48742,7 +48797,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924183000 +0700" stop="20260924190000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924190000 +0700" stop="20260924190200 +0700">
@@ -48753,7 +48809,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924191500 +0700" stop="20260924193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: US Americans on a heritage tour in Germany - See what they found out!</title>
+    <desc>Back in Germany: How does it feel returning to the place your ancestors once left behind? We join a group of US Americans on a journey through East Frisia. They discover the region their families emigrated from generations ago. As well as meeting living members of their ancestral families, the Americans also visit the German Emigration Center in Bremerhaven.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924193000 +0700" stop="20260924200000 +0700">
@@ -48800,13 +48857,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924231500 +0700" stop="20260924233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: US Americans on a heritage tour in Germany - See what they found out!</title>
+    <desc>Back in Germany: How does it feel returning to the place your ancestors once left behind? We join a group of US Americans on a journey through East Frisia. They discover the region their families emigrated from generations ago. As well as meeting living members of their ancestral families, the Americans also visit the German Emigration Center in Bremerhaven.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20260924233000 +0700" stop="20260925000000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>Global Us: How art could bring dead coral reefs back to life</title>
+    <desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001904" start="20260920232000 +0700" stop="20260921001000 +0700">
     <title>TV Drama</title>
@@ -53764,55 +53822,67 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260921113000 +0700" stop="20260921142000 +0700">
+  <programme channel="ch0000000000100002181" start="20260921113000 +0700" stop="20260921133000 +0700">
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260921142000 +0700" stop="20260921173000 +0700">
-    <title>Champions League: Manchester City vs Real Madrid 23/24</title>
-    <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
+  <programme channel="ch0000000000100002181" start="20260921133000 +0700" stop="20260921154500 +0700">
+    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
+    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260921173000 +0700" stop="20260921184500 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme channel="ch0000000000100002181" start="20260921154500 +0700" stop="20260921180000 +0700">
+    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
+    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260921184500 +0700" stop="20260921210000 +0700">
-    <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
-    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20260921180000 +0700" stop="20260921201500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260921210000 +0700" stop="20260921231500 +0700">
-    <title>Liga 26/27: Espanyol vs Real Madrid</title>
-    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20260921201500 +0700" stop="20260921225500 +0700">
+    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
+    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260921231500 +0700" stop="20260922013000 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260921225500 +0700" stop="20260922010000 +0700">
+    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260922010000 +0700" stop="20260922013000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260922013000 +0700" stop="20260922014500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260922014500 +0700" stop="20260922033000 +0700">
-    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
-    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
+    <title>Classic Matches: 1960 European Cup (5th) La Quinta</title>
+    <desc>Eintracht Frankfurt vs Real Madrid 59/60. Real Madrid won their fifth European Cup in Glasgow, Scotland</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922033000 +0700" stop="20260922054500 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260922033000 +0700" stop="20260922061500 +0700">
+    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
+    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922054500 +0700" stop="20260922080000 +0700">
-    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
-    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260922061500 +0700" stop="20260922072000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260922072000 +0700" stop="20260922074000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260922074000 +0700" stop="20260922080000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260922080000 +0700" stop="20260922081500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922081500 +0700" stop="20260922102000 +0700">
-    <title>Ferencvaros v Real Madrid Pre-season 26/27</title>
-    <desc>Real Madrid face Ferencvaros in Ferencvaros Stadion de Budapest</desc>
+  <programme channel="ch0000000000100002181" start="20260922081500 +0700" stop="20260922102500 +0700">
+    <title>Pre-season 26/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922102000 +0700" stop="20260922104000 +0700">
+  <programme channel="ch0000000000100002181" start="20260922102500 +0700" stop="20260922104000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
@@ -53824,73 +53894,73 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922111500 +0700" stop="20260922133000 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20260922111500 +0700" stop="20260922132500 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922133000 +0700" stop="20260922143500 +0700">
+  <programme channel="ch0000000000100002181" start="20260922132500 +0700" stop="20260922155500 +0700">
+    <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
+    <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260922155500 +0700" stop="20260922170000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922143500 +0700" stop="20260922165000 +0700">
+  <programme channel="ch0000000000100002181" start="20260922170000 +0700" stop="20260922190000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260922190000 +0700" stop="20260922200500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260922200500 +0700" stop="20260922221500 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260922165000 +0700" stop="20260922171000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260922171000 +0700" stop="20260922192500 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260922192500 +0700" stop="20260922220000 +0700">
-    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
-    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260922220000 +0700" stop="20260922221500 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260922221500 +0700" stop="20260923011500 +0700">
-    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
-    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260923011500 +0700" stop="20260923013000 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260923013000 +0700" stop="20260923033000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260923033000 +0700" stop="20260923040000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20260923040000 +0700" stop="20260923050000 +0700">
+  <programme channel="ch0000000000100002181" start="20260922221500 +0700" stop="20260922232000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260923050000 +0700" stop="20260923071000 +0700">
-    <title>Classic Matches: 2000 UCL Final  (8th) La Octava</title>
-    <desc>Champions League Final 99/00.Watch Real Madrid's eighth Champions League triumph against Valencia in Paris.</desc>
+  <programme channel="ch0000000000100002181" start="20260922232000 +0700" stop="20260923013000 +0700">
+    <title>Pre-season 26/27 Deportivo v Real Madrid Teresa Herrera Trophy</title>
+    <desc>Real Madrid face Deportivo in Riazor Stadium in the LXXXI edition of the Teresa Herrera Trophy.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260923071000 +0700" stop="20260923072500 +0700">
+  <programme channel="ch0000000000100002181" start="20260923013000 +0700" stop="20260923014500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260923072500 +0700" stop="20260923110000 +0700">
-    <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
-    <desc>It's the Champions League winners vs the Europa League winners.</desc>
+  <programme channel="ch0000000000100002181" start="20260923014500 +0700" stop="20260923022500 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260923022500 +0700" stop="20260923045500 +0700">
+    <title>Champions League 17/18: Real Madrid vs Liverpool (13th) La Decimotercera</title>
+    <desc>Watch Los Blancos complete a unique hat-trick</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260923045500 +0700" stop="20260923070000 +0700">
+    <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
+    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260923070000 +0700" stop="20260923071500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260923071500 +0700" stop="20260923094500 +0700">
+    <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
+    <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260923094500 +0700" stop="20260923110000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260923110000 +0700" stop="20260923111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260923111500 +0700" stop="20260923132500 +0700">
-    <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
-    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+    <title>Champions League 26/27: Real Madrid vs Inter</title>
+    <desc>Matchday 1 of the Champions League. Real Madrid host Inter in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260923132500 +0700" stop="20260923143000 +0700">
     <title>Real Madrid Pass</title>
@@ -53932,27 +54002,27 @@
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924050000 +0700" stop="20260924071500 +0700">
-    <title>TBC: Liga 26/27: Atlético de Madrid vs Real Madrid</title>
-    <desc>TBC: Matchday 7 of Liga. Real Madrid face Atlético de Madrid in the Metropolitano Valero Stadium.</desc>
+  <programme channel="ch0000000000100002181" start="20260924050000 +0700" stop="20260924070000 +0700">
+    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924071500 +0700" stop="20260924073000 +0700">
+  <programme channel="ch0000000000100002181" start="20260924070000 +0700" stop="20260924071500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924073000 +0700" stop="20260924101000 +0700">
+  <programme channel="ch0000000000100002181" start="20260924071500 +0700" stop="20260924095500 +0700">
     <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
     <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924101000 +0700" stop="20260924111500 +0700">
+  <programme channel="ch0000000000100002181" start="20260924095500 +0700" stop="20260924110000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924111500 +0700" stop="20260924113000 +0700">
+  <programme channel="ch0000000000100002181" start="20260924110000 +0700" stop="20260924111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924113000 +0700" stop="20260924142000 +0700">
+  <programme channel="ch0000000000100002181" start="20260924111500 +0700" stop="20260924142000 +0700">
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
@@ -58868,27 +58938,51 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260922100000 +0700" stop="20260922110000 +0700">
-    <title lang="th">LIVE: ซอฟต์เทนนิสหญิง - แบ่งกลุ่ม: ลาว พบ ไทย</title>
-    <title lang="en">LIVE: Women's Soft Tennis - Group: Laos vs Thailand</title>
+  <programme channel="ch0000000000100002781" start="20260922110000 +0700" stop="20260922113000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260922110000 +0700" stop="20260922130000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลหญิง - รอบจัดอันดับ: จีนไทเป พบ อินโดนีเซีย</title>
-    <title lang="en">LIVE: Women's Volleyball - Classification: Chinese Taipei vs Indonesia</title>
+  <programme channel="ch0000000000100002781" start="20260922113000 +0700" stop="20260922130000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสทีมชาย - แบ่งกลุ่ม: อิหร่าน พบ สิงคโปร์</title>
+    <title lang="en">LIVE: Men's Team Table Tennis - Group: Iran vs Singapore</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260922130000 +0700" stop="20260922140000 +0700">
+  <programme channel="ch0000000000100002781" start="20260922130000 +0700" stop="20260922133000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสคู่ผสม - แบ่งกลุ่ม: อิหร่าน พบ ไทย</title>
     <title lang="en">LIVE: Mixed Doubles Table Tennis - Group: Iran vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260922140000 +0700" stop="20260922160000 +0700">
+  <programme channel="ch0000000000100002781" start="20260922133000 +0700" stop="20260922140000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260922140000 +0700" stop="20260922154000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - รอบชิงเหรียญทองแดง: เกาหลีใต้ พบ ไทย</title>
     <title lang="en">LIVE: Women's Volleyball - Bronze Medal Game: South Korea vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260922154000 +0700" stop="20260922160500 +0700">
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบคัดเลือก: จีน พบ คาซัคสถาน</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Round Robin: China vs Kazakhstan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260922160500 +0700" stop="20260922163000 +0700">
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบคัดเลือก: กาตาร์ พบ ศรีลังกา</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Round Robin: Qatar vs Sri Lanka</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260922163000 +0700" stop="20260922165500 +0700">
+    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบคัดเลือก: ญี่ปุ่น พบ สิงคโปร์</title>
+    <title lang="en">LIVE: Men's Basketball (3x3) - Round Robin: Japan vs Singapore</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59006,9 +59100,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260922110000 +0700" stop="20260922130000 +0700">
+  <programme channel="ch0000000000100002782" start="20260922110000 +0700" stop="20260922120000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - รอบจัดอันดับ: คาซัคสถาน พบ กาตาร์</title>
     <title lang="en">LIVE: Women's Volleyball - Classification: Kazakhstan vs Qatar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260922120000 +0700" stop="20260922130000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59132,25 +59232,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260922130000 +0700" stop="20260922163000 +0700">
+  <programme channel="ch0000000000100002783" start="20260922130000 +0700" stop="20260922173000 +0700">
     <title lang="th">LIVE: แบดมินตันทีมชาย - รอบก่อนรองฯ: ไทย พบ จีนไทเป</title>
     <title lang="en">LIVE: Men's Team Badminton - Quarter Finals: Thailand vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260922163000 +0700" stop="20260922165500 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบคัดเลือก: ญี่ปุ่น พบ สิงคโปร์</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Round Robin: Japan vs Singapore</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002783" start="20260922165500 +0700" stop="20260922170000 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002783" start="20260922170000 +0700" stop="20260922190000 +0700">
+  <programme channel="ch0000000000100002783" start="20260922173000 +0700" stop="20260922190000 +0700">
     <title lang="th">LIVE: ฟุตบอลชาย - แบ่งกลุ่ม: เกาหลีใต้ พบ ซาอุดีอาระเบีย</title>
     <title lang="en">LIVE: Men's Football - Group: South Korea vs Saudi Arabia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59732,13 +59820,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260922110000 +0700" stop="20260922130000 +0700">
+  <programme channel="ch0000000000100002788" start="20260922110000 +0700" stop="20260922120000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - รอบจัดอันดับ: คาซัคสถาน พบ กาตาร์</title>
     <title lang="en">LIVE: Women's Volleyball - Classification: Kazakhstan vs Qatar</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260922130000 +0700" stop="20260922140000 +0700">
+  <programme channel="ch0000000000100002788" start="20260922120000 +0700" stop="20260922140000 +0700">
     <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - รอบจัดอันดับ เนปาล พบ มองโกเลีย</title>
     <title lang="en">Upcoming at 02:00PM Women's Volleyball - Classification Nepal vs Mongolia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59822,19 +59910,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20260922100000 +0700" stop="20260922110000 +0700">
-    <title lang="th">เริ่ม 11:00 วอลเลย์บอลหญิง - รอบจัดอันดับ จีนไทเป พบ อินโดนีเซีย</title>
-    <title lang="en">Upcoming at 11:00AM Women's Volleyball - Classification Chinese Taipei vs Indonesia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002789" start="20260922110000 +0700" stop="20260922130000 +0700">
+  <programme channel="ch0000000000100002789" start="20260922100000 +0700" stop="20260922113000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลหญิง - รอบจัดอันดับ: จีนไทเป พบ อินโดนีเซีย</title>
     <title lang="en">LIVE: Women's Volleyball - Classification: Chinese Taipei vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20260922130000 +0700" stop="20260922140000 +0700">
+  <programme channel="ch0000000000100002789" start="20260922113000 +0700" stop="20260922140000 +0700">
     <title lang="th">เริ่ม 14:00 วอลเลย์บอลหญิง - รอบชิงเหรียญทองแดง เกาหลีใต้ พบ ไทย</title>
     <title lang="en">Upcoming at 02:00PM Women's Volleyball - Bronze Medal Game South Korea vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60056,19 +60138,7 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002792" start="20260922000000 +0700" stop="20260922100000 +0700">
-    <title lang="th">เริ่ม 10:00 ซอฟต์เทนนิสหญิง - แบ่งกลุ่ม ลาว พบ ไทย</title>
-    <title lang="en">Upcoming at 10:00AM Women's Soft Tennis - Group Laos vs Thailand</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002792" start="20260922100000 +0700" stop="20260922110000 +0700">
-    <title lang="th">LIVE: ซอฟต์เทนนิสหญิง - แบ่งกลุ่ม: ลาว พบ ไทย</title>
-    <title lang="en">LIVE: Women's Soft Tennis - Group: Laos vs Thailand</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002792" start="20260922110000 +0700" stop="20260922120000 +0700">
+  <programme channel="ch0000000000100002792" start="20260922000000 +0700" stop="20260922120000 +0700">
     <title lang="th">เริ่ม 12:00 ศิลปะการต่อสู้แบบผสมผสาน - รอบชิงเหรียญทอง</title>
     <title lang="en">Upcoming at 12:00AM Mixed Martial Arts - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60436,7 +60506,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002813" start="20260922140000 +0700" stop="20260922235959 +0700">
+  <programme channel="ch0000000000100002813" start="20260922140000 +0700" stop="20260922172000 +0700">
+    <title lang="th">เริ่ม 17:20 เทเบิลเทนนิสทีมชาย - รอบก่อนรองฯ จีน พบ ไทย</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002813" start="20260922172000 +0700" stop="20260922182000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสทีมชาย - รอบก่อนรองฯ: จีน พบ ไทย</title>
+    <title lang="en">LIVE: Men's Team Table Tennis - Quarter Finals: China vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002813" start="20260922182000 +0700" stop="20260922235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60478,13 +60560,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260922130000 +0700" stop="20260922163000 +0700">
+  <programme channel="ch0000000000100002814" start="20260922130000 +0700" stop="20260922173000 +0700">
     <title lang="th">LIVE: แบดมินตันทีมชาย - รอบก่อนรองฯ: ไทย พบ จีนไทเป</title>
     <title lang="en">LIVE: Men's Team Badminton - Quarter Finals: Thailand vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260922163000 +0700" stop="20260922235959 +0700">
+  <programme channel="ch0000000000100002814" start="20260922173000 +0700" stop="20260922235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
