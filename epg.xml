@@ -530,116 +530,95 @@
     <display-name lang="en">Asian Games 918</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png"/>
   </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
   </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
   </channel>
   <channel id="ch0000000000100002329">
     <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
   <channel id="ch0000000000100002098">
     <display-name>ch0000000000100002098</display-name>
   </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
   </channel>
   <channel id="ch0000000000100002322">
     <display-name>ch0000000000100002322</display-name>
   </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
   <channel id="ch0000000000100001291">
     <display-name>ch0000000000100001291</display-name>
@@ -647,80 +626,101 @@
   <channel id="ch0000000000100002321">
     <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <channel id="ch0000000000100002551">
     <display-name>ch0000000000100002551</display-name>
   </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
   </channel>
   <channel id="ch0000000000100001284">
     <display-name>ch0000000000100001284</display-name>
   </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
   <channel id="ch0000000000100001292">
     <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260922220000 +0700" stop="20260923000500 +0700">
     <title>Weapons</title>
@@ -29571,6 +29571,402 @@
     <title>ETV</title>
     <category>การศึกษา</category>
   </programme>
+  <programme channel="ch0000000000100001281" start="20260924060000 +0700" stop="20260924063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924063000 +0700" stop="20260924070000 +0700">
+    <title>ธรรมนำใจ/สบายจิต สบายใจ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924070000 +0700" stop="20260924073000 +0700">
+    <title>รุ่นใหญ่ไกลโรค (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924073000 +0700" stop="20260924080000 +0700">
+    <title>ดนตรีใสวัยโจ๋ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924080000 +0700" stop="20260924083000 +0700">
+    <title>ข่าวการศึกษา/ลุยเดี่ยวเกี่ยวประเด็น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924083000 +0700" stop="20260924090000 +0700">
+    <title>คมคิดคนเกษตร </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924090000 +0700" stop="20260924093000 +0700">
+    <title>Creator เป็นได้ง่ายจัง </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924093000 +0700" stop="20260924100000 +0700">
+    <title>OnScreen Market ตลาดบนจอ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924100000 +0700" stop="20260924103000 +0700">
+    <title>Art of Careers ศิลปะแห่งอาชีพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924103000 +0700" stop="20260924110000 +0700">
+    <title>รู้ทันโลกดิจิทัล/Digital Learner </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924110000 +0700" stop="20260924113000 +0700">
+    <title>Tech Check Up/Tech Tutor </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924113000 +0700" stop="20260924120000 +0700">
+    <title>Bring Bright Science/Cool วิทย์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924120000 +0700" stop="20260924123000 +0700">
+    <title>In Sci/Math Digest </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924123000 +0700" stop="20260924130000 +0700">
+    <title>Math is Fun/Think Math </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924130000 +0700" stop="20260924133000 +0700">
+    <title>ข่าวการศึกษา/I can say </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924133000 +0700" stop="20260924140000 +0700">
+    <title>สะพายกล้องท่องลาว (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924140000 +0700" stop="20260924143000 +0700">
+    <title>Sematkan Malaysia/ห้องเรียนเรื่องลาว ปี 1 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924143000 +0700" stop="20260924150000 +0700">
+    <title>เกษตรยุคใหม่ หัวใจเทคโนโลยี </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924150000 +0700" stop="20260924153000 +0700">
+    <title>ชุมชนชื่นใจ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924153000 +0700" stop="20260924160000 +0700">
+    <title>ดนตรีใสวัยโจ๋ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924160000 +0700" stop="20260924163000 +0700">
+    <title>รุ่นใหญ่ไกลโรค (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924163000 +0700" stop="20260924170000 +0700">
+    <title>Kids จะเล่น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924170000 +0700" stop="20260924173000 +0700">
+    <title>ข่าวการศึกษา/วิถีอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924173000 +0700" stop="20260924180000 +0700">
+    <title>คมคิดคนเกษตร </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924180000 +0700" stop="20260924190000 +0700">
+    <title>ลีลาลีลาศ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924190000 +0700" stop="20260924200000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924200000 +0700" stop="20260924203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924203000 +0700" stop="20260924213000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924213000 +0700" stop="20260924220000 +0700">
+    <title>Creator เป็นได้ง่ายจัง </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924220000 +0700" stop="20260924223000 +0700">
+    <title>รู้ทันสื่อ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924223000 +0700" stop="20260924230000 +0700">
+    <title>กฎหมายคลายเครียด </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924230000 +0700" stop="20260924233000 +0700">
+    <title>ธรรมนำใจ/สบายจิต สบายใจ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260924233000 +0700" stop="20260925000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925000000 +0700" stop="20260925060000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925060000 +0700" stop="20260925063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925063000 +0700" stop="20260925070000 +0700">
+    <title>ธรรมดีมีสุข/รหัสแห่งสติ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925070000 +0700" stop="20260925073000 +0700">
+    <title>มือใหม่วัยเก๋า #เก๋าใส่ใจคุณภาพชีวิต </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925073000 +0700" stop="20260925080000 +0700">
+    <title>ร้องรำทำเพลง ปี 2 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925080000 +0700" stop="20260925083000 +0700">
+    <title>ข่าวการศึกษา/ที่นี่ประเทศไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925083000 +0700" stop="20260925090000 +0700">
+    <title>Check List สุขภาพจิต The Family </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925090000 +0700" stop="20260925093000 +0700">
+    <title>Did you know ? รู้หรือไม่ ชุด สูตรลับตำรับชาววัง/เตือนภัยไซเบอร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925093000 +0700" stop="20260925100000 +0700">
+    <title>AI ใกล้ตัว </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925100000 +0700" stop="20260925114500 +0700">
+    <title>ถ่ายทอดสด งานวันที่ระลึกสากลแห่งการรู้หนังสือ ประจำปี 2569 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925114500 +0700" stop="20260925120000 +0700">
+    <title>Make My Day English </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925120000 +0700" stop="20260925123000 +0700">
+    <title>Unlock English/ทางไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925123000 +0700" stop="20260925130000 +0700">
+    <title>ติวไทย ให้เธอเต็ม/ไทยศึกษา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925130000 +0700" stop="20260925133000 +0700">
+    <title>ข่าวการศึกษา/Alphabet Let's go </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925133000 +0700" stop="20260925140000 +0700">
+    <title>Chinese for Careers/Simply Korean </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925140000 +0700" stop="20260925143000 +0700">
+    <title>Belajar Bahasa Malaysia/เมียนมา ภาษาพาสนุก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925143000 +0700" stop="20260925150000 +0700">
+    <title>Click &amp; Sell คลิกแล้วขาย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925150000 +0700" stop="20260925153000 +0700">
+    <title>Power of Art พลังแห่งศิลปะ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925153000 +0700" stop="20260925160000 +0700">
+    <title>ร้องรำทำเพลง ปี 2 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925160000 +0700" stop="20260925163000 +0700">
+    <title>มือใหม่วัยเก๋า #เก๋าใส่ใจคุณภาพชีวิต </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925163000 +0700" stop="20260925170000 +0700">
+    <title>Family Center ปี 1 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925170000 +0700" stop="20260925173000 +0700">
+    <title>ข่าวการศึกษา/จีนจำเป็น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925173000 +0700" stop="20260925180000 +0700">
+    <title>AI ใกล้ตัว </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925180000 +0700" stop="20260925190000 +0700">
+    <title>ฟื้นฟูดูเฟิร์ม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925190000 +0700" stop="20260925200000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925200000 +0700" stop="20260925203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925203000 +0700" stop="20260925213000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925213000 +0700" stop="20260925220000 +0700">
+    <title>Did you know ? รู้หรือไม่ ชุด สูตรลับตำรับชาววัง/เตือนภัยไซเบอร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925220000 +0700" stop="20260925230000 +0700">
+    <title>ประวัติศาสตร์นอกตำรา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925230000 +0700" stop="20260925233000 +0700">
+    <title>ธรรมดีมีสุข/รหัสแห่งสติ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260925233000 +0700" stop="20260926000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926000000 +0700" stop="20260926060000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926060000 +0700" stop="20260926063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926063000 +0700" stop="20260926070000 +0700">
+    <title>สุขใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926070000 +0700" stop="20260926073000 +0700">
+    <title>สูงวัย ไซเบอร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926073000 +0700" stop="20260926080000 +0700">
+    <title>คีตศิลป์ ดนตรีไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926080000 +0700" stop="20260926083000 +0700">
+    <title>ข่าวการศึกษา/สมุนไพรน่ารู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926083000 +0700" stop="20260926090000 +0700">
+    <title>คิดเป็นทำเป็น เกษตรศิลป์/มรดกโลกทางวัฒนธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926090000 +0700" stop="20260926093000 +0700">
+    <title>IDOL CLUB ปี 3 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926093000 +0700" stop="20260926100000 +0700">
+    <title>Parenting Hacks เลี้ยงลูกฉบับง่าย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926100000 +0700" stop="20260926103000 +0700">
+    <title>ถิ่นวิถี สุนทรีย์สำรับ/World Wide Science </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926103000 +0700" stop="20260926110000 +0700">
+    <title>รู้ทันโลกดิจิทัล/Digital Learner </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926110000 +0700" stop="20260926113000 +0700">
+    <title>Tech Check Up/Tech Tutor </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926113000 +0700" stop="20260926120000 +0700">
+    <title>Social Studies/Chic Society </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926120000 +0700" stop="20260926123000 +0700">
+    <title>Social Story/ตามรอยมืออาชีพจิ๋ว </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926123000 +0700" stop="20260926130000 +0700">
+    <title>รู้ทันคนทำงาน/Growing Goal </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926130000 +0700" stop="20260926133000 +0700">
+    <title>ข่าวการศึกษา/English Battle </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926133000 +0700" stop="20260926140000 +0700">
+    <title>จีนง่ายได้เรื่อง/Japan มาดูมะ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926140000 +0700" stop="20260926143000 +0700">
+    <title>สะพายกล้องท่องลาว (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926143000 +0700" stop="20260926150000 +0700">
+    <title>E-BIKE FIX ซ่อมเองได้ มอเตอร์ไซค์ไฟฟ้า </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926150000 +0700" stop="20260926151500 +0700">
+    <title>Wellness Kitchen ครัวสร้างสุข </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926151500 +0700" stop="20260926153000 +0700">
+    <title>The diary บันทึกประวัติศาสตร์ชาติไทยฯ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926153000 +0700" stop="20260926160000 +0700">
+    <title>คีตศิลป์ ดนตรีไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926160000 +0700" stop="20260926163000 +0700">
+    <title>สูงวัย ไซเบอร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926163000 +0700" stop="20260926170000 +0700">
+    <title>ห้องเรียนของหนู </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926170000 +0700" stop="20260926173000 +0700">
+    <title>ข่าวการศึกษา/สมุนไพรน่ารู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926173000 +0700" stop="20260926180000 +0700">
+    <title>คิดเป็นทำเป็น เกษตรศิลป์/มรดกโลกทางวัฒนธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926180000 +0700" stop="20260926183000 +0700">
+    <title>หุ่นดีสร้างได้ ปี 2 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926183000 +0700" stop="20260926190000 +0700">
+    <title>ฟิตให้เฟิร์ม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926190000 +0700" stop="20260926200000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับนักศึกษา สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926200000 +0700" stop="20260926203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926203000 +0700" stop="20260926213000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับนักศึกษา สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926213000 +0700" stop="20260926220000 +0700">
+    <title>IDOL CLUB ปี 3 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926220000 +0700" stop="20260926230000 +0700">
+    <title>ที่นี่มีเรื่อง </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926230000 +0700" stop="20260926233000 +0700">
+    <title>สุขใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20260926233000 +0700" stop="20260927000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
   <programme channel="ch0000000000100001283" start="20260922233000 +0700" stop="20260923000000 +0700">
     <title>R : fud fid fo fi</title>
     <desc>R : fud fid fo fi</desc>
@@ -55169,59 +55565,309 @@
     <title lang="en">The Amundi Evian Championship Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260924033500 +0700" stop="20260924040000 +0700">
+  <programme channel="ch0000000000100002525" start="20260924033500 +0700" stop="20260924040500 +0700">
     <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">The Amundi Evian Championship Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260924174500 +0700" stop="20260924181500 +0700">
-    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">The Chevron Championship Highlights Final</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002525" start="20260924181500 +0700" stop="20260924184000 +0700">
-    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบ 3</title>
-    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Round 3</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002525" start="20260924184000 +0700" stop="20260924190000 +0700">
-    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002525" start="20260924190000 +0700" stop="20260924192500 +0700">
-    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
-    <title lang="en">KPMG Women's PGA Championship Highlights Round 3</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002525" start="20260924192500 +0700" stop="20260924195000 +0700">
-    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002525" start="20260924195000 +0700" stop="20260924201000 +0700">
-    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบ 2</title>
-    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Round 2</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002525" start="20260924201000 +0700" stop="20260924203500 +0700">
+  <programme channel="ch0000000000100002525" start="20260924040500 +0700" stop="20260924043000 +0700">
     <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260924203500 +0700" stop="20260924205500 +0700">
+  <programme channel="ch0000000000100002525" start="20260924043000 +0700" stop="20260924045500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Dow Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924045500 +0700" stop="20260924052000 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924052000 +0700" stop="20260924054500 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924054500 +0700" stop="20260924060500 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924060500 +0700" stop="20260924063000 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924063000 +0700" stop="20260924070000 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924070000 +0700" stop="20260924073000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Amundi Evian Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924073000 +0700" stop="20260924080000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Amundi Evian Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924080000 +0700" stop="20260924082500 +0700">
+    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">ISPS Handa Women's Scottish Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924082500 +0700" stop="20260924085500 +0700">
+    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ISPS Handa Women's Scottish Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924085500 +0700" stop="20260924093000 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Standard Portland Classic Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924093000 +0700" stop="20260924100500 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Standard Portland Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924100500 +0700" stop="20260924102500 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924102500 +0700" stop="20260924105000 +0700">
+    <title lang="th">ฮิลตัน แกรนด์ วาเคชันส์ ทัวร์นาเมนต์ ออฟ แชมเปียนส์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hilton Grand Vacations Tournament of Champions Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924105000 +0700" stop="20260924150000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: FM Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924150000 +0700" stop="20260924152000 +0700">
+    <title lang="th">เอฟเอ็ม แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FM Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924152000 +0700" stop="20260924155000 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Honda LPGA Thailand Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924155000 +0700" stop="20260924161500 +0700">
+    <title lang="th">ฮอนด้า แอลพีจีเอ ไทยแลนด์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Honda LPGA Thailand Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924161500 +0700" stop="20260924185000 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบ 3</title>
+    <title lang="en">RERUN: CPKC Women's Open Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924185000 +0700" stop="20260924191500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924191500 +0700" stop="20260924194000 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Blue Bay LPGA Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924194000 +0700" stop="20260924200500 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Blue Bay LPGA Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924200500 +0700" stop="20260924203500 +0700">
     <title lang="th">เอฟเอ็ม แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">FM Championship Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260924205500 +0700" stop="20260924231000 +0700">
+  <programme channel="ch0000000000100002525" start="20260924203500 +0700" stop="20260924225000 +0700">
     <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบสุดท้าย</title>
     <title lang="en">RERUN: FM Championship Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20260924231000 +0700" stop="20260924233500 +0700">
+  <programme channel="ch0000000000100002525" start="20260924225000 +0700" stop="20260924231500 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบ 3</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924231500 +0700" stop="20260924234000 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260924234000 +0700" stop="20260925000000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">CPKC Women's Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925000000 +0700" stop="20260925025500 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925025500 +0700" stop="20260925032000 +0700">
     <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบ 3</title>
     <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925032000 +0700" stop="20260925034500 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925034500 +0700" stop="20260925042000 +0700">
+    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Chevron Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925042000 +0700" stop="20260925045000 +0700">
+    <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Chevron Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925045000 +0700" stop="20260925051500 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบ 3</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925051500 +0700" stop="20260925054000 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925054000 +0700" stop="20260925060000 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Mizuho Americas Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925060000 +0700" stop="20260925062000 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Mizuho Americas Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925062000 +0700" stop="20260925065000 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบ 3</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925065000 +0700" stop="20260925071500 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925071500 +0700" stop="20260925073500 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบ 2</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925073500 +0700" stop="20260925080000 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925080000 +0700" stop="20260925082500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Dow Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925082500 +0700" stop="20260925085000 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925085000 +0700" stop="20260925091500 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925091500 +0700" stop="20260925093500 +0700">
+    <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925093500 +0700" stop="20260925100000 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925100000 +0700" stop="20260925103000 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925103000 +0700" stop="20260925110000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">The Amundi Evian Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925110000 +0700" stop="20260925113000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Amundi Evian Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925113000 +0700" stop="20260925154000 +0700">
+    <title lang="th">รีรัน: เอฟเอ็ม แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: FM Championship Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925154000 +0700" stop="20260925160000 +0700">
+    <title lang="th">เอฟเอ็ม แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FM Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925160000 +0700" stop="20260925185500 +0700">
+    <title lang="th">รีรัน: ซีพีเคซี วีเมนส์ โอเพ่น รอบสุดท้าย</title>
+    <title lang="en">RERUN: CPKC Women's Open Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925185500 +0700" stop="20260925192000 +0700">
+    <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925192000 +0700" stop="20260925194000 +0700">
+    <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Mizuho Americas Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925194000 +0700" stop="20260925200500 +0700">
+    <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925200500 +0700" stop="20260925203000 +0700">
+    <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925203000 +0700" stop="20260925205500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925205500 +0700" stop="20260925213000 +0700">
+    <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Standard Portland Classic Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925213000 +0700" stop="20260925220000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20260925220000 +0700" stop="20260926040000 +0700">
+    <title lang="th">LIVE: วอลมาร์ต เอ็นดับเบิลยู อาร์คันซอ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี รอบแรก</title>
+    <title lang="en">LIVE: Walmart NW Arkansas Championship presented by P&amp;G Round 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20260922235500 +0700" stop="20260923002500 +0700">
@@ -56395,8 +57041,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260925164500 +0700" stop="20260925185000 +0700">
-    <title>LIVE: NRL: Preliminary Final 1</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
+    <title>LIVE: NRL: Dolphins v Roosters</title>
+    <desc>This season's first Preliminary Final sees the Dolphins and Roosters battle it out at Dolphin Stadium in Brisbane for a place in this season's NRL Grand Final.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260925185000 +0700" stop="20260925192000 +0700">
@@ -56440,28 +57086,28 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926041000 +0700" stop="20260926060000 +0700">
-    <title>NRL: Preliminary Final 1</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
+    <title>NRL: Dolphins v Roosters</title>
+    <desc>This season's first Preliminary Final sees the Dolphins and Roosters battle it out at Dolphin Stadium in Brisbane for a place in this season's NRL Grand Final.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926060000 +0700" stop="20260926075000 +0700">
     <title>United Rugby Championship: Benetton v Dragons</title>
-    <desc>Coverage of the URC season.</desc>
+    <desc>Benetton and Dragons go head-to-head in this Friday night URC fixture from the Stadio Comunale di Monigo.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926075000 +0700" stop="20260926094000 +0700">
     <title>United Rugby Championship: Connacht v Stormers</title>
-    <desc>Coverage of the URC season.</desc>
+    <desc>Connacht and the DHL Stormers face off in this opening night URC matchup from the Dexcom Stadium.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926094000 +0700" stop="20260926113000 +0700">
     <title>United Rugby Championship: Ulster v Edinburgh</title>
-    <desc>Coverage of the URC season.</desc>
+    <desc>Belfast's Affidea Stadium hosts this Friday night URC clash between Ulster and Edinburgh.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926113000 +0700" stop="20260926132000 +0700">
-    <title>Gallagher Premiership: Northampton v Newcastle</title>
-    <desc>All the action from the 2026/27 Gallagher Premiership England's top level of rugby union.</desc>
+    <title>Super League: Leeds v Warrington</title>
+    <desc>The first semi final of the 2026 Super League season sees the Leeds Rhinos and Warrington Wolves clashing at Headingey.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926132000 +0700" stop="20260926135000 +0700">
@@ -56470,8 +57116,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926135000 +0700" stop="20260926154000 +0700">
-    <title>NRL: Preliminary Final 1</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
+    <title>NRL: Dolphins v Roosters</title>
+    <desc>This season's first Preliminary Final sees the Dolphins and Roosters battle it out at Dolphin Stadium in Brisbane for a place in this season's NRL Grand Final.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926154000 +0700" stop="20260926161000 +0700">
@@ -56481,12 +57127,12 @@
   </programme>
   <programme channel="ch0000000000100002561" start="20260926161000 +0700" stop="20260926180000 +0700">
     <title>United Rugby Championship: Connacht v Stormers</title>
-    <desc>Coverage of the URC season.</desc>
+    <desc>Connacht and the DHL Stormers face off in this opening night URC matchup from the Dexcom Stadium.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926180000 +0700" stop="20260926204500 +0700">
     <title>LIVE: United Rugby Championship: Lions v Leinster</title>
-    <desc>Coverage of the URC season.</desc>
+    <desc>Leinster begin their URC title defence away to the 10Bet Lions in this matchup at Ellis Park Stadium.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20260926204500 +0700" stop="20260926210000 +0700">
@@ -57840,9 +58486,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260924120000 +0700" stop="20260924150000 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+  <programme channel="ch0000000000100002781" start="20260924120000 +0700" stop="20260924130000 +0700">
+    <title lang="th">LIVE: เซปักตะกร้อหญิง - รอบรองฯ: ไทย พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Sepak Takraw - Semi Finals: Thailand vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260924130000 +0700" stop="20260924150000 +0700">
+    <title lang="th">LIVE: สควอช - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Squash - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -57960,27 +58612,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260924073000 +0700" stop="20260924100000 +0700">
+  <programme channel="ch0000000000100002782" start="20260924073000 +0700" stop="20260924120000 +0700">
     <title lang="th">LIVE: แบดมินตันทีมหญิง - รอบชิงเหรียญทอง: จีน พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Team Badminton - Gold Medal Game: China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260924100000 +0700" stop="20260924111500 +0700">
+  <programme channel="ch0000000000100002782" start="20260924120000 +0700" stop="20260924120500 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20260924111500 +0700" stop="20260924114000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบคัดเลือก: จีน พบ อินโดนีเซีย</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Qualification: China vs Indonesia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20260924114000 +0700" stop="20260924120500 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบคัดเลือก: ไทย พบ ศรีลังกา</title>
-    <title lang="en">LIVE: Women's Basketball (3x3) - Qualification: Thailand vs Sri Lanka</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -57996,27 +58636,21 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260924125500 +0700" stop="20260924130000 +0700">
+  <programme channel="ch0000000000100002782" start="20260924125500 +0700" stop="20260924133000 +0700">
     <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบคัดเลือก: ญี่ปุ่น พบ คาซัคสถาน</title>
     <title lang="en">LIVE: Men's Basketball (3x3) - Qualification: Japan vs Kazakhstan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260924130000 +0700" stop="20260924163000 +0700">
-    <title lang="th">LIVE: แบดมินตันทีมชาย - รอบชิงเหรียญทอง: อินโดนีเซีย พบ จีน</title>
-    <title lang="en">LIVE: Men's Team Badminton - Gold Medal Game: Indonesia vs China</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20260924163000 +0700" stop="20260924165500 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20260924165500 +0700" stop="20260924170000 +0700">
+  <programme channel="ch0000000000100002782" start="20260924133000 +0700" stop="20260924140000 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20260924140000 +0700" stop="20260924170000 +0700">
+    <title lang="th">LIVE: แบดมินตันทีมชาย - รอบชิงเหรียญทอง: อินโดนีเซีย พบ จีน</title>
+    <title lang="en">LIVE: Men's Team Badminton - Gold Medal Game: Indonesia vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58074,25 +58708,49 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260924070000 +0700" stop="20260924100000 +0700">
+  <programme channel="ch0000000000100002783" start="20260924070000 +0700" stop="20260924103000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อชาย - รอบรองฯ: อินโดนีเซีย พบ มาเลเซีย</title>
     <title lang="en">LIVE: Men's Sepak Takraw - Semi Finals: Indonesia vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260924100000 +0700" stop="20260924130000 +0700">
+  <programme channel="ch0000000000100002783" start="20260924103000 +0700" stop="20260924113000 +0700">
     <title lang="th">LIVE: มวยสากล - รอบคัดเลือก</title>
     <title lang="en">LIVE: Boxing - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260924130000 +0700" stop="20260924173000 +0700">
+  <programme channel="ch0000000000100002783" start="20260924113000 +0700" stop="20260924120000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260924120000 +0700" stop="20260924130000 +0700">
     <title lang="th">LIVE: ยกน้ำหนักชาย - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Men's Weightlifting - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260924173000 +0700" stop="20260924200000 +0700">
+  <programme channel="ch0000000000100002783" start="20260924130000 +0700" stop="20260924154000 +0700">
+    <title lang="th">LIVE: ยกน้ำหนักชาย - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Men's Weightlifting - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260924154000 +0700" stop="20260924172000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260924172000 +0700" stop="20260924174500 +0700">
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ: อิหร่าน พบ ไทย</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals: Iran vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260924174500 +0700" stop="20260924200000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสทีมหญิง - รอบชิงเหรียญทอง: จีน พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Team Table Tennis - Gold Medal Game: China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58105,16 +58763,12 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260925000000 +0700" stop="20260925235959 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
+    <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20260926000000 +0700" stop="20260926235959 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
+    <title>ASIAN GAMES Rerun &amp; Highlights</title>
+    <category>Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260923000000 +0700" stop="20260923053000 +0700">
     <title lang="th">เริ่ม 05:30 - รอบชิงเหรียญทอง</title>
@@ -58410,69 +59064,63 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20260924125500 +0700" stop="20260924130000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบคัดเลือก: ญี่ปุ่น พบ คาซัคสถาน</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Qualification: Japan vs Kazakhstan</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002785" start="20260924130000 +0700" stop="20260924133000 +0700">
+  <programme channel="ch0000000000100002785" start="20260924125500 +0700" stop="20260924133000 +0700">
     <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบคัดเลือก: ญี่ปุ่น พบ คาซัคสถาน</title>
     <title lang="en">LIVE: Men's Basketball (3x3) - Qualification: Japan vs Kazakhstan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924133000 +0700" stop="20260924154000 +0700">
-    <title lang="th">เริ่ม 15:40 บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ</title>
-    <title lang="en">Upcoming at 03:40PM Women's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">เริ่ม 15:40 บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ เกาหลีใต้ พบ จีนไทเป</title>
+    <title lang="en">Upcoming at 03:40PM Women's Basketball (3x3) - Quarter Finals South Korea vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924154000 +0700" stop="20260924160500 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ: เกาหลีใต้ พบ จีนไทเป</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals: South Korea vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924160500 +0700" stop="20260924163000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ: ญี่ปุ่น พบ จีน</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals: Japan vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924163000 +0700" stop="20260924165500 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ: ฟิลิปปินส์ พบ จีนไทเป</title>
+    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals: Philippines vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924165500 +0700" stop="20260924172000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ: เกาหลีใต้ พบ จีน</title>
+    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals: South Korea vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924172000 +0700" stop="20260924174500 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ: อิหร่าน พบ ไทย</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals: Iran vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924174500 +0700" stop="20260924181000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบก่อนรองฯ: สิงคโปร์ พบ ฟิลิปปินส์</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Quarter Finals: Singapore vs Philippines</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924181000 +0700" stop="20260924183500 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ: กาตาร์ พบ มองโกเลีย</title>
+    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals: Qatar vs Mongolia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260924183500 +0700" stop="20260924190000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบก่อนรองฯ: อิหร่าน พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Men's Basketball (3x3) - Quarter Finals: Iran vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59160,27 +59808,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002792" start="20260924000000 +0700" stop="20260924094500 +0700">
-    <title lang="th">เริ่ม 09:45 ฟันดาบหญิง</title>
-    <title lang="en">Upcoming at 09:45AM Women's Fencing</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002792" start="20260924094500 +0700" stop="20260924130000 +0700">
-    <title lang="th">LIVE: ฟันดาบหญิง</title>
-    <title lang="en">LIVE: Women's Fencing</title>
+  <programme channel="ch0000000000100002792" start="20260924000000 +0700" stop="20260924120000 +0700">
+    <title lang="th">เริ่ม 12:00 เซปักตะกร้อหญิง - รอบรองฯ ไทย พบ ญี่ปุ่น</title>
+    <title lang="en">Upcoming at 12:00AM Women's Sepak Takraw - Semi Finals Thailand vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002792" start="20260924120000 +0700" stop="20260924140000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อหญิง - รอบรองฯ: ไทย พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Sepak Takraw - Semi Finals: Thailand vs Japan</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002792" start="20260924130000 +0700" stop="20260924235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59274,13 +59910,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260924130000 +0700" stop="20260924173000 +0700">
+  <programme channel="ch0000000000100002801" start="20260924130000 +0700" stop="20260924133000 +0700">
     <title lang="th">LIVE: ยกน้ำหนักชาย - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Men's Weightlifting - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260924173000 +0700" stop="20260924235959 +0700">
+  <programme channel="ch0000000000100002801" start="20260924133000 +0700" stop="20260924160000 +0700">
+    <title lang="th">LIVE: ยกน้ำหนักชาย - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Men's Weightlifting - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002801" start="20260924160000 +0700" stop="20260924235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59424,27 +60066,27 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20260924070000 +0700" stop="20260924100000 +0700">
+  <programme channel="ch0000000000100002812" start="20260924070000 +0700" stop="20260924103000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อชาย - รอบรองฯ: อินโดนีเซีย พบ มาเลเซีย</title>
     <title lang="en">LIVE: Men's Sepak Takraw - Semi Finals: Indonesia vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20260924100000 +0700" stop="20260924120000 +0700">
-    <title lang="th">เริ่ม 12:00 เซปักตะกร้อหญิง - รอบรองฯ ไทย พบ ญี่ปุ่น</title>
-    <title lang="en">Upcoming at 12:00AM Women's Sepak Takraw - Semi Finals Thailand vs Japan</title>
+  <programme channel="ch0000000000100002812" start="20260924103000 +0700" stop="20260924120000 +0700">
+    <title lang="th">เริ่ม 12:00 เซปักตะกร้อหญิง - รอบรองฯ เกาหลีใต้ พบ อินโดนีเซีย</title>
+    <title lang="en">Upcoming at 12:00AM Women's Sepak Takraw - Semi Finals South Korea vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20260924120000 +0700" stop="20260924140000 +0700">
-    <title lang="th">LIVE: เซปักตะกร้อหญิง - รอบรองฯ: ไทย พบ ญี่ปุ่น</title>
-    <title lang="en">LIVE: Women's Sepak Takraw - Semi Finals: Thailand vs Japan</title>
+  <programme channel="ch0000000000100002812" start="20260924120000 +0700" stop="20260924130000 +0700">
+    <title lang="th">LIVE: เซปักตะกร้อหญิง - รอบรองฯ: เกาหลีใต้ พบ อินโดนีเซีย</title>
+    <title lang="en">LIVE: Women's Sepak Takraw - Semi Finals: South Korea vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20260924140000 +0700" stop="20260924150000 +0700">
-    <title lang="th">เริ่ม 15:00 ฮอกกี้ชาย - แบ่งกลุ่ม อินโดนีเซีย พบ ญี่ปุ่น</title>
-    <title lang="en">Upcoming at 03:00PM Men's Hockey - Pool Indonesia vs Japan</title>
+  <programme channel="ch0000000000100002812" start="20260924130000 +0700" stop="20260924150000 +0700">
+    <title lang="th">LIVE: ฮอกกี้ชาย - แบ่งกลุ่ม: เกาหลีใต้ พบ อินเดีย</title>
+    <title lang="en">LIVE: Men's Hockey - Pool: South Korea vs India</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59586,19 +60228,31 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260924084000 +0700" stop="20260924092000 +0700">
+  <programme channel="ch0000000000100002814" start="20260924084000 +0700" stop="20260924090000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสหญิงคู่ - รอบสอง: เลบานอน พบ ไทย</title>
     <title lang="en">LIVE: Women's Doubles Table Tennis - Round 2: Lebanon vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260924092000 +0700" stop="20260924100000 +0700">
+  <programme channel="ch0000000000100002814" start="20260924090000 +0700" stop="20260924100000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสชาย - รอบแรก: มัลดีฟส์ พบ ไทย</title>
     <title lang="en">LIVE: Men's Single Table Tennis - Round 1: Maldives vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260924100000 +0700" stop="20260924235959 +0700">
+  <programme channel="ch0000000000100002814" start="20260924100000 +0700" stop="20260924130000 +0700">
+    <title lang="th">เริ่ม 13:00 สควอช - รอบคัดเลือก</title>
+    <title lang="en">Upcoming at 01:00PM Squash - Preliminary</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002814" start="20260924130000 +0700" stop="20260924153000 +0700">
+    <title lang="th">LIVE: สควอช - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Squash - Preliminary</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002814" start="20260924153000 +0700" stop="20260924235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59652,13 +60306,25 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002861" start="20260924080000 +0700" stop="20260924190000 +0700">
+  <programme channel="ch0000000000100002861" start="20260924080000 +0700" stop="20260924120000 +0700">
     <title lang="th">LIVE: อีสปอร์ต: Puyo Puyo Champions - แบ่งกลุ่ม</title>
     <title lang="en">LIVE: Esports: Puyo Puyo Champions - Group</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002861" start="20260924190000 +0700" stop="20260924235959 +0700">
+  <programme channel="ch0000000000100002861" start="20260924120000 +0700" stop="20260924130000 +0700">
+    <title lang="th">เริ่ม 13:00 อีสปอร์ต Puyo Puyo Champions - แบ่งกลุ่ม</title>
+    <title lang="en">Upcoming at 01:00PM Esports Puyo Puyo Champions - Group</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002861" start="20260924130000 +0700" stop="20260924160000 +0700">
+    <title lang="th">LIVE: อีสปอร์ต: Puyo Puyo Champions - แบ่งกลุ่ม</title>
+    <title lang="en">LIVE: Esports: Puyo Puyo Champions - Group</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002861" start="20260924160000 +0700" stop="20260924235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
