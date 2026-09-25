@@ -305,11 +305,6 @@
     <display-name lang="en">PLAY SPORTS 57</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151431051870.png"/>
   </channel>
-  <channel id="ch0000000000100002644">
-    <display-name lang="th">เพลย์สปอร์ต 58</display-name>
-    <display-name lang="en">PLAY SPORTS 58</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151504051971.png"/>
-  </channel>
   <channel id="ch0000000000100002511">
     <display-name lang="th">เพลย์สปอร์ต 61</display-name>
     <display-name lang="en">PLAY SPORTS 61</display-name>
@@ -530,41 +525,104 @@
     <display-name lang="en">Asian Games 918</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png"/>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
   </channel>
   <channel id="ch0000000000100002098">
     <display-name>ch0000000000100002098</display-name>
@@ -572,137 +630,53 @@
   <channel id="ch0000000000100001361">
     <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <channel id="ch0000000000100001286">
     <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
   </channel>
   <channel id="ch0000000000100002551">
     <display-name>ch0000000000100002551</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
   </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
   </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
@@ -710,17 +684,41 @@
   <channel id="ch0000000000100002754">
     <display-name>ch0000000000100002754</display-name>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260923223500 +0700" stop="20260924010000 +0700">
     <title>Into The Wild</title>
@@ -4120,6 +4118,10 @@
     <title>FIGHTS BREAK SPHERE สัประยุทธ์ทะลุฟ้า (EP. 1-2 )</title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001081" start="20260927230000 +0700" stop="20260928010000 +0700">
+    <title>ZHAO YAO เจาเหยา ลิขิตรักนางพญามาร (EP. 43-44)</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001091" start="20260923220000 +0700" stop="20260924001000 +0700">
     <title>The Lost World: Jurassic Park</title>
     <desc>Four years after Jurassic Park, mathematician Ian Malcolm has to venture into a second island to save his girlfriend from becoming dinosaur bait.</desc>
@@ -5572,7 +5574,7 @@
     <title>NEW POLICE STORY วิ่งสู้ฟัด 5: เหิรสู้ฟัด</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001093" start="20260927230000 +0700" stop="20260927233000 +0700">
+  <programme channel="ch0000000000100001093" start="20260927230000 +0700" stop="20260928010000 +0700">
     <title>BRICK MANSIONS พันธุ์โดด พันธุ์เดือด</title>
     <category>Entertainment</category>
   </programme>
@@ -20916,7 +20918,7 @@
     <desc>รายการที่จะนำเสนอเพลงเพราะ เพลงฮิต จากศิลปินดัง ตลอด 2 ชั่วโมง</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001183" start="20260927220000 +0700" stop="20260927230000 +0700">
+  <programme channel="ch0000000000100001183" start="20260927220000 +0700" stop="20260928000000 +0700">
     <title>YOUNGSTER Variety (Rerun)</title>
     <desc>ช่วงเวลาที่รวบรวมความสนุกหลากหลายรูปแบบมามอบให้คุณผู้ชม ทั้งเรื่องราวที่เป็นกระแสในโลกโซเชี่ยล อัพเดทข่าวสารในทุกวงการพูดคุยกับศิลปินที่กำลังเป็นที่นิยมพร้อมโชว์สุดพิเศษและรวมไปถึงเหล่านักแสดงมากความสามารถที่จะมาพูดคุยถึงบรรยากาศและความสนุกในกองละคร</desc>
     <category>Entertainment</category>
@@ -27932,12 +27934,12 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260924223000 +0700" stop="20260924225300 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>The Business Keyhole</title>
+    <desc>From the rapid growth of the recovery wear market to "forbidden foods" loaded with guilty-pleasure goodness, why are some products booming in Japan in spite of the inflation? Join us to find out!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260924225300 +0700" stop="20260924230000 +0700">
-    <title>Short Program</title>
-    <desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title>JAPAN DELISH 5min.</title>
+    <desc>Curry rice, one of Japan's most iconic national dishes. How did Jimbocho, Tokyo become a curry town?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260924230000 +0700" stop="20260924233000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27945,7 +27947,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260924233000 +0700" stop="20260924235700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 24, Day 12 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260924235700 +0700" stop="20260925000000 +0700">
     <title>Sumopedia</title>
@@ -27957,7 +27959,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925003000 +0700" stop="20260925010000 +0700">
     <title>Core Kyoto</title>
-    <desc>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.</desc>
+    <desc>Bonfires are lit on the mountains to guide ancestors back to the afterlife after their visit in August. This tradition connects the living and the dead through prayer and strengthens community bonds.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925010000 +0700" stop="20260925012800 +0700">
     <title>NEWSROOM TOKYO</title>
@@ -27965,11 +27967,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925012800 +0700" stop="20260925014300 +0700">
     <title>Direct Talk</title>
-    <desc>Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc>Fujitsuka Shosei, a Living National Treasure in bamboo craft, has earned acclaim for his aesthetic innovations and signature color transformation technique. He talks about his journey so far.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925014300 +0700" stop="20260925015500 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Tokyo Cut Glass</title>
+    <desc>Edo Kiriko cut glass techniques, passed from artisan to artisan for over 100 years. More women who now pursue the craft create popular new designs.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925015500 +0700" stop="20260925020000 +0700">
     <title>Ukiyoe EDO-LIFE: Good or Evil Soul</title>
@@ -27993,19 +27995,19 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925033000 +0700" stop="20260925040000 +0700">
     <title>Japan Railway Journal</title>
-    <desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <desc>Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925040000 +0700" stop="20260925043000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925043000 +0700" stop="20260925045300 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>The Business Keyhole</title>
+    <desc>From the rapid growth of the recovery wear market to "forbidden foods" loaded with guilty-pleasure goodness, why are some products booming in Japan in spite of the inflation? Join us to find out!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925045300 +0700" stop="20260925050000 +0700">
-    <title>Short Program</title>
-    <desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title>JAPAN DELISH 5min.</title>
+    <desc>Curry rice, one of Japan's most iconic national dishes. How did Jimbocho, Tokyo become a curry town?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925050000 +0700" stop="20260925053000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28013,7 +28015,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925053000 +0700" stop="20260925060000 +0700">
     <title>Core Kyoto</title>
-    <desc>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.</desc>
+    <desc>Bonfires are lit on the mountains to guide ancestors back to the afterlife after their visit in August. This tradition connects the living and the dead through prayer and strengthens community bonds.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925060000 +0700" stop="20260925063000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28021,7 +28023,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925063000 +0700" stop="20260925065700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 24, Day 12 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925065700 +0700" stop="20260925070000 +0700">
     <title>Sumopedia</title>
@@ -28032,8 +28034,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925073000 +0700" stop="20260925080000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Japan in Focus</title>
+    <desc>A snowy town in northern Japan with a declining birthrate and aging population is in the spotlight for its efforts to revitalize the community by involving locals in children's education.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925080000 +0700" stop="20260925083000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28041,15 +28043,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925083000 +0700" stop="20260925090000 +0700">
     <title>Asia Insight</title>
-    <desc>In the Philippines, a lengthy COVID-19 lockdown sparked unemployment that broke families apart. One theater troupe offers sanctuary to kids who support each other through life's hardships.</desc>
+    <desc>Many Mongolian children dream of changing their family's lives by becoming a pro sumo wrestler in Japan. We meet the members of a school sumo club as they prepare for a national tournament.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925090000 +0700" stop="20260925093000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925093000 +0700" stop="20260925095700 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Treasure Box Japan: Aichi</title>
+    <desc>Five Aichi festivals are recorded on UNESCO's Intangible Cultural Heritage list. The people who keep them going share their struggles and triumphs, and how they hope to pass them on 100 years hence.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925095700 +0700" stop="20260925100000 +0700">
     <title>The Masterpieces of Tsutaju</title>
@@ -28061,7 +28063,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925103000 +0700" stop="20260925110000 +0700">
     <title>Japan Railway Journal</title>
-    <desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <desc>Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925110000 +0700" stop="20260925113000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28069,7 +28071,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925113000 +0700" stop="20260925115700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 24, Day 12 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925115700 +0700" stop="20260925120000 +0700">
     <title>Sumopedia</title>
@@ -28080,8 +28082,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925123000 +0700" stop="20260925130000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Japan in Focus</title>
+    <desc>A snowy town in northern Japan with a declining birthrate and aging population is in the spotlight for its efforts to revitalize the community by involving locals in children's education.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925130000 +0700" stop="20260925133000 +0700">
     <title>NEWSLINE ASIA 24</title>
@@ -28089,15 +28091,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925133000 +0700" stop="20260925140000 +0700">
     <title>Asia Insight</title>
-    <desc>In the Philippines, a lengthy COVID-19 lockdown sparked unemployment that broke families apart. One theater troupe offers sanctuary to kids who support each other through life's hardships.</desc>
+    <desc>Many Mongolian children dream of changing their family's lives by becoming a pro sumo wrestler in Japan. We meet the members of a school sumo club as they prepare for a national tournament.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925140000 +0700" stop="20260925143000 +0700">
     <title>NEWSLINE ASIA 24</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925143000 +0700" stop="20260925145700 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Treasure Box Japan: Aichi</title>
+    <desc>Five Aichi festivals are recorded on UNESCO's Intangible Cultural Heritage list. The people who keep them going share their struggles and triumphs, and how they hope to pass them on 100 years hence.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925145700 +0700" stop="20260925150000 +0700">
     <title>The Masterpieces of Tsutaju</title>
@@ -28109,7 +28111,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925153000 +0700" stop="20260925155700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 24, Day 12 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925155700 +0700" stop="20260925160000 +0700">
     <title>Sumopedia</title>
@@ -28121,15 +28123,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925163000 +0700" stop="20260925170000 +0700">
     <title>Japan Railway Journal</title>
-    <desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <desc>Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925170000 +0700" stop="20260925173000 +0700">
     <title>NHK NEWS 7</title>
     <desc>NEWS 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925173000 +0700" stop="20260925180000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Japan in Focus</title>
+    <desc>A snowy town in northern Japan with a declining birthrate and aging population is in the spotlight for its efforts to revitalize the community by involving locals in children's education.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925180000 +0700" stop="20260925182800 +0700">
     <title>NEWSROOM TOKYO</title>
@@ -28137,11 +28139,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925182800 +0700" stop="20260925184300 +0700">
     <title>Direct Talk</title>
-    <desc>Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc>Artist Suzuki Tsukasa has been holding painting workshops for children in Rwanda since 2019. He talks about his commitment to purchasing their artwork to encourage them to forge their own path.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925184300 +0700" stop="20260925185500 +0700">
     <title>IMPACTS: Climates Change the World</title>
-    <desc>The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc>Droughts, floods, wildfires... We look at the latest research on Hydroclimate Whiplash, a new climate risk in which extreme weather events alternate in a short time, exacerbating natural disasters.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925185500 +0700" stop="20260925190000 +0700">
     <title>Chatroom Japan</title>
@@ -28153,15 +28155,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925193000 +0700" stop="20260925200000 +0700">
     <title>Asia Insight</title>
-    <desc>In the Philippines, a lengthy COVID-19 lockdown sparked unemployment that broke families apart. One theater troupe offers sanctuary to kids who support each other through life's hardships.</desc>
+    <desc>Many Mongolian children dream of changing their family's lives by becoming a pro sumo wrestler in Japan. We meet the members of a school sumo club as they prepare for a national tournament.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925200000 +0700" stop="20260925203000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925203000 +0700" stop="20260925205700 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Treasure Box Japan: Aichi</title>
+    <desc>Five Aichi festivals are recorded on UNESCO's Intangible Cultural Heritage list. The people who keep them going share their struggles and triumphs, and how they hope to pass them on 100 years hence.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925205700 +0700" stop="20260925210000 +0700">
     <title>The Masterpieces of Tsutaju</title>
@@ -28173,15 +28175,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925213000 +0700" stop="20260925220000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925220000 +0700" stop="20260925223000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925223000 +0700" stop="20260925230000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Japan in Focus</title>
+    <desc>A snowy town in northern Japan with a declining birthrate and aging population is in the spotlight for its efforts to revitalize the community by involving locals in children's education.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925230000 +0700" stop="20260925233000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28189,7 +28191,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260925233000 +0700" stop="20260925235700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 25, Day 13 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260925235700 +0700" stop="20260926000000 +0700">
     <title>Sumopedia</title>
@@ -28201,7 +28203,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926003000 +0700" stop="20260926010000 +0700">
     <title>Asia Insight</title>
-    <desc>In the Philippines, a lengthy COVID-19 lockdown sparked unemployment that broke families apart. One theater troupe offers sanctuary to kids who support each other through life's hardships.</desc>
+    <desc>Many Mongolian children dream of changing their family's lives by becoming a pro sumo wrestler in Japan. We meet the members of a school sumo club as they prepare for a national tournament.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926010000 +0700" stop="20260926012800 +0700">
     <title>NEWSROOM TOKYO</title>
@@ -28209,11 +28211,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926012800 +0700" stop="20260926014300 +0700">
     <title>Direct Talk</title>
-    <desc>Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc>Artist Suzuki Tsukasa has been holding painting workshops for children in Rwanda since 2019. He talks about his commitment to purchasing their artwork to encourage them to forge their own path.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926014300 +0700" stop="20260926015500 +0700">
     <title>IMPACTS: Climates Change the World</title>
-    <desc>The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc>Droughts, floods, wildfires... We look at the latest research on Hydroclimate Whiplash, a new climate risk in which extreme weather events alternate in a short time, exacerbating natural disasters.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926015500 +0700" stop="20260926020000 +0700">
     <title>Ukiyoe EDO-LIFE: Mt. Fuji's Faces</title>
@@ -28224,8 +28226,8 @@
     <desc>Adult spinal deformity (ASD) can develop due to age-related muscle loss or osteoporosis. We introduce ways to improve ASD through exercise therapy and explore AI-based efforts for early detection.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926023000 +0700" stop="20260926025700 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Treasure Box Japan: Aichi</title>
+    <desc>Five Aichi festivals are recorded on UNESCO's Intangible Cultural Heritage list. The people who keep them going share their struggles and triumphs, and how they hope to pass them on 100 years hence.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926025700 +0700" stop="20260926030000 +0700">
     <title>The Masterpieces of Tsutaju</title>
@@ -28237,15 +28239,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926033000 +0700" stop="20260926040000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926040000 +0700" stop="20260926043000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926043000 +0700" stop="20260926050000 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Japan in Focus</title>
+    <desc>A snowy town in northern Japan with a declining birthrate and aging population is in the spotlight for its efforts to revitalize the community by involving locals in children's education.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926050000 +0700" stop="20260926053000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28253,7 +28255,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926053000 +0700" stop="20260926060000 +0700">
     <title>Asia Insight</title>
-    <desc>In the Philippines, a lengthy COVID-19 lockdown sparked unemployment that broke families apart. One theater troupe offers sanctuary to kids who support each other through life's hardships.</desc>
+    <desc>Many Mongolian children dream of changing their family's lives by becoming a pro sumo wrestler in Japan. We meet the members of a school sumo club as they prepare for a national tournament.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926060000 +0700" stop="20260926061000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28269,7 +28271,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926063000 +0700" stop="20260926065700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 25, Day 13 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926065700 +0700" stop="20260926070000 +0700">
     <title>Sumopedia</title>
@@ -28281,27 +28283,27 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926071000 +0700" stop="20260926080000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926080000 +0700" stop="20260926081000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926081000 +0700" stop="20260926090000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+    <title>Tibet's Icy Herding Journey</title>
+    <desc>The herders of Thoe Village uphold a long tradition of grazing their sheep at the distant Island of God, but the trek there requires them to guide 2,000 of the animals across a vast frozen lake.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926090000 +0700" stop="20260926091000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926091000 +0700" stop="20260926095500 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>The Professionals</title>
+    <desc>We follow French cuisine chef Kobayashi Kei, the first Japanese to earn three stars in France. Astounding the senses with the full potential of the ingredients, his dishes are praised as works of art.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926095500 +0700" stop="20260926100000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Core Kyoto mini</title>
+    <desc>Kyoto has many stores specializing in traditional snacks and treats, called Oyatsu. Some purveyors continue to use age-old ingredients and methods.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926100000 +0700" stop="20260926101000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28309,7 +28311,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926101000 +0700" stop="20260926104000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926104000 +0700" stop="20260926105000 +0700">
     <title>Story Land</title>
@@ -28337,7 +28339,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926113000 +0700" stop="20260926115700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 25, Day 13 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926115700 +0700" stop="20260926120000 +0700">
     <title>Sumopedia</title>
@@ -28348,8 +28350,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926121000 +0700" stop="20260926122500 +0700">
-    <title>BOSAI: Science that Can Save Your Life</title>
-    <desc>Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <title>BOSAI</title>
+    <desc>Explore how Japan uses artificial satellites and surface observation to quickly assess flood and earthquake damage, supporting disaster preparedness.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926122500 +0700" stop="20260926123000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
@@ -28365,23 +28367,23 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926131000 +0700" stop="20260926140000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926140000 +0700" stop="20260926141000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926141000 +0700" stop="20260926150000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+    <title>Tibet's Icy Herding Journey</title>
+    <desc>The herders of Thoe Village uphold a long tradition of grazing their sheep at the distant Island of God, but the trek there requires them to guide 2,000 of the animals across a vast frozen lake.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926150000 +0700" stop="20260926151000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926151000 +0700" stop="20260926160000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>GRAND SUMO LIVE</title>
+    <desc>NHK WORLD-JAPAN will broadcast GRAND SUMO September Tournament Day 14 action live from Tokyo, as top wrestlers have their fourteenth bouts of the 15-day contest.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926160000 +0700" stop="20260926161000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28389,7 +28391,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926161000 +0700" stop="20260926164000 +0700">
     <title>Design X Stories</title>
-    <desc>Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926164000 +0700" stop="20260926165000 +0700">
     <title>Story Land</title>
@@ -28404,20 +28406,20 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926171000 +0700" stop="20260926175500 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>The Professionals</title>
+    <desc>We follow French cuisine chef Kobayashi Kei, the first Japanese to earn three stars in France. Astounding the senses with the full potential of the ingredients, his dishes are praised as works of art.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926175500 +0700" stop="20260926180000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Core Kyoto mini</title>
+    <desc>Kyoto has many stores specializing in traditional snacks and treats, called Oyatsu. Some purveyors continue to use age-old ingredients and methods.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926180000 +0700" stop="20260926181000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926181000 +0700" stop="20260926182500 +0700">
-    <title>BOSAI: Science that Can Save Your Life</title>
-    <desc>Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <title>BOSAI</title>
+    <desc>Explore how Japan uses artificial satellites and surface observation to quickly assess flood and earthquake damage, supporting disaster preparedness.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926182500 +0700" stop="20260926183000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
@@ -28433,15 +28435,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926191000 +0700" stop="20260926200000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926200000 +0700" stop="20260926201000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926201000 +0700" stop="20260926210000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+    <title>Tibet's Icy Herding Journey</title>
+    <desc>The herders of Thoe Village uphold a long tradition of grazing their sheep at the distant Island of God, but the trek there requires them to guide 2,000 of the animals across a vast frozen lake.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926210000 +0700" stop="20260926211000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28449,7 +28451,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926211000 +0700" stop="20260926213500 +0700">
     <title>Darwin's Amazing Animals</title>
-    <desc>A natural history show that's a huge hit with families in Japan has gone global! The series explores the amazing and delightful stories of animals all around the world, including Japan.</desc>
+    <desc>Cheetah cubs face daunting survival odds on the African savanna. But their mothers go to great lengths to pass on the skills they'll need to fulfill their destiny as the world's fastest land animal.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926213500 +0700" stop="20260926214000 +0700">
     <title>Time-lapse Journey</title>
@@ -28467,13 +28469,9 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20260926221000 +0700" stop="20260926225500 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
-  </programme>
-  <programme channel="ch0000000000100001238" start="20260926225500 +0700" stop="20260926230000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20260926221000 +0700" stop="20260926230000 +0700">
+    <title>The Professionals</title>
+    <desc>We follow French cuisine chef Kobayashi Kei, the first Japanese to earn three stars in France. Astounding the senses with the full potential of the ingredients, his dishes are praised as works of art.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926230000 +0700" stop="20260926231000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28493,7 +28491,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260926233000 +0700" stop="20260926235700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 26, Day 14 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260926235700 +0700" stop="20260927000000 +0700">
     <title>Sumopedia</title>
@@ -28504,8 +28502,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927001000 +0700" stop="20260927002500 +0700">
-    <title>BOSAI: Science that Can Save Your Life</title>
-    <desc>Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <title>BOSAI</title>
+    <desc>Explore how Japan uses artificial satellites and surface observation to quickly assess flood and earthquake damage, supporting disaster preparedness.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927002500 +0700" stop="20260927003000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
@@ -28521,15 +28519,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927011000 +0700" stop="20260927020000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927020000 +0700" stop="20260927021000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927021000 +0700" stop="20260927030000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+    <title>Tibet's Icy Herding Journey</title>
+    <desc>The herders of Thoe Village uphold a long tradition of grazing their sheep at the distant Island of God, but the trek there requires them to guide 2,000 of the animals across a vast frozen lake.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927030000 +0700" stop="20260927031000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28537,7 +28535,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927031000 +0700" stop="20260927033500 +0700">
     <title>Darwin's Amazing Animals</title>
-    <desc>A natural history show that's a huge hit with families in Japan has gone global! The series explores the amazing and delightful stories of animals all around the world, including Japan.</desc>
+    <desc>Cheetah cubs face daunting survival odds on the African savanna. But their mothers go to great lengths to pass on the skills they'll need to fulfill their destiny as the world's fastest land animal.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927033500 +0700" stop="20260927034000 +0700">
     <title>Time-lapse Journey</title>
@@ -28555,29 +28553,29 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20260927041000 +0700" stop="20260927045500 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
-  </programme>
-  <programme channel="ch0000000000100001238" start="20260927045500 +0700" stop="20260927050000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20260927041000 +0700" stop="20260927050000 +0700">
+    <title>The Professionals</title>
+    <desc>We follow French cuisine chef Kobayashi Kei, the first Japanese to earn three stars in France. Astounding the senses with the full potential of the ingredients, his dishes are praised as works of art.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927050000 +0700" stop="20260927051000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20260927051000 +0700" stop="20260927060000 +0700">
-    <title>Time and Tide</title>
-    <desc>Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="ch0000000000100001238" start="20260927051000 +0700" stop="20260927054000 +0700">
+    <title>SAMURAI WISDOM KURODA KANBEI</title>
+    <desc>Whether outnumbered or laying siege to a seemingly impenetrable fortress, master strategist Kuroda Kanbei used his wits to win on the battlefield.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20260927054000 +0700" stop="20260927060000 +0700">
+    <title>Time-lapse Journey</title>
+    <desc>Experience the fascinating sights of the airports and transport hubs which connect Japan with the world. Time-lapse photography will show you how these places bustle with activity around the clock.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927060000 +0700" stop="20260927061000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927061000 +0700" stop="20260927062500 +0700">
-    <title>BOSAI: Science that Can Save Your Life</title>
-    <desc>Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <title>BOSAI</title>
+    <desc>Explore how Japan uses artificial satellites and surface observation to quickly assess flood and earthquake damage, supporting disaster preparedness.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927062500 +0700" stop="20260927063000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
@@ -28585,7 +28583,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927063000 +0700" stop="20260927065700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 26, Day 14 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927065700 +0700" stop="20260927070000 +0700">
     <title>Sumopedia</title>
@@ -28593,23 +28591,23 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927070000 +0700" stop="20260927080000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>Fu Yi-yao, world-renowned Chinese ink painter and Japan resident, is commissioned by Taiwan to create a work imbued with the power of art as tensions with China rise. What message does it convey?</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927080000 +0700" stop="20260927081000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927081000 +0700" stop="20260927090000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Nakai Seiya's Railway Journey</title>
+    <desc>Photographer Nakai Seiya travels three of Aichi's local railroads, capturing autumn scenery, a surprise steam locomotive, and local products along the way. Join us on a marvelous railway journey!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927090000 +0700" stop="20260927091000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927091000 +0700" stop="20260927094000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>tiny desk concerts JAPAN</title>
+    <desc>Akiko Yano,Will Lee(Ba),Chris Parker(Dr).The three legends bring their world-class musical personalities together, first meeting head-on and then falling into sync to create a one-of-a-kind ensemble.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927094000 +0700" stop="20260927095000 +0700">
     <title>Little Charo</title>
@@ -28629,11 +28627,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927101000 +0700" stop="20260927104000 +0700">
     <title>Face To Face</title>
-    <desc>Face To Face is a talk show with the people making a difference in Japanese society today. The show's host is Robert Campbell, who is an expert in Japanese literature and culture.</desc>
+    <desc>Pyrotechnician Isogai Naotaka has pioneered new forms of artistic expression through fireworks. He reveals the secrets of their beauty, and the Japanese aesthetic behind them.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927104000 +0700" stop="20260927110000 +0700">
     <title>The Wakey Show</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <desc>This episode features "Wakey's Door" on the vending machine, a Comedy Writers skit, "Mysterious Button," and the song, "Bloom!" performed by the Wakeys. It energizes kids.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927110000 +0700" stop="20260927111000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28649,7 +28647,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927113000 +0700" stop="20260927115700 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 26, Day 14 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927115700 +0700" stop="20260927120000 +0700">
     <title>Sumopedia</title>
@@ -28660,8 +28658,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927121000 +0700" stop="20260927122500 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Through the Kitchen Window</title>
+    <desc>An indigo dyer in Japan's Tokoname City blends her craft with the local sake, pottery and culinary traditions to unite the community.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927122500 +0700" stop="20260927123000 +0700">
     <title>Core Kyoto mini</title>
@@ -28680,8 +28678,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927131000 +0700" stop="20260927140000 +0700">
-    <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title>Hikikomori Pilgrimage</title>
+    <desc>Five young men from around Japan, once withdrawn from society - a phenomenon known as hikikomori - embark on a 1,200-kilometer pilgrimage around the island of Shikoku, on a journey of self-discovery.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927140000 +0700" stop="20260927141000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28696,8 +28694,8 @@
     <desc>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927143000 +0700" stop="20260927160000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>GRAND SUMO LIVE</title>
+    <desc>NHK WORLD-JAPAN will broadcast GRAND SUMO September Tournament Day 15 action live from Tokyo, as top wrestlers have their fifteenth bouts of the 15-day contest.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927160000 +0700" stop="20260927161000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28705,19 +28703,19 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927161000 +0700" stop="20260927164000 +0700">
     <title>Face To Face</title>
-    <desc>Face To Face is a talk show with the people making a difference in Japanese society today. The show's host is Robert Campbell, who is an expert in Japanese literature and culture.</desc>
+    <desc>Pyrotechnician Isogai Naotaka has pioneered new forms of artistic expression through fireworks. He reveals the secrets of their beauty, and the Japanese aesthetic behind them.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927164000 +0700" stop="20260927170000 +0700">
     <title>The Wakey Show</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <desc>This episode features "Wakey's Door" on the vending machine, a Comedy Writers skit, "Mysterious Button," and the song, "Bloom!" performed by the Wakeys. It energizes kids.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927170000 +0700" stop="20260927171000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927171000 +0700" stop="20260927174000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>tiny desk concerts JAPAN</title>
+    <desc>Akiko Yano,Will Lee(Ba),Chris Parker(Dr).The three legends bring their world-class musical personalities together, first meeting head-on and then falling into sync to create a one-of-a-kind ensemble.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927174000 +0700" stop="20260927175000 +0700">
     <title>Little Charo</title>
@@ -28736,8 +28734,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927181000 +0700" stop="20260927182500 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Through the Kitchen Window</title>
+    <desc>An indigo dyer in Japan's Tokoname City blends her craft with the local sake, pottery and culinary traditions to unite the community.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927182500 +0700" stop="20260927183000 +0700">
     <title>Core Kyoto mini</title>
@@ -28756,16 +28754,16 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927191000 +0700" stop="20260927200000 +0700">
-    <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title>Hikikomori Pilgrimage</title>
+    <desc>Five young men from around Japan, once withdrawn from society - a phenomenon known as hikikomori - embark on a 1,200-kilometer pilgrimage around the island of Shikoku, on a journey of self-discovery.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927200000 +0700" stop="20260927201000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927201000 +0700" stop="20260927210000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>Nakai Seiya's Railway Journey</title>
+    <desc>Photographer Nakai Seiya travels three of Aichi's local railroads, capturing autumn scenery, a surprise steam locomotive, and local products along the way. Join us on a marvelous railway journey!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927210000 +0700" stop="20260927211000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28773,19 +28771,19 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927211000 +0700" stop="20260927214000 +0700">
     <title>Face To Face</title>
-    <desc>Face To Face is a talk show with the people making a difference in Japanese society today. The show's host is Robert Campbell, who is an expert in Japanese literature and culture.</desc>
+    <desc>Pyrotechnician Isogai Naotaka has pioneered new forms of artistic expression through fireworks. He reveals the secrets of their beauty, and the Japanese aesthetic behind them.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927214000 +0700" stop="20260927220000 +0700">
     <title>The Wakey Show</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <desc>This episode features "Wakey's Door" on the vending machine, a Comedy Writers skit, "Mysterious Button," and the song, "Bloom!" performed by the Wakeys. It energizes kids.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927220000 +0700" stop="20260927221000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927221000 +0700" stop="20260927224000 +0700">
-    <title>NHK WORLD SELECTION</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>tiny desk concerts JAPAN</title>
+    <desc>Akiko Yano,Will Lee(Ba),Chris Parker(Dr).The three legends bring their world-class musical personalities together, first meeting head-on and then falling into sync to create a one-of-a-kind ensemble.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20260927224000 +0700" stop="20260927225000 +0700">
     <title>Little Charo</title>
@@ -28813,7 +28811,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20260927233000 +0700" stop="20260928000000 +0700">
     <title>GRAND SUMO Highlights</title>
-    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from ( ), Day ( ) of the Grand Sumo Tournament in ( ).</desc>
+    <desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 27, Day 15 of the Grand Sumo Tournament in Tokyo.</desc>
   </programme>
   <programme channel="ch0000000000100001244" start="20260923230300 +0700" stop="20260924000000 +0700">
     <title>East Asia Tonight</title>
@@ -35627,8 +35625,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260924190000 +0700" stop="20260924200000 +0700">
-    <title>Let's Focus</title>
-    <desc>Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title>Let's Focus: Has America Outgrown Two Parties?</title>
+    <desc>Josh Rushing, Briahna Joy Gray and Robby Soave examine whether Democrats and Republicans can still represent an increasingly divided American electorate.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260924200000 +0700" stop="20260924210000 +0700">
     <title>Newshour</title>
@@ -35639,8 +35637,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260924213000 +0700" stop="20260924220000 +0700">
-    <title>Al Jazeera Explains</title>
-    <desc>From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <title>Al Jazeera Explains: South Africa's politics of belonging</title>
+    <desc>From xenophobia in South Africa to US refugee policy for white South Africans, Al Jazeera Explains the politics of race, belonging and blame.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260924220000 +0700" stop="20260924230000 +0700">
     <title>Newshour</title>
@@ -35759,8 +35757,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260925153000 +0700" stop="20260925160000 +0700">
-    <title>Al Jazeera Explains</title>
-    <desc>From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <title>Al Jazeera Explains: South Africa's politics of belonging</title>
+    <desc>From xenophobia in South Africa to US refugee policy for white South Africans, Al Jazeera Explains the politics of race, belonging and blame.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260925160000 +0700" stop="20260925163000 +0700">
     <title>News Live</title>
@@ -35832,12 +35830,12 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260926023000 +0700" stop="20260926030000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>How vulnerable is the global energy market as conflict puts main supply routes under pressure?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260926030000 +0700" stop="20260926040000 +0700">
-    <title>Let's Focus</title>
-    <desc>Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title>Let's Focus: Has America Outgrown Two Parties?</title>
+    <desc>Josh Rushing, Briahna Joy Gray and Robby Soave examine whether Democrats and Republicans can still represent an increasingly divided American electorate.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260926040000 +0700" stop="20260926050000 +0700">
     <title>Newshour</title>
@@ -35917,7 +35915,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260926153000 +0700" stop="20260926160000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>How vulnerable is the global energy market as conflict puts main supply routes under pressure?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260926160000 +0700" stop="20260926163000 +0700">
@@ -36008,7 +36006,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260927053000 +0700" stop="20260927060000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Palestinian politician Mustafa Barghouti discusses U.S. arms transfers to Israel, Palestinian elections, and Israel's settlement push in the West Bank.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260927060000 +0700" stop="20260927063000 +0700">
     <title>News Live</title>
@@ -36045,7 +36043,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260927113000 +0700" stop="20260927120000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>How vulnerable is the global energy market as conflict puts main supply routes under pressure?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260927120000 +0700" stop="20260927123000 +0700">
@@ -36085,7 +36083,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260927163000 +0700" stop="20260927170000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Palestinian politician Mustafa Barghouti discusses U.S. arms transfers to Israel, Palestinian elections, and Israel's settlement push in the West Bank.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260927170000 +0700" stop="20260927180000 +0700">
     <title>Newshour</title>
@@ -41709,6 +41707,14 @@
   <programme channel="ch0000000000100001358" start="20260927210000 +0700" stop="20260927220000 +0700">
     <title>Gugak The Music Of Korea Ep.140</title>
     <desc>GENERAL</desc>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20260927220000 +0700" stop="20260927230000 +0700">
+    <title>Arirang Prime Ep.249</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20260927230000 +0700" stop="20260928000000 +0700">
+    <title>Gugak The Music Of Korea Ep.139</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001360" start="20260923231500 +0700" stop="20260924000000 +0700">
@@ -53843,23 +53849,23 @@
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924142000 +0700" stop="20260924173000 +0700">
+  <programme channel="ch0000000000100002181" start="20260924142000 +0700" stop="20260924173500 +0700">
     <title>Champions League: Manchester City vs Real Madrid 23/24</title>
     <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924173000 +0700" stop="20260924184500 +0700">
+  <programme channel="ch0000000000100002181" start="20260924173500 +0700" stop="20260924185000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924184500 +0700" stop="20260924210000 +0700">
+  <programme channel="ch0000000000100002181" start="20260924185000 +0700" stop="20260924210500 +0700">
     <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
     <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924210000 +0700" stop="20260924231500 +0700">
+  <programme channel="ch0000000000100002181" start="20260924210500 +0700" stop="20260924232000 +0700">
     <title>Liga 26/27: Espanyol vs Real Madrid</title>
     <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260924231500 +0700" stop="20260925013000 +0700">
+  <programme channel="ch0000000000100002181" start="20260924232000 +0700" stop="20260925013000 +0700">
     <title>Liga 26/27: Real Madrid vs Málaga</title>
     <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
@@ -53871,11 +53877,11 @@
     <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
     <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260925033000 +0700" stop="20260925054500 +0700">
+  <programme channel="ch0000000000100002181" start="20260925033000 +0700" stop="20260925055000 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260925054500 +0700" stop="20260925080000 +0700">
+  <programme channel="ch0000000000100002181" start="20260925055000 +0700" stop="20260925080000 +0700">
     <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
     <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
   </programme>
@@ -53927,37 +53933,133 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260926011500 +0700" stop="20260926034500 +0700">
+  <programme channel="ch0000000000100002181" start="20260926011500 +0700" stop="20260926035000 +0700">
     <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
     <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260926034500 +0700" stop="20260926040000 +0700">
+  <programme channel="ch0000000000100002181" start="20260926035000 +0700" stop="20260926040500 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260926040000 +0700" stop="20260926050000 +0700">
+  <programme channel="ch0000000000100002181" start="20260926040500 +0700" stop="20260926050500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260926050000 +0700" stop="20260926071000 +0700">
+  <programme channel="ch0000000000100002181" start="20260926050500 +0700" stop="20260926071000 +0700">
     <title>Classic Matches: 2000 UCL Final  (8th) La Octava</title>
     <desc>Champions League Final 99/00.Watch Real Madrid's eighth Champions League triumph against Valencia in Paris.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260926071000 +0700" stop="20260926072500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  <programme channel="ch0000000000100002181" start="20260926071000 +0700" stop="20260926081500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260926072500 +0700" stop="20260926110000 +0700">
-    <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
-    <desc>It's the Champions League winners vs the Europa League winners.</desc>
+  <programme channel="ch0000000000100002181" start="20260926081500 +0700" stop="20260926103000 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs PSG</title>
+    <desc>Matchday 1 of the Women´s Champions League.Real Madrid host PSG in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926103000 +0700" stop="20260926110000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20260926110000 +0700" stop="20260926111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20260926111500 +0700" stop="20260926130000 +0700">
+  <programme channel="ch0000000000100002181" start="20260926111500 +0700" stop="20260926132500 +0700">
     <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
     <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926132500 +0700" stop="20260926144000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926144000 +0700" stop="20260926150500 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926150500 +0700" stop="20260926172000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926172000 +0700" stop="20260926193500 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926193500 +0700" stop="20260926200000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926200000 +0700" stop="20260926211500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260926211500 +0700" stop="20260927000000 +0700">
+    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
+    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927000000 +0700" stop="20260927011500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927011500 +0700" stop="20260927013000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927013000 +0700" stop="20260927020000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927020000 +0700" stop="20260927041500 +0700">
+    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927041500 +0700" stop="20260927064500 +0700">
+    <title>Supercopa de España 2022: Athletic Club vs Real Madrid</title>
+    <desc>Final Supercopa de España 2022 Athletic Club vs Real Madrid</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927064500 +0700" stop="20260927070000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927070000 +0700" stop="20260927071500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927071500 +0700" stop="20260927094500 +0700">
+    <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
+    <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927094500 +0700" stop="20260927110000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927110000 +0700" stop="20260927111500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927111500 +0700" stop="20260927143000 +0700">
+    <title>Champions League: Manchester City vs Real Madrid 23/24</title>
+    <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927143000 +0700" stop="20260927164500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927164500 +0700" stop="20260927190000 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927190000 +0700" stop="20260927210500 +0700">
+    <title>European Super Cup 2002:  Real Madrid vs Feyenoord</title>
+    <desc>Real Madrid´s perfomance from Roberto Carlos, Zidane and Figo.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927210500 +0700" stop="20260927232000 +0700">
+    <title>Liga 26/27: Real Madrid vs Málaga</title>
+    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20260927232000 +0700" stop="20260928013000 +0700">
+    <title>Liga 26/27: Elche vs Real Madrid</title>
+    <desc>Matchday 6 of Liga. Real Madrid face Elche in the Manuel Martínez Valero Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20260923234000 +0700" stop="20260924024500 +0700">
     <title lang="th">รีรัน: นิวยอร์ก ไจแอนท์ส พบ ลอสแอนเจลิส แรมส์</title>
@@ -58957,8 +59059,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20260925120000 +0700" stop="20260925140000 +0700">
-    <title lang="th">LIVE: เซปักตะกร้อทีมหญิง - รอบชิงเหรียญทอง: ไทย พบ มาเลเซีย</title>
-    <title lang="en">LIVE: Women's Team Sepak Takraw - Gold Medal Game: Thailand vs Malaysia</title>
+    <title lang="th">LIVE: เซปักตะกร้อทีมชาย - รอบชิงเหรียญทอง: ไทย พบ มาเลเซีย</title>
+    <title lang="en">LIVE: Men's Team Sepak Takraw - Gold Medal Game: Thailand vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59124,19 +59226,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260925141500 +0700" stop="20260925160000 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20260925160000 +0700" stop="20260925170000 +0700">
+  <programme channel="ch0000000000100002782" start="20260925141500 +0700" stop="20260925150000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: อินเดีย พบ ไทย</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: India vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260925170000 +0700" stop="20260925173000 +0700">
+  <programme channel="ch0000000000100002782" start="20260925150000 +0700" stop="20260925173000 +0700">
     <title lang="th">LIVE: ยกน้ำหนักหญิง - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Women's Weightlifting - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59328,15 +59424,9 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260925100000 +0700" stop="20260925113000 +0700">
+  <programme channel="ch0000000000100002784" start="20260925100000 +0700" stop="20260925130000 +0700">
     <title lang="th">LIVE: เบสบอลชาย - แบ่งกลุ่ม: ฟิลิปปินส์ พบ ไทย</title>
     <title lang="en">LIVE: Men's Baseball - Group: Philippines vs Thailand</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002784" start="20260925113000 +0700" stop="20260925130000 +0700">
-    <title lang="th">เริ่ม 13:00 บาสเกตบอลหญิง - รอบรองฯ เกาหลีใต้ พบ จีน</title>
-    <title lang="en">Upcoming at 01:00PM Women's Basketball - Semi Finals South Korea vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59346,13 +59436,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260925160000 +0700" stop="20260925190000 +0700">
+  <programme channel="ch0000000000100002784" start="20260925160000 +0700" stop="20260925170000 +0700">
+    <title lang="th">เริ่ม 17:00 บาสเกตบอลหญิง - รอบรองฯ ญี่ปุ่น พบ จีนไทเป</title>
+    <title lang="en">Upcoming at 05:00PM Women's Basketball - Semi Finals Japan vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260925170000 +0700" stop="20260925200000 +0700">
     <title lang="th">LIVE: บาสเกตบอลหญิง - รอบรองฯ: ญี่ปุ่น พบ จีนไทเป</title>
     <title lang="en">LIVE: Women's Basketball - Semi Finals: Japan vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260925190000 +0700" stop="20260925235959 +0700">
+  <programme channel="ch0000000000100002784" start="20260925200000 +0700" stop="20260925235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59534,7 +59630,7 @@
   </programme>
   <programme channel="ch0000000000100002785" start="20260925121500 +0700" stop="20260925122500 +0700">
     <title lang="th">เริ่ม 12:25 บาสเกตบอล (3x3)ชาย - รอบรองฯ กาตาร์ พบ อิหร่าน</title>
-    <title lang="en">Upcoming at 12:25AM Men's Basketball (3x3) - Semi Finals Qatar vs Iran</title>
+    <title lang="en">Upcoming at 12:25PM Men's Basketball (3x3) - Semi Finals Qatar vs Iran</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59557,32 +59653,32 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260925150000 +0700" stop="20260925160000 +0700">
-    <title lang="th">เริ่ม 16:00 บาสเกตบอล (3x3)หญิง - รอบชิงเหรียญทองแดง</title>
-    <title lang="en">Upcoming at 04:00PM Women's Basketball (3x3) - Bronze Medal Game</title>
+    <title lang="th">เริ่ม 16:00 บาสเกตบอล (3x3)หญิง - รอบชิงเหรียญทองแดง เกาหลีใต้ พบ ไทย</title>
+    <title lang="en">Upcoming at 04:00PM Women's Basketball (3x3) - Bronze Medal Game South Korea vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260925160000 +0700" stop="20260925163000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบชิงเหรียญทองแดง</title>
-    <title lang="en">LIVE: Women's Basketball (3x3) - Bronze Medal Game</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบชิงเหรียญทองแดง: เกาหลีใต้ พบ ไทย</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Bronze Medal Game: South Korea vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260925163000 +0700" stop="20260925170000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบชิงเหรียญทองแดง</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Bronze Medal Game</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบชิงเหรียญทองแดง: ฟิลิปปินส์ พบ อิหร่าน</title>
+    <title lang="en">LIVE: Men's Basketball (3x3) - Bronze Medal Game: Philippines vs Iran</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260925170000 +0700" stop="20260925173000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Women's Basketball (3x3) - Gold Medal Game</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)หญิง - รอบชิงเหรียญทอง: ญี่ปุ่น พบ ฟิลิปปินส์</title>
+    <title lang="en">LIVE: Women's Basketball (3x3) - Gold Medal Game: Japan vs Philippines</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002785" start="20260925173000 +0700" stop="20260925180000 +0700">
-    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Men's Basketball (3x3) - Gold Medal Game</title>
+    <title lang="th">LIVE: บาสเกตบอล (3x3)ชาย - รอบชิงเหรียญทอง: เกาหลีใต้ พบ กาตาร์</title>
+    <title lang="en">LIVE: Men's Basketball (3x3) - Gold Medal Game: South Korea vs Qatar</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59652,73 +59748,85 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925084500 +0700" stop="20260925103000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925084500 +0700" stop="20260925093000 +0700">
     <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: ไทย พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Thailand vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925103000 +0700" stop="20260925113000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925093000 +0700" stop="20260925103000 +0700">
     <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบแรก: เวียดนาม พบ บาห์เรน</title>
     <title lang="en">LIVE: Men's Singles Badminton - Round 1: Vietnam vs Bahrain</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925113000 +0700" stop="20260925123000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925103000 +0700" stop="20260925110000 +0700">
     <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบแรก: จีนไทเป พบ มาเลเซีย</title>
     <title lang="en">LIVE: Women's Singles Badminton - Round 1: Chinese Taipei vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925123000 +0700" stop="20260925133000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925110000 +0700" stop="20260925120000 +0700">
     <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบแรก: มองโกเลีย พบ จีนไทเป</title>
     <title lang="en">LIVE: Men's Singles Badminton - Round 1: Mongolia vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925133000 +0700" stop="20260925160000 +0700">
-    <title lang="th">เริ่ม 16:00 แบดมินตันชายคู่ - รอบแรก อินเดีย พบ ไทย</title>
-    <title lang="en">Upcoming at 04:00PM Men's Doubles Badminton - Round 1 India vs Thailand</title>
+  <programme channel="ch0000000000100002786" start="20260925120000 +0700" stop="20260925141500 +0700">
+    <title lang="th">เริ่ม 14:15 แบดมินตันชายคู่ - รอบแรก อินเดีย พบ ไทย</title>
+    <title lang="en">Upcoming at 02:15PM Men's Doubles Badminton - Round 1 India vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925160000 +0700" stop="20260925170000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925141500 +0700" stop="20260925150000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: อินเดีย พบ ไทย</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: India vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925170000 +0700" stop="20260925180000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925150000 +0700" stop="20260925164000 +0700">
+    <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบสอง: มาเลเซีย พบ เกาหลีใต้</title>
+    <title lang="en">LIVE: Mixed Doubles Badminton - Round 2: Malaysia vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20260925164000 +0700" stop="20260925172000 +0700">
     <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบแรก: อินโดนีเซีย พบ มาเลเซีย</title>
     <title lang="en">LIVE: Women's Doubles Badminton - Round 1: Indonesia vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925180000 +0700" stop="20260925190000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925172000 +0700" stop="20260925180000 +0700">
+    <title lang="th">เริ่ม 18:00 แบดมินตันชายคู่ - รอบแรก จีนไทเป พบ จีน</title>
+    <title lang="en">Upcoming at 06:00PM Men's Doubles Badminton - Round 1 Chinese Taipei vs China</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20260925180000 +0700" stop="20260925184000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: จีนไทเป พบ จีน</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: Chinese Taipei vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925190000 +0700" stop="20260925200000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925184000 +0700" stop="20260925192000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: มองโกเลีย พบ เวียดนาม</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: Mongolia vs Vietnam</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925200000 +0700" stop="20260925210000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925192000 +0700" stop="20260925200000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: ฮ่องกง พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: Hong Kong vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925210000 +0700" stop="20260925220000 +0700">
+  <programme channel="ch0000000000100002786" start="20260925200000 +0700" stop="20260925204500 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: อินเดีย พบ อินโดนีเซีย</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: India vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260925220000 +0700" stop="20260925235959 +0700">
+  <programme channel="ch0000000000100002786" start="20260925204500 +0700" stop="20260925235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59850,21 +59958,27 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260925150000 +0700" stop="20260925163000 +0700">
-    <title lang="th">เริ่ม 16:30 เทเบิลเทนนิสคู่ผสม - รอบรองฯ</title>
-    <title lang="en">Upcoming at 04:30PM Mixed Doubles Table Tennis - Semi Finals</title>
+  <programme channel="ch0000000000100002787" start="20260925150000 +0700" stop="20260925153000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายคู่: จีน พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Men's Doubles Table Tennis - Round 3: China vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260925153000 +0700" stop="20260925163000 +0700">
+    <title lang="th">เริ่ม 16:30 เทเบิลเทนนิสคู่ผสม - รอบรองฯ อินเดีย พบ จีน</title>
+    <title lang="en">Upcoming at 04:30PM Mixed Doubles Table Tennis - Semi Finals India vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002787" start="20260925163000 +0700" stop="20260925171500 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิสคู่ผสม - รอบรองฯ</title>
-    <title lang="en">LIVE: Mixed Doubles Table Tennis - Semi Finals</title>
+    <title lang="th">LIVE: เทเบิลเทนนิสคู่ผสม - รอบรองฯ: อินเดีย พบ จีน</title>
+    <title lang="en">LIVE: Mixed Doubles Table Tennis - Semi Finals: India vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002787" start="20260925171500 +0700" stop="20260925180000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิสคู่ผสม - รอบรองฯ</title>
-    <title lang="en">LIVE: Mixed Doubles Table Tennis - Semi Finals</title>
+    <title lang="th">LIVE: เทเบิลเทนนิสคู่ผสม - รอบรองฯ: เกาหลีใต้ พบ จีน</title>
+    <title lang="en">LIVE: Mixed Doubles Table Tennis - Semi Finals: South Korea vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59965,14 +60079,14 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260925090000 +0700" stop="20260925120000 +0700">
-    <title lang="th">เริ่ม 12:00 เซปักตะกร้อทีมหญิง - รอบชิงเหรียญทอง ไทย พบ มาเลเซีย</title>
-    <title lang="en">Upcoming at 12:00AM Women's Team Sepak Takraw - Gold Medal Game Thailand vs Malaysia</title>
+    <title lang="th">เริ่ม 12:00 เซปักตะกร้อทีมชาย - รอบชิงเหรียญทอง ไทย พบ มาเลเซีย</title>
+    <title lang="en">Upcoming at 12:00PM Men's Team Sepak Takraw - Gold Medal Game Thailand vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002788" start="20260925120000 +0700" stop="20260925140000 +0700">
-    <title lang="th">LIVE: เซปักตะกร้อทีมหญิง - รอบชิงเหรียญทอง: ไทย พบ มาเลเซีย</title>
-    <title lang="en">LIVE: Women's Team Sepak Takraw - Gold Medal Game: Thailand vs Malaysia</title>
+    <title lang="th">LIVE: เซปักตะกร้อทีมชาย - รอบชิงเหรียญทอง: ไทย พบ มาเลเซีย</title>
+    <title lang="en">LIVE: Men's Team Sepak Takraw - Gold Medal Game: Thailand vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -60288,115 +60402,97 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925073000 +0700" stop="20260925083000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925073000 +0700" stop="20260925080000 +0700">
     <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: เวียดนาม พบ มาเก๊า</title>
     <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Vietnam vs Macau</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925083000 +0700" stop="20260925093000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925080000 +0700" stop="20260925083000 +0700">
     <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: เนปาล พบ จีนไทเป</title>
     <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Nepal vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925090000 +0700" stop="20260925100000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925083000 +0700" stop="20260925090000 +0700">
     <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: ฮ่องกง พบ มาเก๊า</title>
     <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Hong Kong vs Macau</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002791" start="20260925090000 +0700" stop="20260925093000 +0700">
+    <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: ญี่ปุ่น พบ มองโกเลีย</title>
+    <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Japan vs Mongolia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002791" start="20260925093000 +0700" stop="20260925103000 +0700">
-    <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: ฮ่องกง พบ มาเก๊า</title>
-    <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Hong Kong vs Macau</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260925100000 +0700" stop="20260925110000 +0700">
-    <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: ญี่ปุ่น พบ มองโกเลีย</title>
-    <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Japan vs Mongolia</title>
+    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบแรก: คาซัคสถาน พบ ปากีสถาน</title>
+    <title lang="en">LIVE: Men's Singles Badminton - Round 1: Kazakhstan vs Pakistan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002791" start="20260925103000 +0700" stop="20260925113000 +0700">
-    <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบแรก: ญี่ปุ่น พบ มองโกเลีย</title>
-    <title lang="en">LIVE: Mixed Doubles Badminton - Round 1: Japan vs Mongolia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260925110000 +0700" stop="20260925120000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบแรก: คาซัคสถาน พบ ปากีสถาน</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 1: Kazakhstan vs Pakistan</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260925113000 +0700" stop="20260925123000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบแรก: คาซัคสถาน พบ ปากีสถาน</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 1: Kazakhstan vs Pakistan</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260925120000 +0700" stop="20260925130000 +0700">
     <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบแรก: เนปาล พบ ศรีลังกา</title>
     <title lang="en">LIVE: Men's Singles Badminton - Round 1: Nepal vs Sri Lanka</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925123000 +0700" stop="20260925133000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบแรก: เนปาล พบ ศรีลังกา</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 1: Nepal vs Sri Lanka</title>
+  <programme channel="ch0000000000100002791" start="20260925113000 +0700" stop="20260925140000 +0700">
+    <title lang="th">เริ่ม 14:00 แบดมินตันคู่ผสม - รอบสอง ฮ่องกง พบ จีน</title>
+    <title lang="en">Upcoming at 02:00PM Mixed Doubles Badminton - Round 2 Hong Kong vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925130000 +0700" stop="20260925160000 +0700">
-    <title lang="th">เริ่ม 16:00 แบดมินตันหญิงคู่ - รอบแรก ฮ่องกง พบ อินเดีย</title>
-    <title lang="en">Upcoming at 04:00PM Women's Doubles Badminton - Round 1 Hong Kong vs India</title>
+  <programme channel="ch0000000000100002791" start="20260925140000 +0700" stop="20260925150000 +0700">
+    <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบสอง: ฮ่องกง พบ จีน</title>
+    <title lang="en">LIVE: Mixed Doubles Badminton - Round 2: Hong Kong vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925133000 +0700" stop="20260925160000 +0700">
-    <title lang="th">เริ่ม 16:00 แบดมินตันหญิงคู่ - รอบแรก ฮ่องกง พบ อินเดีย</title>
-    <title lang="en">Upcoming at 04:00PM Women's Doubles Badminton - Round 1 Hong Kong vs India</title>
+  <programme channel="ch0000000000100002791" start="20260925150000 +0700" stop="20260925154500 +0700">
+    <title lang="th">LIVE: แบดมินตันคู่ผสม - รอบสอง: ญี่ปุ่น พบ อินโดนีเซีย</title>
+    <title lang="en">LIVE: Mixed Doubles Badminton - Round 2: Japan vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925160000 +0700" stop="20260925170000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925154500 +0700" stop="20260925170000 +0700">
     <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบแรก: ฮ่องกง พบ อินเดีย</title>
     <title lang="en">LIVE: Women's Doubles Badminton - Round 1: Hong Kong vs India</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925170000 +0700" stop="20260925180000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925170000 +0700" stop="20260925174000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: มาเลเซีย พบ จีนไทเป</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: Malaysia vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925180000 +0700" stop="20260925190000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925174000 +0700" stop="20260925182000 +0700">
     <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบแรก: จีนไทเป พบ มาเลเซีย</title>
     <title lang="en">LIVE: Women's Doubles Badminton - Round 1: Chinese Taipei vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925190000 +0700" stop="20260925200000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925182000 +0700" stop="20260925190000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: มาเก๊า พบ ฮ่องกง</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: Macau vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925200000 +0700" stop="20260925210000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925190000 +0700" stop="20260925194000 +0700">
     <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบแรก: เวียดนาม พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Doubles Badminton - Round 1: Vietnam vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925210000 +0700" stop="20260925220000 +0700">
+  <programme channel="ch0000000000100002791" start="20260925194000 +0700" stop="20260925202000 +0700">
     <title lang="th">LIVE: แบดมินตันชายคู่ - รอบแรก: คาซัคสถาน พบ บังกลาเทศ</title>
     <title lang="en">LIVE: Men's Doubles Badminton - Round 1: Kazakhstan vs Bangladesh</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260925220000 +0700" stop="20260925235959 +0700">
+  <programme channel="ch0000000000100002791" start="20260925202000 +0700" stop="20260925235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60553,14 +60649,20 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20260925090000 +0700" stop="20260925100000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชายหาดหญิง - รอบคัดเลือก: คาซัคสถาน พบ ฮ่องกง</title>
-    <title lang="en">LIVE: Women's Beach Volleyball - Preliminary: Kazakhstan vs Hong Kong</title>
+    <title lang="th">LIVE: วอลเลย์บอลชายหาดชาย - รอบคัดเลือก: คาซัคสถาน พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Men's Beach Volleyball - Preliminary: Kazakhstan vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260925100000 +0700" stop="20260925121500 +0700">
-    <title lang="th">เริ่ม 12:15 กาบัดดี้ทีมชาย - รอบรองฯ อินเดีย พบ ไทย</title>
-    <title lang="en">Upcoming at 12:15AM Men's Team Kabaddi - Semi Finals India vs Thailand</title>
+  <programme channel="ch0000000000100002801" start="20260925100000 +0700" stop="20260925110000 +0700">
+    <title lang="th">เริ่ม 11:00 กาบัดดี้ทีมหญิง - รอบรองฯ อินเดีย พบ เนปาล</title>
+    <title lang="en">Upcoming at 11:00AM Women's Team Kabaddi - Semi Finals India vs Nepal</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002801" start="20260925110000 +0700" stop="20260925121500 +0700">
+    <title lang="th">LIVE: กาบัดดี้ทีมหญิง - รอบรองฯ: อินเดีย พบ เนปาล</title>
+    <title lang="en">LIVE: Women's Team Kabaddi - Semi Finals: India vs Nepal</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -60758,7 +60860,7 @@
   </programme>
   <programme channel="ch0000000000100002812" start="20260925100000 +0700" stop="20260925120000 +0700">
     <title lang="th">เริ่ม 12:00 ฟุตบอลชาย - รอบก่อนรองฯ อุซเบกิสถาน พบ ซาอุดีอาระเบีย</title>
-    <title lang="en">Upcoming at 12:00AM Men's Football - Quarter Finals Uzbekistan vs Saudi Arabia</title>
+    <title lang="en">Upcoming at 12:00PM Men's Football - Quarter Finals Uzbekistan vs Saudi Arabia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
