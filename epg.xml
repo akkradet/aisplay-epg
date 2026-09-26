@@ -270,11 +270,6 @@
     <display-name lang="en">PLAY SPORTS 13</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163244022532.png"/>
   </channel>
-  <channel id="ch0000000000100002314">
-    <display-name lang="th">เพลย์สปอร์ต 14</display-name>
-    <display-name lang="en">PLAY SPORTS 14</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163300022533.png"/>
-  </channel>
   <channel id="ch0000000000100002331">
     <display-name lang="th">เพลย์สปอร์ต 19</display-name>
     <display-name lang="en">PLAY SPORTS 19</display-name>
@@ -299,11 +294,6 @@
     <display-name lang="th">เพลย์สปอร์ต 26</display-name>
     <display-name lang="en">PLAY SPORTS 26</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163611022543.png"/>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name lang="th">เพลย์สปอร์ต 27</display-name>
-    <display-name lang="en">PLAY SPORTS 27</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163624022544.png"/>
   </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
@@ -575,11 +565,56 @@
     <display-name lang="en">Asian Games 918</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png"/>
   </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
   </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
   <channel id="ch0000000000100002092">
     <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
   </channel>
   <channel id="ch0000000000100002323">
     <display-name>ch0000000000100002323</display-name>
@@ -587,158 +622,122 @@
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
   </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
   <channel id="ch0000000000100002541">
     <display-name>ch0000000000100002541</display-name>
   </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <channel id="ch0000000000100002321">
     <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260924231500 +0700" stop="20260925005500 +0700">
     <title>The Phoenician Scheme</title>
@@ -53099,6 +53098,286 @@
     <title lang="en">NFL Films Week 3</title>
     <category>NFL, American Football</category>
   </programme>
+  <programme channel="ch0000000000100002231" start="20260925230000 +0700" stop="20260926005959 +0700">
+    <title>Warta Siang09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926010000 +0700" stop="20260926015959 +0700">
+    <title>Pigura NTB09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926020000 +0700" stop="20260926025959 +0700">
+    <title>Daerah Membangun NTB09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926030000 +0700" stop="20260926035959 +0700">
+    <title>Salam dari Desa09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926040000 +0700" stop="20260926045959 +0700">
+    <title>Pelangi Desa NTB09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926050000 +0700" stop="20260926055959 +0700">
+    <title>Siaran Pendidikan09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926060000 +0700" stop="20260926065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926070000 +0700" stop="20260926075959 +0700">
+    <title>Sentuhan Sanubari09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926080000 +0700" stop="20260926085959 +0700">
+    <title>Sekolah Alam09.26</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926090000 +0700" stop="20260926095959 +0700">
+    <title>English News Service09.26</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926100000 +0700" stop="20260926105959 +0700">
+    <title>Jendela Dunia09.26</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926110000 +0700" stop="20260926115959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.26</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926120000 +0700" stop="20260926125959 +0700">
+    <title>Warta Malam09.26</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926130000 +0700" stop="20260926135959 +0700">
+    <title>Dialog UUD 194509.26</title>
+    <desc>117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926140000 +0700" stop="20260926145959 +0700">
+    <title>Bincang Malam09.26</title>
+    <desc>118</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926150000 +0700" stop="20260926155959 +0700">
+    <title>Warta Dunia09.26</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926160000 +0700" stop="20260926165959 +0700">
+    <title>Ring TVRI09.26</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926170000 +0700" stop="20260926175959 +0700">
+    <title>Album Kenangan09.26</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926180000 +0700" stop="20260926185959 +0700">
+    <title>WartaSiang09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926190000 +0700" stop="20260926195959 +0700">
+    <title>PiguraNTB09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926200000 +0700" stop="20260926205959 +0700">
+    <title>DaerahMembangun NTB09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926210000 +0700" stop="20260926215959 +0700">
+    <title>SalamdariDesa09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926220000 +0700" stop="20260926225959 +0700">
+    <title>PelangiDesaNTB09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260926230000 +0700" stop="20260927005959 +0700">
+    <title>SiaranPendidikan09.26</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927010000 +0700" stop="20260927015959 +0700">
+    <title>Pigura NTB09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927020000 +0700" stop="20260927025959 +0700">
+    <title>Daerah Membangun NTB09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927030000 +0700" stop="20260927035959 +0700">
+    <title>Salam dari Desa09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927040000 +0700" stop="20260927045959 +0700">
+    <title>Pelangi Desa NTB09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927050000 +0700" stop="20260927055959 +0700">
+    <title>Siaran Pendidikan09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927060000 +0700" stop="20260927065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927070000 +0700" stop="20260927075959 +0700">
+    <title>Sentuhan Sanubari09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927080000 +0700" stop="20260927085959 +0700">
+    <title>Sekolah Alam09.27</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927090000 +0700" stop="20260927095959 +0700">
+    <title>English News Service09.27</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927100000 +0700" stop="20260927105959 +0700">
+    <title>Jendela Dunia09.27</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927110000 +0700" stop="20260927115959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.27</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927120000 +0700" stop="20260927125959 +0700">
+    <title>Warta Malam09.27</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927130000 +0700" stop="20260927135959 +0700">
+    <title>Dialog UUD 194509.27</title>
+    <desc>117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927140000 +0700" stop="20260927145959 +0700">
+    <title>Bincang Malam09.27</title>
+    <desc>118</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927150000 +0700" stop="20260927155959 +0700">
+    <title>Warta Dunia09.27</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927160000 +0700" stop="20260927165959 +0700">
+    <title>Ring TVRI09.27</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927170000 +0700" stop="20260927175959 +0700">
+    <title>Album Kenangan09.27</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927180000 +0700" stop="20260927185959 +0700">
+    <title>WartaSiang09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927190000 +0700" stop="20260927195959 +0700">
+    <title>PiguraNTB09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927200000 +0700" stop="20260927205959 +0700">
+    <title>DaerahMembangun NTB09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927210000 +0700" stop="20260927215959 +0700">
+    <title>SalamdariDesa09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927220000 +0700" stop="20260927225959 +0700">
+    <title>PelangiDesaNTB09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260927230000 +0700" stop="20260928005959 +0700">
+    <title>SiaranPendidikan09.27</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928010000 +0700" stop="20260928015959 +0700">
+    <title>Pigura NTB09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928020000 +0700" stop="20260928025959 +0700">
+    <title>Daerah Membangun NTB09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928030000 +0700" stop="20260928035959 +0700">
+    <title>Salam dari Desa09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928040000 +0700" stop="20260928045959 +0700">
+    <title>Pelangi Desa NTB09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928050000 +0700" stop="20260928055959 +0700">
+    <title>Siaran Pendidikan09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928060000 +0700" stop="20260928065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928070000 +0700" stop="20260928075959 +0700">
+    <title>Sentuhan Sanubari09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928080000 +0700" stop="20260928085959 +0700">
+    <title>Sekolah Alam09.28</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928090000 +0700" stop="20260928095959 +0700">
+    <title>English News Service09.28</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928100000 +0700" stop="20260928105959 +0700">
+    <title>Jendela Dunia09.28</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928110000 +0700" stop="20260928115959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.28</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928120000 +0700" stop="20260928125959 +0700">
+    <title>Warta Malam09.28</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928130000 +0700" stop="20260928135959 +0700">
+    <title>Dialog UUD 194509.28</title>
+    <desc>117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928140000 +0700" stop="20260928145959 +0700">
+    <title>Bincang Malam09.28</title>
+    <desc>118</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928150000 +0700" stop="20260928155959 +0700">
+    <title>Warta Dunia09.28</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928160000 +0700" stop="20260928165959 +0700">
+    <title>Ring TVRI09.28</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928170000 +0700" stop="20260928175959 +0700">
+    <title>Album Kenangan09.28</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928180000 +0700" stop="20260928185959 +0700">
+    <title>WartaSiang09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928190000 +0700" stop="20260928195959 +0700">
+    <title>PiguraNTB09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928200000 +0700" stop="20260928205959 +0700">
+    <title>DaerahMembangun NTB09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928210000 +0700" stop="20260928215959 +0700">
+    <title>SalamdariDesa09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928220000 +0700" stop="20260928225959 +0700">
+    <title>PelangiDesaNTB09.28</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20260928230000 +0700" stop="20260929005959 +0700">
+    <title>SiaranPendidikan09.28</title>
+    <desc>111</desc>
+  </programme>
   <programme channel="ch0000000000100002251" start="20260924000000 +0700" stop="20260925000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -53451,32 +53730,12 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002321" start="20260926000000 +0700" stop="20260926153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 สิงห์บุรี พบ ทหารอากาศ</title>
-    <title lang="en">Kick Off 15.30 Singburi vs Royal Thai Air Force</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20260926153000 +0700" stop="20260926173000 +0700">
-    <title lang="th">LIVE: สิงห์บุรี วอร์ริเออร์ พบ ทหารอากาศ เอฟซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Singburi Warriors vs Royal Thai Air Force FC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20260926173000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002321" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002321" start="20260927000000 +0700" stop="20260927153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 ลพบุรี โพม่า พบ อ่างทอง</title>
-    <title lang="en">Kick Off 15.30 Lopburi Poma vs Angthong</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20260927153000 +0700" stop="20260927173000 +0700">
-    <title lang="th">LIVE: ลพบุรี โพม่า เอฟซี พบ อ่างทอง เอฟซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Lopburi Poma FC vs Angthong FC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20260927173000 +0700" stop="20260928000000 +0700">
+  <programme channel="ch0000000000100002321" start="20260927000000 +0700" stop="20260928000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53496,32 +53755,12 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20260926000000 +0700" stop="20260926153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 จามจุรี พบ ม. เกษมบัณฑิต</title>
-    <title lang="en">Kick Off 15.30 Chamchuri vs Kasembundit University</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20260926153000 +0700" stop="20260926173000 +0700">
-    <title lang="th">LIVE: จามจุรี ยูไนเต็ด พบ ม. เกษมบัณฑิต เอฟซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Chamchuri United vs Kasembundit University FC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20260926173000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002322" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20260927000000 +0700" stop="20260927153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 ฟูเทร่า พบ อยุธยา พีเค</title>
-    <title lang="en">Kick Off 15.30 Futera vs Ayutthaya PK</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20260927153000 +0700" stop="20260927173000 +0700">
-    <title lang="th">LIVE: ฟูเทร่า ยูไนเต็ด พบ อยุธยา พีเค เอฟซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Futera United vs Ayutthaya PK FC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20260927173000 +0700" stop="20260928000000 +0700">
+  <programme channel="ch0000000000100002322" start="20260927000000 +0700" stop="20260928000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53541,32 +53780,12 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002323" start="20260926000000 +0700" stop="20260926153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 ม. นอร์ทกรุงเทพ พบ บางกะปิ</title>
-    <title lang="en">Kick Off 15.30 North Bangkok University vs Bangkapi</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20260926153000 +0700" stop="20260926173000 +0700">
-    <title lang="th">LIVE: ม. นอร์ทกรุงเทพ พบ บางกะปิ เอฟซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: North Bangkok University vs Bangkapi FC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20260926173000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002323" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002323" start="20260927000000 +0700" stop="20260927153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 พราม แบงค็อก พบ ม. ปทุมธานี</title>
-    <title lang="en">Kick Off 15.30 Prime Bangkok vs Pathumthani</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20260927153000 +0700" stop="20260927173000 +0700">
-    <title lang="th">LIVE: พราม แบงค็อก พบ ม. ปทุมธานี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Prime Bangkok vs Pathumthani University (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20260927173000 +0700" stop="20260928000000 +0700">
+  <programme channel="ch0000000000100002323" start="20260927000000 +0700" stop="20260928000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53586,32 +53805,12 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002324" start="20260926000000 +0700" stop="20260926153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 อัสสัมชัญ พบ สมุทรสงคราม</title>
-    <title lang="en">Kick Off 15.30 Assumption vs Samutsongkhram</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20260926153000 +0700" stop="20260926173000 +0700">
-    <title lang="th">LIVE: อัสสัมชัญ ยูไนเต็ด พบ สมุทรสงคราม ซิตี้ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Assumption United vs Samutsongkhram City (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20260926173000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002324" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002324" start="20260927000000 +0700" stop="20260927153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 สโมสรฟุตบอลราชประชา พบ ธนบุรี</title>
-    <title lang="en">Kick Off 15.30 Rajphacha vs Thonburi</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20260927153000 +0700" stop="20260927173000 +0700">
-    <title lang="th">LIVE: สโมสรฟุตบอลราชประชา พบ ธนบุรี ยูไนเต็ด (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Rajphacha vs Thonburi United (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20260927173000 +0700" stop="20260928000000 +0700">
+  <programme channel="ch0000000000100002324" start="20260927000000 +0700" stop="20260928000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53631,17 +53830,7 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002325" start="20260926000000 +0700" stop="20260926170000 +0700">
-    <title lang="th">เริ่มเวลา 17.00 บูรพา พบ เอ็มเอ็นเค เอสซี</title>
-    <title lang="en">Kick Off 17.00 Burapha vs MNK SC</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002325" start="20260926170000 +0700" stop="20260926190000 +0700">
-    <title lang="th">LIVE: บูรพา ยูไนเต็ด พบ เอ็มเอ็นเค เอสซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Burapha United vs MNK SC (T3 Northeast - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002325" start="20260926190000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002325" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53721,32 +53910,12 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002327" start="20260926000000 +0700" stop="20260926180000 +0700">
-    <title lang="th">เริ่มเวลา 18.00 ฉะเชิงเทรา ไฮเทค พบ ปลวกแดง</title>
-    <title lang="en">Kick Off 18.00 Chachoengsao Hi-Tek vs Pluankdaeng</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002327" start="20260926180000 +0700" stop="20260926200000 +0700">
-    <title lang="th">LIVE: ฉะเชิงเทรา ไฮเทค เอฟซี พบ ปลวกแดง ยูไนเต็ด (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Chachoengsao Hi-Tek FC vs Pluankdaeng United (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002327" start="20260926200000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002327" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002327" start="20260927000000 +0700" stop="20260927163000 +0700">
-    <title lang="th">เริ่มเวลา 16.30 คัสตอม ยูไนเต็ด พบ สโมสรฟุตบอลกองเรือรบ</title>
-    <title lang="en">Kick Off 16.30 Customs vs Fleet</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002327" start="20260927163000 +0700" stop="20260927183000 +0700">
-    <title lang="th">LIVE: คัสตอม พบ สโมสรฟุตบอลกองเรือรบ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Customs United vs Fleet United (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002327" start="20260927183000 +0700" stop="20260928000000 +0700">
+  <programme channel="ch0000000000100002327" start="20260927000000 +0700" stop="20260928000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53766,17 +53935,7 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002328" start="20260926000000 +0700" stop="20260926180000 +0700">
-    <title lang="th">เริ่มเวลา 18.00 ทัพหลวง พบ สุพรรณบุรี</title>
-    <title lang="en">Kick Off 18.00 Thapluang vs Suphanburi</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002328" start="20260926180000 +0700" stop="20260926200000 +0700">
-    <title lang="th">LIVE: ทัพหลวง ยูไนเต็ด พบ สุพรรณบุรี เอฟซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Thapluang United vs Suphanburi FC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002328" start="20260926200000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002328" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53961,17 +54120,7 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002341" start="20260927000000 +0700" stop="20260927153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 ทหารบก พบ เพชรบุรี พีบีอาร์ยู</title>
-    <title lang="en">Kick Off 15.30 Royal Thai Army vs Phetchaburi Pbru</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002341" start="20260927153000 +0700" stop="20260927173000 +0700">
-    <title lang="th">LIVE: ทหารบก เอฟซี พบ เพชรบุรี พีบีอาร์ยู เอฟซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Royal Thai Army FC vs Phetchaburi Pbru FC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002341" start="20260927173000 +0700" stop="20260928000000 +0700">
+  <programme channel="ch0000000000100002341" start="20260927000000 +0700" stop="20260928000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53991,17 +54140,7 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002351" start="20260926000000 +0700" stop="20260926183000 +0700">
-    <title lang="th">เริ่มเวลา 18.30 บางกอก พบ สมุทรสาคร</title>
-    <title lang="en">Kick Off 18.30 Bangkok vs Samutsakhon</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002351" start="20260926183000 +0700" stop="20260926203000 +0700">
-    <title lang="th">LIVE: บางกอก เอฟซี พบ สมุทรสาคร ซิตี้ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Bangkok FC vs Samutsakhon City (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002351" start="20260926203000 +0700" stop="20260927000000 +0700">
+  <programme channel="ch0000000000100002351" start="20260926000000 +0700" stop="20260927000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -57638,7 +57777,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260926180000 +0700" stop="20260926235959 +0700">
+  <programme channel="ch0000000000100002781" start="20260926180000 +0700" stop="20260926203000 +0700">
+    <title lang="th">LIVE: กรีฑา ประเภทลู่และลาน - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Athletics Track &amp; Field - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260926203000 +0700" stop="20260926235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57836,19 +57981,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260926140000 +0700" stop="20260926172000 +0700">
+  <programme channel="ch0000000000100002783" start="20260926140000 +0700" stop="20260926183000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบสอง</title>
     <title lang="en">LIVE: Badminton - Round 2</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260926172000 +0700" stop="20260926200000 +0700">
-    <title lang="th">LIVE: บาสเกตบอลหญิง - รอบชิงเหรียญทอง: ญี่ปุ่น พบ เกาหลีใต้</title>
-    <title lang="en">LIVE: Women's Basketball - Gold Medal Game: Japan vs South Korea</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002783" start="20260926200000 +0700" stop="20260926235959 +0700">
+  <programme channel="ch0000000000100002783" start="20260926183000 +0700" stop="20260926235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58215,14 +58354,14 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002786" start="20260926000000 +0700" stop="20260926070000 +0700">
-    <title lang="th">เริ่ม 07:00 แบดมินตันชายเดี่ยว - รอบสอง อินโดนีเซีย พบ สิงคโปร์</title>
-    <title lang="en">Upcoming at 07:00AM Men's Singles Badminton - Round 2 Indonesia vs Singapore</title>
+    <title lang="th">เริ่ม 07:00 แบดมินตันชายเดี่ยว - รอบสอง อินเดีย พบ สิงคโปร์</title>
+    <title lang="en">Upcoming at 07:00AM Men's Singles Badminton - Round 2 India vs Singapore</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002786" start="20260926070000 +0700" stop="20260926074500 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสอง: อินโดนีเซีย พบ สิงคโปร์</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 2: Indonesia vs Singapore</title>
+    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสอง: อินเดีย พบ สิงคโปร์</title>
+    <title lang="en">LIVE: Men's Singles Badminton - Round 2: India vs Singapore</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58244,85 +58383,25 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260926100000 +0700" stop="20260926113000 +0700">
-    <title lang="th">เริ่ม 11:30 แบดมินตันชายเดี่ยว - รอบสอง ญี่ปุ่น พบ ฮ่องกง</title>
-    <title lang="en">Upcoming at 11:30AM Men's Singles Badminton - Round 2 Japan vs Hong Kong</title>
+  <programme channel="ch0000000000100002786" start="20260926100000 +0700" stop="20260926110000 +0700">
+    <title lang="th">เริ่ม 11:00 แบดมินตันชายเดี่ยว - รอบสอง ญี่ปุ่น พบ ฮ่องกง</title>
+    <title lang="en">Upcoming at 11:00AM Men's Singles Badminton - Round 2 Japan vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260926113000 +0700" stop="20260926121500 +0700">
+  <programme channel="ch0000000000100002786" start="20260926110000 +0700" stop="20260926153000 +0700">
     <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสอง: ญี่ปุ่น พบ ฮ่องกง</title>
     <title lang="en">LIVE: Men's Singles Badminton - Round 2: Japan vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260926121500 +0700" stop="20260926130000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสอง: จีนไทเป พบ ไทย</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 2: Chinese Taipei vs Thailand</title>
+  <programme channel="ch0000000000100002786" start="20260926153000 +0700" stop="20260926204500 +0700">
+    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสาม: อินโดนีเซีย พบ ศรีลังกา</title>
+    <title lang="en">LIVE: Men's Singles Badminton - Round 3: Indonesia vs Sri Lanka</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260926130000 +0700" stop="20260926134500 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสอง: อินเดีย พบ จีนไทเป</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 2: India vs Chinese Taipei</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926134500 +0700" stop="20260926143000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสอง: เกาหลีใต้ พบ จีน</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 2: South Korea vs China</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926143000 +0700" stop="20260926151500 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบสอง: จีน พบ เกาหลีใต้</title>
-    <title lang="en">LIVE: Women's Doubles Badminton - Round 2: China vs South Korea</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926151500 +0700" stop="20260926160000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายคู่ - รอบสอง: เกาหลีใต้ พบ มาเลเซีย</title>
-    <title lang="en">LIVE: Men's Doubles Badminton - Round 2: South Korea vs Malaysia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926160000 +0700" stop="20260926164500 +0700">
-    <title lang="th">LIVE: แบดมินตันชายคู่ - รอบสอง: ไทย พบ จีน</title>
-    <title lang="en">LIVE: Men's Doubles Badminton - Round 2: Thailand vs China</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926164500 +0700" stop="20260926173000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบสอง: ญี่ปุ่น พบ จีน</title>
-    <title lang="en">LIVE: Women's Doubles Badminton - Round 2: Japan vs China</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926173000 +0700" stop="20260926181500 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสาม</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 3</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926181500 +0700" stop="20260926190000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสาม</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 3</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926190000 +0700" stop="20260926194500 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสาม</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 3</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926194500 +0700" stop="20260926203000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสาม</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 3</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260926203000 +0700" stop="20260926235959 +0700">
+  <programme channel="ch0000000000100002786" start="20260926204500 +0700" stop="20260926235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58448,25 +58527,37 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260926093000 +0700" stop="20260926130000 +0700">
-    <title lang="th">เริ่ม 13:00 เทเบิลเทนนิสชายคู่ - รอบก่อนรองฯ</title>
-    <title lang="en">Upcoming at 01:00PM Men's Doubles Table Tennis - Quarter Finals</title>
+  <programme channel="ch0000000000100002787" start="20260926093000 +0700" stop="20260926101500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชาย - รอบสาม: จีน พบ เกาหลีเหนือ</title>
+    <title lang="en">LIVE: Men's Single Table Tennis - Round 3: China vs North Korea</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260926130000 +0700" stop="20260926160000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิสชายคู่ - รอบก่อนรองฯ</title>
-    <title lang="en">LIVE: Men's Doubles Table Tennis - Quarter Finals</title>
+  <programme channel="ch0000000000100002787" start="20260926101500 +0700" stop="20260926110000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชาย - รอบสาม: จีน พบ อินเดีย</title>
+    <title lang="en">LIVE: Men's Single Table Tennis - Round 3: China vs India</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260926160000 +0700" stop="20260926190000 +0700">
+  <programme channel="ch0000000000100002787" start="20260926110000 +0700" stop="20260926141500 +0700">
+    <title lang="th">เริ่ม 14:15 เทเบิลเทนนิสหญิงคู่ - รอบก่อนรองฯ เกาหลีใต้ พบ ไทย</title>
+    <title lang="en">Upcoming at 02:15PM Women's Doubles Table Tennis - Quarter Finals South Korea vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260926141500 +0700" stop="20260926153000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงคู่ - รอบก่อนรองฯ: เกาหลีใต้ พบ ไทย</title>
+    <title lang="en">LIVE: Women's Doubles Table Tennis - Quarter Finals: South Korea vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20260926153000 +0700" stop="20260926161500 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสหญิง - รอบก่อนรองฯ</title>
     <title lang="en">LIVE: Women's Single Table Tennis - Quarter Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260926190000 +0700" stop="20260926235959 +0700">
+  <programme channel="ch0000000000100002787" start="20260926161500 +0700" stop="20260926235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58910,109 +59001,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260926070000 +0700" stop="20260926074500 +0700">
+  <programme channel="ch0000000000100002791" start="20260926070000 +0700" stop="20260926184500 +0700">
     <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสอง: จีน พบ ฮ่องกง</title>
     <title lang="en">LIVE: Women's Singles Badminton - Round 2: China vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260926074500 +0700" stop="20260926083000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสอง: ไทย พบ เกาหลีเหนือ</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 2: Thailand vs North Korea</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926083000 +0700" stop="20260926091500 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสอง: บังกลาเทศ พบ จีนไทเป</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 2: Bangladesh vs Chinese Taipei</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926091500 +0700" stop="20260926100000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสอง: คาซัคสถาน พบ มาเก๊า</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 2: Kazakhstan vs Macau</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926100000 +0700" stop="20260926113000 +0700">
-    <title lang="th">เริ่ม 11:30 แบดมินตันหญิงเดี่ยว - รอบสอง อินเดีย พบ มาเลเซีย</title>
-    <title lang="en">Upcoming at 11:30AM Women's Singles Badminton - Round 2 India vs Malaysia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926113000 +0700" stop="20260926121500 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสอง: อินเดีย พบ มาเลเซีย</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 2: India vs Malaysia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926121500 +0700" stop="20260926130000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสอง: คาซัคสถาน พบ อินเดีย</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 2: Kazakhstan vs India</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926130000 +0700" stop="20260926134500 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสอง: อิหร่าน พบ ญี่ปุ่น</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 2: Iran vs Japan</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926134500 +0700" stop="20260926143000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสอง: ญี่ปุ่น พบ อินโดนีเซีย</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 2: Japan vs Indonesia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926143000 +0700" stop="20260926151500 +0700">
-    <title lang="th">LIVE: แบดมินตันชายคู่ - รอบสอง: ไทย พบ อินโดนีเซีย</title>
-    <title lang="en">LIVE: Men's Doubles Badminton - Round 2: Thailand vs Indonesia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926151500 +0700" stop="20260926160000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบสอง: ญี่ปุ่น พบ อินเดีย</title>
-    <title lang="en">LIVE: Women's Doubles Badminton - Round 2: Japan vs India</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926160000 +0700" stop="20260926164500 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบสอง: มาเลเซีย พบ ญี่ปุ่น</title>
-    <title lang="en">LIVE: Women's Doubles Badminton - Round 2: Malaysia vs Japan</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926164500 +0700" stop="20260926173000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงคู่ - รอบสอง: อินโดนีเซีย พบ เกาหลีใต้</title>
-    <title lang="en">LIVE: Women's Doubles Badminton - Round 2: Indonesia vs South Korea</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926173000 +0700" stop="20260926181500 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสาม</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 3</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926181500 +0700" stop="20260926190000 +0700">
-    <title lang="th">LIVE: แบดมินตันหญิงเดี่ยว - รอบสาม</title>
-    <title lang="en">LIVE: Women's Singles Badminton - Round 3</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926190000 +0700" stop="20260926194500 +0700">
+  <programme channel="ch0000000000100002791" start="20260926184500 +0700" stop="20260926193000 +0700">
     <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสาม</title>
     <title lang="en">LIVE: Men's Singles Badminton - Round 3</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260926194500 +0700" stop="20260926203000 +0700">
-    <title lang="th">LIVE: แบดมินตันชายเดี่ยว - รอบสาม</title>
-    <title lang="en">LIVE: Men's Singles Badminton - Round 3</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002791" start="20260926203000 +0700" stop="20260926235959 +0700">
+  <programme channel="ch0000000000100002791" start="20260926193000 +0700" stop="20260926235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
