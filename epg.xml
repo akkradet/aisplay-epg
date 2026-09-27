@@ -255,6 +255,31 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
+  <channel id="ch0000000000100002326">
+    <display-name lang="th">เพลย์สปอร์ต 22</display-name>
+    <display-name lang="en">PLAY SPORTS 22</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163511022539.png"/>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name lang="th">เพลย์สปอร์ต 24</display-name>
+    <display-name lang="en">PLAY SPORTS 24</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163543022541.png"/>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name lang="th">เพลย์สปอร์ต 25</display-name>
+    <display-name lang="en">PLAY SPORTS 25</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163557022542.png"/>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name lang="th">เพลย์สปอร์ต 26</display-name>
+    <display-name lang="en">PLAY SPORTS 26</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163611022543.png"/>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name lang="th">เพลย์สปอร์ต 27</display-name>
+    <display-name lang="en">PLAY SPORTS 27</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163624022544.png"/>
+  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -304,6 +329,11 @@
     <display-name lang="th">เพลย์สปอร์ต 57</display-name>
     <display-name lang="en">PLAY SPORTS 57</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151431051870.png"/>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name lang="th">เพลย์สปอร์ต 58</display-name>
+    <display-name lang="en">PLAY SPORTS 58</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151504051971.png"/>
   </channel>
   <channel id="ch0000000000100002511">
     <display-name lang="th">เพลย์สปอร์ต 61</display-name>
@@ -525,20 +555,38 @@
     <display-name lang="en">Asian Games 918</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png"/>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
   </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
   </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
@@ -546,89 +594,71 @@
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
   <channel id="ch0000000000100002314">
     <display-name>ch0000000000100002314</display-name>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
   </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
   </channel>
   <channel id="ch0000000000100001153">
     <display-name>ch0000000000100001153</display-name>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <channel id="ch0000000000100002325">
     <display-name>ch0000000000100002325</display-name>
   </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
   </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
   </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
   </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
   </channel>
   <channel id="ch0000000000100002323">
     <display-name>ch0000000000100002323</display-name>
@@ -636,92 +666,74 @@
   <channel id="ch0000000000100002097">
     <display-name>ch0000000000100002097</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
   </channel>
   <channel id="ch0000000000100001284">
     <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
   </channel>
   <channel id="ch0000000000100002096">
     <display-name>ch0000000000100002096</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
   </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
   <channel id="ch0000000000100002524">
     <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <channel id="ch0000000000100002752">
     <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260925235000 +0700" stop="20260926005000 +0700">
     <title>The Gilded Age S3 Ep.4: Marriage Is A Gamble</title>
@@ -56970,39 +56982,21 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260927000000 +0700" stop="20260927053000 +0700">
+  <programme channel="ch0000000000100002781" start="20260927000000 +0700" stop="20260927080000 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260927053000 +0700" stop="20260927070000 +0700">
-    <title lang="th">LIVE: เดินทนระยะทางมาราธอน - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Athletics - Race Walk Gold Medal Game</title>
+  <programme channel="ch0000000000100002781" start="20260927080000 +0700" stop="20260927090000 +0700">
+    <title lang="th">LIVE: เซปักตะกร้อชาย - รอบคัดเลือก: ฟิลิปปินส์ พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Men's Sepak takraw Preliminary: Philippines vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260927070000 +0700" stop="20260927083000 +0700">
-    <title lang="th">LIVE: เซปักตะกร้อชาย - รอบคัดเลือก: ไทย พบ ฟิลิปปินส์</title>
-    <title lang="en">LIVE: Men's Sepak takraw Preliminary: Thailand vs Philippines</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20260927083000 +0700" stop="20260927090000 +0700">
-    <title lang="th">LIVE: เซปักตะกร้อหญิงคู่ - รอบคัดเลือก: ฟิลิปปินส์ พบ ญี่ปุ่น</title>
-    <title lang="en">LIVE: Women's Doubles Sepak takraw Preliminary: Philippines vs Japan</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20260927090000 +0700" stop="20260927100000 +0700">
-    <title lang="th">LIVE: สเก็ตบอร์ดหญิง - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Women's Skateboarding Gold Medal Game</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20260927100000 +0700" stop="20260927120000 +0700">
-    <title lang="th">LIVE: มวยสากล - รอบคัดเลือก</title>
-    <title lang="en">LIVE: Boxing Preliminary</title>
+  <programme channel="ch0000000000100002781" start="20260927090000 +0700" stop="20260927120000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -57024,19 +57018,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260927150000 +0700" stop="20260927172500 +0700">
-    <title lang="th">LIVE: มวยสากล - รอบคัดเลือก</title>
-    <title lang="en">LIVE: Boxing Preliminary</title>
+  <programme channel="ch0000000000100002781" start="20260927150000 +0700" stop="20260927170000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260927172500 +0700" stop="20260927213000 +0700">
+  <programme channel="ch0000000000100002781" start="20260927170000 +0700" stop="20260927210000 +0700">
     <title lang="th">LIVE: กรีฑา - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Athletics - Track Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260927213000 +0700" stop="20260927235959 +0700">
+  <programme channel="ch0000000000100002781" start="20260927210000 +0700" stop="20260927235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57096,25 +57090,25 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260927073000 +0700" stop="20260927180000 +0700">
+  <programme channel="ch0000000000100002782" start="20260927073000 +0700" stop="20260927143000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบก่อนรองฯ</title>
     <title lang="en">LIVE: Badminton Quarter Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260927180000 +0700" stop="20260927183000 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+  <programme channel="ch0000000000100002782" start="20260927143000 +0700" stop="20260927183000 +0700">
+    <title lang="th">LIVE: ฟันดาบ - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Fencing Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260927183000 +0700" stop="20260927200000 +0700">
+  <programme channel="ch0000000000100002782" start="20260927183000 +0700" stop="20260927193000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Women's Singles Table tennis Gold Medal Game</title>
+    <title lang="en">LIVE: Women's Singles Table tennis - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260927200000 +0700" stop="20260927235959 +0700">
+  <programme channel="ch0000000000100002782" start="20260927193000 +0700" stop="20260927235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57150,13 +57144,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260926172000 +0700" stop="20260926200000 +0700">
+  <programme channel="ch0000000000100002783" start="20260926172000 +0700" stop="20260926192000 +0700">
     <title lang="th">LIVE: บาสเกตบอลหญิง - รอบชิงเหรียญทอง: ญี่ปุ่น พบ เกาหลีใต้</title>
     <title lang="en">LIVE: Women's Basketball - Gold Medal Game: Japan vs South Korea</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260926200000 +0700" stop="20260926235959 +0700">
+  <programme channel="ch0000000000100002783" start="20260926192000 +0700" stop="20260926235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57174,13 +57168,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260927080000 +0700" stop="20260927090000 +0700">
+  <programme channel="ch0000000000100002783" start="20260927080000 +0700" stop="20260927100000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: อิหร่าน พบ คีร์กีซสถาน</title>
     <title lang="en">LIVE: Men's Volleyball Preliminary: Iran vs Kyrgyzstan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260927090000 +0700" stop="20260927110000 +0700">
+  <programme channel="ch0000000000100002783" start="20260927100000 +0700" stop="20260927110000 +0700">
     <title lang="th">LIVE: ระบำใต้น้ำ</title>
     <title lang="en">LIVE: Duet Aquatics artistic swimming Free Routine</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57204,25 +57198,25 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260927140000 +0700" stop="20260927160000 +0700">
+  <programme channel="ch0000000000100002783" start="20260927140000 +0700" stop="20260927164000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: อินโดนีเซีย พบ ไทย</title>
     <title lang="en">LIVE: Men's Volleyball Preliminary: Indonesia vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260927160000 +0700" stop="20260927170000 +0700">
-    <title lang="th">LIVE: ระบำใต้น้ำทีมผสม</title>
-    <title lang="en">LIVE: Mixed Team Aquatics artistic swimming</title>
+  <programme channel="ch0000000000100002783" start="20260927164000 +0700" stop="20260927172000 +0700">
+    <title lang="th">LIVE: แฮนด์บอลหญิง - รอบก่อนรองฯ: ญี่ปุ่น พบ เกาหลีใต้</title>
+    <title lang="en">LIVE: Women's Handball Quarter Finals: Japan vs South Korea</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260927170000 +0700" stop="20260927190000 +0700">
-    <title lang="th">LIVE: โปโลน้ำชาย: ไทย พบ ญี่ปุ่น</title>
-    <title lang="en">LIVE: Men's Water Polo: Thailand vs Japan</title>
+  <programme channel="ch0000000000100002783" start="20260927172000 +0700" stop="20260927192000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: ญี่ปุ่น พบ อุซเบกิสถาน</title>
+    <title lang="en">LIVE: Men's Volleyball Preliminary: Japan vs Uzbekistan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260927190000 +0700" stop="20260927235959 +0700">
+  <programme channel="ch0000000000100002783" start="20260927192000 +0700" stop="20260927235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57277,18 +57271,24 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260927000000 +0700" stop="20260927073000 +0700">
-    <title lang="th">เริ่ม 07:30 แบดมินตัน - รอบก่อนรองฯ คอร์ท 1</title>
+    <title lang="th">เริ่ม 07:30 แบดมินตัน - รอบก่อนรองฯ</title>
     <title lang="en">Upcoming at 07:30AM Badminton Quarter Finals Court 1</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002784" start="20260927073000 +0700" stop="20260927140000 +0700">
-    <title lang="th">LIVE: แบดมินตัน - รอบก่อนรองฯ คอร์ท 1</title>
+    <title lang="th">LIVE: แบดมินตัน - รอบก่อนรองฯ</title>
     <title lang="en">LIVE: Badminton Quarter Finals Court 1</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260927140000 +0700" stop="20260927163000 +0700">
+  <programme channel="ch0000000000100002784" start="20260927140000 +0700" stop="20260927143000 +0700">
+    <title lang="th">LIVE: แบดมินตัน - รอบก่อนรองฯ</title>
+    <title lang="en">LIVE: Badminton Quarter Finals</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260927143000 +0700" stop="20260927163000 +0700">
     <title lang="th">เริ่ม 16:30 กรีฑา - รอบชิงเหรียญทอง</title>
     <title lang="en">Upcoming at 04:30PM Athletics - Track Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57943,25 +57943,25 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002790" start="20260927000000 +0700" stop="20260927080000 +0700">
-    <title lang="th">เริ่ม 08:00 กรีฑา - รอบคัดเลือก</title>
+    <title lang="th">เริ่ม 08:00 กรีฑาประเภทลู่และลาน - รอบคัดเลือก</title>
     <title lang="en">Upcoming at 08:00AM Athletics - Track &amp; Field Heats</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002790" start="20260927080000 +0700" stop="20260927140000 +0700">
-    <title lang="th">LIVE: กรีฑา - รอบคัดเลือก</title>
+    <title lang="th">LIVE: กรีฑาประเภทลู่และลาน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Athletics - Track &amp; Field Heats</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002790" start="20260927140000 +0700" stop="20260927170000 +0700">
-    <title lang="th">เริ่ม 17:00 กรีฑา - รอบชิงเหรียญทอง</title>
+    <title lang="th">เริ่ม 17:00 กรีฑาประเภทลู่และลาน - รอบชิงเหรียญทอง</title>
     <title lang="en">Upcoming at 05:00PM Athletics - Track &amp; Field Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002790" start="20260927170000 +0700" stop="20260927210000 +0700">
-    <title lang="th">LIVE: กรีฑา - รอบชิงเหรียญทอง</title>
+    <title lang="th">LIVE: กรีฑาประเภทลู่และลาน - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Athletics - Track &amp; Field Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
@@ -58122,13 +58122,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260927140000 +0700" stop="20260927160000 +0700">
+  <programme channel="ch0000000000100002791" start="20260927140000 +0700" stop="20260927154500 +0700">
     <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: อินเดีย พบ เวียดนาม</title>
     <title lang="en">LIVE: Men's Volleyball Preliminary: India vs Vietnam</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20260927160000 +0700" stop="20260927172000 +0700">
+  <programme channel="ch0000000000100002791" start="20260927154500 +0700" stop="20260927172000 +0700">
     <title lang="th">เริ่ม 17:20 วอลเลย์บอลชาย - รอบคัดเลือก จีน พบ จีนไทเป</title>
     <title lang="en">Upcoming at 05:20PM Men's Volleyball Preliminary China vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58489,20 +58489,20 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002812" start="20260927170000 +0700" stop="20260927180000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิสชายคู่ - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Men's Doubles Table tennis Gold Medal Game</title>
+    <title lang="th">LIVE: เทเบิลเทนนิสชายคู่ - รอบชิงเหรียญทอง: จีน พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Men's Doubles Table tennis Gold Medal Game: China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002812" start="20260927180000 +0700" stop="20260927183000 +0700">
-    <title lang="th">เริ่ม 18:30 เทเบิลเทนนิสหญิงเดี่ยว - รอบชิงเหรียญทอง</title>
-    <title lang="en">Upcoming at 06:30PM Women's Singles Table tennis Gold Medal Game</title>
+    <title lang="th">เริ่ม 18:30 เทเบิลเทนนิสหญิงเดี่ยว - รอบชิงเหรียญทอง จีน พบ จีน</title>
+    <title lang="en">Upcoming at 06:30PM Women's Singles Table tennis - Gold Medal Game China vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002812" start="20260927183000 +0700" stop="20260927193000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Women's Singles Table tennis Gold Medal Game</title>
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - รอบชิงเหรียญทอง: จีน พบ จีน</title>
+    <title lang="en">LIVE: Women's Singles Table tennis - Gold Medal Game: China vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -58632,7 +58632,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260927083000 +0700" stop="20260927235959 +0700">
+  <programme channel="ch0000000000100002814" start="20260927083000 +0700" stop="20260927123000 +0700">
+    <title lang="th">เริ่ม 12:30 เทนนิสคู่ผสม - รอบแรก เกาหลีใต้ พบ ไทย</title>
+    <title lang="en">Upcoming at 12:30PM Mixed Doubles Tennis Round 1 South Korea vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002814" start="20260927123000 +0700" stop="20260927143000 +0700">
+    <title lang="th">LIVE: เทนนิสคู่ผสม - รอบแรก: เกาหลีใต้ พบ ไทย</title>
+    <title lang="en">LIVE: Mixed Doubles Tennis Round 1: South Korea vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002814" start="20260927143000 +0700" stop="20260927235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
