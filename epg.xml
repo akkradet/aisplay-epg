@@ -188,7 +188,7 @@
   <channel id="ch0000000000100001192">
     <display-name lang="th">ทีแอลซี</display-name>
     <display-name lang="en">TLC</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260922002608006662.png"/>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260930120630006662.png"/>
   </channel>
   <channel id="ch0000000000100001183">
     <display-name lang="th">โมโน29 มิวสิค สเตชัน</display-name>
@@ -555,98 +555,74 @@
     <display-name lang="en">Asian Games 918</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png"/>
   </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
   </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100002742">
     <display-name>ch0000000000100002742</display-name>
   </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
   </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
@@ -654,38 +630,23 @@
   <channel id="ch0000000000100001356">
     <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
   </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
   </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
   </channel>
   <channel id="ch0000000000100002321">
     <display-name>ch0000000000100002321</display-name>
@@ -693,47 +654,86 @@
   <channel id="ch0000000000100001283">
     <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
   </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
   <channel id="ch0000000000100002721">
     <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name>ch0000000000100002521</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100002754">
     <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260928231000 +0700" stop="20260929001000 +0700">
     <title>Saudi Women'S Driving School</title>
@@ -29603,6 +29603,282 @@
     <title>ETV</title>
     <category>การศึกษา</category>
   </programme>
+  <programme channel="ch0000000000100001281" start="20261001060000 +0700" stop="20261001063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001063000 +0700" stop="20261001070000 +0700">
+    <title>ปล่อยใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001070000 +0700" stop="20261001073000 +0700">
+    <title>คุณธรรม คุณทำได้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001073000 +0700" stop="20261001080000 +0700">
+    <title>สยามศิลป์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001080000 +0700" stop="20261001083000 +0700">
+    <title>ข่าวการศึกษา/ลุยเดี่ยวเกี่ยวประเด็น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001083000 +0700" stop="20261001090000 +0700">
+    <title>สุขพอ ขอปัน </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001090000 +0700" stop="20261001093000 +0700">
+    <title>Let's go solar cell </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001093000 +0700" stop="20261001100000 +0700">
+    <title>OnScreen Market ตลาดบนจอ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001100000 +0700" stop="20261001103000 +0700">
+    <title>สกร. วาไรตี้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001103000 +0700" stop="20261001110000 +0700">
+    <title>Sports Code </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001110000 +0700" stop="20261001113000 +0700">
+    <title>Bring Bright Science/Cool วิทย์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001113000 +0700" stop="20261001120000 +0700">
+    <title>In Sci/Math Digest </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001120000 +0700" stop="20261001123000 +0700">
+    <title>Math is Fun/Think Math </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001123000 +0700" stop="20261001130000 +0700">
+    <title>ข่าวการศึกษา/I can say </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001130000 +0700" stop="20261001133000 +0700">
+    <title>ฟังให้ได้ศัพท์ ชุดภาษาเวียดนาม/Say It Right ใช้ได้ชัวร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001133000 +0700" stop="20261001140000 +0700">
+    <title>Hello English </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001140000 +0700" stop="20261001143000 +0700">
+    <title>ก้าวทัน Smart Tech </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001143000 +0700" stop="20261001150000 +0700">
+    <title>สถานีอาชีพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001150000 +0700" stop="20261001151500 +0700">
+    <title>สยามศิลป์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001151500 +0700" stop="20261001153000 +0700">
+    <title>คุณธรรม คุณทำได้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001153000 +0700" stop="20261001160000 +0700">
+    <title>Kids จะเล่น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001160000 +0700" stop="20261001163000 +0700">
+    <title>ข่าวการศึกษา/Petch Journey </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001163000 +0700" stop="20261001170000 +0700">
+    <title>สุขพอ ขอปัน </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001170000 +0700" stop="20261001173000 +0700">
+    <title>ลีลา ลีลาศ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001173000 +0700" stop="20261001180000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001180000 +0700" stop="20261001183000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001183000 +0700" stop="20261001190000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001190000 +0700" stop="20261001200000 +0700">
+    <title>Let's go solar cell </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001200000 +0700" stop="20261001203000 +0700">
+    <title>รู้'รักษ์ พลังงาน </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001203000 +0700" stop="20261001213000 +0700">
+    <title>ดนตรีบำบัด </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001213000 +0700" stop="20261001220000 +0700">
+    <title>ปล่อยใจไปกับธรรม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001220000 +0700" stop="20261001230000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001230000 +0700" stop="20261001233000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261001233000 +0700" stop="20261002000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002000000 +0700" stop="20261002060000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002060000 +0700" stop="20261002063000 +0700">
+    <title>วัยเก๋าเล่าอาชีพ ปี 4 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002063000 +0700" stop="20261002070000 +0700">
+    <title>ศิลป์สร้างสุข (ภาพ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002070000 +0700" stop="20261002073000 +0700">
+    <title>ข่าวการศึกษา/ที่นี่ประเทศไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002073000 +0700" stop="20261002080000 +0700">
+    <title>การปฐมพยาบาลเบื้องต้น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002080000 +0700" stop="20261002083000 +0700">
+    <title>เขย่าความคิดกับวิทย์รักษ์โลก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002083000 +0700" stop="20261002090000 +0700">
+    <title>Parenting Hacks เลี้ยงลูกฉบับง่าย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002090000 +0700" stop="20261002093000 +0700">
+    <title>พัฒนาครู </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002093000 +0700" stop="20261002100000 +0700">
+    <title>English Wisdom/Heal Zone </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002100000 +0700" stop="20261002103000 +0700">
+    <title>Better Me/สุขปนศิลป์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002103000 +0700" stop="20261002110000 +0700">
+    <title>Inspire English/Make My Day English </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002110000 +0700" stop="20261002113000 +0700">
+    <title>Unlock English/ทางไทย </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002113000 +0700" stop="20261002120000 +0700">
+    <title>ติวไทย ให้เธอเต็ม/ไทยศึกษา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002120000 +0700" stop="20261002123000 +0700">
+    <title>ข่าวการศึกษา/Alphabet Let's go </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002123000 +0700" stop="20261002130000 +0700">
+    <title>Chinese for Careers/Simply Korean </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002130000 +0700" stop="20261002133000 +0700">
+    <title>Sematkan Malaysia/ห้องเรียนเรื่องลาว ปี 1 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002133000 +0700" stop="20261002140000 +0700">
+    <title>เกษตรยุคใหม่ หัวใจเทคโนโลยี </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002140000 +0700" stop="20261002143000 +0700">
+    <title>ชุมชนชื่นใจ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002143000 +0700" stop="20261002150000 +0700">
+    <title>ศิลป์สร้างสุข (ภาพ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002150000 +0700" stop="20261002151500 +0700">
+    <title>วัยเก๋าเล่าอาชีพ ปี 4 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002151500 +0700" stop="20261002153000 +0700">
+    <title>Family Center ปี 1 </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002153000 +0700" stop="20261002160000 +0700">
+    <title>ข่าวการศึกษา/วิถีอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002160000 +0700" stop="20261002163000 +0700">
+    <title>การปฐมพยาบาลเบื้องต้น </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002163000 +0700" stop="20261002170000 +0700">
+    <title>ฟื้นฟูดูเฟิร์ม </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002170000 +0700" stop="20261002173000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002173000 +0700" stop="20261002180000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002180000 +0700" stop="20261002183000 +0700">
+    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002183000 +0700" stop="20261002190000 +0700">
+    <title>พัฒนาครู </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002190000 +0700" stop="20261002200000 +0700">
+    <title>รู้ทันสื่อ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002200000 +0700" stop="20261002203000 +0700">
+    <title>กฎหมายคลายเครียด </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002203000 +0700" stop="20261002213000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002213000 +0700" stop="20261002220000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002220000 +0700" stop="20261002230000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002230000 +0700" stop="20261002233000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261002233000 +0700" stop="20261003000000 +0700">
+    <title>นิทานอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
   <programme channel="ch0000000000100001283" start="20260928233000 +0700" stop="20260929000000 +0700">
     <title>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</title>
     <desc>โครงการยกระดับผลสัมฤทธิ์ทางการศึกษา(O-NET)-วิชาภาษาอังกฤษ</desc>
@@ -34182,8 +34458,168 @@
     <title>รายการ ค่ำไหนนอนนั่น</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001311" start="20260930233000 +0700" stop="20260930235000 +0700">
+  <programme channel="ch0000000000100001311" start="20260930233000 +0700" stop="20261001000000 +0700">
     <title>รายการ คุยข่าวคลายเครียด</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001000000 +0700" stop="20261001010000 +0700">
+    <title>ซีรีส์จีน จอมนางบัลลังก์ฮั่น - THE VIRTUOUS QUEEN OF HAN</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001010000 +0700" stop="20261001051500 +0700">
+    <title>MV MALL</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001051500 +0700" stop="20261001053000 +0700">
+    <title>ธรรมวัตรรับอรุณ</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001053000 +0700" stop="20261001060000 +0700">
+    <title>รายการ กัลยาโณโซไซตี้</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001060000 +0700" stop="20261001070000 +0700">
+    <title>รายการ เล่าข่าวเช้ากับบุญระดม LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001070000 +0700" stop="20261001090000 +0700">
+    <title>รายการ กบตบข่าว</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001090000 +0700" stop="20261001100000 +0700">
+    <title>รายการ The Critics Inter News</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001100000 +0700" stop="20261001110000 +0700">
+    <title>รายการ ชัด ครบ จบ จริง</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001110000 +0700" stop="20261001120000 +0700">
+    <title>รายการ Mallika Talk LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001120000 +0700" stop="20261001140000 +0700">
+    <title>รายการ The Critics เที่ยงตรง LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001140000 +0700" stop="20261001150000 +0700">
+    <title>RE. รายการ The Critics Inter News</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001150000 +0700" stop="20261001160000 +0700">
+    <title>รายการ Talk 2 Way</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001160000 +0700" stop="20261001180000 +0700">
+    <title>รายการ ยำข่าวเย็น LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001180000 +0700" stop="20261001190000 +0700">
+    <title>RE. รายการ ชัด ครบ จบ จริง</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001190000 +0700" stop="20261001193000 +0700">
+    <title>รายการ ฟังความรอบด้าน</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001193000 +0700" stop="20261001200000 +0700">
+    <title>รายการ ทางออกประเทศไทย</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001200000 +0700" stop="20261001220000 +0700">
+    <title>รายการ ประเทศไทยต้องมาก่อน LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001220000 +0700" stop="20261001223000 +0700">
+    <title>RE. รายการ Doctor Variety 1</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001223000 +0700" stop="20261001233000 +0700">
+    <title>รายการ ECON TALK</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261001233000 +0700" stop="20261002000000 +0700">
+    <title>รายการ คุยข่าวคลายเครียด</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002000000 +0700" stop="20261002010000 +0700">
+    <title>ซีรีส์จีน หลี่อัน ไขคดีพิทักษ์คุณธรรม - LOTUS GODDESS (ตอนจบ)</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002010000 +0700" stop="20261002051500 +0700">
+    <title>MV MALL</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002051500 +0700" stop="20261002053000 +0700">
+    <title>ธรรมวัตรรับอรุณ</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002053000 +0700" stop="20261002060000 +0700">
+    <title>รายการ กัลยาโณโซไซตี้</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002060000 +0700" stop="20261002070000 +0700">
+    <title>รายการ เล่าข่าวเช้ากับบุญระดม LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002070000 +0700" stop="20261002090000 +0700">
+    <title>รายการ กบตบข่าว</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002090000 +0700" stop="20261002100000 +0700">
+    <title>รายการ The Critics Inter News</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002100000 +0700" stop="20261002110000 +0700">
+    <title>รายการ ชัด ครบ จบ จริง</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002110000 +0700" stop="20261002120000 +0700">
+    <title>รายการ Guru Talk</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002120000 +0700" stop="20261002140000 +0700">
+    <title>รายการ The Critics เที่ยงตรง LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002140000 +0700" stop="20261002150000 +0700">
+    <title>RE. รายการ The Critics Inter News</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002150000 +0700" stop="20261002160000 +0700">
+    <title>รายการ Talk 2 Way</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002160000 +0700" stop="20261002180000 +0700">
+    <title>รายการ ยำข่าวเย็น LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002180000 +0700" stop="20261002190000 +0700">
+    <title>RE. รายการ ชัด ครบ จบ จริง</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002190000 +0700" stop="20261002193000 +0700">
+    <title>รายการ ฟังความรอบด้าน</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002193000 +0700" stop="20261002200000 +0700">
+    <title>รายการ ทางออกประเทศไทย</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002200000 +0700" stop="20261002220000 +0700">
+    <title>รายการ ประเทศไทยต้องมาก่อน LIVE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002220000 +0700" stop="20261002223000 +0700">
+    <title>RE. รายการ Doctor Variety 2</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002223000 +0700" stop="20261002233000 +0700">
+    <title>รายการ สองคนยลข่าว</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261002233000 +0700" stop="20261003000000 +0700">
+    <title>MV MALL</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20260928235500 +0700" stop="20260929002000 +0700">
@@ -35121,8 +35557,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260929153000 +0700" stop="20260929160000 +0700">
-    <title>Al Jazeera Explains</title>
-    <desc>Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title>Al Jazeera Explains: China &amp; Russia: An uneasy power axis</title>
+    <desc>As Russia leans more heavily on China and Beijing expands its reach through global supply chains, Al Jazeera Explains how their partnership is reshaping power.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260929160000 +0700" stop="20260929163000 +0700">
     <title>News Live</title>
@@ -35160,7 +35596,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260929213000 +0700" stop="20260929220000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>A corruption scandal, Bolsonaro's comeback and Trump's influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260929220000 +0700" stop="20260929230000 +0700">
@@ -35248,8 +35684,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260930113000 +0700" stop="20260930120000 +0700">
-    <title>Al Jazeera Explains</title>
-    <desc>Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title>Al Jazeera Explains: China &amp; Russia: An uneasy power axis</title>
+    <desc>As Russia leans more heavily on China and Beijing expands its reach through global supply chains, Al Jazeera Explains how their partnership is reshaping power.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260930120000 +0700" stop="20260930123000 +0700">
     <title>News Live</title>
@@ -35278,7 +35714,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20260930153000 +0700" stop="20260930160000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>A corruption scandal, Bolsonaro's comeback and Trump's influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20260930160000 +0700" stop="20260930163000 +0700">
@@ -35315,8 +35751,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260930213000 +0700" stop="20260930220000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Vanessa Nakate</title>
+    <desc>Ugandan climate activist Vanessa Nakate says she's determined to raise awareness about how global warming is disproportionately affecting African countries.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20260930220000 +0700" stop="20260930230000 +0700">
     <title>Newshour</title>
@@ -35349,7 +35785,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261001023000 +0700" stop="20261001030000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>A corruption scandal, Bolsonaro's comeback and Trump's influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261001030000 +0700" stop="20261001040000 +0700">
@@ -35471,8 +35907,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261001213000 +0700" stop="20261001220000 +0700">
-    <title>Al Jazeera Explains</title>
-    <desc>Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title>Al Jazeera Explains: China &amp; Russia: An uneasy power axis</title>
+    <desc>As Russia leans more heavily on China and Beijing expands its reach through global supply chains, Al Jazeera Explains how their partnership is reshaping power.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261001220000 +0700" stop="20261001230000 +0700">
     <title>Newshour</title>
@@ -35505,8 +35941,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261002023000 +0700" stop="20261002030000 +0700">
-    <title>Talk to Al Jazeera</title>
-    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <title>Talk to Al Jazeera: Vanessa Nakate</title>
+    <desc>Ugandan climate activist Vanessa Nakate says she's determined to raise awareness about how global warming is disproportionately affecting African countries.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261002030000 +0700" stop="20261002040000 +0700">
     <title>Blood, Sweat and Sugar: Exploitation</title>
@@ -35522,7 +35958,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261002053000 +0700" stop="20261002060000 +0700">
     <title>101 East</title>
-    <desc>101 East reports on the people and events shaping the Asia Pacific region.                  .</desc>
+    <desc>101 East reports on the people and events shaping the Asia Pacific region. .</desc>
     <category>Current Affairs</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261002060000 +0700" stop="20261002063000 +0700">
@@ -35591,8 +36027,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261002153000 +0700" stop="20261002160000 +0700">
-    <title>Al Jazeera Explains</title>
-    <desc>Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <title>Al Jazeera Explains: China &amp; Russia: An uneasy power axis</title>
+    <desc>As Russia leans more heavily on China and Beijing expands its reach through global supply chains, Al Jazeera Explains how their partnership is reshaping power.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261002160000 +0700" stop="20261002163000 +0700">
     <title>News Live</title>
@@ -35600,7 +36036,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261002163000 +0700" stop="20261002170000 +0700">
     <title>101 East</title>
-    <desc>101 East reports on the people and events shaping the Asia Pacific region.                  .</desc>
+    <desc>101 East reports on the people and events shaping the Asia Pacific region. .</desc>
     <category>Current Affairs</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261002170000 +0700" stop="20261002180000 +0700">
@@ -45546,9 +45982,183 @@
   <programme channel="ch0000000000100001841" start="20260930210000 +0700" stop="20260930220000 +0700">
     <title>America's Newsroom</title>
   </programme>
-  <programme channel="ch0000000000100001841" start="20260930220000 +0700" stop="20260930230000 +0700">
+  <programme channel="ch0000000000100001841" start="20260930220000 +0700" stop="20261001020000 +0700">
     <title>The Faulkner Focus</title>
     <desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001020000 +0700" stop="20261001030000 +0700">
+    <title>The Story</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001030000 +0700" stop="20261001040000 +0700">
+    <title>The Will Cain Show</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001040000 +0700" stop="20261001050000 +0700">
+    <title>The Five</title>
+    <desc>Features a roundtable ensemble of five personalities who debate current news stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001050000 +0700" stop="20261001060000 +0700">
+    <title>Special Report with Bret Baier</title>
+    <desc>Bret Baier reports on the days events from Washington DC</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001060000 +0700" stop="20261001070000 +0700">
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001070000 +0700" stop="20261001080000 +0700">
+    <title>Jesse Watters Primetime</title>
+    <desc>Watters enters a whole new world!</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001080000 +0700" stop="20261001090000 +0700">
+    <title>Hannity</title>
+    <desc>Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001090000 +0700" stop="20261001100000 +0700">
+    <title>Gutfeld!</title>
+    <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001100000 +0700" stop="20261001110000 +0700">
+    <title>Fox News @Night</title>
+    <desc>Shannon Bream gives news analysis on the most compelling stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001110000 +0700" stop="20261001120000 +0700">
+    <title>The Five</title>
+    <desc>Features a roundtable ensemble of five personalities who debate current news stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001120000 +0700" stop="20261001130000 +0700">
+    <title>Jesse Watters Primetime</title>
+    <desc>Watters enters a whole new world!</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001130000 +0700" stop="20261001140000 +0700">
+    <title>Hannity</title>
+    <desc>Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001140000 +0700" stop="20261001150000 +0700">
+    <title>Gutfeld!</title>
+    <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001150000 +0700" stop="20261001160000 +0700">
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001160000 +0700" stop="20261001170000 +0700">
+    <title>Fox &amp; Friends First</title>
+    <desc>FOX &amp; Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001170000 +0700" stop="20261001180000 +0700">
+    <title>Fox &amp; Friends</title>
+    <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001180000 +0700" stop="20261001190000 +0700">
+    <title>Fox &amp; Friends</title>
+    <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001190000 +0700" stop="20261001200000 +0700">
+    <title>Fox &amp; Friends</title>
+    <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001200000 +0700" stop="20261001210000 +0700">
+    <title>America's Newsroom</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001210000 +0700" stop="20261001220000 +0700">
+    <title>America's Newsroom</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001220000 +0700" stop="20261001230000 +0700">
+    <title>The Faulkner Focus</title>
+    <desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261001230000 +0700" stop="20261002000000 +0700">
+    <title>Outnumbered</title>
+    <desc>Rotating panel featuring four women and one man, gives a fresh take on the days news</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002000000 +0700" stop="20261002010000 +0700">
+    <title>America Reports</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002010000 +0700" stop="20261002020000 +0700">
+    <title>America Reports</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002020000 +0700" stop="20261002030000 +0700">
+    <title>The Story</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002030000 +0700" stop="20261002040000 +0700">
+    <title>The Will Cain Show</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002040000 +0700" stop="20261002050000 +0700">
+    <title>The Five</title>
+    <desc>Features a roundtable ensemble of five personalities who debate current news stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002050000 +0700" stop="20261002060000 +0700">
+    <title>Special Report with Bret Baier</title>
+    <desc>Bret Baier reports on the days events from Washington DC</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002060000 +0700" stop="20261002070000 +0700">
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002070000 +0700" stop="20261002080000 +0700">
+    <title>Jesse Watters Primetime</title>
+    <desc>Watters enters a whole new world!</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002080000 +0700" stop="20261002090000 +0700">
+    <title>Hannity</title>
+    <desc>Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002090000 +0700" stop="20261002100000 +0700">
+    <title>Gutfeld!</title>
+    <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002100000 +0700" stop="20261002110000 +0700">
+    <title>Fox News @Night</title>
+    <desc>Shannon Bream gives news analysis on the most compelling stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002110000 +0700" stop="20261002120000 +0700">
+    <title>The Five</title>
+    <desc>Features a roundtable ensemble of five personalities who debate current news stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002120000 +0700" stop="20261002130000 +0700">
+    <title>Jesse Watters Primetime</title>
+    <desc>Watters enters a whole new world!</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002130000 +0700" stop="20261002140000 +0700">
+    <title>Hannity</title>
+    <desc>Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002140000 +0700" stop="20261002150000 +0700">
+    <title>Gutfeld!</title>
+    <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002150000 +0700" stop="20261002160000 +0700">
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002160000 +0700" stop="20261002170000 +0700">
+    <title>Fox &amp; Friends First</title>
+    <desc>FOX &amp; Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002170000 +0700" stop="20261002180000 +0700">
+    <title>Fox &amp; Friends</title>
+    <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002180000 +0700" stop="20261002190000 +0700">
+    <title>Fox &amp; Friends</title>
+    <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002190000 +0700" stop="20261002200000 +0700">
+    <title>Fox &amp; Friends</title>
+    <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002200000 +0700" stop="20261002210000 +0700">
+    <title>America's Newsroom</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002210000 +0700" stop="20261002220000 +0700">
+    <title>America's Newsroom</title>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002220000 +0700" stop="20261002230000 +0700">
+    <title>The Faulkner Focus</title>
+    <desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
+  </programme>
+  <programme channel="ch0000000000100001841" start="20261002230000 +0700" stop="20261003000000 +0700">
+    <title>Outnumbered</title>
+    <desc>Rotating panel featuring four women and one man, gives a fresh take on the days news</desc>
   </programme>
   <programme channel="ch0000000000100001891" start="20260928233000 +0700" stop="20260929000000 +0700">
     <title>GODDESS</title>
@@ -46269,6 +46879,198 @@
   </programme>
   <programme channel="ch0000000000100001901" start="20260930230000 +0700" stop="20261001000000 +0700">
     <title>ตั๊กแตนกับฝูงมด</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001000000 +0700" stop="20261001010000 +0700">
+    <title>คร๊อกโคโรนิเคิล - จระเข้แห่งความมืด และ คร๊อกโคโรนิเคิล - ราชาแห่งสัตว์เลื้อยคลาน</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001010000 +0700" stop="20261001020000 +0700">
+    <title>ป่าอัศจรรย์ ปี1 ตอนที่ 7</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001020000 +0700" stop="20261001030000 +0700">
+    <title>ผจญภัยในป่าอังกฤษ ปี 2 ตอนที่ 1 และ 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001030000 +0700" stop="20261001040000 +0700">
+    <title>จูราสสิก ซีเอสไอ - เจาลึกใต้ผิวหนัง</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001040000 +0700" stop="20261001050000 +0700">
+    <title>คร๊อกโคโลนิเคิล - ภารกิจช่วยเหลือสัตว์ป่าแห่งแพนทานอล และ จระเข้ และปลาไหลไฟฟ้า</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001050000 +0700" stop="20261001060000 +0700">
+    <title>ไขรหัสมนุษยชาติ ตอนที่ 7 และ 8</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001060000 +0700" stop="20261001070000 +0700">
+    <title>ลอส ลากูน เมื่อทะเลสาบหายไป</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001070000 +0700" stop="20261001080000 +0700">
+    <title>ออสเตรเลีย หมู่เกาะแห่งชีวิต ตอนที่ 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001080000 +0700" stop="20261001090000 +0700">
+    <title>อนุสรณ์แห่งอเมริกา</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001090000 +0700" stop="20261001100000 +0700">
+    <title>การล่มสลายของยุคไดโนเสาร์ ตอนที่ 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001100000 +0700" stop="20261001110000 +0700">
+    <title>ไดโนเสาร์ที่ผิดปกติ</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001110000 +0700" stop="20261001120000 +0700">
+    <title>โลกของสัตว์ตัวจิ๋ว</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001120000 +0700" stop="20261001130000 +0700">
+    <title>จูราสสิก ซีเอสไอ - ภายในทีเร็ก</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001130000 +0700" stop="20261001140000 +0700">
+    <title>ควายไบซันตัวสุดท้าย</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001140000 +0700" stop="20261001150000 +0700">
+    <title>10 อสรพิษเพชรฆาต ปี3 ตอนที่ 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001150000 +0700" stop="20261001160000 +0700">
+    <title>สัตว์ประหลาดของนิคเบคเกอร์ ปี3 ตอนที่ 1 มังกรทะเล</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001160000 +0700" stop="20261001170000 +0700">
+    <title>นักต่อสู้กับปลายักษ์ - ยักษ์ใหญ่แห่งอเมซอน</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001170000 +0700" stop="20261001180000 +0700">
+    <title>เผชิญหน้าสัตว์ป่า ปี5 ตอนที่ 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001180000 +0700" stop="20261001190000 +0700">
+    <title>มหัศจรรย์แห่งแอนตาร์กติก ตอนที่ 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001190000 +0700" stop="20261001200000 +0700">
+    <title>ไขปริศนาเอเชีย ตอนที่ 1 ประเทศจีน</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001200000 +0700" stop="20261001210000 +0700">
+    <title>สุดยอดขุมทรัพย์แห่งอังกฤษ ปี 2 ตอนที่ 3 และ 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001210000 +0700" stop="20261001220000 +0700">
+    <title>ไขรหัสมนุษยชาติ ตอนที่ 1 และ 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001220000 +0700" stop="20261001230000 +0700">
+    <title>โลกสุดอันตราย - เส้นทางมรณะ</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261001230000 +0700" stop="20261002000000 +0700">
+    <title>เรียกหาไวด์แมน ปี 2 ตอนที่ 13 และ 14</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002000000 +0700" stop="20261002010000 +0700">
+    <title>สำรวจป่านิวกินี ตอนที่ 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002010000 +0700" stop="20261002020000 +0700">
+    <title>ป่าอัศจรรย์ ปี1 ตอนที่ 8</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002020000 +0700" stop="20261002030000 +0700">
+    <title>อาณาจักรแห่งทะเลสาบตอนที่ 3 และ 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002030000 +0700" stop="20261002040000 +0700">
+    <title>แฟ้มลับ ปี 2 ตอน โซโล และ โป๊ป โจนส์</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002040000 +0700" stop="20261002050000 +0700">
+    <title>แผนที่โลก ตอนที่ 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002050000 +0700" stop="20261002060000 +0700">
+    <title>อาณาจักรใต้พิภพ ตอน เอธิโอเปีย</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002060000 +0700" stop="20261002070000 +0700">
+    <title>ออสเตรเลีย ดินแดนอันตราย ตอนที่ 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002070000 +0700" stop="20261002080000 +0700">
+    <title>เจาะลึกสถาปัตยกรรมโรมัน ตอนที่ 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002080000 +0700" stop="20261002090000 +0700">
+    <title>ล่าขุมทองแห่งทรานซิวาเนียน</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002090000 +0700" stop="20261002100000 +0700">
+    <title>รากไม้กำเนิดชีวิต ตอนที่ 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002100000 +0700" stop="20261002110000 +0700">
+    <title>ผู้บุกรุกผืนป่า ตอนที่ 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002110000 +0700" stop="20261002120000 +0700">
+    <title>ศิลปะของรถยนต์ ตอนที่ 5</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002120000 +0700" stop="20261002130000 +0700">
+    <title>ฮอตสปอต ดินแดนแห่งความหวัง ตอนที่ 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002130000 +0700" stop="20261002140000 +0700">
+    <title>ชายฝั่งอเมริกา ตอนที่ 11 และ 12</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002140000 +0700" stop="20261002150000 +0700">
+    <title>ที่สุดของออสเตรเลีย ตอนที่ 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002150000 +0700" stop="20261002160000 +0700">
+    <title>ผจญภัยในป่าอังกฤษ ปี1 ตอนที่ 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002160000 +0700" stop="20261002170000 +0700">
+    <title>สำรวจดินแดนมหัศจรรย์ ปี3 ตอนที่ 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002170000 +0700" stop="20261002180000 +0700">
+    <title>1,000 สถานที่ต้องเที่ยว ตอนที่ 8</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002180000 +0700" stop="20261002190000 +0700">
+    <title>เรื่องลึกลับของคัมภีร์ไบเบิล ตอนที่ 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002190000 +0700" stop="20261002200000 +0700">
+    <title>ต้นแบบแห่งผืนป่า</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002200000 +0700" stop="20261002210000 +0700">
+    <title>สัตว์ประหลาดของนิค เบเกอร์ ปี 2 ตอนที่ 7 ผู้ติดตามในความมืด</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002210000 +0700" stop="20261002220000 +0700">
+    <title>นักรบเหนือฟ้า ตอนที่ 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002220000 +0700" stop="20261002230000 +0700">
+    <title>คร๊อกโคโลนิเคิล - จระเข้ป่า และ งูพิษ</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001901" start="20261002230000 +0700" stop="20261003000000 +0700">
+    <title>ค้นหาอสูรกายใต้ทะเล - สัตว์ต่างดาว</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001902" start="20260928232000 +0700" stop="20260929004700 +0700">
@@ -51682,9 +52484,171 @@
     <title>Varney &amp; Company</title>
     <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
   </programme>
-  <programme channel="ch0000000000100002011" start="20260930220000 +0700" stop="20260930230000 +0700">
+  <programme channel="ch0000000000100002011" start="20260930220000 +0700" stop="20261001010000 +0700">
     <title>Varney &amp; Company</title>
     <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001010000 +0700" stop="20261001020000 +0700">
+    <title>Making Money with Charles Payne</title>
+    <desc>Host Charles Payne gives viewers an end-of-day wrap, and provide an insider's look at tomorrow's money makers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001020000 +0700" stop="20261001030000 +0700">
+    <title>The Claman Countdown</title>
+    <desc>The Claman Countdown captures the chaos of the last hour on Wall Street.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001030000 +0700" stop="20261001040000 +0700">
+    <title>Kudlow</title>
+    <desc> Tune in for financial market analysis, roundtable discussions on the policies impacting the domestic and global economies and news-making interviews with business influencers across the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001040000 +0700" stop="20261001050000 +0700">
+    <title>The Evening Edit with Elizabeth Macdonald</title>
+    <desc>Host Elizabeth MacDonald interviews industry experts to get the inside scoop on the day’s leading headlines as they relate to your wallet.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001050000 +0700" stop="20261001060000 +0700">
+    <title>The Bottom Line</title>
+    <desc> The Bottom Line taking on the hotly debated issues in the business and political world. She will bring a blend of money and politics with her direct, candid, and unique perspective.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001060000 +0700" stop="20261001070000 +0700">
+    <title>Kudlow</title>
+    <desc> Tune in for financial market analysis, roundtable discussions on the policies impacting the domestic and global economies and news-making interviews with business influencers across the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001070000 +0700" stop="20261001080000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001080000 +0700" stop="20261001090000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001090000 +0700" stop="20261001100000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001100000 +0700" stop="20261001110000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001110000 +0700" stop="20261001120000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001120000 +0700" stop="20261001130000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001130000 +0700" stop="20261001140000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001140000 +0700" stop="20261001150000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001150000 +0700" stop="20261001160000 +0700">
+    <title>Legends &amp; Lies</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001160000 +0700" stop="20261001170000 +0700">
+    <title>FOX Weather First</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001170000 +0700" stop="20261001180000 +0700">
+    <title>Mornings with FOX Business</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001180000 +0700" stop="20261001190000 +0700">
+    <title>Mornings with FOX Business</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001190000 +0700" stop="20261001200000 +0700">
+    <title>Mornings with FOX Business</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001200000 +0700" stop="20261001210000 +0700">
+    <title>Varney &amp; Company</title>
+    <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001210000 +0700" stop="20261001220000 +0700">
+    <title>Varney &amp; Company</title>
+    <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001220000 +0700" stop="20261001230000 +0700">
+    <title>Varney &amp; Company</title>
+    <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001230000 +0700" stop="20261002000000 +0700">
+    <title>The Big Money Show</title>
+    <desc> An informative and fast-paced show filled with the business topics that impact everyone from Wall Street to your street.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002000000 +0700" stop="20261002010000 +0700">
+    <title>The Big Money Show</title>
+    <desc> An informative and fast-paced show filled with the business topics that impact everyone from Wall Street to your street.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002010000 +0700" stop="20261002020000 +0700">
+    <title>Making Money with Charles Payne</title>
+    <desc>Host Charles Payne gives viewers an end-of-day wrap, and provide an insider's look at tomorrow's money makers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002020000 +0700" stop="20261002030000 +0700">
+    <title>The Claman Countdown</title>
+    <desc>The Claman Countdown captures the chaos of the last hour on Wall Street.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002030000 +0700" stop="20261002040000 +0700">
+    <title>Kudlow</title>
+    <desc> Tune in for financial market analysis, roundtable discussions on the policies impacting the domestic and global economies and news-making interviews with business influencers across the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002040000 +0700" stop="20261002050000 +0700">
+    <title>The Evening Edit with Elizabeth Macdonald</title>
+    <desc>Host Elizabeth MacDonald interviews industry experts to get the inside scoop on the day’s leading headlines as they relate to your wallet.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002050000 +0700" stop="20261002060000 +0700">
+    <title>The Bottom Line</title>
+    <desc> The Bottom Line taking on the hotly debated issues in the business and political world. She will bring a blend of money and politics with her direct, candid, and unique perspective.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002060000 +0700" stop="20261002070000 +0700">
+    <title>Kudlow</title>
+    <desc> Tune in for financial market analysis, roundtable discussions on the policies impacting the domestic and global economies and news-making interviews with business influencers across the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002070000 +0700" stop="20261002080000 +0700">
+    <title>COPS</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002080000 +0700" stop="20261002090000 +0700">
+    <title>COPS</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002090000 +0700" stop="20261002100000 +0700">
+    <title>COPS</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002100000 +0700" stop="20261002110000 +0700">
+    <title>COPS</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002110000 +0700" stop="20261002120000 +0700">
+    <title>COPS</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002120000 +0700" stop="20261002130000 +0700">
+    <title>Kelsey Grammer's Historic Battles for America</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002130000 +0700" stop="20261002140000 +0700">
+    <title>Kelsey Grammer's Historic Battles for America</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002140000 +0700" stop="20261002150000 +0700">
+    <title>Kelsey Grammer's Historic Battles for America</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002150000 +0700" stop="20261002160000 +0700">
+    <title>COPS</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002160000 +0700" stop="20261002170000 +0700">
+    <title>FOX Weather First</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002170000 +0700" stop="20261002180000 +0700">
+    <title>Mornings with FOX Business</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002180000 +0700" stop="20261002190000 +0700">
+    <title>Mornings with FOX Business</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002190000 +0700" stop="20261002200000 +0700">
+    <title>Mornings with FOX Business</title>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002200000 +0700" stop="20261002210000 +0700">
+    <title>Varney &amp; Company</title>
+    <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002210000 +0700" stop="20261002220000 +0700">
+    <title>Varney &amp; Company</title>
+    <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002220000 +0700" stop="20261002230000 +0700">
+    <title>Varney &amp; Company</title>
+    <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261002230000 +0700" stop="20261003000000 +0700">
+    <title>The Big Money Show</title>
+    <desc> An informative and fast-paced show filled with the business topics that impact everyone from Wall Street to your street.</desc>
   </programme>
   <programme channel="ch0000000000100002041" start="20260928220000 +0700" stop="20260929000000 +0700">
     <title lang="th">รีรัน: สงขลา เอฟซี พบ เมืองเลย ยูไนเต็ด</title>
@@ -54444,9 +55408,9 @@
     <title lang="en">Start 07.30 Minnesota Lynx vs New York Liberty</title>
     <category>WNBA</category>
   </programme>
-  <programme channel="ch0000000000100002403" start="20260930000000 +0700" stop="20261001000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+  <programme channel="ch0000000000100002403" start="20260930000000 +0700" stop="20260930073000 +0700">
+    <title lang="th">เริ่มเวลา 07.30 มินนิโซตา ลิงซ์ พบ นิวยอร์ก ลิเบอร์ตี</title>
+    <title lang="en">Start 07.30 Minnesota Lynx vs New York Liberty</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002403" start="20260930073000 +0700" stop="20260930103000 +0700">
@@ -56147,18 +57111,28 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002541" start="20260930000000 +0700" stop="20261001000000 +0700">
+  <programme channel="ch0000000000100002541" start="20260930000000 +0700" stop="20260930100000 +0700">
+    <title lang="th">เริ่มเวลา 10:00 น. เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 1</title>
+    <title lang="en">UPCOMING at 10AM ATP 500 Kinoshita Group Japan Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002541" start="20260930100000 +0700" stop="20260930140000 +0700">
+    <title lang="th">LIVE: เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 1</title>
+    <title lang="en">LIVE: ATP 500 Kinoshita Group Japan Open Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002541" start="20260930140000 +0700" stop="20261001000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002541" start="20261001000000 +0700" stop="20261001090000 +0700">
-    <title lang="th">เริ่มเวลา 09:00 น. เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วัน 2</title>
+    <title lang="th">เริ่มเวลา 09:00 น. เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 2</title>
     <title lang="en">UPCOMING at 9AM ATP 500 Kinoshita Group Japan Open Day 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002541" start="20261001090000 +0700" stop="20261001180000 +0700">
-    <title lang="th">LIVE: เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วัน 2</title>
+    <title lang="th">LIVE: เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 2</title>
     <title lang="en">LIVE: ATP 500 Kinoshita Group Japan Open Day 2</title>
     <category>Sports</category>
   </programme>
@@ -56317,22 +57291,22 @@
     <desc>We look back at the most memorable moments legends and tries from Europe's most prestigious international rugby competition.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260929133000 +0700" stop="20260929135000 +0700">
+  <programme channel="ch0000000000100002561" start="20260929133000 +0700" stop="20260929134500 +0700">
     <title>AFLW Highlights: Adelaide v Fremantle</title>
     <desc>All the action from the latest round of the AFLW.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260929135000 +0700" stop="20260929154000 +0700">
+  <programme channel="ch0000000000100002561" start="20260929134500 +0700" stop="20260929155000 +0700">
     <title>SANZAAR International Tour Serie: Australia v South Africa</title>
     <desc>The Wallabies welcome the Springboks to Perth to conclude tthe series of SANZAAR Internationals.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260929154000 +0700" stop="20260929173000 +0700">
+  <programme channel="ch0000000000100002561" start="20260929155000 +0700" stop="20260929173500 +0700">
     <title>Gallagher Premiership: Northampton v Newcastle</title>
     <desc>All the action from the 2026/27 Gallagher Premiership England's top level of rugby union.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20260929173000 +0700" stop="20260929192000 +0700">
+  <programme channel="ch0000000000100002561" start="20260929173500 +0700" stop="20260929192000 +0700">
     <title>Gallagher Premiership: Exeter v Gloucester</title>
     <desc>All the action from the 2026/27 Gallagher Premiership England's top level of rugby union.</desc>
     <category>Sport</category>
@@ -56462,17 +57436,17 @@
     <desc>The best of the latest action from the Gallagher Premiership.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261001065000 +0700" stop="20261001084000 +0700">
+  <programme channel="ch0000000000100002561" start="20261001065000 +0700" stop="20261001085000 +0700">
     <title>SANZAAR International Tour Serie: Australia v South Africa</title>
     <desc>The Wallabies welcome the Springboks to Perth to conclude tthe series of SANZAAR Internationals.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261001084000 +0700" stop="20261001103000 +0700">
+  <programme channel="ch0000000000100002561" start="20261001085000 +0700" stop="20261001103500 +0700">
     <title>Gallagher Premiership: Northampton v Newcastle</title>
     <desc>All the action from the 2026/27 Gallagher Premiership England's top level of rugby union.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261001103000 +0700" stop="20261001122000 +0700">
+  <programme channel="ch0000000000100002561" start="20261001103500 +0700" stop="20261001122000 +0700">
     <title>Gallagher Premiership: Exeter v Gloucester</title>
     <desc>All the action from the 2026/27 Gallagher Premiership England's top level of rugby union.</desc>
     <category>Sport</category>
@@ -56487,17 +57461,17 @@
     <desc>Stade Francais and Lyon meet in this TOP 14 encounter at the Stade Jean-Bouin.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261001160000 +0700" stop="20261001175000 +0700">
+  <programme channel="ch0000000000100002561" start="20261001160000 +0700" stop="20261001180000 +0700">
     <title>SANZAAR International Tour Serie: Australia v South Africa</title>
     <desc>The Wallabies welcome the Springboks to Perth to conclude tthe series of SANZAAR Internationals.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261001175000 +0700" stop="20261001194000 +0700">
+  <programme channel="ch0000000000100002561" start="20261001180000 +0700" stop="20261001194500 +0700">
     <title>Top 14: Pau v La Rochelle</title>
     <desc>Section Paloise and La Rochelle do battle in this TOP 14 clash at the Stade du Hameau.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261001194000 +0700" stop="20261001213000 +0700">
+  <programme channel="ch0000000000100002561" start="20261001194500 +0700" stop="20261001213000 +0700">
     <title>Top 14: Toulouse v Montpellier</title>
     <desc>Toulouse and Montpellier collide in this Sunday night TOP 14 contest at the Stade Ernest-Wallon.</desc>
     <category>Sport</category>
@@ -56582,12 +57556,12 @@
     <desc>Highlights of the latest round from the Top 14.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261002213000 +0700" stop="20261002232000 +0700">
+  <programme channel="ch0000000000100002561" start="20261002213000 +0700" stop="20261002231000 +0700">
     <title>Premiership Rugby: Bristol v Leicester</title>
     <desc>All the action from the 2025/26 Gallagher Premiership England's top level of rugby union.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261002232000 +0700" stop="20261003011000 +0700">
+  <programme channel="ch0000000000100002561" start="20261002231000 +0700" stop="20261003011000 +0700">
     <title>SANZAAR International Tour Serie: Australia v South Africa</title>
     <desc>The Wallabies welcome the Springboks to Perth to conclude tthe series of SANZAAR Internationals.</desc>
     <category>Sport</category>
@@ -57084,9 +58058,8 @@
     <title>Start 07.30 Minnesota Lynx vs New York Liberty</title>
     <category>WNBA</category>
   </programme>
-  <programme channel="ch0000000000100002643" start="20260930000000 +0700" stop="20261001000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+  <programme channel="ch0000000000100002643" start="20260930000000 +0700" stop="20260930073000 +0700">
+    <title>Start 07.30 Minnesota Lynx vs New York Liberty</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002643" start="20260930073000 +0700" stop="20260930103000 +0700">
@@ -57817,13 +58790,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260930153000 +0700" stop="20260930173000 +0700">
+  <programme channel="ch0000000000100002781" start="20260930153000 +0700" stop="20260930170000 +0700">
     <title lang="th">LIVE: กระโดดน้ำชาย - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Men's Aquatics Diving - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20260930173000 +0700" stop="20260930193000 +0700">
+  <programme channel="ch0000000000100002781" start="20260930170000 +0700" stop="20260930172000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20260930172000 +0700" stop="20260930193000 +0700">
     <title lang="th">LIVE: ฟุตบอลชาย - รอบรองฯ: อุซเบกิสถาน พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Men's Football - Semi Finals: Uzbekistan vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -57929,9 +58908,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
+  <programme channel="ch0000000000100002782" start="20260930110000 +0700" stop="20260930120000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลชายหาดชาย - รอบก่อนรองฯ: คาซัคสถาน พบ ไทย</title>
+    <title lang="en">LIVE: Men's Beach Volleyball - Quarter Finals: Kazakhstan vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
   <programme channel="ch0000000000100002782" start="20260930120000 +0700" stop="20260930130000 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <title lang="th">LIVE: มวยสากลหญิง - รอบรองฯ</title>
+    <title lang="en">LIVE: Women's Boxing - Semi Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -57941,19 +58926,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260930150000 +0700" stop="20260930180000 +0700">
+  <programme channel="ch0000000000100002782" start="20260930150000 +0700" stop="20260930173000 +0700">
     <title lang="th">LIVE: ยูโด - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Judo - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20260930180000 +0700" stop="20260930183000 +0700">
-    <title lang="th">LIVE: มวยปล้ำ - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Wrestling - Gold Medal Game</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20260930183000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002782" start="20260930173000 +0700" stop="20260930235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58085,31 +59064,43 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260930122500 +0700" stop="20260930140000 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+  <programme channel="ch0000000000100002783" start="20260930120000 +0700" stop="20260930122500 +0700">
+    <title lang="th">LIVE: ยิงธนูทีมชาย - รอบรองฯ: จีน พบ จีนไทเป</title>
+    <title lang="en">LIVE: Men's Team Archery - Semi Finals: China vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260930140000 +0700" stop="20260930150000 +0700">
+  <programme channel="ch0000000000100002783" start="20260930122500 +0700" stop="20260930130000 +0700">
+    <title lang="th">LIVE: ฮอกกี้หญิง - รอบจัดอันดับ: ไทย พบ จีนไทเป</title>
+    <title lang="en">LIVE: Women's Hockey - Classification: Thailand vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260930130000 +0700" stop="20260930142000 +0700">
+    <title lang="th">LIVE: เซปักตะกร้อชาย - รอบคัดเลือก: เมียนมาร์ พบ ลาว</title>
+    <title lang="en">LIVE: Men's Sepak Takraw - Preliminary: Myanmar vs Laos</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20260930142000 +0700" stop="20260930152000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อชาย - รอบคัดเลือก: อินโดนีเซีย พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Men's Sepak Takraw - Preliminary: Indonesia vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260930150000 +0700" stop="20260930160000 +0700">
+  <programme channel="ch0000000000100002783" start="20260930152000 +0700" stop="20260930160000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อหญิง - รอบคัดเลือก: เวียดนาม พบ ไทย</title>
     <title lang="en">LIVE: Women's Sepak Takraw - Preliminary: Vietnam vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260930160000 +0700" stop="20260930180000 +0700">
+  <programme channel="ch0000000000100002783" start="20260930160000 +0700" stop="20260930210000 +0700">
     <title lang="th">LIVE: ปีนหน้าผาชาย - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Men's Sport Climbing - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20260930180000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002783" start="20260930210000 +0700" stop="20260930235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58193,13 +59184,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260930043000 +0700" stop="20260930113000 +0700">
+  <programme channel="ch0000000000100002784" start="20260930043000 +0700" stop="20260930130000 +0700">
     <title lang="th">LIVE: กอล์ฟชาย - รอบแรก</title>
     <title lang="en">LIVE: Men's Golf - Round 1</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20260930113000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002784" start="20260930130000 +0700" stop="20260930140000 +0700">
+    <title lang="th">LIVE: ยิงปืนทีมผสม - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Mixed Team Shooting - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002784" start="20260930140000 +0700" stop="20260930235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58325,37 +59322,55 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260930090000 +0700" stop="20260930120000 +0700">
+  <programme channel="ch0000000000100002786" start="20260930090000 +0700" stop="20260930123000 +0700">
     <title lang="th">LIVE: ยูโด - รอบคัดเลือก</title>
     <title lang="en">LIVE: Judo - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260930120000 +0700" stop="20260930140000 +0700">
-    <title lang="th">LIVE: ฮอกกี้หญิง - รอบจัดอันดับ: ไทย พบ จีนไทเป</title>
-    <title lang="en">LIVE: Women's Hockey - Classification: Thailand vs Chinese Taipei</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002786" start="20260930140000 +0700" stop="20260930150000 +0700">
+  <programme channel="ch0000000000100002786" start="20260930123000 +0700" stop="20260930150000 +0700">
     <title lang="th">เริ่ม 15:00 ยูโด - รอบชิงเหรียญทอง</title>
     <title lang="en">Upcoming at 03:00PM Judo - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260930150000 +0700" stop="20260930180000 +0700">
+  <programme channel="ch0000000000100002786" start="20260930150000 +0700" stop="20260930173000 +0700">
     <title lang="th">LIVE: ยูโด - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Judo - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20260930180000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002786" start="20260930173000 +0700" stop="20260930235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20261001000000 +0700" stop="20261001235959 +0700">
+  <programme channel="ch0000000000100002786" start="20261001000000 +0700" stop="20261001090000 +0700">
+    <title lang="th">เริ่ม 09:00 ยูโด - รอบรองฯ</title>
+    <title lang="en">Upcoming at 09:00AM Judo - Semi Finals</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261001090000 +0700" stop="20261001110000 +0700">
+    <title lang="th">LIVE: ยูโด - รอบรองฯ</title>
+    <title lang="en">LIVE: Judo - Semi Finals</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261001110000 +0700" stop="20261001150000 +0700">
+    <title lang="th">เริ่ม 15:00 ยูโด - รอบชิงเหรียญทอง</title>
+    <title lang="en">Upcoming at 03:00PM Judo - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261001150000 +0700" stop="20261001170000 +0700">
+    <title lang="th">LIVE: ยูโด - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Judo - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261001170000 +0700" stop="20261001235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58445,25 +59460,25 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260930130000 +0700" stop="20260930140000 +0700">
+  <programme channel="ch0000000000100002787" start="20260930130000 +0700" stop="20260930142000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อชาย - รอบคัดเลือก: เมียนมาร์ พบ ลาว</title>
     <title lang="en">LIVE: Men's Sepak Takraw - Preliminary: Myanmar vs Laos</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260930140000 +0700" stop="20260930150000 +0700">
+  <programme channel="ch0000000000100002787" start="20260930142000 +0700" stop="20260930152000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อชาย - รอบคัดเลือก: อินโดนีเซีย พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Men's Sepak Takraw - Preliminary: Indonesia vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260930150000 +0700" stop="20260930160000 +0700">
+  <programme channel="ch0000000000100002787" start="20260930152000 +0700" stop="20260930162000 +0700">
     <title lang="th">LIVE: เซปักตะกร้อหญิง - รอบคัดเลือก: อินโดนีเซีย พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Sepak Takraw - Preliminary: Indonesia vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20260930160000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002787" start="20260930162000 +0700" stop="20260930235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58517,13 +59532,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260930090000 +0700" stop="20260930120000 +0700">
+  <programme channel="ch0000000000100002788" start="20260930090000 +0700" stop="20260930124000 +0700">
     <title lang="th">LIVE: ยูโด - รอบคัดเลือก</title>
     <title lang="en">LIVE: Judo - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260930120000 +0700" stop="20260930130000 +0700">
+  <programme channel="ch0000000000100002788" start="20260930124000 +0700" stop="20260930130000 +0700">
     <title lang="th">เริ่ม 13:00 ฟุตบอลชาย - รอบรองฯ เกาหลีใต้ พบ จีน</title>
     <title lang="en">Upcoming at 01:00PM Men's Football - Semi Finals South Korea vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58535,13 +59550,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260930150000 +0700" stop="20260930173000 +0700">
-    <title lang="th">เริ่ม 17:30 ฟุตบอลชาย - รอบรองฯ อุซเบกิสถาน พบ ญี่ปุ่น</title>
-    <title lang="en">Upcoming at 05:30PM Men's Football - Semi Finals Uzbekistan vs Japan</title>
+  <programme channel="ch0000000000100002788" start="20260930150000 +0700" stop="20260930172000 +0700">
+    <title lang="th">เริ่ม 17:20 ฟุตบอลชาย - รอบรองฯ อุซเบกิสถาน พบ ญี่ปุ่น</title>
+    <title lang="en">Upcoming at 05:20PM Men's Football - Semi Finals Uzbekistan vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20260930173000 +0700" stop="20260930193000 +0700">
+  <programme channel="ch0000000000100002788" start="20260930172000 +0700" stop="20260930193000 +0700">
     <title lang="th">LIVE: ฟุตบอลชาย - รอบรองฯ: อุซเบกิสถาน พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Men's Football - Semi Finals: Uzbekistan vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58631,43 +59646,67 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260930090000 +0700" stop="20260930103000 +0700">
+  <programme channel="ch0000000000100002790" start="20260930090000 +0700" stop="20260930110000 +0700">
     <title lang="th">LIVE: ซอฟต์บอลหญิง - รอบคัดเลือก: ฮ่องกง พบ เกาหลีใต้</title>
     <title lang="en">LIVE: Women's Softball - Preliminary: Hong Kong vs South Korea</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260930103000 +0700" stop="20260930120000 +0700">
+  <programme channel="ch0000000000100002790" start="20260930110000 +0700" stop="20260930123000 +0700">
     <title lang="th">LIVE: ซอฟต์บอลหญิง - รอบคัดเลือก: สิงคโปร์ พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Softball - Preliminary: Singapore vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260930120000 +0700" stop="20260930133000 +0700">
+  <programme channel="ch0000000000100002790" start="20260930123000 +0700" stop="20260930124500 +0700">
+    <title lang="th">เริ่ม 12:45 ซอฟต์บอลหญิง - รอบคัดเลือก จีนไทเป พบ ไทย</title>
+    <title lang="en">Upcoming at 12:45PM Women's Softball - Preliminary Chinese Taipei vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20260930124500 +0700" stop="20260930144000 +0700">
     <title lang="th">LIVE: ซอฟต์บอลหญิง - รอบคัดเลือก: จีนไทเป พบ ไทย</title>
     <title lang="en">LIVE: Women's Softball - Preliminary: Chinese Taipei vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260930133000 +0700" stop="20260930150000 +0700">
+  <programme channel="ch0000000000100002790" start="20260930144000 +0700" stop="20260930150000 +0700">
+    <title lang="th">เริ่ม 15:00 ซอฟต์บอลหญิง - รอบคัดเลือก จีน พบ ฮ่องกง</title>
+    <title lang="en">Upcoming at 03:00PM Women's Softball - Preliminary China vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20260930150000 +0700" stop="20260930162000 +0700">
     <title lang="th">LIVE: ซอฟต์บอลหญิง - รอบคัดเลือก: จีน พบ ฮ่องกง</title>
     <title lang="en">LIVE: Women's Softball - Preliminary: China vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260930150000 +0700" stop="20260930163000 +0700">
+  <programme channel="ch0000000000100002790" start="20260930162000 +0700" stop="20260930163000 +0700">
+    <title lang="th">เริ่ม 16:30 ซอฟต์บอลหญิง - รอบคัดเลือก ฟิลิปปินส์ พบ สิงคโปร์</title>
+    <title lang="en">Upcoming at 04:30PM Women's Softball - Preliminary Philippines vs Singapore</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20260930163000 +0700" stop="20260930180000 +0700">
     <title lang="th">LIVE: ซอฟต์บอลหญิง - รอบคัดเลือก: ฟิลิปปินส์ พบ สิงคโปร์</title>
     <title lang="en">LIVE: Women's Softball - Preliminary: Philippines vs Singapore</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260930163000 +0700" stop="20260930180000 +0700">
+  <programme channel="ch0000000000100002790" start="20260930180000 +0700" stop="20260930182000 +0700">
+    <title lang="th">เริ่ม 18:20 ซอฟต์บอลหญิง - รอบคัดเลือก ญี่ปุ่น พบ เกาหลีใต้</title>
+    <title lang="en">Upcoming at 06:20PM Women's Softball - Preliminary Japan vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20260930182000 +0700" stop="20260930203000 +0700">
     <title lang="th">LIVE: ซอฟต์บอลหญิง - รอบคัดเลือก: ญี่ปุ่น พบ เกาหลีใต้</title>
     <title lang="en">LIVE: Women's Softball - Preliminary: Japan vs South Korea</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20260930180000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002790" start="20260930203000 +0700" stop="20260930235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58949,15 +59988,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260930113000 +0700" stop="20260930123000 +0700">
-    <title lang="th">เริ่ม 12:30 ยิงปืนทีมผสม - รอบชิงเหรียญทอง</title>
-    <title lang="en">Upcoming at 12:30PM Mixed Team Shooting - Gold Medal Game</title>
+  <programme channel="ch0000000000100002801" start="20260930113000 +0700" stop="20260930120000 +0700">
+    <title lang="th">เริ่ม 12:00 ฮอกกี้หญิง - รอบจัดอันดับ ไทย พบ จีนไทเป</title>
+    <title lang="en">Upcoming at 12:00PM Women's Hockey - Classification Thailand vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20260930123000 +0700" stop="20260930140000 +0700">
-    <title lang="th">LIVE: ยิงปืนทีมผสม - รอบชิงเหรียญทอง</title>
-    <title lang="en">LIVE: Mixed Team Shooting - Gold Medal Game</title>
+  <programme channel="ch0000000000100002801" start="20260930120000 +0700" stop="20260930140000 +0700">
+    <title lang="th">LIVE: ฮอกกี้หญิง - รอบจัดอันดับ: ไทย พบ จีนไทเป</title>
+    <title lang="en">LIVE: Women's Hockey - Classification: Thailand vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59027,31 +60066,31 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260930100000 +0700" stop="20260930120000 +0700">
+  <programme channel="ch0000000000100002811" start="20260930100000 +0700" stop="20260930110000 +0700">
     <title lang="th">LIVE: กระโดดน้ำชาย - รอบคัดเลือก</title>
     <title lang="en">LIVE: Men's Aquatics Diving - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260930120000 +0700" stop="20260930132000 +0700">
-    <title lang="th">เริ่ม 13:20 กระโดดน้ำหญิง - รอบชิงเหรียญทอง</title>
-    <title lang="en">Upcoming at 01:20PM Women's Aquatics Diving - Gold Medal Game</title>
+  <programme channel="ch0000000000100002811" start="20260930110000 +0700" stop="20260930131000 +0700">
+    <title lang="th">เริ่ม 13:10 กระโดดน้ำหญิง - รอบชิงเหรียญทอง</title>
+    <title lang="en">Upcoming at 01:10PM Women's Aquatics Diving - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260930132000 +0700" stop="20260930153000 +0700">
+  <programme channel="ch0000000000100002811" start="20260930131000 +0700" stop="20260930153000 +0700">
     <title lang="th">LIVE: กระโดดน้ำหญิง - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Women's Aquatics Diving - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260930153000 +0700" stop="20260930173000 +0700">
+  <programme channel="ch0000000000100002811" start="20260930153000 +0700" stop="20260930170000 +0700">
     <title lang="th">LIVE: กระโดดน้ำชาย - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Men's Aquatics Diving - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20260930173000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002811" start="20260930170000 +0700" stop="20260930235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59297,25 +60336,25 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260930103000 +0700" stop="20260930120000 +0700">
+  <programme channel="ch0000000000100002814" start="20260930103000 +0700" stop="20260930113000 +0700">
     <title lang="th">LIVE: ปีนหน้าผาชาย - รอบคัดเลือก</title>
     <title lang="en">LIVE: Men's Sport Climbing - Qualification</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260930120000 +0700" stop="20260930160000 +0700">
+  <programme channel="ch0000000000100002814" start="20260930113000 +0700" stop="20260930160000 +0700">
     <title lang="th">เริ่ม 16:00 ปีนหน้าผาชาย - รอบชิงเหรียญทอง</title>
     <title lang="en">Upcoming at 04:00PM Men's Sport Climbing - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260930160000 +0700" stop="20260930180000 +0700">
+  <programme channel="ch0000000000100002814" start="20260930160000 +0700" stop="20260930210000 +0700">
     <title lang="th">LIVE: ปีนหน้าผาชาย - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Men's Sport Climbing - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20260930180000 +0700" stop="20260930235959 +0700">
+  <programme channel="ch0000000000100002814" start="20260930210000 +0700" stop="20260930235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
