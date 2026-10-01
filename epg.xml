@@ -305,15 +305,25 @@
     <display-name lang="en">PLAY SPORTS 57</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151431051870.png"/>
   </channel>
-  <channel id="ch0000000000100002644">
-    <display-name lang="th">เพลย์สปอร์ต 58</display-name>
-    <display-name lang="en">PLAY SPORTS 58</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151504051971.png"/>
-  </channel>
   <channel id="ch0000000000100002511">
     <display-name lang="th">เพลย์สปอร์ต 61</display-name>
     <display-name lang="en">PLAY SPORTS 61</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226102333034473.png"/>
+  </channel>
+  <channel id="ch0000000000100002521">
+    <display-name lang="th">เพลย์สปอร์ต 62</display-name>
+    <display-name lang="en">PLAY SPORTS 62</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226104956034555.png"/>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name lang="th">เพลย์สปอร์ต 64</display-name>
+    <display-name lang="en">PLAY SPORTS 64</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226110300034557.png"/>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name lang="th">เพลย์สปอร์ต 65</display-name>
+    <display-name lang="en">PLAY SPORTS 65</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226192158034558.png"/>
   </channel>
   <channel id="ch0000000000100002525">
     <display-name lang="th">เพลย์สปอร์ต 66</display-name>
@@ -560,185 +570,179 @@
     <display-name lang="en">Asian Games 918</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png"/>
   </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002753">
-    <display-name>ch0000000000100002753</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002752">
-    <display-name>ch0000000000100002752</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002761">
-    <display-name>ch0000000000100002761</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002754">
-    <display-name>ch0000000000100002754</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002521">
-    <display-name>ch0000000000100002521</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
   </channel>
   <channel id="ch0000000000100002321">
     <display-name>ch0000000000100002321</display-name>
   </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
   <channel id="ch0000000000100002252">
     <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
   </channel>
   <channel id="ch0000000000100002311">
     <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002753">
+    <display-name>ch0000000000100002753</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002761">
+    <display-name>ch0000000000100002761</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002752">
+    <display-name>ch0000000000100002752</display-name>
+  </channel>
+  <channel id="ch0000000000100002754">
+    <display-name>ch0000000000100002754</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20260929235500 +0700" stop="20260930012500 +0700">
     <title>Him</title>
@@ -27446,28 +27450,24 @@
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001070000 +0700" stop="20261001080000 +0700">
-    <title>Anderson Cooper 360</title>
-    <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
-    <category>Current Events,News</category>
+    <title>Anderson Cooper 360: Debate Pre-Show</title>
+    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001080000 +0700" stop="20261001090000 +0700">
-    <title>The Source with Kaitlan Collins</title>
-    <desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-    <category>Current Events,News</category>
+    <title>California Governor's Debate</title>
+    <desc>CNN hosts the California Governor Primary Debate between Xavier Becerra and Steve Hilton, giving voters the chance to hear from the candidates.</desc>
+    <category>Current Events</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001090000 +0700" stop="20261001100000 +0700">
-    <title>CNN NewsNight</title>
-    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-    <category>Current Events,News</category>
+    <title>CNN NewsNight: Post Debate Analysis</title>
+    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001100000 +0700" stop="20261001110000 +0700">
-    <title>Laura Coates Live</title>
-    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-    <category>Current Events,News</category>
+    <title>CNN NewsNight: Post Debate Analysis</title>
+    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001110000 +0700" stop="20261001120000 +0700">
-    <title>The Story Is With Elex Michaelson</title>
-    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+    <title>CNN Newsroom</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001120000 +0700" stop="20261001124500 +0700">
@@ -27481,19 +27481,14 @@
     <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001130000 +0700" stop="20261001140000 +0700">
+    <title>The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20261001140000 +0700" stop="20261001150000 +0700">
     <title>CNN Newsroom</title>
     <desc>Live context and clarity to the day's top stories from around the world.</desc>
     <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261001140000 +0700" stop="20261001144500 +0700">
-    <title>CNN Newsroom</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261001144500 +0700" stop="20261001150000 +0700">
-    <title>World Sport</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261001150000 +0700" stop="20261001160000 +0700">
     <title>CNN Newsroom</title>
@@ -27699,8 +27694,8 @@
     <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261002234500 +0700" stop="20261003000000 +0700">
-    <title>Marketplace Africa: Episode 603</title>
-    <desc>Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world.</desc>
+    <title>Marketplace Africa: Namibia's Water Economy; Seyi Ebenezer</title>
+    <desc>New technology is being deployed in Namibia as a means of managing and conserving water.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261003000000 +0700" stop="20261003010000 +0700">
@@ -27842,8 +27837,8 @@
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261003213000 +0700" stop="20261003220000 +0700">
-    <title>Inside Africa: Episode 735</title>
-    <desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+    <title>Inside Africa: Madagascar's Island of Giants</title>
+    <desc>Every year, humpback whales return to Sainte-Marie to mate, give birth and raise their young. We follow researchers exploring their behaviour.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261003220000 +0700" stop="20261003230000 +0700">
@@ -27862,8 +27857,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261003234500 +0700" stop="20261004000000 +0700">
-    <title>Marketplace Africa: Episode 603</title>
-    <desc>Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world.</desc>
+    <title>Marketplace Africa: Namibia's Water Economy; Seyi Ebenezer</title>
+    <desc>New technology is being deployed in Namibia as a means of managing and conserving water.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001238" start="20260929235500 +0700" stop="20260930000000 +0700">
@@ -34918,637 +34913,637 @@
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20260930220000 +0700" stop="20260930230000 +0700">
-    <title>A Taste Of Festival S1 Ep.7: Valentines Day Qixi Festival</title>
+    <title>A Taste Of Festival (S1) Ep.7: Valentines Day Qixi Festival</title>
     <desc>Besides inviting experts and chefs to share the traditions and festive food of the Qixi Festival, a pastry chef is also invited to demonstrate the making of chocolates.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20260930230000 +0700" stop="20260930235500 +0700">
-    <title>Beyond Bali: The World's Most Exotic Islands S1 Ep.3: North Lombok : Cultural Surprises</title>
+    <title>Beyond Bali: The World's Most Exotic Islands (S1) Ep.3: North Lombok : Cultural Surprises</title>
     <desc>In Lombok, Lara Lee discovers fiery spices and an extraordinary culture. This offers unexpected insights into her own Chinese-Indonesian heritage.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20260930235500 +0700" stop="20261001002000 +0700">
-    <title>Fading Flavors S1 Ep.7: Hong Kong Pig With Golden Chicken And Duck Feet</title>
+    <title>Fading Flavors (S1) Ep.7: Hong Kong Pig With Golden Chicken And Duck Feet</title>
     <desc>One of the main ingredients of siu mei – “pig” is actually raised by Hong Kong pig farmers.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001002000 +0700" stop="20261001005000 +0700">
-    <title>Fading Flavors S1 Ep.8: Salt And Saltbaked Chicken</title>
+    <title>Fading Flavors (S1) Ep.8: Salt And Saltbaked Chicken</title>
     <desc>Today, the salt field has been reborn and the salt crystals made by the water flow method are in the shape of crosses and crystal clear.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001005000 +0700" stop="20261001011500 +0700">
-    <title>Maximum Foodie S4 Ep.3: Indonesia: The Tale Of Coffee</title>
+    <title>Maximum Foodie (S4) Ep.3: Indonesia: The Tale Of Coffee</title>
     <desc>Sashi is in the island of Java and he's on a unique mission to discover how coffee was brought to Asia.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001011500 +0700" stop="20261001014500 +0700">
-    <title>Maximum Foodie S4 Ep.4: Komodo</title>
+    <title>Maximum Foodie (S4) Ep.4: Komodo</title>
     <desc>Sashi finally leaves the comfort of his favorite island of Bali and heads to another famous one in the Indonesian archipelago.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001014500 +0700" stop="20261001021000 +0700">
-    <title>Eat With David S1 Ep.1: Hidden Gems</title>
+    <title>Eat With David (S1) Ep.1: Hidden Gems</title>
     <desc>David explores a 70-year-old noodle shop and tastes the signature side dish made by its 95-year-old owner -- a story of time, tradition, and craftsmanship.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001021000 +0700" stop="20261001024000 +0700">
-    <title>Eat With David S1 Ep.2: Taipei Breakfasts</title>
+    <title>Eat With David (S1) Ep.2: Taipei Breakfasts</title>
     <desc>David dives into the energetic morning streets of Taipei, sampling everything from soy milk and youtiao (fried dough sticks) to scallion pancakes and congee.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001024000 +0700" stop="20261001033500 +0700">
-    <title>Makan On Wheels S1 Ep.6</title>
+    <title>Makan On Wheels (S1) Ep.6</title>
     <desc>The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001033500 +0700" stop="20261001040000 +0700">
-    <title>Maximum Foodie S4 Ep.3: Indonesia: The Tale Of Coffee</title>
+    <title>Maximum Foodie (S4) Ep.3: Indonesia: The Tale Of Coffee</title>
     <desc>Sashi is in the island of Java and he's on a unique mission to discover how coffee was brought to Asia.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001040000 +0700" stop="20261001043000 +0700">
-    <title>Maximum Foodie S4 Ep.4: Komodo</title>
+    <title>Maximum Foodie (S4) Ep.4: Komodo</title>
     <desc>Sashi finally leaves the comfort of his favorite island of Bali and heads to another famous one in the Indonesian archipelago.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001043000 +0700" stop="20261001050000 +0700">
-    <title>Eat With David S1 Ep.2: Taipei Breakfasts</title>
+    <title>Eat With David (S1) Ep.2: Taipei Breakfasts</title>
     <desc>David dives into the energetic morning streets of Taipei, sampling everything from soy milk and youtiao (fried dough sticks) to scallion pancakes and congee.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001050000 +0700" stop="20261001052500 +0700">
-    <title>Ranch To Table S1 Ep.1: Welcome To The Ranch</title>
+    <title>Ranch To Table (S1) Ep.1: Welcome To The Ranch</title>
     <desc>Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001052500 +0700" stop="20261001055000 +0700">
-    <title>Ranch To Table S1 Ep.2: Springtime On The Ranch</title>
+    <title>Ranch To Table (S1) Ep.2: Springtime On The Ranch</title>
     <desc>Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001055000 +0700" stop="20261001064500 +0700">
-    <title>A Taste Of Festival S1 Ep.7: Valentines Day Qixi Festival</title>
+    <title>A Taste Of Festival (S1) Ep.7: Valentines Day Qixi Festival</title>
     <desc>Besides inviting experts and chefs to share the traditions and festive food of the Qixi Festival, a pastry chef is also invited to demonstrate the making of chocolates.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001064500 +0700" stop="20261001071000 +0700">
-    <title>Maximum Foodie S4 Ep.3: Indonesia: The Tale Of Coffee</title>
+    <title>Maximum Foodie (S4) Ep.3: Indonesia: The Tale Of Coffee</title>
     <desc>Sashi is in the island of Java and he's on a unique mission to discover how coffee was brought to Asia.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001071000 +0700" stop="20261001074000 +0700">
-    <title>Maximum Foodie S4 Ep.4: Komodo</title>
+    <title>Maximum Foodie (S4) Ep.4: Komodo</title>
     <desc>Sashi finally leaves the comfort of his favorite island of Bali and heads to another famous one in the Indonesian archipelago.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001074000 +0700" stop="20261001083500 +0700">
-    <title>A Sweet Taste Of Art S1 Ep.3: Thai Desserts</title>
+    <title>A Sweet Taste Of Art (S1) Ep.3: Thai Desserts</title>
     <desc>The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001083500 +0700" stop="20261001090000 +0700">
-    <title>Everyday Gourmet S12 Ep.57</title>
+    <title>Everyday Gourmet (S12) Ep.57</title>
     <desc>Make your own takeaway with Justine's sweet and sour prawns, or challenge yourself with this delicious homemade fettuccine recipe that taste as good as at any restaurant.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001090000 +0700" stop="20261001093000 +0700">
-    <title>Everyday Gourmet S12 Ep.58</title>
+    <title>Everyday Gourmet (S12) Ep.58</title>
     <desc>Kicking off today's episode, Warren Mendes returns with a rice pudding that's filled with chocolate.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001093000 +0700" stop="20261001102500 +0700">
-    <title>Go Where Flavors Of Hunan Abound S2 Ep.6: Chadong</title>
-    <desc>A shorter adventure focused on Chadong, a town with strong tea and mountain food traditions.</desc>
+    <title>A Taste Of Festival (S1) Ep.1: Chinese New Year 1_Teochew &amp; Hakka Chinese New Year</title>
+    <desc>Host Pornsak introduces Teochew and Hakka Chinese New Year dishes and learns to cook the dishes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001102500 +0700" stop="20261001105000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.3: On The Toyama Road 3</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.3: On The Toyama Road 3</title>
     <desc>My Toyama Ramen Journey Part 3. This time,I enjoyed ramen at "Harunoiro Shokudo,"a popular spot with a retro look it used to be a rice storehouse from the Maeda clan era.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001105000 +0700" stop="20261001112000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.4: On The Kyoto Road 1</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.4: On The Kyoto Road 1</title>
     <desc>My Kyoto Ramen Journey Part 1. I kicked off my Kyoto ramen adventure with a visit to "Drive-in Daruma," a nostalgic spot complete with a retro vending machine corner.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001112000 +0700" stop="20261001121500 +0700">
-    <title>A Taste Of Festival S1 Ep.7: Valentines Day Qixi Festival</title>
+    <title>A Taste Of Festival (S1) Ep.7: Valentines Day Qixi Festival</title>
     <desc>Besides inviting experts and chefs to share the traditions and festive food of the Qixi Festival, a pastry chef is also invited to demonstrate the making of chocolates.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001121500 +0700" stop="20261001124000 +0700">
-    <title>Eat With David S1 Ep.1: Hidden Gems</title>
+    <title>Eat With David (S1) Ep.1: Hidden Gems</title>
     <desc>David explores a 70-year-old noodle shop and tastes the signature side dish made by its 95-year-old owner -- a story of time, tradition, and craftsmanship.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001124000 +0700" stop="20261001131000 +0700">
-    <title>Eat With David S1 Ep.2: Taipei Breakfasts</title>
+    <title>Eat With David (S1) Ep.2: Taipei Breakfasts</title>
     <desc>David dives into the energetic morning streets of Taipei, sampling everything from soy milk and youtiao (fried dough sticks) to scallion pancakes and congee.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001131000 +0700" stop="20261001140500 +0700">
-    <title>Beyond Bali: The World's Most Exotic Islands S1 Ep.3: North Lombok : Cultural Surprises</title>
+    <title>Beyond Bali: The World's Most Exotic Islands (S1) Ep.3: North Lombok : Cultural Surprises</title>
     <desc>In Lombok, Lara Lee discovers fiery spices and an extraordinary culture. This offers unexpected insights into her own Chinese-Indonesian heritage.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001140500 +0700" stop="20261001150000 +0700">
-    <title>A Sweet Taste Of Art S1 Ep.3: Thai Desserts</title>
+    <title>A Sweet Taste Of Art (S1) Ep.3: Thai Desserts</title>
     <desc>The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001150000 +0700" stop="20261001153000 +0700">
-    <title>Everyday Gourmet S12 Ep.59</title>
+    <title>Everyday Gourmet (S12) Ep.59</title>
     <desc>Simon Toohey returns with a freekeh and rye healthy stew, while Justine serves tasty mushrooms in a pepper sauce.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001153000 +0700" stop="20261001160000 +0700">
-    <title>Everyday Gourmet S12 Ep.60</title>
+    <title>Everyday Gourmet (S12) Ep.60</title>
     <desc>Thomas Schnetzler returns with more chocolate recipes, and makes a travel cake packed with melting chocolate.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001160000 +0700" stop="20261001163000 +0700">
-    <title>Ranch To Table S1 Ep.1: Welcome To The Ranch</title>
+    <title>Ranch To Table (S1) Ep.1: Welcome To The Ranch</title>
     <desc>Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001163000 +0700" stop="20261001170000 +0700">
-    <title>Ranch To Table S1 Ep.2: Springtime On The Ranch</title>
+    <title>Ranch To Table (S1) Ep.2: Springtime On The Ranch</title>
     <desc>Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001170000 +0700" stop="20261001173000 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.1: Hanoi</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.1: Hanoi</title>
     <desc>Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001173000 +0700" stop="20261001180000 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.2: Dalat</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.2: Dalat</title>
     <desc>Luke explores the many street food and fresh local produce options available in Dalat.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001180000 +0700" stop="20261001190000 +0700">
-    <title>A Taste Of Festival S1 Ep.8: Qingming Festival</title>
+    <title>A Taste Of Festival (S1) Ep.8: Qingming Festival</title>
     <desc>Dishes of the festival from various dialect groups featured are Black Bean Cakes, Ai Pan, Qingming Rice, White Sugar Cakes, Popiah and a dessert soup made with Skunkvine.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001190000 +0700" stop="20261001193000 +0700">
-    <title>Eat With David S1 Ep.1: Hidden Gems</title>
+    <title>Eat With David (S1) Ep.1: Hidden Gems</title>
     <desc>David explores a 70-year-old noodle shop and tastes the signature side dish made by its 95-year-old owner -- a story of time, tradition, and craftsmanship.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001193000 +0700" stop="20261001200000 +0700">
-    <title>Eat With David S1 Ep.2: Taipei Breakfasts</title>
+    <title>Eat With David (S1) Ep.2: Taipei Breakfasts</title>
     <desc>David dives into the energetic morning streets of Taipei, sampling everything from soy milk and youtiao (fried dough sticks) to scallion pancakes and congee.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001200000 +0700" stop="20261001203000 +0700">
-    <title>Diana Chan's Malaysia S1 Ep.6: Favorites</title>
+    <title>Diana Chan's Malaysia (S1) Ep.6: Favorites</title>
     <desc>Diana closes the series in Penang, one of Malaysia's most celebrated food destinations.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001203000 +0700" stop="20261001210000 +0700">
-    <title>Hong Kong Gourmet With Justine Schofield S1 Ep.6: Hong Kong Cuisine</title>
+    <title>Hong Kong Gourmet With Justine Schofield (S1) Ep.6: Hong Kong Cuisine</title>
     <desc>To close the season, Justine dines at award-winning Hong Kong Cuisine before sharing a vibrant rice noodle recipe.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001210000 +0700" stop="20261001213000 +0700">
-    <title>Fading Flavors S1 Ep.7: Hong Kong Pig With Golden Chicken And Duck Feet</title>
+    <title>Fading Flavors (S1) Ep.7: Hong Kong Pig With Golden Chicken And Duck Feet</title>
     <desc>One of the main ingredients of siu mei – “pig” is actually raised by Hong Kong pig farmers.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001213000 +0700" stop="20261001220000 +0700">
-    <title>Fading Flavors S1 Ep.8: Salt And Saltbaked Chicken</title>
+    <title>Fading Flavors (S1) Ep.8: Salt And Saltbaked Chicken</title>
     <desc>Today, the salt field has been reborn and the salt crystals made by the water flow method are in the shape of crosses and crystal clear.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001220000 +0700" stop="20261001230000 +0700">
-    <title>A Taste Of Festival S1 Ep.8: Qingming Festival</title>
+    <title>A Taste Of Festival (S1) Ep.8: Qingming Festival</title>
     <desc>Dishes of the festival from various dialect groups featured are Black Bean Cakes, Ai Pan, Qingming Rice, White Sugar Cakes, Popiah and a dessert soup made with Skunkvine.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001230000 +0700" stop="20261001235500 +0700">
-    <title>Go Where Flavors Of Hunan Abound S2 Ep.6: Chadong</title>
-    <desc>A shorter adventure focused on Chadong, a town with strong tea and mountain food traditions.</desc>
+    <title>A Taste Of Festival (S1) Ep.1: Chinese New Year 1_Teochew &amp; Hakka Chinese New Year</title>
+    <desc>Host Pornsak introduces Teochew and Hakka Chinese New Year dishes and learns to cook the dishes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261001235500 +0700" stop="20261002002000 +0700">
-    <title>Star Vs Food: Malaysia S1 Ep.5: The Royal Rumble</title>
+    <title>Star Vs Food: Malaysia (S1) Ep.5: The Royal Rumble</title>
     <desc>Queen of Hearts (Juliana) meets the King of Comfort Food (Chef Najib) to create amazing delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002002000 +0700" stop="20261002005000 +0700">
-    <title>Star Vs Food: Malaysia S1 Ep.6: Fire Starter</title>
+    <title>Star Vs Food: Malaysia (S1) Ep.6: Fire Starter</title>
     <desc>A fire fighter / actor (Hisyam Hamid) meets an a award winning chef (Chef Fazley) with a fire torch in his hands.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002005000 +0700" stop="20261002014500 +0700">
-    <title>A Sweet Taste Of Art S1 Ep.3: Thai Desserts</title>
+    <title>A Sweet Taste Of Art (S1) Ep.3: Thai Desserts</title>
     <desc>The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002014500 +0700" stop="20261002021000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.3: On The Toyama Road 3</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.3: On The Toyama Road 3</title>
     <desc>My Toyama Ramen Journey Part 3. This time,I enjoyed ramen at "Harunoiro Shokudo,"a popular spot with a retro look it used to be a rice storehouse from the Maeda clan era.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002021000 +0700" stop="20261002024000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.4: On The Kyoto Road 1</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.4: On The Kyoto Road 1</title>
     <desc>My Kyoto Ramen Journey Part 1. I kicked off my Kyoto ramen adventure with a visit to "Drive-in Daruma," a nostalgic spot complete with a retro vending machine corner.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002024000 +0700" stop="20261002030500 +0700">
-    <title>Fading Flavors S1 Ep.7: Hong Kong Pig With Golden Chicken And Duck Feet</title>
+    <title>Fading Flavors (S1) Ep.7: Hong Kong Pig With Golden Chicken And Duck Feet</title>
     <desc>One of the main ingredients of siu mei – “pig” is actually raised by Hong Kong pig farmers.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002030500 +0700" stop="20261002033500 +0700">
-    <title>Fading Flavors S1 Ep.8: Salt And Saltbaked Chicken</title>
+    <title>Fading Flavors (S1) Ep.8: Salt And Saltbaked Chicken</title>
     <desc>Today, the salt field has been reborn and the salt crystals made by the water flow method are in the shape of crosses and crystal clear.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002033500 +0700" stop="20261002043000 +0700">
-    <title>A Sweet Taste Of Art S1 Ep.3: Thai Desserts</title>
+    <title>A Sweet Taste Of Art (S1) Ep.3: Thai Desserts</title>
     <desc>The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002043000 +0700" stop="20261002050000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.4: On The Kyoto Road 1</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.4: On The Kyoto Road 1</title>
     <desc>My Kyoto Ramen Journey Part 1. I kicked off my Kyoto ramen adventure with a visit to "Drive-in Daruma," a nostalgic spot complete with a retro vending machine corner.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002050000 +0700" stop="20261002052500 +0700">
-    <title>Maximum Foodie S4 Ep.3: Indonesia: The Tale Of Coffee</title>
+    <title>Maximum Foodie (S4) Ep.3: Indonesia: The Tale Of Coffee</title>
     <desc>Sashi is in the island of Java and he's on a unique mission to discover how coffee was brought to Asia.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002052500 +0700" stop="20261002055000 +0700">
-    <title>Maximum Foodie S4 Ep.4: Komodo</title>
+    <title>Maximum Foodie (S4) Ep.4: Komodo</title>
     <desc>Sashi finally leaves the comfort of his favorite island of Bali and heads to another famous one in the Indonesian archipelago.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002055000 +0700" stop="20261002064500 +0700">
-    <title>A Taste Of Festival S1 Ep.8: Qingming Festival</title>
+    <title>A Taste Of Festival (S1) Ep.8: Qingming Festival</title>
     <desc>Dishes of the festival from various dialect groups featured are Black Bean Cakes, Ai Pan, Qingming Rice, White Sugar Cakes, Popiah and a dessert soup made with Skunkvine.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002064500 +0700" stop="20261002071000 +0700">
-    <title>Ranch To Table S1 Ep.1: Welcome To The Ranch</title>
+    <title>Ranch To Table (S1) Ep.1: Welcome To The Ranch</title>
     <desc>Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002071000 +0700" stop="20261002074000 +0700">
-    <title>Ranch To Table S1 Ep.2: Springtime On The Ranch</title>
+    <title>Ranch To Table (S1) Ep.2: Springtime On The Ranch</title>
     <desc>Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002074000 +0700" stop="20261002083500 +0700">
-    <title>Makan On Wheels S1 Ep.6</title>
+    <title>Makan On Wheels (S1) Ep.6</title>
     <desc>The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002083500 +0700" stop="20261002090000 +0700">
-    <title>Everyday Gourmet S12 Ep.59</title>
+    <title>Everyday Gourmet (S12) Ep.59</title>
     <desc>Simon Toohey returns with a freekeh and rye healthy stew, while Justine serves tasty mushrooms in a pepper sauce.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002090000 +0700" stop="20261002093000 +0700">
-    <title>Everyday Gourmet S12 Ep.60</title>
+    <title>Everyday Gourmet (S12) Ep.60</title>
     <desc>Thomas Schnetzler returns with more chocolate recipes, and makes a travel cake packed with melting chocolate.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002093000 +0700" stop="20261002095500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.1: Hanoi</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.1: Hanoi</title>
     <desc>Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002095500 +0700" stop="20261002102500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.2: Dalat</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.2: Dalat</title>
     <desc>Luke explores the many street food and fresh local produce options available in Dalat.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002102500 +0700" stop="20261002105000 +0700">
-    <title>Star Vs Food: Malaysia S1 Ep.5: The Royal Rumble</title>
+    <title>Star Vs Food: Malaysia (S1) Ep.5: The Royal Rumble</title>
     <desc>Queen of Hearts (Juliana) meets the King of Comfort Food (Chef Najib) to create amazing delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002105000 +0700" stop="20261002112000 +0700">
-    <title>Star Vs Food: Malaysia S1 Ep.6: Fire Starter</title>
+    <title>Star Vs Food: Malaysia (S1) Ep.6: Fire Starter</title>
     <desc>A fire fighter / actor (Hisyam Hamid) meets an a award winning chef (Chef Fazley) with a fire torch in his hands.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002112000 +0700" stop="20261002121500 +0700">
-    <title>A Taste Of Festival S1 Ep.8: Qingming Festival</title>
+    <title>A Taste Of Festival (S1) Ep.8: Qingming Festival</title>
     <desc>Dishes of the festival from various dialect groups featured are Black Bean Cakes, Ai Pan, Qingming Rice, White Sugar Cakes, Popiah and a dessert soup made with Skunkvine.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002121500 +0700" stop="20261002124000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.3: On The Toyama Road 3</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.3: On The Toyama Road 3</title>
     <desc>My Toyama Ramen Journey Part 3. This time,I enjoyed ramen at "Harunoiro Shokudo,"a popular spot with a retro look it used to be a rice storehouse from the Maeda clan era.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002124000 +0700" stop="20261002131000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.4: On The Kyoto Road 1</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.4: On The Kyoto Road 1</title>
     <desc>My Kyoto Ramen Journey Part 1. I kicked off my Kyoto ramen adventure with a visit to "Drive-in Daruma," a nostalgic spot complete with a retro vending machine corner.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002131000 +0700" stop="20261002140500 +0700">
-    <title>A Sweet Taste Of Art S1 Ep.3: Thai Desserts</title>
+    <title>A Sweet Taste Of Art (S1) Ep.3: Thai Desserts</title>
     <desc>The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002140500 +0700" stop="20261002150000 +0700">
-    <title>Makan On Wheels S1 Ep.6</title>
+    <title>Makan On Wheels (S1) Ep.6</title>
     <desc>The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002150000 +0700" stop="20261002153000 +0700">
-    <title>Everyday Gourmet S12 Ep.61</title>
+    <title>Everyday Gourmet (S12) Ep.61</title>
     <desc>Justine has your next party sorted with today's crunchy and savory anchovy and pecorino cigars, and delicious garlic soup to warm you up.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002153000 +0700" stop="20261002160000 +0700">
-    <title>Everyday Gourmet S12 Ep.62</title>
+    <title>Everyday Gourmet (S12) Ep.62</title>
     <desc>Justine learns a refreshing and delicate way to prepare octopus from local chef Flagstaff Hill.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002160000 +0700" stop="20261002163000 +0700">
-    <title>Diana Chan's Malaysia S1 Ep.6: Favorites</title>
+    <title>Diana Chan's Malaysia (S1) Ep.6: Favorites</title>
     <desc>Diana closes the series in Penang, one of Malaysia's most celebrated food destinations.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002163000 +0700" stop="20261002170000 +0700">
-    <title>Hong Kong Gourmet With Justine Schofield S1 Ep.6: Hong Kong Cuisine</title>
+    <title>Hong Kong Gourmet With Justine Schofield (S1) Ep.6: Hong Kong Cuisine</title>
     <desc>To close the season, Justine dines at award-winning Hong Kong Cuisine before sharing a vibrant rice noodle recipe.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002170000 +0700" stop="20261002180000 +0700">
-    <title>Beyond Bali: The World's Most Exotic Islands S1 Ep.3: North Lombok : Cultural Surprises</title>
+    <title>Beyond Bali: The World's Most Exotic Islands (S1) Ep.3: North Lombok : Cultural Surprises</title>
     <desc>In Lombok, Lara Lee discovers fiery spices and an extraordinary culture. This offers unexpected insights into her own Chinese-Indonesian heritage.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002180000 +0700" stop="20261002190000 +0700">
-    <title>A Taste Of Festival S1 Ep.9: Dragon Boat Festival</title>
+    <title>A Taste Of Festival (S1) Ep.9: Dragon Boat Festival</title>
     <desc>This episode,host introduces Hokkien five-spice meat dumpling,Nonya dumpling and dumplings of various dialect groups.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002190000 +0700" stop="20261002193000 +0700">
-    <title>The Cook Up With Adam Liaw S3 Ep.1: Chicken Thigh</title>
+    <title>The Cook Up With Adam Liaw (S3) Ep.1: Chicken Thigh</title>
     <desc>Adam is joined by Kumi Taguchi and Chase Kojima as they create some of their favourite chicken thigh recipes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002193000 +0700" stop="20261002200000 +0700">
-    <title>The Cook Up With Adam Liaw S3 Ep.2: Pie Savoury</title>
+    <title>The Cook Up With Adam Liaw (S3) Ep.2: Pie Savoury</title>
     <desc>Recipe developer Breda Fenn and Maître d' of Momofuku Seibo fame, Kylie Javier Ashton join Adam Liaw in The Cook Up Kitchen to bring their favorite pies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002200000 +0700" stop="20261002210000 +0700">
-    <title>Go Where Flavors Of Hunan Abound S2 Ep.7: Xiangxi</title>
-    <desc>Deep in Xiangxi, the team samples indigenous ethnic minority foods and mountain-sourced ingredients.</desc>
+    <title>A Taste Of Festival (S1) Ep.2: Chinese New Year 2_Hokkien &amp; Hainanese Chinese New Year</title>
+    <desc>The different Chinese dialect groups have different traditional Lunar New Year dishes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002210000 +0700" stop="20261002213000 +0700">
-    <title>Ranch To Table S1 Ep.1: Welcome To The Ranch</title>
+    <title>Ranch To Table (S1) Ep.1: Welcome To The Ranch</title>
     <desc>Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002213000 +0700" stop="20261002220000 +0700">
-    <title>Ranch To Table S1 Ep.2: Springtime On The Ranch</title>
+    <title>Ranch To Table (S1) Ep.2: Springtime On The Ranch</title>
     <desc>Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002220000 +0700" stop="20261002230000 +0700">
-    <title>A Taste Of Festival S1 Ep.9: Dragon Boat Festival</title>
+    <title>A Taste Of Festival (S1) Ep.9: Dragon Boat Festival</title>
     <desc>This episode,host introduces Hokkien five-spice meat dumpling,Nonya dumpling and dumplings of various dialect groups.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002230000 +0700" stop="20261002232500 +0700">
-    <title>Eat With David S1 Ep.1: Hidden Gems</title>
+    <title>Eat With David (S1) Ep.1: Hidden Gems</title>
     <desc>David explores a 70-year-old noodle shop and tastes the signature side dish made by its 95-year-old owner -- a story of time, tradition, and craftsmanship.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002232500 +0700" stop="20261002235500 +0700">
-    <title>Eat With David S1 Ep.2: Taipei Breakfasts</title>
+    <title>Eat With David (S1) Ep.2: Taipei Breakfasts</title>
     <desc>David dives into the energetic morning streets of Taipei, sampling everything from soy milk and youtiao (fried dough sticks) to scallion pancakes and congee.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261002235500 +0700" stop="20261003002000 +0700">
-    <title>Maximum Foodie S4 Ep.3: Indonesia: The Tale Of Coffee</title>
+    <title>Maximum Foodie (S4) Ep.3: Indonesia: The Tale Of Coffee</title>
     <desc>Sashi is in the island of Java and he's on a unique mission to discover how coffee was brought to Asia.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003002000 +0700" stop="20261003005000 +0700">
-    <title>Maximum Foodie S4 Ep.4: Komodo</title>
+    <title>Maximum Foodie (S4) Ep.4: Komodo</title>
     <desc>Sashi finally leaves the comfort of his favorite island of Bali and heads to another famous one in the Indonesian archipelago.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003005000 +0700" stop="20261003011500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.1: Hanoi</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.1: Hanoi</title>
     <desc>Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003011500 +0700" stop="20261003014500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.2: Dalat</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.2: Dalat</title>
     <desc>Luke explores the many street food and fresh local produce options available in Dalat.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003014500 +0700" stop="20261003021000 +0700">
-    <title>Ranch To Table S1 Ep.1: Welcome To The Ranch</title>
+    <title>Ranch To Table (S1) Ep.1: Welcome To The Ranch</title>
     <desc>Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003021000 +0700" stop="20261003024000 +0700">
-    <title>Ranch To Table S1 Ep.2: Springtime On The Ranch</title>
+    <title>Ranch To Table (S1) Ep.2: Springtime On The Ranch</title>
     <desc>Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003024000 +0700" stop="20261003033500 +0700">
-    <title>Go Where Flavors Of Hunan Abound S2 Ep.7: Xiangxi</title>
-    <desc>Deep in Xiangxi, the team samples indigenous ethnic minority foods and mountain-sourced ingredients.</desc>
+    <title>A Taste Of Festival (S1) Ep.2: Chinese New Year 2_Hokkien &amp; Hainanese Chinese New Year</title>
+    <desc>The different Chinese dialect groups have different traditional Lunar New Year dishes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003033500 +0700" stop="20261003040000 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.1: Hanoi</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.1: Hanoi</title>
     <desc>Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003040000 +0700" stop="20261003043000 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.2: Dalat</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.2: Dalat</title>
     <desc>Luke explores the many street food and fresh local produce options available in Dalat.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003043000 +0700" stop="20261003050000 +0700">
-    <title>Ranch To Table S1 Ep.2: Springtime On The Ranch</title>
+    <title>Ranch To Table (S1) Ep.2: Springtime On The Ranch</title>
     <desc>Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003050000 +0700" stop="20261003055000 +0700">
-    <title>Makan On Wheels S1 Ep.6</title>
+    <title>Makan On Wheels (S1) Ep.6</title>
     <desc>The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003055000 +0700" stop="20261003064500 +0700">
-    <title>A Taste Of Festival S1 Ep.9: Dragon Boat Festival</title>
+    <title>A Taste Of Festival (S1) Ep.9: Dragon Boat Festival</title>
     <desc>This episode,host introduces Hokkien five-spice meat dumpling,Nonya dumpling and dumplings of various dialect groups.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003064500 +0700" stop="20261003071000 +0700">
-    <title>The Cook Up With Adam Liaw S3 Ep.1: Chicken Thigh</title>
+    <title>The Cook Up With Adam Liaw (S3) Ep.1: Chicken Thigh</title>
     <desc>Adam is joined by Kumi Taguchi and Chase Kojima as they create some of their favourite chicken thigh recipes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003071000 +0700" stop="20261003074000 +0700">
-    <title>The Cook Up With Adam Liaw S3 Ep.2: Pie Savoury</title>
+    <title>The Cook Up With Adam Liaw (S3) Ep.2: Pie Savoury</title>
     <desc>Recipe developer Breda Fenn and Maître d' of Momofuku Seibo fame, Kylie Javier Ashton join Adam Liaw in The Cook Up Kitchen to bring their favorite pies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003074000 +0700" stop="20261003080500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.1: Hanoi</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.1: Hanoi</title>
     <desc>Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003080500 +0700" stop="20261003083500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.2: Dalat</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.2: Dalat</title>
     <desc>Luke explores the many street food and fresh local produce options available in Dalat.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003083500 +0700" stop="20261003090000 +0700">
-    <title>Everyday Gourmet S12 Ep.61</title>
+    <title>Everyday Gourmet (S12) Ep.61</title>
     <desc>Justine has your next party sorted with today's crunchy and savory anchovy and pecorino cigars, and delicious garlic soup to warm you up.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003090000 +0700" stop="20261003093000 +0700">
-    <title>Everyday Gourmet S12 Ep.62</title>
+    <title>Everyday Gourmet (S12) Ep.62</title>
     <desc>Justine learns a refreshing and delicate way to prepare octopus from local chef Flagstaff Hill.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003093000 +0700" stop="20261003102500 +0700">
-    <title>A Sweet Taste Of Art S1 Ep.3: Thai Desserts</title>
+    <title>A Sweet Taste Of Art (S1) Ep.3: Thai Desserts</title>
     <desc>The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003102500 +0700" stop="20261003105000 +0700">
-    <title>Diana Chan's Malaysia S1 Ep.6: Favorites</title>
+    <title>Diana Chan's Malaysia (S1) Ep.6: Favorites</title>
     <desc>Diana closes the series in Penang, one of Malaysia's most celebrated food destinations.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003105000 +0700" stop="20261003112000 +0700">
-    <title>Hong Kong Gourmet With Justine Schofield S1 Ep.6: Hong Kong Cuisine</title>
+    <title>Hong Kong Gourmet With Justine Schofield (S1) Ep.6: Hong Kong Cuisine</title>
     <desc>To close the season, Justine dines at award-winning Hong Kong Cuisine before sharing a vibrant rice noodle recipe.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003112000 +0700" stop="20261003121500 +0700">
-    <title>A Taste Of Festival S1 Ep.9: Dragon Boat Festival</title>
+    <title>A Taste Of Festival (S1) Ep.9: Dragon Boat Festival</title>
     <desc>This episode,host introduces Hokkien five-spice meat dumpling,Nonya dumpling and dumplings of various dialect groups.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003121500 +0700" stop="20261003124000 +0700">
-    <title>Maximum Foodie S4 Ep.3: Indonesia: The Tale Of Coffee</title>
+    <title>Maximum Foodie (S4) Ep.3: Indonesia: The Tale Of Coffee</title>
     <desc>Sashi is in the island of Java and he's on a unique mission to discover how coffee was brought to Asia.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003124000 +0700" stop="20261003131000 +0700">
-    <title>Maximum Foodie S4 Ep.4: Komodo</title>
+    <title>Maximum Foodie (S4) Ep.4: Komodo</title>
     <desc>Sashi finally leaves the comfort of his favorite island of Bali and heads to another famous one in the Indonesian archipelago.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003131000 +0700" stop="20261003140500 +0700">
-    <title>Makan On Wheels S1 Ep.6</title>
+    <title>Makan On Wheels (S1) Ep.6</title>
     <desc>The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003140500 +0700" stop="20261003143000 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.1: Hanoi</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.1: Hanoi</title>
     <desc>Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003143000 +0700" stop="20261003150000 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.2: Dalat</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.2: Dalat</title>
     <desc>Luke explores the many street food and fresh local produce options available in Dalat.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003150000 +0700" stop="20261003153000 +0700">
-    <title>Everyday Gourmet S12 Ep.63</title>
+    <title>Everyday Gourmet (S12) Ep.63</title>
     <desc>For another sweet treat, Emelia Jackson joins to makes tasty caramel lace sandwiches.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003153000 +0700" stop="20261003160000 +0700">
-    <title>Everyday Gourmet S12 Ep.64</title>
+    <title>Everyday Gourmet (S12) Ep.64</title>
     <desc>Jason Barrett returns to cook up a delicious and fruity tart that tastes as amazing as it looks.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003160000 +0700" stop="20261003163000 +0700">
-    <title>The Cook Up With Adam Liaw S3 Ep.1: Chicken Thigh</title>
+    <title>The Cook Up With Adam Liaw (S3) Ep.1: Chicken Thigh</title>
     <desc>Adam is joined by Kumi Taguchi and Chase Kojima as they create some of their favourite chicken thigh recipes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003163000 +0700" stop="20261003170000 +0700">
-    <title>The Cook Up With Adam Liaw S3 Ep.2: Pie Savoury</title>
+    <title>The Cook Up With Adam Liaw (S3) Ep.2: Pie Savoury</title>
     <desc>Recipe developer Breda Fenn and Maître d' of Momofuku Seibo fame, Kylie Javier Ashton join Adam Liaw in The Cook Up Kitchen to bring their favorite pies.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003170000 +0700" stop="20261003173000 +0700">
-    <title>Ranch To Table S1 Ep.1: Welcome To The Ranch</title>
+    <title>Ranch To Table (S1) Ep.1: Welcome To The Ranch</title>
     <desc>Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003173000 +0700" stop="20261003180000 +0700">
-    <title>Ranch To Table S1 Ep.2: Springtime On The Ranch</title>
+    <title>Ranch To Table (S1) Ep.2: Springtime On The Ranch</title>
     <desc>Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003180000 +0700" stop="20261003183000 +0700">
-    <title>Diana Chan's Malaysia S1 Ep.6: Favorites</title>
+    <title>Diana Chan's Malaysia (S1) Ep.6: Favorites</title>
     <desc>Diana closes the series in Penang, one of Malaysia's most celebrated food destinations.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003183000 +0700" stop="20261003190000 +0700">
-    <title>Hong Kong Gourmet With Justine Schofield S1 Ep.6: Hong Kong Cuisine</title>
+    <title>Hong Kong Gourmet With Justine Schofield (S1) Ep.6: Hong Kong Cuisine</title>
     <desc>To close the season, Justine dines at award-winning Hong Kong Cuisine before sharing a vibrant rice noodle recipe.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003190000 +0700" stop="20261003200000 +0700">
-    <title>Go Where Flavors Of Hunan Abound S2 Ep.7: Xiangxi</title>
-    <desc>Deep in Xiangxi, the team samples indigenous ethnic minority foods and mountain-sourced ingredients.</desc>
+    <title>A Taste Of Festival (S1) Ep.2: Chinese New Year 2_Hokkien &amp; Hainanese Chinese New Year</title>
+    <desc>The different Chinese dialect groups have different traditional Lunar New Year dishes.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003200000 +0700" stop="20261003203000 +0700">
-    <title>Fading Flavors S1 Ep.9: Tai O Shrimp Paste And Shrimp Paste Glass Meat</title>
+    <title>Fading Flavors (S1) Ep.9: Tai O Shrimp Paste And Shrimp Paste Glass Meat</title>
     <desc>In the past, fishermen in Hong Kong's coastal areas, such as Ma Wan and Lamma Island, used to make shrimp paste, but now only Tai O still has a shrimp paste factory.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003203000 +0700" stop="20261003210000 +0700">
-    <title>Fading Flavors S1 Ep.10: Seafood Street And Birds Nest Partridge</title>
+    <title>Fading Flavors (S1) Ep.10: Seafood Street And Birds Nest Partridge</title>
     <desc>“Hing Fat Hong” has been working in Seafood Street for decades, witnessing the rise and fall of the street from retailing to wholesaling.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003210000 +0700" stop="20261003213000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.5: On The Kyoto Road 2</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.5: On The Kyoto Road 2</title>
     <desc>My Kyoto Ramen Journey Part 2. At "Kyoto Wakasa Road Restaurant Yuge," I enjoyed a set meal of sauce katsu-don and ramen. After that, I headed to "Ichiban" along Route 1.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003213000 +0700" stop="20261003220000 +0700">
-    <title>Discovering Local Ramen By Car S2 Ep.6: On The Kyoto Road 3</title>
+    <title>Discovering Local Ramen By Car (S2) Ep.6: On The Kyoto Road 3</title>
     <desc>My Kyoto Ramen Journey Part 3. I started off with a bowl of chuka soba at "Restaurant Hyakkaen."</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003220000 +0700" stop="20261003230000 +0700">
-    <title>A Sweet Taste Of Art S1 Ep.3: Thai Desserts</title>
+    <title>A Sweet Taste Of Art (S1) Ep.3: Thai Desserts</title>
     <desc>The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003230000 +0700" stop="20261003232500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.1: Hanoi</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.1: Hanoi</title>
     <desc>Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003232500 +0700" stop="20261003235500 +0700">
-    <title>A Taste Of Australia In Vietnam S1 Ep.2: Dalat</title>
+    <title>A Taste Of Australia In Vietnam (S1) Ep.2: Dalat</title>
     <desc>Luke explores the many street food and fresh local produce options available in Dalat.</desc>
     <category>Lifestyle</category>
   </programme>
   <programme channel="ch0000000000100001331" start="20261003235500 +0700" stop="20261004005000 +0700">
-    <title>Makan On Wheels S1 Ep.6</title>
+    <title>Makan On Wheels (S1) Ep.6</title>
     <desc>The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
     <category>Lifestyle</category>
   </programme>
@@ -36045,7 +36040,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261003023000 +0700" stop="20261003030000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Is Europe at risk of losing its economic clout?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261003030000 +0700" stop="20261003040000 +0700">
@@ -36130,7 +36125,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261003153000 +0700" stop="20261003160000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Is Europe at risk of losing its economic clout?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261003160000 +0700" stop="20261003163000 +0700">
@@ -52745,9 +52740,13 @@
     <title>Varney &amp; Company</title>
     <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
   </programme>
-  <programme channel="ch0000000000100002011" start="20260930220000 +0700" stop="20261001010000 +0700">
-    <title>Varney &amp; Company</title>
-    <desc>Stuart Varney takes over the critical market-open coverage with Varney &amp; Co. The program, which is amongst the highest rated programs in business news, breaks down the latest in financial news and political headlines.</desc>
+  <programme channel="ch0000000000100002011" start="20260930230000 +0700" stop="20261001000000 +0700">
+    <title>The Big Money Show</title>
+    <desc> An informative and fast-paced show filled with the business topics that impact everyone from Wall Street to your street.</desc>
+  </programme>
+  <programme channel="ch0000000000100002011" start="20261001000000 +0700" stop="20261001010000 +0700">
+    <title>The Big Money Show</title>
+    <desc> An informative and fast-paced show filled with the business topics that impact everyone from Wall Street to your street.</desc>
   </programme>
   <programme channel="ch0000000000100002011" start="20261001010000 +0700" stop="20261001020000 +0700">
     <title>Making Money with Charles Payne</title>
@@ -52978,17 +52977,16 @@
     <title>Weather Command Weekend</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261003200000 +0700" stop="20261003210000 +0700">
-    <title>THE CLAMAN COUNTDOWN</title>
-    <desc>The Claman Countdown captures the chaos of the last hour on Wall Street.</desc>
+    <title>FBN’s Wall Street / Barron's Roundtable</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261003210000 +0700" stop="20261003220000 +0700">
-    <title>Maria Bartiromo's Wall Street / Barron's Roundtable</title>
+    <title>FBN’s Wall Street / Barron's Roundtable</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261003220000 +0700" stop="20261003230000 +0700">
     <title>Kudlow Weekend</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261003230000 +0700" stop="20261004000000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>Billion Dollar Idea</title>
   </programme>
   <programme channel="ch0000000000100002041" start="20260929220000 +0700" stop="20260930000000 +0700">
     <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ เชียงใหม่ ยูไนเต็ด</title>
@@ -55853,14 +55851,14 @@
     <title>2026 FedEx St Jude Championship</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260930030000 +0700" stop="20260930060000 +0700">
+  <programme channel="ch0000000000100002511" start="20260930030000 +0700" stop="20260930080000 +0700">
     <title lang="th">รีรัน: เนชันไวด์ ชิลเดรนส์ ฮอสพิทอล แชมเปียนชิป รอบสุดท้าย</title>
     <title lang="en">RERUN: Nationwide Children's Hospital Championship Final</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20260930060000 +0700" stop="20260930090000 +0700">
-    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบ 2</title>
-    <title lang="en">RERUN: Biltmore Championship in Asheville Round 2</title>
+  <programme channel="ch0000000000100002511" start="20260930080000 +0700" stop="20260930090000 +0700">
+    <title lang="th">รีรัน: 2026 FedEx St Jude Championship</title>
+    <title lang="en">RERUN: 2026 FedEx St Jude Championship</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20260930090000 +0700" stop="20260930120000 +0700">
@@ -55879,8 +55877,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20260930130000 +0700" stop="20260930160000 +0700">
-    <title lang="th">รีรัน: เนชันไวด์ ชิลเดรนส์ ฮอสพิทอล แชมเปียนชิป รอบสุดท้าย</title>
-    <title lang="en">RERUN: Nationwide Children's Hospital Championship Final</title>
+    <title lang="th">รีรัน: เนชันไวด์ ชิลเดรนส์ ฮอสพิทอล แชมเปียนชิป รอบ 2</title>
+    <title lang="en">RERUN: Nationwide Children's Hospital Championship Round 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20260930160000 +0700" stop="20260930190000 +0700">
@@ -55909,7 +55907,148 @@
     <title>2026 FedEx St Jude Championship</title>
     <category>Sports</category>
   </programme>
+  <programme channel="ch0000000000100002511" start="20261001030000 +0700" stop="20261001054500 +0700">
+    <title lang="th">รีรัน: เพียวอินชัวรันส์แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: PURE Insurance Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261001054500 +0700" stop="20261001163000 +0700">
+    <title lang="th">รีรัน: เพรสซิเดนท์ส คัพ รอบ 3</title>
+    <title lang="en">RERUN: Presidents Cup Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261001163000 +0700" stop="20261001230000 +0700">
+    <title lang="th">รีรัน: เพรสซิเดนท์ส คัพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Presidents Cup Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261001230000 +0700" stop="20261002000000 +0700">
+    <title>2026 BMW Championship</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002000000 +0700" stop="20261002010000 +0700">
+    <title>2026 Rocket Classic</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002010000 +0700" stop="20261002040000 +0700">
+    <title lang="th">รีรัน: เพียวอินชัวรันส์แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: PURE Insurance Championship Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002040000 +0700" stop="20261002070000 +0700">
+    <title lang="th">LIVE: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">LIVE: Bank of Utah Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002070000 +0700" stop="20261002103000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002103000 +0700" stop="20261002133000 +0700">
+    <title lang="th">รีรัน: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: Bank of Utah Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002133000 +0700" stop="20261002173000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002173000 +0700" stop="20261002210000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบแรก</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261002210000 +0700" stop="20261003000000 +0700">
+    <title lang="th">รีรัน: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: Bank of Utah Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003000000 +0700" stop="20261003010000 +0700">
+    <title>2026 BMW Championship</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003010000 +0700" stop="20261003040000 +0700">
+    <title lang="th">รีรัน: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: Bank of Utah Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003040000 +0700" stop="20261003070000 +0700">
+    <title lang="th">LIVE: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">LIVE: Bank of Utah Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003070000 +0700" stop="20261003073000 +0700">
+    <title lang="th">บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Biltmore Championship in Asheville Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003073000 +0700" stop="20261003080000 +0700">
+    <title lang="th">แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">Bank of Utah Championship Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003080000 +0700" stop="20261003110000 +0700">
+    <title lang="th">รีรัน: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: Bank of Utah Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003110000 +0700" stop="20261003140000 +0700">
+    <title lang="th">รีรัน: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: Bank of Utah Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003140000 +0700" stop="20261003170000 +0700">
+    <title lang="th">รีรัน: บิลท์มอร์แชมเปียนชิพ ที่แอชวิลล์ รอบ 3</title>
+    <title lang="en">RERUN: Biltmore Championship in Asheville Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003170000 +0700" stop="20261003200000 +0700">
+    <title lang="th">รีรัน: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: Bank of Utah Championship Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003200000 +0700" stop="20261003230000 +0700">
+    <title lang="th">รีรัน: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: Bank of Utah Championship Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261003230000 +0700" stop="20261004000000 +0700">
+    <title>2026 WM Phoenix Open</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002521" start="20260929000000 +0700" stop="20260930000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20260930000000 +0700" stop="20261001000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261001000000 +0700" stop="20261001204500 +0700">
+    <title lang="th">เริ่มเวลา 20:45 น. แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ วันที่ 1 รอบที่ 1</title>
+    <title lang="en">UPCOMING at 8.45PM: Bank of Utah Championship Day 1 Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261001204500 +0700" stop="20261002070000 +0700">
+    <title lang="th">LIVE: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ วันที่ 1 รอบที่ 1</title>
+    <title lang="en">LIVE: Bank of Utah Championship Day 1 Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261002070000 +0700" stop="20261002204500 +0700">
+    <title lang="th">เริ่มเวลา 20:45 น. แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ วันที่ 2 รอบที่ 2</title>
+    <title lang="en">UPCOMING at 8.45PM: Bank of Utah Championship Day 2 Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261002204500 +0700" stop="20261003070000 +0700">
+    <title lang="th">LIVE: แบงก์ ออฟ ยูทาห์ แชมเปียนชิพ วันที่ 12 รอบที่ 2</title>
+    <title lang="en">LIVE: Bank of Utah Championship Day 2 Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261003070000 +0700" stop="20261004000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -57314,17 +57453,27 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002533" start="20261001000000 +0700" stop="20261001100000 +0700">
-    <title lang="th">เริ่มเวลา 10:00 น. เอทีพี 1000 ไชน่า โอเพ่น วันที่ 2</title>
-    <title lang="en">UPCOMING at 10AM ATP 1000 China Open Day 2</title>
+  <programme channel="ch0000000000100002533" start="20261001000000 +0700" stop="20261001120000 +0700">
+    <title lang="th">เริ่มเวลา 12:00 น. เอทีพี 1000 ไชน่า โอเพ่น วันที่ 2 - ซีซัน 1</title>
+    <title lang="en">UPCOMING at 12PM ATP 1000 China Open Day 2 - Session 1</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002533" start="20261001100000 +0700" stop="20261001160000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 ไชน่า โอเพ่น วันที่ 2</title>
-    <title lang="en">LIVE: ATP 1000 China Open Day 2</title>
+  <programme channel="ch0000000000100002533" start="20261001120000 +0700" stop="20261001140000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ไชน่า โอเพ่น วันที่ 2 - ซีซัน 1</title>
+    <title lang="en">LIVE: ATP 1000 China Open Day 2 - Session 1</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002533" start="20261001160000 +0700" stop="20261002000000 +0700">
+  <programme channel="ch0000000000100002533" start="20261001140000 +0700" stop="20261001160000 +0700">
+    <title lang="th">เริ่มเวลา 16:00 น. เอทีพี 1000 ไชน่า โอเพ่น วันที่ 2 - ซีซัน 2</title>
+    <title lang="en">UPCOMING at 4PM ATP 1000 China Open Day 2 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20261001160000 +0700" stop="20261001180000 +0700">
+    <title lang="th">LIVE: เอทีพี 1000 ไชน่า โอเพ่น วันที่ 2 - ซีซัน 2</title>
+    <title lang="en">LIVE: ATP 1000 China Open Day 2 - Session 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002533" start="20261001180000 +0700" stop="20261002000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -57411,17 +57560,17 @@
   </programme>
   <programme channel="ch0000000000100002535" start="20260930000000 +0700" stop="20261001000000 +0700">
     <title lang="th">เริ่มเวลา 09.00 น. เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 2</title>
-    <title lang="en">UPCOMING at 9AM ATP 500 Kinoshita Group Japan Open Day 1</title>
+    <title lang="en">UPCOMING at 9AM ATP 500 Kinoshita Group Japan Open Day 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002535" start="20261001000000 +0700" stop="20261001090000 +0700">
     <title lang="th">เริ่มเวลา 09.00 น. เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 2</title>
-    <title lang="en">UPCOMING at 9AM ATP 500 Kinoshita Group Japan Open Day 1</title>
+    <title lang="en">UPCOMING at 9AM ATP 500 Kinoshita Group Japan Open Day 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002535" start="20261001090000 +0700" stop="20261001110000 +0700">
     <title lang="th">LIVE: เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 2</title>
-    <title lang="en">LIVE: ATP 500 Kinoshita Group Japan Day 1</title>
+    <title lang="en">LIVE: ATP 500 Kinoshita Group Japan Day 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002535" start="20261001110000 +0700" stop="20261002000000 +0700">
@@ -57464,12 +57613,12 @@
     <title lang="en">UPCOMING at 9AM ATP 500 Kinoshita Group Japan Open Day 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002541" start="20261001090000 +0700" stop="20261001180000 +0700">
+  <programme channel="ch0000000000100002541" start="20261001090000 +0700" stop="20261001200000 +0700">
     <title lang="th">LIVE: เอทีพี 500 คิโนชิตะ กรุ๊ป เจแปน โอเพ่น วันที่ 2</title>
     <title lang="en">LIVE: ATP 500 Kinoshita Group Japan Open Day 2</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002541" start="20261001180000 +0700" stop="20261002000000 +0700">
+  <programme channel="ch0000000000100002541" start="20261001200000 +0700" stop="20261002000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -58929,13 +59078,19 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261001043000 +0700" stop="20261001120000 +0700">
+  <programme channel="ch0000000000100002781" start="20261001043000 +0700" stop="20261001110000 +0700">
     <title lang="th">LIVE: กอล์ฟหญิง - รอบสอง</title>
     <title lang="en">LIVE: Women's Golf - Round 2</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261001120000 +0700" stop="20261001130000 +0700">
+  <programme channel="ch0000000000100002781" start="20261001110000 +0700" stop="20261001113000 +0700">
+    <title lang="th">LIVE: ยิงธนู - รอบก่อนรองฯ</title>
+    <title lang="en">LIVE: Archery - Quarter Finals</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261001113000 +0700" stop="20261001130000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลชายหาดชาย - รอบรองฯ: กาตาร์ พบ ไทย</title>
     <title lang="en">LIVE: Men's Beach Volleyball - Semi Finals: Qatar vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -58947,21 +59102,27 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261001140000 +0700" stop="20261001160000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: ไทย พบ จีน</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Thailand vs China</title>
+  <programme channel="ch0000000000100002781" start="20261001140000 +0700" stop="20261001154000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบก่อนรองฯ: ไทย พบ จีน</title>
+    <title lang="en">LIVE: Men's Volleyball - Quarter Finals: Thailand vs China</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261001160000 +0700" stop="20261001172000 +0700">
-    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+  <programme channel="ch0000000000100002781" start="20261001154000 +0700" stop="20261001172000 +0700">
+    <title lang="th">LIVE: ยูโด - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Judo - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20261001172000 +0700" stop="20261001192000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: ญี่ปุ่น พบ กาตาร์</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Japan vs Qatar</title>
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบก่อนรองฯ: ญี่ปุ่น พบ กาตาร์</title>
+    <title lang="en">LIVE: Men's Volleyball - Quarter Finals: Japan vs Qatar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261001185000 +0700" stop="20261001235959 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59067,19 +59228,37 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261001123000 +0700" stop="20261001133000 +0700">
-    <title lang="th">LIVE: สควอชทีมหญิง - รอบรองฯ: มาเลเซีย พบ ญี่ปุ่น</title>
-    <title lang="en">LIVE: Women's Team Squash - Semi finals: Malaysia vs Japan</title>
+  <programme channel="ch0000000000100002782" start="20261001123000 +0700" stop="20261001124000 +0700">
+    <title lang="th">LIVE: ยิวยิตสู - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Jiu Jitsu - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261001133000 +0700" stop="20261001173000 +0700">
+  <programme channel="ch0000000000100002782" start="20261001124000 +0700" stop="20261001132000 +0700">
+    <title lang="th">LIVE: สควอช - รอบรองฯ</title>
+    <title lang="en">LIVE: Squash - Semi Finals</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261001132000 +0700" stop="20261001160000 +0700">
     <title lang="th">LIVE: เทควันโด - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Taekwondo - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261001173000 +0700" stop="20261001235959 +0700">
+  <programme channel="ch0000000000100002782" start="20261001160000 +0700" stop="20261001170000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261001170000 +0700" stop="20261001183000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบจัดอันดับ: ฟิลิปปินส์ พบ อินโดนีเซีย</title>
+    <title lang="en">LIVE: Men's Volleyball - Classification: Philippines vs Indonesia</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261001183000 +0700" stop="20261001235959 +0700">
     <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
     <title lang="en">ASIAN GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59212,8 +59391,8 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20261001120000 +0700" stop="20261001130000 +0700">
-    <title lang="th">LIVE: เซปักตะกร้อหญิง - รอบคัดเลือก: เวียดนาม พบ ฟิลิปปินส์</title>
-    <title lang="en">LIVE: Women's Sepak Takraw - Preliminary: Vietnam vs Philippines</title>
+    <title lang="th">LIVE: เทนนิสชายเดี่ยว - รอบก่อนรองฯ: ไทย พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Men's Singles Tennis- Quarter Finals: Thailand vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59229,9 +59408,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20261001173000 +0700" stop="20261001190000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: ฟิลิปปินส์ พบ อินโดนีเซีย</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Philippines vs Indonesia</title>
+  <programme channel="ch0000000000100002783" start="20261001173000 +0700" stop="20261001180000 +0700">
+    <title lang="th">เอเชียนเกมส์ รีรันและไฮไลต์</title>
+    <title lang="en">ASIAN GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002783" start="20261001180000 +0700" stop="20261001190000 +0700">
+    <title lang="th">LIVE: ปีนหน้าผา - รอบก่อนรองฯ</title>
+    <title lang="en">LIVE: Sport Climbing - Quarter Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59283,13 +59468,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20261001084000 +0700" stop="20261001150000 +0700">
+  <programme channel="ch0000000000100002784" start="20261001084000 +0700" stop="20261001160000 +0700">
     <title lang="th">LIVE: กอล์ฟชาย - รอบสอง</title>
     <title lang="en">LIVE: Men's Golf - Round 2</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20261001150000 +0700" stop="20261001235959 +0700">
+  <programme channel="ch0000000000100002784" start="20261001160000 +0700" stop="20261001235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59331,13 +59516,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20261001043000 +0700" stop="20261001120000 +0700">
+  <programme channel="ch0000000000100002785" start="20261001043000 +0700" stop="20261001110000 +0700">
     <title lang="th">LIVE: กอล์ฟหญิง - รอบสอง</title>
     <title lang="en">LIVE: Women's Golf - Round 2</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20261001120000 +0700" stop="20261001130000 +0700">
+  <programme channel="ch0000000000100002785" start="20261001110000 +0700" stop="20261001130000 +0700">
     <title lang="th">เริ่ม 13:00 ยิงปืน - รอบชิงเหรียญทอง</title>
     <title lang="en">Upcoming at 01:00PM Shooting - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59581,13 +59766,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20261001080000 +0700" stop="20261001103000 +0700">
+  <programme channel="ch0000000000100002788" start="20261001080000 +0700" stop="20261001094000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลชาย - รอบก่อนรองฯ: อินเดีย พบ ปากีสถาน</title>
     <title lang="en">LIVE: Men's Volleyball - Quarter Finals: India vs Pakistan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20261001103000 +0700" stop="20261001110000 +0700">
+  <programme channel="ch0000000000100002788" start="20261001094000 +0700" stop="20261001110000 +0700">
     <title lang="th">เริ่ม 11:00 วอลเลย์บอลชาย - รอบก่อนรองฯ เกาหลีใต้ พบ อิหร่าน</title>
     <title lang="en">Upcoming at 11:00AM Men's Volleyball - Quarter Finals South Korea vs Iran</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59605,9 +59790,15 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002788" start="20261001140000 +0700" stop="20261001160000 +0700">
+  <programme channel="ch0000000000100002788" start="20261001140000 +0700" stop="20261001154000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลชาย - รอบก่อนรองฯ: ไทย พบ จีน</title>
     <title lang="en">LIVE: Men's Volleyball - Quarter Finals: Thailand vs China</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20261001154000 +0700" stop="20261001172000 +0700">
+    <title lang="th">เริ่ม 17:20 วอลเลย์บอลชาย - รอบก่อนรองฯ ญี่ปุ่น พบ กาตาร์</title>
+    <title lang="en">Upcoming at 05:20PM Men's Volleyball - Quarter Finals Japan vs Qatar</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59620,6 +59811,12 @@
   <programme channel="ch0000000000100002788" start="20261001172000 +0700" stop="20261001192000 +0700">
     <title lang="th">LIVE: วอลเลย์บอลชาย - รอบก่อนรองฯ: ญี่ปุ่น พบ กาตาร์</title>
     <title lang="en">LIVE: Men's Volleyball - Quarter Finals: Japan vs Qatar</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20261001185000 +0700" stop="20261001235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59660,60 +59857,54 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261001000000 +0700" stop="20261001080000 +0700">
-    <title lang="th">เริ่ม 08:00 วอลเลย์บอลชาย - รอบคัดเลือก คาซัคสถาน พบ ฮ่องกง</title>
-    <title lang="en">Upcoming at 08:00AM Men's Volleyball - Preliminary Kazakhstan vs Hong Kong</title>
+    <title lang="th">เริ่ม 08:00 วอลเลย์บอลชาย - รอบจัดอันดับ คาซัคสถาน พบ ฮ่องกง</title>
+    <title lang="en">Upcoming at 08:00AM Men's Volleyball - Classification Kazakhstan vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261001080000 +0700" stop="20261001103000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: คาซัคสถาน พบ ฮ่องกง</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Kazakhstan vs Hong Kong</title>
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบจัดอันดับ: คาซัคสถาน พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Men's Volleyball - Classification: Kazakhstan vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261001103000 +0700" stop="20261001110000 +0700">
-    <title lang="th">เริ่ม 11:00 วอลเลย์บอลชาย - รอบคัดเลือก คีร์กีซสถาน พบ จีนไทเป</title>
-    <title lang="en">Upcoming at 11:00AM Men's Volleyball - Preliminary Kyrgyzstan vs Chinese Taipei</title>
+    <title lang="th">เริ่ม 11:00 วอลเลย์บอลชาย - รอบจัดอันดับ คีร์กีซสถาน พบ จีนไทเป</title>
+    <title lang="en">Upcoming at 11:00AM Men's Volleyball - Classification Kyrgyzstan vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261001110000 +0700" stop="20261001133000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: คีร์กีซสถาน พบ จีนไทเป</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Kyrgyzstan vs Chinese Taipei</title>
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบจัดอันดับ: คีร์กีซสถาน พบ จีนไทเป</title>
+    <title lang="en">LIVE: Men's Volleyball - Classification: Kyrgyzstan vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261001133000 +0700" stop="20261001140000 +0700">
-    <title lang="th">เริ่ม 14:00 วอลเลย์บอลชาย - รอบคัดเลือก เวียดนาม พบ อุซเบกิสถาน</title>
-    <title lang="en">Upcoming at 02:00PM Men's Volleyball - Preliminary Vietnam vs Uzbekistan</title>
+    <title lang="th">เริ่ม 14:00 วอลเลย์บอลชาย - รอบจัดอันดับ เวียดนาม พบ อุซเบกิสถาน</title>
+    <title lang="en">Upcoming at 02:00PM Men's Volleyball - Classification Vietnam vs Uzbekistan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261001140000 +0700" stop="20261001163000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: เวียดนาม พบ อุซเบกิสถาน</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Vietnam vs Uzbekistan</title>
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบจัดอันดับ: เวียดนาม พบ อุซเบกิสถาน</title>
+    <title lang="en">LIVE: Men's Volleyball - Classification: Vietnam vs Uzbekistan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261001163000 +0700" stop="20261001170000 +0700">
-    <title lang="th">เริ่ม 17:00 วอลเลย์บอลชาย - รอบคัดเลือก ฟิลิปปินส์ พบ อินโดนีเซีย</title>
-    <title lang="en">Upcoming at 05:00PM Men's Volleyball - Preliminary Philippines vs Indonesia</title>
+    <title lang="th">เริ่ม 17:00 วอลเลย์บอลชาย - รอบจัดอันดับ ฟิลิปปินส์ พบ อินโดนีเซีย</title>
+    <title lang="en">Upcoming at 05:00PM Men's Volleyball - Classification Philippines vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20261001170000 +0700" stop="20261001173000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: ฟิลิปปินส์ พบ อินโดนีเซีย</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Philippines vs Indonesia</title>
+  <programme channel="ch0000000000100002789" start="20261001170000 +0700" stop="20261001183000 +0700">
+    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบจัดอันดับ: ฟิลิปปินส์ พบ อินโดนีเซีย</title>
+    <title lang="en">LIVE: Men's Volleyball - Classification: Philippines vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20261001173000 +0700" stop="20261001190000 +0700">
-    <title lang="th">LIVE: วอลเลย์บอลชาย - รอบคัดเลือก: ฟิลิปปินส์ พบ อินโดนีเซีย</title>
-    <title lang="en">LIVE: Men's Volleyball - Preliminary: Philippines vs Indonesia</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002789" start="20261001190000 +0700" stop="20261001235959 +0700">
+  <programme channel="ch0000000000100002789" start="20261001183000 +0700" stop="20261001235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59821,13 +60012,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261001090000 +0700" stop="20261001163000 +0700">
+  <programme channel="ch0000000000100002790" start="20261001090000 +0700" stop="20261001170000 +0700">
     <title lang="th">LIVE: ยิมนาสติกลีลา - รอบคัดเลือก</title>
     <title lang="en">LIVE: Rhythmic gymnastics - Qualification</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261001163000 +0700" stop="20261001235959 +0700">
+  <programme channel="ch0000000000100002790" start="20261001170000 +0700" stop="20261001235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -59935,15 +60126,21 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20261001070000 +0700" stop="20261001100000 +0700">
+  <programme channel="ch0000000000100002791" start="20261001070000 +0700" stop="20261001110000 +0700">
     <title lang="th">LIVE: ยิงธนู - รอบก่อนรองฯ</title>
     <title lang="en">LIVE: Archery - Quarter Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002791" start="20261001100000 +0700" stop="20261001140000 +0700">
-    <title lang="th">LIVE: ยิงธนู</title>
-    <title lang="en">LIVE: Archery - Gold Medal Games</title>
+  <programme channel="ch0000000000100002791" start="20261001110000 +0700" stop="20261001120000 +0700">
+    <title lang="th">LIVE: ยิงธนู - รอบก่อนรองฯ</title>
+    <title lang="en">LIVE: Archery - Quarter Finals</title>
+    <category lang="th">กีฬา,เอเชียนเกมส์</category>
+    <category lang="en">Sports,Asian Games</category>
+  </programme>
+  <programme channel="ch0000000000100002791" start="20261001120000 +0700" stop="20261001140000 +0700">
+    <title lang="th">LIVE: ยิงธนู - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Archery - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
@@ -59995,13 +60192,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002792" start="20261001000000 +0700" stop="20261001130000 +0700">
-    <title lang="th">เริ่ม 13:00 เทนนิสชายเดี่ยว - รอบก่อนรองฯ ไทย พบ ฮ่องกง</title>
-    <title lang="en">Upcoming at 01:00PM Men's Singles Tennis- Quarter Finals Thailand vs Hong Kong</title>
+  <programme channel="ch0000000000100002792" start="20261001000000 +0700" stop="20261001120000 +0700">
+    <title lang="th">เริ่ม 12:00 เทนนิสชายเดี่ยว - รอบก่อนรองฯ ไทย พบ ฮ่องกง</title>
+    <title lang="en">Upcoming at 12:00AM Men's Singles Tennis- Quarter Finals Thailand vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002792" start="20261001130000 +0700" stop="20261001140000 +0700">
+  <programme channel="ch0000000000100002792" start="20261001120000 +0700" stop="20261001140000 +0700">
     <title lang="th">LIVE: เทนนิสชายเดี่ยว - รอบก่อนรองฯ: ไทย พบ ฮ่องกง</title>
     <title lang="en">LIVE: Men's Singles Tennis- Quarter Finals: Thailand vs Hong Kong</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60157,13 +60354,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20261001070000 +0700" stop="20261001133000 +0700">
+  <programme channel="ch0000000000100002811" start="20261001070000 +0700" stop="20261001132000 +0700">
     <title lang="th">LIVE: เทควันโด - รอบรองฯ</title>
     <title lang="en">LIVE: Taekwondo - Semi Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20261001133000 +0700" stop="20261001173000 +0700">
+  <programme channel="ch0000000000100002811" start="20261001132000 +0700" stop="20261001173000 +0700">
     <title lang="th">LIVE: เทควันโด - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Taekwondo - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60265,13 +60462,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20261001093000 +0700" stop="20261001113000 +0700">
+  <programme channel="ch0000000000100002812" start="20261001093000 +0700" stop="20261001110000 +0700">
     <title lang="th">LIVE: ฮอกกี้ชาย - รอบจัดอันดับ: ไทย พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Men's Hockey - Classification: Thailand vs Japan</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002812" start="20261001113000 +0700" stop="20261001120000 +0700">
+  <programme channel="ch0000000000100002812" start="20261001110000 +0700" stop="20261001120000 +0700">
     <title lang="th">เริ่ม 12:00 วอลเลย์บอลชายหาดชาย - รอบรองฯ กาตาร์ พบ ไทย</title>
     <title lang="en">Upcoming at 12:00PM Men's Beach Volleyball - Semi Finals Qatar vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60343,13 +60540,13 @@
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002813" start="20261001123000 +0700" stop="20261001150000 +0700">
+  <programme channel="ch0000000000100002813" start="20261001123000 +0700" stop="20261001160000 +0700">
     <title lang="th">LIVE: ยิวยิตสู - รอบชิงเหรียญทอง</title>
     <title lang="en">LIVE: Jiu Jitsu - Gold Medal Game</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002813" start="20261001150000 +0700" stop="20261001235959 +0700">
+  <programme channel="ch0000000000100002813" start="20261001160000 +0700" stop="20261001235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
@@ -60416,30 +60613,24 @@
     <category lang="en">Sports,Asian Games</category>
   </programme>
   <programme channel="ch0000000000100002814" start="20261001080000 +0700" stop="20261001083000 +0700">
-    <title lang="th">เริ่ม 08:30 สควอช - รอบคัดเลือก</title>
-    <title lang="en">Upcoming at 08:30AM Squash - Preliminary</title>
+    <title lang="th">เริ่ม 08:30 สควอช - รอบรองฯ</title>
+    <title lang="en">Upcoming at 08:30AM Squash - Semi Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20261001083000 +0700" stop="20261001150000 +0700">
-    <title lang="th">LIVE: สควอช - รอบคัดเลือก</title>
-    <title lang="en">LIVE: Squash - Preliminary</title>
+  <programme channel="ch0000000000100002814" start="20261001083000 +0700" stop="20261001180000 +0700">
+    <title lang="th">LIVE: สควอช - รอบรองฯ</title>
+    <title lang="en">LIVE: Squash - Semi Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20261001150000 +0700" stop="20261001180000 +0700">
-    <title lang="th">เริ่ม 18:00 ปีนหน้าผา - รอบก่อนรองฯ</title>
-    <title lang="en">Upcoming at 06:00PM Sport Climbing - Quarter Finals</title>
-    <category lang="th">กีฬา,เอเชียนเกมส์</category>
-    <category lang="en">Sports,Asian Games</category>
-  </programme>
-  <programme channel="ch0000000000100002814" start="20261001180000 +0700" stop="20261001193000 +0700">
+  <programme channel="ch0000000000100002814" start="20261001180000 +0700" stop="20261001190000 +0700">
     <title lang="th">LIVE: ปีนหน้าผา - รอบก่อนรองฯ</title>
     <title lang="en">LIVE: Sport Climbing - Quarter Finals</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
     <category lang="en">Sports,Asian Games</category>
   </programme>
-  <programme channel="ch0000000000100002814" start="20261001193000 +0700" stop="20261001235959 +0700">
+  <programme channel="ch0000000000100002814" start="20261001190000 +0700" stop="20261001235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนเกมส์</category>
