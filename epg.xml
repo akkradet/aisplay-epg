@@ -335,6 +335,16 @@
     <display-name lang="en">PLAY SPORTS 72</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094343034572.png"/>
   </channel>
+  <channel id="ch0000000000100002532">
+    <display-name lang="th">เพลย์สปอร์ต 73</display-name>
+    <display-name lang="en">PLAY SPORTS 73</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094531034573.png"/>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name lang="th">เพลย์สปอร์ต 74</display-name>
+    <display-name lang="en">PLAY SPORTS 74</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094717034581.png"/>
+  </channel>
   <channel id="ch0000000000100002534">
     <display-name lang="th">เพลย์สปอร์ต 75</display-name>
     <display-name lang="en">PLAY SPORTS 75</display-name>
@@ -445,113 +455,20 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002524">
-    <display-name>ch0000000000100002524</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002535">
-    <display-name>ch0000000000100002535</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
   </channel>
   <channel id="ch0000000000100001292">
     <display-name>ch0000000000100001292</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
   </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
   </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
@@ -559,29 +476,137 @@
   <channel id="ch0000000000100001286">
     <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002535">
+    <display-name>ch0000000000100002535</display-name>
   </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002524">
+    <display-name>ch0000000000100002524</display-name>
   </channel>
   <channel id="ch0000000000100002329">
     <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261004233500 +0700" stop="20261005011000 +0700">
     <title>Black Bag</title>
@@ -22509,8 +22534,1811 @@
     <title>My Life, My Way: I Am John Kopiski, A Russian Farmer Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261005040000 +0700" stop="20261005160000 +0700">
-    <title>Wars and Disasters: Frontline Belgorod Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261005040000 +0700" stop="20261005041200 +0700">
+    <title>Meeting With Nature: Never Furget Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005041200 +0700" stop="20261005043000 +0700">
+    <title>Meeting With Nature: Never Furget Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005043000 +0700" stop="20261005044200 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005044200 +0700" stop="20261005050000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005050000 +0700" stop="20261005051400 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005051400 +0700" stop="20261005053000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005053000 +0700" stop="20261005054300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005054300 +0700" stop="20261005060000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005060000 +0700" stop="20261005061300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005061300 +0700" stop="20261005063000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005063000 +0700" stop="20261005064200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005064200 +0700" stop="20261005070000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005070000 +0700" stop="20261005071400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005071400 +0700" stop="20261005073000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005073000 +0700" stop="20261005074200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005074200 +0700" stop="20261005080000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005080000 +0700" stop="20261005081100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005081100 +0700" stop="20261005083000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005083000 +0700" stop="20261005084200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005084200 +0700" stop="20261005090000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005090000 +0700" stop="20261005091300 +0700">
+    <title>Lumumba's Africa: Africa and Agriculture</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005091300 +0700" stop="20261005093000 +0700">
+    <title>Lumumba's Africa: The Germans In Africa</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005093000 +0700" stop="20261005094300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005094300 +0700" stop="20261005100000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005100000 +0700" stop="20261005101400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005101400 +0700" stop="20261005103000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005103000 +0700" stop="20261005104300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005104300 +0700" stop="20261005110000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005110000 +0700" stop="20261005111300 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005111300 +0700" stop="20261005113000 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005113000 +0700" stop="20261005114300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005114300 +0700" stop="20261005120000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005120000 +0700" stop="20261005121300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005121300 +0700" stop="20261005123000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005123000 +0700" stop="20261005124200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005124200 +0700" stop="20261005130000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005130000 +0700" stop="20261005131000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005131000 +0700" stop="20261005133000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005133000 +0700" stop="20261005134300 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005134300 +0700" stop="20261005140000 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005140000 +0700" stop="20261005141300 +0700">
+    <title>People's Problems: Bordered Out Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005141300 +0700" stop="20261005143000 +0700">
+    <title>People's Problems: Bordered Out Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005143000 +0700" stop="20261005144100 +0700">
+    <title>People's Problems: Bordered Out Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005144100 +0700" stop="20261005150000 +0700">
+    <title>People's Problems: Bordered Out Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005150000 +0700" stop="20261005151200 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005151200 +0700" stop="20261005153000 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005153000 +0700" stop="20261005154200 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005154200 +0700" stop="20261005160000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005160000 +0700" stop="20261005161100 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005161100 +0700" stop="20261005163000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005163000 +0700" stop="20261005164200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005164200 +0700" stop="20261005170000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005170000 +0700" stop="20261005171100 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005171100 +0700" stop="20261005173000 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005173000 +0700" stop="20261005174200 +0700">
+    <title>Meeting With Nature: Never Furget Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005174200 +0700" stop="20261005180000 +0700">
+    <title>Meeting With Nature: Never Furget Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005180000 +0700" stop="20261005181200 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005181200 +0700" stop="20261005183000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005183000 +0700" stop="20261005184400 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 3</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005184400 +0700" stop="20261005190000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005190000 +0700" stop="20261005191300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005191300 +0700" stop="20261005193000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005193000 +0700" stop="20261005194300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005194300 +0700" stop="20261005200000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005200000 +0700" stop="20261005201200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005201200 +0700" stop="20261005203000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005203000 +0700" stop="20261005204400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005204400 +0700" stop="20261005210000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005210000 +0700" stop="20261005211200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005211200 +0700" stop="20261005213000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005213000 +0700" stop="20261005214100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005214100 +0700" stop="20261005220000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005220000 +0700" stop="20261005221300 +0700">
+    <title>Lumumba's Africa: Africa and Agriculture</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005221300 +0700" stop="20261005223000 +0700">
+    <title>Lumumba's Africa: The Germans In Africa</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005223000 +0700" stop="20261005224400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005224400 +0700" stop="20261005230000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005230000 +0700" stop="20261005231300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005231300 +0700" stop="20261005233000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005233000 +0700" stop="20261005234300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261005234300 +0700" stop="20261006000000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006000000 +0700" stop="20261006001200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006001200 +0700" stop="20261006003000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006003000 +0700" stop="20261006004300 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006004300 +0700" stop="20261006010000 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006010000 +0700" stop="20261006011300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006011300 +0700" stop="20261006013000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006013000 +0700" stop="20261006014300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006014300 +0700" stop="20261006020000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006020000 +0700" stop="20261006021200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006021200 +0700" stop="20261006023000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006023000 +0700" stop="20261006024000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006024000 +0700" stop="20261006030000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006030000 +0700" stop="20261006031100 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006031100 +0700" stop="20261006033000 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 2</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006033000 +0700" stop="20261006034200 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006034200 +0700" stop="20261006040000 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006040000 +0700" stop="20261006041300 +0700">
+    <title>Lumumba's Africa: Africa and Agriculture</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006041300 +0700" stop="20261006043000 +0700">
+    <title>Lumumba's Africa: The Germans In Africa</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006043000 +0700" stop="20261006044300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006044300 +0700" stop="20261006050000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006050000 +0700" stop="20261006051400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006051400 +0700" stop="20261006053000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006053000 +0700" stop="20261006054300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006054300 +0700" stop="20261006060000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006060000 +0700" stop="20261006061300 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006061300 +0700" stop="20261006063000 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006063000 +0700" stop="20261006064300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006064300 +0700" stop="20261006070000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006070000 +0700" stop="20261006071200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006071200 +0700" stop="20261006073000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006073000 +0700" stop="20261006074000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006074000 +0700" stop="20261006080000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006080000 +0700" stop="20261006081300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006081300 +0700" stop="20261006083000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006083000 +0700" stop="20261006084200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006084200 +0700" stop="20261006090000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006090000 +0700" stop="20261006091300 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006091300 +0700" stop="20261006093000 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 2</title>
+    <desc>Far from just another interview show - this is conversation shaped by experience. Because foreign policy is not just theory. It must be lived. Hosted by India’s former External Affairs Minister and one of the country’s most respected legal minds, Salman Khurshid, the show offers a rare window into how the world is understood by those who have helped shape it. The seasoned statesman draws on decades of diplomacy, law, and international negotiations as host. Don't miss the conversation.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006093000 +0700" stop="20261006094300 +0700">
+    <title>People's Problems: Bordered Out Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006094300 +0700" stop="20261006100000 +0700">
+    <title>People's Problems: Bordered Out Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006100000 +0700" stop="20261006101100 +0700">
+    <title>People's Problems: Bordered Out Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006101100 +0700" stop="20261006103000 +0700">
+    <title>People's Problems: Bordered Out Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006103000 +0700" stop="20261006104200 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006104200 +0700" stop="20261006110000 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006110000 +0700" stop="20261006111200 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006111200 +0700" stop="20261006113000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006113000 +0700" stop="20261006114100 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006114100 +0700" stop="20261006120000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006120000 +0700" stop="20261006121100 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006121100 +0700" stop="20261006123000 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006123000 +0700" stop="20261006124200 +0700">
+    <title>Meeting With Nature: Never Furget Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006124200 +0700" stop="20261006130000 +0700">
+    <title>Meeting With Nature: Never Furget Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006130000 +0700" stop="20261006131200 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006131200 +0700" stop="20261006133000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006133000 +0700" stop="20261006134400 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006134400 +0700" stop="20261006140000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006140000 +0700" stop="20261006141300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006141300 +0700" stop="20261006143000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006143000 +0700" stop="20261006144300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006144300 +0700" stop="20261006150000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006150000 +0700" stop="20261006151200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006151200 +0700" stop="20261006153000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006153000 +0700" stop="20261006154400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006154400 +0700" stop="20261006160000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006160000 +0700" stop="20261006161200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006161200 +0700" stop="20261006163000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006163000 +0700" stop="20261006164200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006164200 +0700" stop="20261006170000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006170000 +0700" stop="20261006171100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006171100 +0700" stop="20261006173000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006173000 +0700" stop="20261006174300 +0700">
+    <title>Lumumba's Africa: Africa and Agriculture</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006174300 +0700" stop="20261006180000 +0700">
+    <title>Lumumba's Africa: The Germans In Africa</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006180000 +0700" stop="20261006181400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006181400 +0700" stop="20261006183000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006183000 +0700" stop="20261006184300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006184300 +0700" stop="20261006190000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006190000 +0700" stop="20261006191300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006191300 +0700" stop="20261006193000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006193000 +0700" stop="20261006194300 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006194300 +0700" stop="20261006200000 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006200000 +0700" stop="20261006201300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006201300 +0700" stop="20261006203000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006203000 +0700" stop="20261006204300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006204300 +0700" stop="20261006210000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006210000 +0700" stop="20261006211200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006211200 +0700" stop="20261006213000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006213000 +0700" stop="20261006214000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006214000 +0700" stop="20261006220000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006220000 +0700" stop="20261006221100 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006221100 +0700" stop="20261006223000 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006223000 +0700" stop="20261006224200 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006224200 +0700" stop="20261006230000 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006230000 +0700" stop="20261006231200 +0700">
+    <title>Meeting With Nature: Never Furget Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006231200 +0700" stop="20261006233000 +0700">
+    <title>Meeting With Nature: Never Furget Part 2</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006233000 +0700" stop="20261006234200 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261006234200 +0700" stop="20261007000000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007000000 +0700" stop="20261007001400 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007001400 +0700" stop="20261007003000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007003000 +0700" stop="20261007004200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007004200 +0700" stop="20261007010000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007010000 +0700" stop="20261007011300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007011300 +0700" stop="20261007013000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007013000 +0700" stop="20261007014300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007014300 +0700" stop="20261007020000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007020000 +0700" stop="20261007021200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007021200 +0700" stop="20261007023000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007023000 +0700" stop="20261007024400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007024400 +0700" stop="20261007030000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007030000 +0700" stop="20261007031200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007031200 +0700" stop="20261007033000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007033000 +0700" stop="20261007034100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007034100 +0700" stop="20261007040000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007040000 +0700" stop="20261007041300 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007041300 +0700" stop="20261007043000 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007043000 +0700" stop="20261007044300 +0700">
+    <title>People's Problems: Bordered Out Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007044300 +0700" stop="20261007050000 +0700">
+    <title>People's Problems: Bordered Out Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007050000 +0700" stop="20261007051100 +0700">
+    <title>People's Problems: Bordered Out Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007051100 +0700" stop="20261007053000 +0700">
+    <title>People's Problems: Bordered Out Part 4</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007053000 +0700" stop="20261007054200 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007054200 +0700" stop="20261007060000 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007060000 +0700" stop="20261007061200 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007061200 +0700" stop="20261007063000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 2</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007063000 +0700" stop="20261007064100 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 3</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007064100 +0700" stop="20261007070000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007070000 +0700" stop="20261007071100 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007071100 +0700" stop="20261007073000 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 2</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007073000 +0700" stop="20261007074200 +0700">
+    <title>Meeting With Nature: Never Furget Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007074200 +0700" stop="20261007080000 +0700">
+    <title>Meeting With Nature: Never Furget Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007080000 +0700" stop="20261007081200 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007081200 +0700" stop="20261007083000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 2</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007083000 +0700" stop="20261007084400 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007084400 +0700" stop="20261007090000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007090000 +0700" stop="20261007091300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007091300 +0700" stop="20261007093000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007093000 +0700" stop="20261007094300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007094300 +0700" stop="20261007100000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007100000 +0700" stop="20261007101200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007101200 +0700" stop="20261007103000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007103000 +0700" stop="20261007104400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007104400 +0700" stop="20261007110000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007110000 +0700" stop="20261007111200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007111200 +0700" stop="20261007113000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007113000 +0700" stop="20261007114200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007114200 +0700" stop="20261007120000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007120000 +0700" stop="20261007121100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007121100 +0700" stop="20261007123000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007123000 +0700" stop="20261007124300 +0700">
+    <title>Lumumba's Africa: Africa and Agriculture</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007124300 +0700" stop="20261007130000 +0700">
+    <title>Lumumba's Africa: The Germans In Africa</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007130000 +0700" stop="20261007131400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007131400 +0700" stop="20261007133000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007133000 +0700" stop="20261007134300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007134300 +0700" stop="20261007140000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007140000 +0700" stop="20261007141300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007141300 +0700" stop="20261007143000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007143000 +0700" stop="20261007144300 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007144300 +0700" stop="20261007150000 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007150000 +0700" stop="20261007151300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007151300 +0700" stop="20261007153000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007153000 +0700" stop="20261007154300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007154300 +0700" stop="20261007160000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007160000 +0700" stop="20261007161300 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007161300 +0700" stop="20261007163000 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007163000 +0700" stop="20261007164200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007164200 +0700" stop="20261007170000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007170000 +0700" stop="20261007171000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007171000 +0700" stop="20261007173000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007173000 +0700" stop="20261007174100 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007174100 +0700" stop="20261007180000 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007180000 +0700" stop="20261007181200 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 1</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007181200 +0700" stop="20261007183000 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007183000 +0700" stop="20261007184200 +0700">
+    <title>Meeting With Nature: Never Furget Part 1</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007184200 +0700" stop="20261007190000 +0700">
+    <title>Meeting With Nature: Never Furget Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007190000 +0700" stop="20261007191200 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007191200 +0700" stop="20261007193000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007193000 +0700" stop="20261007194400 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 3</title>
+    <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007194400 +0700" stop="20261007200000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007200000 +0700" stop="20261007201200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007201200 +0700" stop="20261007203000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007203000 +0700" stop="20261007204300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007204300 +0700" stop="20261007210000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007210000 +0700" stop="20261007211300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007211300 +0700" stop="20261007213000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007213000 +0700" stop="20261007214200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007214200 +0700" stop="20261007220000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007220000 +0700" stop="20261007221400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007221400 +0700" stop="20261007223000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007223000 +0700" stop="20261007224200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007224200 +0700" stop="20261007230000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007230000 +0700" stop="20261007231100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007231100 +0700" stop="20261007233000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007233000 +0700" stop="20261007234300 +0700">
+    <title>Lumumba's Africa: Africa and Agriculture</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261007234300 +0700" stop="20261008000000 +0700">
+    <title>Lumumba's Africa: The Germans In Africa</title>
+    <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008000000 +0700" stop="20261008001300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008001300 +0700" stop="20261008003000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008003000 +0700" stop="20261008004400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008004400 +0700" stop="20261008010000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008010000 +0700" stop="20261008011300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008011300 +0700" stop="20261008013000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008013000 +0700" stop="20261008014300 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008014300 +0700" stop="20261008020000 +0700">
+    <title>People's Problems: Cheran Vs Cartels Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008020000 +0700" stop="20261008021300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008021300 +0700" stop="20261008023000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008023000 +0700" stop="20261008024200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008024200 +0700" stop="20261008030000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008030000 +0700" stop="20261008031000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008031000 +0700" stop="20261008033000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008033000 +0700" stop="20261008034300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008034300 +0700" stop="20261008040000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008040000 +0700" stop="20261008041300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008041300 +0700" stop="20261008043000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008043000 +0700" stop="20261008044300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008044300 +0700" stop="20261008050000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008050000 +0700" stop="20261008051200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008051200 +0700" stop="20261008053000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008053000 +0700" stop="20261008054400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008054400 +0700" stop="20261008060000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008060000 +0700" stop="20261008061200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008061200 +0700" stop="20261008063000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008063000 +0700" stop="20261008064200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008064200 +0700" stop="20261008070000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008070000 +0700" stop="20261008071100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008071100 +0700" stop="20261008073000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008073000 +0700" stop="20261008074400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008074400 +0700" stop="20261008080000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008080000 +0700" stop="20261008081300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008081300 +0700" stop="20261008083000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008083000 +0700" stop="20261008084300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008084300 +0700" stop="20261008090000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008090000 +0700" stop="20261008091300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008091300 +0700" stop="20261008093000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008093000 +0700" stop="20261008094300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008094300 +0700" stop="20261008100000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008100000 +0700" stop="20261008101300 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008101300 +0700" stop="20261008103000 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008103000 +0700" stop="20261008104300 +0700">
+    <title>People's Problems: Bordered Out Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008104300 +0700" stop="20261008110000 +0700">
+    <title>People's Problems: Bordered Out Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008110000 +0700" stop="20261008111100 +0700">
+    <title>People's Problems: Bordered Out Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008111100 +0700" stop="20261008113000 +0700">
+    <title>People's Problems: Bordered Out Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008113000 +0700" stop="20261008114200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008114200 +0700" stop="20261008120000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008120000 +0700" stop="20261008121000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008121000 +0700" stop="20261008123000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008123000 +0700" stop="20261008124100 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008124100 +0700" stop="20261008130000 +0700">
+    <title>Picture Of Health: Giving Life A Chance Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008130000 +0700" stop="20261008131200 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008131200 +0700" stop="20261008133000 +0700">
+    <title>Wars and Disasters: Forging Warriors Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008133000 +0700" stop="20261008134200 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008134200 +0700" stop="20261008140000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008140000 +0700" stop="20261008141100 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008141100 +0700" stop="20261008143000 +0700">
+    <title>Historical Files: Rudn: Lumumba's Legacy Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008143000 +0700" stop="20261008144200 +0700">
+    <title>Meeting With Nature: Never Furget Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008144200 +0700" stop="20261008150000 +0700">
+    <title>Meeting With Nature: Never Furget Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008150000 +0700" stop="20261008151200 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008151200 +0700" stop="20261008153000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008153000 +0700" stop="20261008154400 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 3</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008154400 +0700" stop="20261008160000 +0700">
+    <title>My Life, My Way: Dreams En Pointe Part 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008160000 +0700" stop="20261008161200 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008161200 +0700" stop="20261008163000 +0700">
+    <title>Wars and Disasters: Lebanon. The Yellow Line Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008163000 +0700" stop="20261008164300 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008164300 +0700" stop="20261008170000 +0700">
+    <title>Art Lounge: Universal Dostoevsky Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008170000 +0700" stop="20261008171300 +0700">
+    <title>Wars and Disasters: Toxic War Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008171300 +0700" stop="20261008173000 +0700">
+    <title>Wars and Disasters: Toxic War Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008173000 +0700" stop="20261008174200 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008174200 +0700" stop="20261008180000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008180000 +0700" stop="20261008181400 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008181400 +0700" stop="20261008183000 +0700">
+    <title>World Of Sport: Get Up and Touchdown Part 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008183000 +0700" stop="20261008184200 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008184200 +0700" stop="20261008190000 +0700">
+    <title>Saving Our Planet: Forest Under Attack Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008190000 +0700" stop="20261008191100 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008191100 +0700" stop="20261008193000 +0700">
+    <title>Out Of Cycle: Zabbaleen: Trash Town Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008193000 +0700" stop="20261008194300 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008194300 +0700" stop="20261008200000 +0700">
+    <title>My Life, My Way: The Highland Teacher Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008200000 +0700" stop="20261008201400 +0700">
+    <title>Wars and Disasters: We Will Survive Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008201400 +0700" stop="20261008203000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008203000 +0700" stop="20261008204300 +0700">
+    <title>Wars and Disasters: We Will Survive Part 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008204300 +0700" stop="20261008210000 +0700">
+    <title>Wars and Disasters: We Will Survive Part 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008210000 +0700" stop="20261008211300 +0700">
+    <title>My Life, My Way: Danceducation Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008211300 +0700" stop="20261008213000 +0700">
+    <title>My Life, My Way: Danceducation Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008213000 +0700" stop="20261008214200 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008214200 +0700" stop="20261008220000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008220000 +0700" stop="20261008221000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 3</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008221000 +0700" stop="20261008223000 +0700">
+    <title>Wars and Disasters: Ptsd: At Tunnel's End Part 4</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008223000 +0700" stop="20261008224300 +0700">
+    <title>Daily Bread: Kremlinmobile Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008224300 +0700" stop="20261008230000 +0700">
+    <title>Daily Bread: Kremlinmobile Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008230000 +0700" stop="20261008231300 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008231300 +0700" stop="20261008233000 +0700">
+    <title>To The Max: Kilimanjaro Challenge Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008233000 +0700" stop="20261008234300 +0700">
+    <title>People's Problems: Bordered Out Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261008234300 +0700" stop="20261009000000 +0700">
+    <title>People's Problems: Bordered Out Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001191" start="20261004233600 +0700" stop="20261005000000 +0700">
@@ -51297,6 +53125,71 @@
     <title lang="en">RERUN: Uthai Thani FC vs Pattani FC</title>
     <category>Football</category>
   </programme>
+  <programme channel="ch0000000000100002041" start="20261008000000 +0700" stop="20261008020000 +0700">
+    <title lang="th">รีรัน: ขอนแก่น ยูไนเต็ด พบ เชียงใหม่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Khon Kaen United vs Chiangmai United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008020000 +0700" stop="20261008040000 +0700">
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ แพร่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs Phrae United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008040000 +0700" stop="20261008060000 +0700">
+    <title lang="th">รีรัน: พัทยา ยูไนเต็ด พบ เกษตรศาสตร์ เอฟซี</title>
+    <title lang="en">RERUN: Pattaya United vs Kasetsart FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008060000 +0700" stop="20261008080000 +0700">
+    <title lang="th">รีรัน: อยุธยา ยูไนเต็ด พบ การท่าเรือ เอฟซี</title>
+    <title lang="en">RERUN: Ayutthaya United vs Port FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008080000 +0700" stop="20261008100000 +0700">
+    <title lang="th">รีรัน: ระยอง เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rayong FC vs True Bangkok United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008100000 +0700" stop="20261008120000 +0700">
+    <title lang="th">รีรัน: นครศรี ยูไนเต็ด พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Si United vs Chanthaburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008120000 +0700" stop="20261008140000 +0700">
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ พีที ประจวบ เอฟซี</title>
+    <title lang="en">RERUN: BG Pathum United vs PT Prachuap FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008140000 +0700" stop="20261008150000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 31</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 31</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008150000 +0700" stop="20261008160000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 30</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 30</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008160000 +0700" stop="20261008180000 +0700">
+    <title lang="th">รีรัน: พลังกาญจน์ เอฟซี พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Kanchanaburi Power FC vs Chanthaburi FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008180000 +0700" stop="20261008200000 +0700">
+    <title lang="th">รีรัน: เมืองเลย ยูไนเต็ด พบ ชัยนาท ฮอร์นบิล</title>
+    <title lang="en">RERUN: Muang Loei United vs Chainat Hornbill FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008200000 +0700" stop="20261008220000 +0700">
+    <title lang="th">รีรัน: พีที ประจวบ เอฟซี พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: PT Prachuap FC vs Sukhothai FC</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261008220000 +0700" stop="20261009000000 +0700">
+    <title lang="th">รีรัน: ชลบุรี เอฟซี พบ ระยอง เอฟซี</title>
+    <title lang="en">RERUN: Chonburi FC vs Rayong FC</title>
+    <category>Football</category>
+  </programme>
   <programme channel="ch0000000000100002052" start="20261004220000 +0700" stop="20261005000000 +0700">
     <title lang="th">รีรัน: สิงห์ เชียงราย ซิตี้ พบ แม่โจ้ ยูไนเต็ด</title>
     <title lang="en">RERUN: Singha Chiangrai City vs Maejo United</title>
@@ -51540,6 +53433,181 @@
   <programme channel="ch0000000000100002052" start="20261008220000 +0700" stop="20261009000000 +0700">
     <title lang="th">รีรัน: บางกะปิ เอฟซี พบ ฟูเทร่า ยูไนเต็ด</title>
     <title lang="en">RERUN: Bangkapi FC vs Futera United</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261004000000 +0700" stop="20261005000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261005000000 +0700" stop="20261006000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261008000000 +0700" stop="20261009000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002092" start="20261004000000 +0700" stop="20261005000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002092" start="20261005000000 +0700" stop="20261006000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002092" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002092" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002092" start="20261008000000 +0700" stop="20261009000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002094" start="20261004000000 +0700" stop="20261005000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002094" start="20261005000000 +0700" stop="20261006000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002094" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002094" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002094" start="20261008000000 +0700" stop="20261009000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002095" start="20261004000000 +0700" stop="20261005000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002095" start="20261005000000 +0700" stop="20261006000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002095" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002095" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002095" start="20261008000000 +0700" stop="20261009000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002096" start="20261004000000 +0700" stop="20261005000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002096" start="20261005000000 +0700" stop="20261006000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002096" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002096" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002096" start="20261008000000 +0700" stop="20261009000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261004000000 +0700" stop="20261005000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261005000000 +0700" stop="20261006000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261008000000 +0700" stop="20261009000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002098" start="20261004000000 +0700" stop="20261005000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002098" start="20261005000000 +0700" stop="20261006000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002098" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002098" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002098" start="20261008000000 +0700" stop="20261009000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002171" start="20261004233000 +0700" stop="20261005000000 +0700">
@@ -54384,8 +56452,118 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261006234000 +0700" stop="20261007000000 +0700">
-    <title lang="th">ไฮไลต์: เอทีพี250 เฉิงตู โอเพ่น</title>
-    <title lang="en">Highlights: ATP250 Chengdu Open</title>
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: อูแบร์ อูร์กัตซ์ พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">(HL) Final: Hubert Hurkacz vs Alejandro Davidovich Fokina (Chengdu Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007000000 +0700" stop="20261007020000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซ์ เดอ มินอร์ พบ โนวัค ยอโควิช</title>
+    <title lang="en">RERUN: Final: Alex de Minaur vs Novak Djokovic (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007020000 +0700" stop="20261007022000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: คาร์ลอส อัลคาราซ พบ เชาเม่ มูนาร์</title>
+    <title lang="en">(HL) SF: Carlos Alcaraz vs Jaume Munar (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007022000 +0700" stop="20261007024000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: อเล็กซ์ เดอ มินอร์ พบ อูแบร์ อูร์กัตซ์</title>
+    <title lang="en">(HL) SF: Alex de Minaur vs Hubert Hurkacz (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007024000 +0700" stop="20261007030000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: ยิรี เลเฮชกา พบ วาลองแตง วาเชรอต</title>
+    <title lang="en">(HL) SF: Jiri Lehecka vs Valentin Vacherot (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007030000 +0700" stop="20261007050000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: คาร์ลอส อัลคาราซ พบ ยิรี เลเฮชกา</title>
+    <title lang="en">RERUN: Final: Carlos Alcaraz vs Jiri Lehecka (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007050000 +0700" stop="20261007051500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: โนวัค ยอโควิช พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) SF: Novak Djokovic vs Daniil Medvedev (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007051500 +0700" stop="20261007053000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: คาร์ลอส อัลคาราซ พบ ยิรี เลเฮชกา</title>
+    <title lang="en">(HL) Final: Carlos Alcaraz vs Jiri Lehecka (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007053000 +0700" stop="20261007060000 +0700">
+    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 20</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 20</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007060000 +0700" stop="20261007080000 +0700">
+    <title lang="th">รีรัน: รอบไฟนอล: คาร์ลอส อัลการาซ พบ ยีรี เลเฮชกา</title>
+    <title lang="en">RERUN: FINALFinal: Carlos Alcaraz vs Jiri Lehecka (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007080000 +0700" stop="20261007082000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: อเล็กซ์ เดอ มินอร์ พบ โนวัค ยอโควิช</title>
+    <title lang="en">(HL) Final: Alex de Minaur vs Novak Djokovic (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007082000 +0700" stop="20261007084000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: คาร์ลอส อัลคาราซ พบ เชาเม่ มูนาร์</title>
+    <title lang="en">(HL) SF: Carlos Alcaraz vs Jaume Munar (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007084000 +0700" stop="20261007090000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: โนวัค ยอโควิช พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) SF: Novak Djokovic vs Daniil Medvedev (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007090000 +0700" stop="20261007110000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซ์ เดอ มินอร์ พบ โนวัค ยอโควิช</title>
+    <title lang="en">RERUN: Final: Alex de Minaur vs Novak Djokovic (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007110000 +0700" stop="20261007210000 +0700">
+    <title lang="th">LIVE: โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 1</title>
+    <title lang="en">LIVE: Rolex Shanghai Masters Day 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007210000 +0700" stop="20261007212000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: ยิรี เลเฮชกา พบ วาลองแตง วาเชรอต</title>
+    <title lang="en">(HL) SF: Jiri Lehecka vs Valentin Vacherot (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007212000 +0700" stop="20261007214000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: อเล็กซ์ เดอ มินอร์ พบ โนวัค ยอโควิช</title>
+    <title lang="en">(HL) Final: Alex de Minaur vs Novak Djokovic (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007214000 +0700" stop="20261007220000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: คาร์ลอส อัลคาราซ พบ ยิรี เลเฮชกา</title>
+    <title lang="en">(HL) Final: Carlos Alcaraz vs Jiri Lehecka (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261007220000 +0700" stop="20261008000000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซ์ เดอ มินอร์ พบ โนวัค ยอโควิช</title>
+    <title lang="en">RERUN: Final: Alex de Minaur vs Novak Djokovic (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261008000000 +0700" stop="20261008002000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: อเล็กซ์ เดอ มินอร์ พบ โนวัค ยอโควิช</title>
+    <title lang="en">(HL) Final: Alex de Minaur vs Novak Djokovic (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261008002000 +0700" stop="20261008004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: คาร์ลอส อัลคาราซ พบ ยิรี เลเฮชกา</title>
+    <title lang="en">(HL) Final: Carlos Alcaraz vs Jiri Lehecka (Kinoshita Group Japan Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261008004000 +0700" stop="20261008010000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: โนวัค ยอโควิช พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) SF: Novak Djokovic vs Daniil Medvedev (China Open)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261008010000 +0700" stop="20261008030000 +0700">
+    <title lang="th">รีรัน: รอบแรก (โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส)</title>
+    <title lang="en">RERUN: Round 128 (Rolex Shanghai Masters)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261004200000 +0700" stop="20261005000000 +0700">
@@ -55678,23 +57856,28 @@
     <category>Children,Cartoon</category>
   </programme>
   <programme channel="ch0000000000100002643" start="20261004000000 +0700" stop="20261005000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002643" start="20261005000000 +0700" stop="20261006000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002643" start="20261006000000 +0700" stop="20261007000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002643" start="20261007000000 +0700" stop="20261008000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002643" start="20261008000000 +0700" stop="20261009000000 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>WNBA</category>
   </programme>
   <programme channel="ch0000000000100002644" start="20261004000000 +0700" stop="20261005000000 +0700">
