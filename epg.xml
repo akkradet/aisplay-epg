@@ -255,81 +255,6 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name lang="th">เพลย์สปอร์ต 3</display-name>
-    <display-name lang="en">PLAY SPORTS 3</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134307018922.png"/>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name lang="th">เพลย์สปอร์ต 6</display-name>
-    <display-name lang="en">PLAY SPORTS 6</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name lang="th">เพลย์สปอร์ต 7</display-name>
-    <display-name lang="en">PLAY SPORTS 7</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141713018926.png"/>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name lang="th">เพลย์สปอร์ต 8</display-name>
-    <display-name lang="en">PLAY SPORTS 8</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141727018927.png"/>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name lang="th">เพลย์สปอร์ต 9</display-name>
-    <display-name lang="en">PLAY SPORTS 9</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141740018928.png"/>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name lang="th">เพลย์สปอร์ต 19</display-name>
-    <display-name lang="en">PLAY SPORTS 19</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163428022513.png"/>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name lang="th">เพลย์สปอร์ต 20</display-name>
-    <display-name lang="en">PLAY SPORTS 20</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163443022537.png"/>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name lang="th">เพลย์สปอร์ต 21</display-name>
-    <display-name lang="en">PLAY SPORTS 21</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163458022538.png"/>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name lang="th">เพลย์สปอร์ต 22</display-name>
-    <display-name lang="en">PLAY SPORTS 22</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163511022539.png"/>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name lang="th">เพลย์สปอร์ต 23</display-name>
-    <display-name lang="en">PLAY SPORTS 23</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163527022540.png"/>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name lang="th">เพลย์สปอร์ต 24</display-name>
-    <display-name lang="en">PLAY SPORTS 24</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163543022541.png"/>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name lang="th">เพลย์สปอร์ต 25</display-name>
-    <display-name lang="en">PLAY SPORTS 25</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163557022542.png"/>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name lang="th">เพลย์สปอร์ต 26</display-name>
-    <display-name lang="en">PLAY SPORTS 26</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163611022543.png"/>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name lang="th">เพลย์สปอร์ต 27</display-name>
-    <display-name lang="en">PLAY SPORTS 27</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163624022544.png"/>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name lang="th">เพลย์สปอร์ต 28</display-name>
-    <display-name lang="en">PLAY SPORTS 28</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251118132818031287.png"/>
-  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -460,11 +385,6 @@
     <display-name lang="en">PLAY SPORTS 94</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134851064653.png"/>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
-    <display-name lang="en">PLAY SPORTS 95</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
-  </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
     <display-name lang="en">CNN</display-name>
@@ -568,20 +488,92 @@
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
   </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
   </channel>
-  <channel id="ch0000000000100002441">
-    <display-name>ch0000000000100002441</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
   </channel>
   <channel id="ch0000000000100002154">
     <display-name>ch0000000000100002154</display-name>
   </channel>
-  <channel id="ch0000000000100002584">
-    <display-name>ch0000000000100002584</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002535">
+    <display-name>ch0000000000100002535</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
@@ -589,14 +581,59 @@
   <channel id="ch0000000000100001152">
     <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002441">
+    <display-name>ch0000000000100002441</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
   </channel>
   <channel id="ch0000000000100002098">
     <display-name>ch0000000000100002098</display-name>
@@ -604,98 +641,29 @@
   <channel id="ch0000000000100002541">
     <display-name>ch0000000000100002541</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100002584">
+    <display-name>ch0000000000100002584</display-name>
   </channel>
   <channel id="ch0000000000100002751">
     <display-name>ch0000000000100002751</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100002535">
-    <display-name>ch0000000000100002535</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
   <channel id="ch0000000000100002092">
     <display-name>ch0000000000100002092</display-name>
   </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
   <channel id="ch0000000000100001356">
     <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261008232000 +0700" stop="20261009000500 +0700">
     <title>Law &amp; Order ('21) S1 Ep.10: Black And Blue</title>
@@ -53367,13 +53335,13 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002095" start="20261010000000 +0700" stop="20261010183000 +0700">
-    <title lang="th">เริ่มเวลา 18.30 เมืองเลย พบ พัทยา</title>
-    <title lang="en">Kick Off 6.30PM: Muang Loei United vs Pattaya United</title>
+    <title lang="th">เริ่มเวลา 18.30 โปลิศ เทโร พบ นครราชสีมา มาสด้า</title>
+    <title lang="en">Kick Off 6.30PM: Police Tero vs Nakhon Ratchasima Mazda</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002095" start="20261010183000 +0700" stop="20261010203000 +0700">
-    <title lang="th">LIVE: เมืองเลย ยูไนเต็ด พบ พัทยา ยูไนเต็ด (T2 - สัปดาห์ที่ 5)</title>
-    <title lang="en">LIVE: Muang Loei United vs Pattaya United (T2 - Matchday 5)</title>
+    <title lang="th">LIVE: โปลิศ เทโร เอฟซี พบ นครราชสีมา มาสด้า เอฟซี (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">LIVE: Police Tero FC vs Nakhon Ratchasima Mazda FC (T2 - Matchday5)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002095" start="20261010203000 +0700" stop="20261011000000 +0700">
@@ -53412,13 +53380,13 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002096" start="20261010000000 +0700" stop="20261010190000 +0700">
-    <title lang="th">เริ่มเวลา 19.00 โปลิศ เทโร พบ นครราชสีมา มาสด้า</title>
-    <title lang="en">Kick Off 7PM: Police Tero vs Nakhon Ratchasima Mazda</title>
+    <title lang="th">เริ่มเวลา 19.00 เมืองเลย พบ พัทยา</title>
+    <title lang="en">Kick Off 7PM: Muang Loei vs Pattaya</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002096" start="20261010190000 +0700" stop="20261010210000 +0700">
-    <title lang="th">LIVE: โปลิศ เทโร เอฟซี พบ นครราชสีมา มาสด้า เอฟซี (T2 - สัปดาห์ที่ 5)</title>
-    <title lang="en">LIVE: Police Tero FC vs Nakhon Ratchasima Mazda FC (T2 - Matchday5)</title>
+    <title lang="th">LIVE: เมืองเลย ยูไนเต็ด พบ พัทยา ยูไนเต็ด (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">LIVE: Muang Loei United vs Pattaya United (T2 - Matchday5)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002096" start="20261010210000 +0700" stop="20261011000000 +0700">
