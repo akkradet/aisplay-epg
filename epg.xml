@@ -280,41 +280,6 @@
     <display-name lang="en">PLAY SPORTS 9</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141740018928.png"/>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name lang="th">เพลย์สปอร์ต 11</display-name>
-    <display-name lang="en">PLAY SPORTS 11</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909155033022500.png"/>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name lang="th">เพลย์สปอร์ต 12</display-name>
-    <display-name lang="en">PLAY SPORTS 12</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163216022531.png"/>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name lang="th">เพลย์สปอร์ต 14</display-name>
-    <display-name lang="en">PLAY SPORTS 14</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163300022533.png"/>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name lang="th">เพลย์สปอร์ต 15</display-name>
-    <display-name lang="en">PLAY SPORTS 15</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163318022534.png"/>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name lang="th">เพลย์สปอร์ต 16</display-name>
-    <display-name lang="en">PLAY SPORTS 16</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163342022535.png"/>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name lang="th">เพลย์สปอร์ต 17</display-name>
-    <display-name lang="en">PLAY SPORTS 17</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163358022536.png"/>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name lang="th">เพลย์สปอร์ต 18</display-name>
-    <display-name lang="en">PLAY SPORTS 18</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163413022512.png"/>
-  </channel>
   <channel id="ch0000000000100002331">
     <display-name lang="th">เพลย์สปอร์ต 19</display-name>
     <display-name lang="en">PLAY SPORTS 19</display-name>
@@ -600,86 +565,8 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002441">
-    <display-name>ch0000000000100002441</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002535">
-    <display-name>ch0000000000100002535</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
   <channel id="ch0000000000100001381">
     <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
@@ -687,29 +574,128 @@
   <channel id="ch0000000000100002313">
     <display-name>ch0000000000100002313</display-name>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
+  <channel id="ch0000000000100002441">
+    <display-name>ch0000000000100002441</display-name>
   </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
   </channel>
   <channel id="ch0000000000100002584">
     <display-name>ch0000000000100002584</display-name>
   </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
   <channel id="ch0000000000100002541">
     <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
   </channel>
   <channel id="ch0000000000100002251">
     <display-name>ch0000000000100002251</display-name>
   </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
+  </channel>
+  <channel id="ch0000000000100002535">
+    <display-name>ch0000000000100002535</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
   <channel id="ch0000000000100002371">
     <display-name>ch0000000000100002371</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261008232000 +0700" stop="20261009000500 +0700">
     <title>Law &amp; Order ('21) S1 Ep.10: Black And Blue</title>
@@ -54902,6 +54888,288 @@
     <desc>111</desc>
   </programme>
   <programme channel="ch0000000000100002231" start="20261009230000 +0700" stop="20261009234459 +0700">
+    <title>SiaranPendidikan09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010010000 +0700" stop="20261010015959 +0700">
+    <title>Pigura NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010020000 +0700" stop="20261010025959 +0700">
+    <title>Daerah Membangun NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010030000 +0700" stop="20261010035959 +0700">
+    <title>Salam dari Desa09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010040000 +0700" stop="20261010045959 +0700">
+    <title>Pelangi Desa NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010050000 +0700" stop="20261010055959 +0700">
+    <title>Siaran Pendidikan09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010060000 +0700" stop="20261010065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010070000 +0700" stop="20261010075959 +0700">
+    <title>Sentuhan Sanubari09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010080000 +0700" stop="20261010085959 +0700">
+    <title>Sekolah Alam09.01</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010090000 +0700" stop="20261010095959 +0700">
+    <title>English News Service09.01</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010100000 +0700" stop="20261010105959 +0700">
+    <title>Jendela Dunia09.01</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010110000 +0700" stop="20261010115959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.01</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010120000 +0700" stop="20261010122959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.01</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010123000 +0700" stop="20261010125959 +0700">
+    <title>English News Service09.01</title>
+    <desc lang="th">117</desc>
+    <desc lang="en">116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010130000 +0700" stop="20261010142959 +0700">
+    <title>Bincang Malam09.01</title>
+    <desc lang="th">118</desc>
+    <desc lang="en">117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010143000 +0700" stop="20261010155959 +0700">
+    <title>Warta Dunia09.01</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010160000 +0700" stop="20261010162959 +0700">
+    <title>Ring TVRI09.01</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010163000 +0700" stop="20261010165959 +0700">
+    <title>Album Kenangan09.01</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010170000 +0700" stop="20261010175959 +0700">
+    <title>Sentuhan Sanubari09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010180000 +0700" stop="20261010195959 +0700">
+    <title>Sekolah Alam09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010200000 +0700" stop="20261010205959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010210000 +0700" stop="20261010215959 +0700">
+    <title>Jendela Dunia09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010220000 +0700" stop="20261010225959 +0700">
+    <title>PelangiDesaNTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261010230000 +0700" stop="20261010235959 +0700">
+    <title>SiaranPendidikan09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011010000 +0700" stop="20261011015959 +0700">
+    <title>Pigura NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011020000 +0700" stop="20261011025959 +0700">
+    <title>Daerah Membangun NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011030000 +0700" stop="20261011035959 +0700">
+    <title>Salam dari Desa09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011040000 +0700" stop="20261011045959 +0700">
+    <title>Pelangi Desa NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011050000 +0700" stop="20261011055959 +0700">
+    <title>Siaran Pendidikan09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011060000 +0700" stop="20261011065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011070000 +0700" stop="20261011075959 +0700">
+    <title>Sentuhan Sanubari09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011080000 +0700" stop="20261011085959 +0700">
+    <title>Sekolah Alam09.01</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011090000 +0700" stop="20261011095959 +0700">
+    <title>English News Service09.01</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011100000 +0700" stop="20261011105959 +0700">
+    <title>Jendela Dunia09.01</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011110000 +0700" stop="20261011115959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.01</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011120000 +0700" stop="20261011122959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.01</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011123000 +0700" stop="20261011125959 +0700">
+    <title>English News Service09.01</title>
+    <desc lang="th">117</desc>
+    <desc lang="en">116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011130000 +0700" stop="20261011142959 +0700">
+    <title>Bincang Malam09.01</title>
+    <desc lang="th">118</desc>
+    <desc lang="en">117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011143000 +0700" stop="20261011155959 +0700">
+    <title>Warta Dunia09.01</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011160000 +0700" stop="20261011162959 +0700">
+    <title>Ring TVRI09.01</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011163000 +0700" stop="20261011165959 +0700">
+    <title>Album Kenangan09.01</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011170000 +0700" stop="20261011175959 +0700">
+    <title>Sentuhan Sanubari09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011180000 +0700" stop="20261011195959 +0700">
+    <title>Sekolah Alam09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011200000 +0700" stop="20261011205959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011210000 +0700" stop="20261011215959 +0700">
+    <title>Jendela Dunia09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011220000 +0700" stop="20261011225959 +0700">
+    <title>PelangiDesaNTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261011230000 +0700" stop="20261011235959 +0700">
+    <title>SiaranPendidikan09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012010000 +0700" stop="20261012015959 +0700">
+    <title>Pigura NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012020000 +0700" stop="20261012025959 +0700">
+    <title>Daerah Membangun NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012030000 +0700" stop="20261012035959 +0700">
+    <title>Salam dari Desa09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012040000 +0700" stop="20261012045959 +0700">
+    <title>Pelangi Desa NTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012050000 +0700" stop="20261012055959 +0700">
+    <title>Siaran Pendidikan09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012060000 +0700" stop="20261012065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012070000 +0700" stop="20261012075959 +0700">
+    <title>Sentuhan Sanubari09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012080000 +0700" stop="20261012085959 +0700">
+    <title>Sekolah Alam09.01</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012090000 +0700" stop="20261012095959 +0700">
+    <title>English News Service09.01</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012100000 +0700" stop="20261012105959 +0700">
+    <title>Jendela Dunia09.01</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012110000 +0700" stop="20261012115959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.01</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012120000 +0700" stop="20261012122959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU09.01</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012123000 +0700" stop="20261012125959 +0700">
+    <title>English News Service09.01</title>
+    <desc lang="th">117</desc>
+    <desc lang="en">116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012130000 +0700" stop="20261012142959 +0700">
+    <title>Bincang Malam09.01</title>
+    <desc lang="th">118</desc>
+    <desc lang="en">117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012143000 +0700" stop="20261012155959 +0700">
+    <title>Warta Dunia09.01</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012160000 +0700" stop="20261012162959 +0700">
+    <title>Ring TVRI09.01</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012163000 +0700" stop="20261012165959 +0700">
+    <title>Album Kenangan09.01</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012170000 +0700" stop="20261012175959 +0700">
+    <title>Sentuhan Sanubari09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012180000 +0700" stop="20261012195959 +0700">
+    <title>Sekolah Alam09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012200000 +0700" stop="20261012205959 +0700">
+    <title>Kilas Balik Reformasi Hukum09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012210000 +0700" stop="20261012215959 +0700">
+    <title>Jendela Dunia09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012220000 +0700" stop="20261012225959 +0700">
+    <title>PelangiDesaNTB09.01</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261012230000 +0700" stop="20261012235959 +0700">
     <title>SiaranPendidikan09.01</title>
     <desc>111</desc>
   </programme>
