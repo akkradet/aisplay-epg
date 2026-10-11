@@ -255,56 +255,6 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name lang="th">เพลย์สปอร์ต 3</display-name>
-    <display-name lang="en">PLAY SPORTS 3</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134307018922.png"/>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name lang="th">เพลย์สปอร์ต 4</display-name>
-    <display-name lang="en">PLAY SPORTS 4</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134554018923.png"/>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name lang="th">เพลย์สปอร์ต 6</display-name>
-    <display-name lang="en">PLAY SPORTS 6</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name lang="th">เพลย์สปอร์ต 7</display-name>
-    <display-name lang="en">PLAY SPORTS 7</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141713018926.png"/>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name lang="th">เพลย์สปอร์ต 8</display-name>
-    <display-name lang="en">PLAY SPORTS 8</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141727018927.png"/>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name lang="th">เพลย์สปอร์ต 9</display-name>
-    <display-name lang="en">PLAY SPORTS 9</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141740018928.png"/>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name lang="th">เพลย์สปอร์ต 23</display-name>
-    <display-name lang="en">PLAY SPORTS 23</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163527022540.png"/>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name lang="th">เพลย์สปอร์ต 24</display-name>
-    <display-name lang="en">PLAY SPORTS 24</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163543022541.png"/>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name lang="th">เพลย์สปอร์ต 25</display-name>
-    <display-name lang="en">PLAY SPORTS 25</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163557022542.png"/>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name lang="th">เพลย์สปอร์ต 26</display-name>
-    <display-name lang="en">PLAY SPORTS 26</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163611022543.png"/>
-  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -410,16 +360,6 @@
     <display-name lang="en">PLAY SPORTS 91</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134749064630.png"/>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
-    <display-name lang="en">PLAY SPORTS 95</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name lang="th">เพลย์สปอร์ต 96</display-name>
-    <display-name lang="en">PLAY SPORTS 96</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134957064655.png"/>
-  </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
     <display-name lang="en">CNN</display-name>
@@ -520,164 +460,200 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002584">
-    <display-name>ch0000000000100002584</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100002535">
-    <display-name>ch0000000000100002535</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
+  </channel>
+  <channel id="ch0000000000100002584">
+    <display-name>ch0000000000100002584</display-name>
   </channel>
   <channel id="ch0000000000100002441">
     <display-name>ch0000000000100002441</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100002535">
+    <display-name>ch0000000000100002535</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
   </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100002323">
     <display-name>ch0000000000100002323</display-name>
   </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
   <channel id="ch0000000000100002534">
     <display-name>ch0000000000100002534</display-name>
   </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
   </channel>
   <channel id="ch0000000000100002251">
     <display-name>ch0000000000100002251</display-name>
   </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
   <channel id="ch0000000000100002581">
     <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261009224500 +0700" stop="20261010004500 +0700">
     <title>Chocolat</title>
@@ -52580,7 +52556,137 @@
   <programme channel="ch0000000000100002041" start="20261011230000 +0700" stop="20261012000000 +0700">
     <title lang="th">11 ฟอร์มเทพ ตอนที่ 2</title>
     <title lang="en">Top 11 Performance EP 2</title>
-    <category>Football</category>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012000000 +0700" stop="20261012020000 +0700">
+    <title lang="th">รีรัน: พีที ประจวบ เอฟซี พบ สิงห์ เชียงราย ยูไนเต็ด</title>
+    <title lang="en">RERUN: PT Prachuap FC vs Singha Chiangrai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012020000 +0700" stop="20261012040000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ ทรู แบงค็อก ยูไนเต็ด</title>
+    <title lang="en">RERUN: Lamphun Warriors vs True Bangkok United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012040000 +0700" stop="20261012060000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: Sisaket United vs Chonburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012060000 +0700" stop="20261012080000 +0700">
+    <title lang="th">รีรัน: หนองบัว พิชญ เอฟซี พบ โปลิศ เทโร เอฟซี</title>
+    <title lang="en">RERUN: Nongbua Pitchaya FC vs Police Tero FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012080000 +0700" stop="20261012090000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 4 (2026/27)</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 4 (2026/27)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012090000 +0700" stop="20261012110000 +0700">
+    <title lang="th">รีรัน: มหาสารคาม ซีซี เอฟซี พบ อุตรดิตถ์ เอฟซี</title>
+    <title lang="en">RERUN: Mahasarakham CC vs Uttaradit FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012110000 +0700" stop="20261012130000 +0700">
+    <title lang="th">รีรัน: พีที สตูล เอฟซี พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: PT Satun FC vs Khon Kaen United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012130000 +0700" stop="20261012150000 +0700">
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ สงขลา เอฟซี</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Songkhla FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012150000 +0700" stop="20261012160000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 5 (2026/27)</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 5 (2026/27)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012160000 +0700" stop="20261012180000 +0700">
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ แพร่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Muangthong United vs Phrae United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012180000 +0700" stop="20261012200000 +0700">
+    <title lang="th">รีรัน: พลังกาญจน์ เอฟซี พบ โปลิศ เทโร เอฟซี</title>
+    <title lang="en">RERUN: Kanchanaburi Power FC vs Police Tero FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012200000 +0700" stop="20261012220000 +0700">
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ เมืองเลย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Muang Loei United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261012220000 +0700" stop="20261013000000 +0700">
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: BG Pathum United vs Ayutthaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013000000 +0700" stop="20261013020000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: True Bangkok United vs Sukhothai FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013020000 +0700" stop="20261013040000 +0700">
+    <title lang="th">รีรัน: ตราด เอฟซี พบ ชัยนาท ฮอร์นบิล</title>
+    <title lang="en">RERUN: Trat FC vs Chainat Hornbill FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013040000 +0700" stop="20261013060000 +0700">
+    <title lang="th">รีรัน: บางกอก เอฟซี พบ นครศรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Bangkok FC vs Nakhon Si United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013060000 +0700" stop="20261013080000 +0700">
+    <title lang="th">รีรัน: แพร่ ยูไนเต็ด พบ พัทยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Phrae United vs Pattaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013080000 +0700" stop="20261013090000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 32</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 32</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013090000 +0700" stop="20261013110000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: True Bangkok United vs Sukhothai FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013110000 +0700" stop="20261013130000 +0700">
+    <title lang="th">รีรัน: พลังกาญจน์ เอฟซี พบ บีจี ปทุม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Kanchanaburi Power FC vs BG Pathum United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013130000 +0700" stop="20261013150000 +0700">
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Ratchaburi FC vs Buriram United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013150000 +0700" stop="20261013160000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 27</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013160000 +0700" stop="20261013180000 +0700">
+    <title lang="th">รีรัน: จันทบุรี เอฟซี พบ หนองบัว พิชญ เอฟซี</title>
+    <title lang="en">RERUN: Chanthaburi FC vs Nongbua Pitchaya FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013180000 +0700" stop="20261013200000 +0700">
+    <title lang="th">รีรัน: บุรีรัมย์ ยูไนเต็ด พบ ระยอง เอฟซี</title>
+    <title lang="en">RERUN: Buriram United vs Rayong FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013200000 +0700" stop="20261013220000 +0700">
+    <title lang="th">รีรัน: อุทัยธานี เอฟซี พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: Uthai Thani FC vs Rasisalai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261013220000 +0700" stop="20261014000000 +0700">
+    <title lang="th">รีรัน: พัทยา ยูไนเต็ด พบ แพร่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pattaya United vs Phrae United</title>
+    <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20261009220000 +0700" stop="20261010000000 +0700">
     <title lang="th">รีรัน: เมืองเลย ยูไนเต็ด พบ บูรพา ยูไนเต็ด</title>
@@ -57270,9 +57376,14 @@
     <title lang="en">RERUN: R64: Ben Shelton vs Daniel Altmaier</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261011000000 +0700" stop="20261011003000 +0700">
+  <programme channel="ch0000000000100002530" start="20261011000000 +0700" stop="20261011002000 +0700">
     <title lang="th">(ไฮไลต์) รอบ 64: เรอิ ซากาโมโตะ พบ อันเดร รูเบลฟ</title>
     <title lang="en">(HL) R64: Rei Sakamoto vs Andrey Rublev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261011002000 +0700" stop="20261011004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 64: คามิโล อูโก คาราเบลลี พบ เฟลิกซ์ โอเฌร์-อาเลียซีม</title>
+    <title lang="en">(HL) R64: Camilo Ugo Carabelli vs Felix Auger-Aliassime</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261011004000 +0700" stop="20261011010000 +0700">
@@ -57367,6 +57478,120 @@
   <programme channel="ch0000000000100002530" start="20261011214000 +0700" stop="20261011220000 +0700">
     <title lang="th">(ไฮไลต์) รอบ 64: เลิร์นเนอร์ เทียน พบ แซกคารี สไวดา</title>
     <title lang="en">(HL) R64: Learner Tien vs Zachary Svajda</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261011220000 +0700" stop="20261012000000 +0700">
+    <title lang="th">รีรัน: รอบ 64: ปู้ ยุนเชาเค่อเท่อ พบ แคสเปอร์ รุด</title>
+    <title lang="en">RERUN: R64: Yunchaokete Bu vs Casper Ruud</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012000000 +0700" stop="20261012002000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: เบน เชลตัน พบ อาตูร์ เจอา</title>
+    <title lang="en">(HL) R32: Ben Shelton vs Arthur Gea</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012002000 +0700" stop="20261012004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อูแบร์ อูร์กัตซ์ พบ โจว อี้</title>
+    <title lang="en">(HL) R32: Hubert Hurkacz vs Yi Zhou</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012004000 +0700" stop="20261012010000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเล็กซานเดอร์ ซเวเรฟ พบ กองแตง ฮาลิส</title>
+    <title lang="en">(HL) R32: Alexander Zverev vs Quentin Halys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012010000 +0700" stop="20261012030000 +0700">
+    <title lang="th">รีรัน: รอบ 32: อเลฮานโดร ดาวิโดวิช โฟกินา พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">RERUN: R32: Alejandro Davidovich Fokina vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012030000 +0700" stop="20261012032000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเลฮานโดร ดาวิโดวิช โฟกินา พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) R32: Alejandro Davidovich Fokina vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012032000 +0700" stop="20261012034000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: คาเรน คาชานอฟ พบ อาเดรียน มังนาริโน</title>
+    <title lang="en">(HL) R32: Karen Khachanov vs Adrian Mannarino</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012034000 +0700" stop="20261012040000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเล็กซ์ เดอ มินอร์ พบ เรอิ ซากาโมโตะ</title>
+    <title lang="en">(HL) R32: Alex de Minaur vs Rei Sakamoto</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012040000 +0700" stop="20261012060000 +0700">
+    <title lang="th">รีรัน: รอบ 32: เบน เชลตัน พบ อาตูร์ เจอา</title>
+    <title lang="en">RERUN: R32: Ben Shelton vs Arthur Gea</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012060000 +0700" stop="20261012062000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเล็กซานเดอร์ บูบลิค พบ แบรนดอน นากาชิมา</title>
+    <title lang="en">(HL) R32: Alexander Bublik vs Brandon Nakashima</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012062000 +0700" stop="20261012064000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: เบน เชลตัน พบ อาตูร์ เจอา</title>
+    <title lang="en">(HL) R32: Ben Shelton vs Arthur Gea</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012064000 +0700" stop="20261012070000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อูแบร์ อูร์กัตซ์ พบ โจว อี้</title>
+    <title lang="en">(HL) R32: Hubert Hurkacz vs Yi Zhou</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012070000 +0700" stop="20261012090000 +0700">
+    <title lang="th">รีรัน: รอบ 32: อเล็กซานเดอร์ ซเวเรฟ พบ กองแตง ฮาลิส</title>
+    <title lang="en">RERUN: R32: Alexander Zverev vs Quentin Halys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012090000 +0700" stop="20261012093000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 29</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 29</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012093000 +0700" stop="20261012095000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเล็กซานเดอร์ ซเวเรฟ พบ กองแตง ฮาลิส</title>
+    <title lang="en">(HL) R32: Alexander Zverev vs Quentin Halys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012095000 +0700" stop="20261012101000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเลฮานโดร ดาวิโดวิช โฟกินา พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) R32: Alejandro Davidovich Fokina vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012101000 +0700" stop="20261012103000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: คาเรน คาชานอฟ พบ อาเดรียน มังนาริโน</title>
+    <title lang="en">(HL) R32: Karen Khachanov vs Adrian Mannarino</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012103000 +0700" stop="20261012110000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 30</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 30</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012110000 +0700" stop="20261012210000 +0700">
+    <title>LIVE: Rolex Shanghai Masters Day 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012210000 +0700" stop="20261012212000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเล็กซ์ เดอ มินอร์ พบ เรอิ ซากาโมโตะ</title>
+    <title lang="en">(HL) R32: Alex de Minaur vs Rei Sakamoto</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012212000 +0700" stop="20261012214000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเล็กซานเดอร์ บูบลิค พบ แบรนดอน นากาชิมา</title>
+    <title lang="en">(HL) R32: Alexander Bublik vs Brandon Nakashima</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012214000 +0700" stop="20261012220000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อเล็กซานเดอร์ ซเวเรฟ พบ กองแตง ฮาลิส</title>
+    <title lang="en">(HL) R32: Alexander Zverev vs Quentin Halys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261012220000 +0700" stop="20261013000000 +0700">
+    <title lang="th">รีรัน: รอบ 32: ฟรานซิสโก เซรุนโดโล พบ ยาคุบ เมนซิค</title>
+    <title lang="en">RERUN: R32: Francisco Cerundolo vs Jakub Mensik</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261009210000 +0700" stop="20261010000000 +0700">
@@ -58916,8 +59141,214 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002701" start="20261011180000 +0700" stop="20261011200000 +0700">
-    <title>RERUN: FC Augsburg vs FC Bayern Munich</title>
-    <category>Sports</category>
+    <title lang="th">รีรัน: เอาก์สบวร์ก พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: FC Augsburg vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261011200000 +0700" stop="20261011201500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261011201500 +0700" stop="20261011223000 +0700">
+    <title lang="th">LIVE: โคโลญจน์ พบ โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">LIVE: 1. FC Koeln vs Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261011223000 +0700" stop="20261011230000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล โชว์ 2026-27: ไมเคิล โอลิเซ่ - บาเยิน มิวนิค</title>
+    <title lang="en">RERUN: Bundesliga Special Show 2026-27: When the Game Speaks Michael Olise</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261011230000 +0700" stop="20261012010000 +0700">
+    <title lang="th">รีรัน: โบรุสเซีย ดอร์ทมุนด์ พบ แวร์เดอร์ เบรเมน</title>
+    <title lang="en">RERUN: Borussia Dortmund vs SV Werder Bremen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012010000 +0700" stop="20261012030000 +0700">
+    <title lang="th">รีรัน: โฮลสไตน์ คีล พบ ซังต์ เพาลี</title>
+    <title lang="en">RERUN: Holstein Kiel vs FC St. Pauli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012030000 +0700" stop="20261012050000 +0700">
+    <title lang="th">รีรัน: คาร์ลสรูห์ พบ โวล์ฟสบวร์ก</title>
+    <title lang="en">RERUN: Karlsruher SC vs VfL Wolfsburg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012050000 +0700" stop="20261012060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 23</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 23</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012060000 +0700" stop="20261012063000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 1</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012063000 +0700" stop="20261012064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012064500 +0700" stop="20261012070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: เอลเวอร์สแบร์ก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: SV Elversberg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012070000 +0700" stop="20261012090000 +0700">
+    <title lang="th">รีรัน: เอลเวอร์สแบร์ก พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: SV Elversberg vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012090000 +0700" stop="20261012110000 +0700">
+    <title lang="th">รีรัน: โคโลญจน์ พบ โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: 1. FC Koeln vs Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012110000 +0700" stop="20261012120000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 2 - บุนเดสลีกา 2 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 2 - Bundesliga 2 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012120000 +0700" stop="20261012140000 +0700">
+    <title lang="th">รีรัน: แวร์เดอร์ เบรเมน พบ เอาก์สบวร์ก</title>
+    <title lang="en">RERUN: SV Werder Bremen vs FC Augsburg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012140000 +0700" stop="20261012160000 +0700">
+    <title lang="th">รีรัน: อาร์มิเนีย บีเลเฟลด์ พบ ซังต์ เพาลี</title>
+    <title lang="en">RERUN: DSC Arminia Bielefeld vs FC St. Pauli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012160000 +0700" stop="20261012170000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 2</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012170000 +0700" stop="20261012180000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 3</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012180000 +0700" stop="20261012200000 +0700">
+    <title lang="th">รีรัน: แอร์เบ ไลป์ซิก พบ ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: RB Leipzig vs Eintracht Frankfurt</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012200000 +0700" stop="20261012220000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ สตุ๊ตการ์ท</title>
+    <title lang="en">RERUN: FC Bayern Munich vs VfB Stuttgart</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012220000 +0700" stop="20261012223000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: ช่วงเบรคทีมชาติ</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: International Break</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012223000 +0700" stop="20261012230000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 4</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261012230000 +0700" stop="20261013000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 22</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 22</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013000000 +0700" stop="20261013020000 +0700">
+    <title lang="th">รีรัน: ซังต์ เพาลี พบ คาร์ลสรูห์</title>
+    <title lang="en">RERUN: FC St. Pauli vs Karlsruher SC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013020000 +0700" stop="20261013030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 22</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 22</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013030000 +0700" stop="20261013050000 +0700">
+    <title lang="th">รีรัน: เนิร์นแบร์ก พบ โวล์ฟสบวร์ก</title>
+    <title lang="en">RERUN: 1. FC Nuernberg vs VfL Wolfsburg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013050000 +0700" stop="20261013060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 24</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 24</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013060000 +0700" stop="20261013063000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 2</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013063000 +0700" stop="20261013064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: เอลเวอร์สแบร์ก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: SV Elversberg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013064500 +0700" stop="20261013070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013070000 +0700" stop="20261013090000 +0700">
+    <title lang="th">รีรัน: สตุ๊ตการ์ท พบ โคโลญจน์</title>
+    <title lang="en">RERUN: VfB Stuttgart vs 1. FC Koeln</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013090000 +0700" stop="20261013110000 +0700">
+    <title lang="th">รีรัน: โบรุสเซีย ดอร์ทมุนด์ พบ พาเดอร์บอร์น 07</title>
+    <title lang="en">RERUN: Borussia Dortmund vs SC Paderborn 07</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013110000 +0700" stop="20261013120000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 3 - บุนเดสลีกา 2 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 3 - Bundesliga 2 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013120000 +0700" stop="20261013140000 +0700">
+    <title lang="th">รีรัน: ไอน์ทรัค แฟรงก์เฟิร์ต พบ ไฟรบวร์ก</title>
+    <title lang="en">RERUN: Eintracht Frankfurt vs SC Freiburg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013140000 +0700" stop="20261013160000 +0700">
+    <title lang="th">รีรัน: ไฮเดนไฮม์ พบ ไกเซอร์สเลาเทิร์น</title>
+    <title lang="en">RERUN: 1. FC Heidenheim vs 1. FC Kaiserslautern</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013160000 +0700" stop="20261013170000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 3</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013170000 +0700" stop="20261013180000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 3 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 3 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013180000 +0700" stop="20261013200000 +0700">
+    <title lang="th">รีรัน: เอาก์สบวร์ก พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: FC Augsburg vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013200000 +0700" stop="20261013220000 +0700">
+    <title lang="th">รีรัน: โคโลญจน์ พบ ฮอฟเฟนไฮม์</title>
+    <title lang="en">RERUN: 1. FC Koeln vs TSG 1899 Hoffenheim</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013220000 +0700" stop="20261013223000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล โชว์ 2026-27: ไมเคิล โอลิเซ่ - บาเยิน มิวนิค</title>
+    <title lang="en">RERUN: Bundesliga Special Show 2026-27: When the Game Speaks Michael Olise</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013223000 +0700" stop="20261013230000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 4</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261013230000 +0700" stop="20261014000000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 23</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 23</title>
+    <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002721" start="20261009000000 +0700" stop="20261010000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
