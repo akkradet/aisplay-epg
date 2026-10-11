@@ -255,6 +255,56 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
+  <channel id="ch0000000000100002091">
+    <display-name lang="th">เพลย์สปอร์ต 3</display-name>
+    <display-name lang="en">PLAY SPORTS 3</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134307018922.png"/>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name lang="th">เพลย์สปอร์ต 4</display-name>
+    <display-name lang="en">PLAY SPORTS 4</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134554018923.png"/>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name lang="th">เพลย์สปอร์ต 6</display-name>
+    <display-name lang="en">PLAY SPORTS 6</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name lang="th">เพลย์สปอร์ต 7</display-name>
+    <display-name lang="en">PLAY SPORTS 7</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141713018926.png"/>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name lang="th">เพลย์สปอร์ต 8</display-name>
+    <display-name lang="en">PLAY SPORTS 8</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141727018927.png"/>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name lang="th">เพลย์สปอร์ต 9</display-name>
+    <display-name lang="en">PLAY SPORTS 9</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141740018928.png"/>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name lang="th">เพลย์สปอร์ต 23</display-name>
+    <display-name lang="en">PLAY SPORTS 23</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163527022540.png"/>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name lang="th">เพลย์สปอร์ต 24</display-name>
+    <display-name lang="en">PLAY SPORTS 24</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163543022541.png"/>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name lang="th">เพลย์สปอร์ต 25</display-name>
+    <display-name lang="en">PLAY SPORTS 25</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163557022542.png"/>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name lang="th">เพลย์สปอร์ต 26</display-name>
+    <display-name lang="en">PLAY SPORTS 26</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163611022543.png"/>
+  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -354,6 +404,21 @@
     <display-name lang="th">เพลย์สปอร์ต 90</display-name>
     <display-name lang="en">PLAY SPORTS 90</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png"/>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name lang="th">เพลย์สปอร์ต 91</display-name>
+    <display-name lang="en">PLAY SPORTS 91</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134749064630.png"/>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
+    <display-name lang="en">PLAY SPORTS 95</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name lang="th">เพลย์สปอร์ต 96</display-name>
+    <display-name lang="en">PLAY SPORTS 96</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134957064655.png"/>
   </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
@@ -455,203 +520,164 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
   <channel id="ch0000000000100002584">
     <display-name>ch0000000000100002584</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002441">
-    <display-name>ch0000000000100002441</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
   <channel id="ch0000000000100001283">
     <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
   </channel>
   <channel id="ch0000000000100001361">
     <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
   <channel id="ch0000000000100002535">
     <display-name>ch0000000000100002535</display-name>
   </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002441">
+    <display-name>ch0000000000100002441</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261009224500 +0700" stop="20261010004500 +0700">
     <title>Chocolat</title>
@@ -52832,21 +52858,21 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002091" start="20261011000000 +0700" stop="20261011180000 +0700">
-    <title lang="th">เริ่มเวลา 18.00 น. ลำพูน วอริเออร์ พบ ทรู แบงค็อก</title>
-    <title lang="en">Kick Off 6PM: Lamphun Warriors vs True Bangkok United</title>
+    <title lang="th">เริ่มเวลา 18:00 ลำพูน วอริเออร์ พบ ทรู แบงค็อก (T1 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 18:00 Lamphun Warriors vs True Bangkok (T1 - Matchday 4)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002091" start="20261011180000 +0700" stop="20261011200000 +0700">
-    <title lang="th">LIVE: ลำพูน วอริเออร์ พบ ทรู แบงค็อก ยูไนเต็ด (T1 - สัปดาห์ที่ 4)</title>
-    <title lang="en">LIVE: Lamphun Warriors vs True Bangkok United (T1 - Matchday 4)</title>
+    <title lang="th">LIVE: ลำพูน วอริเออร์ พบ ทรู แบงค็อก (T1 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Lamphun Warriors vs True Bangkok (T1 - Matchday 4)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002091" start="20261011200000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002091" start="20261011200000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002091" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002091" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -52866,22 +52892,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002092" start="20261011000000 +0700" stop="20261011180000 +0700">
-    <title lang="th">เริ่มเวลา 18.30 น. ศรีสะเกษ พบ ชลบุรี</title>
-    <title lang="en">Kick Off 6.30PM: Sisaket vs Chonburi</title>
+  <programme channel="ch0000000000100002092" start="20261011000000 +0700" stop="20261011183000 +0700">
+    <title lang="th">เริ่มเวลา 18:30 ศรีสะเกษ พบ ชลบุรี (T1 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 18:30 Sisaket vs Chonburi (T1 - Matchday 4)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002092" start="20261011183000 +0700" stop="20261011200000 +0700">
-    <title lang="th">LIVE: ศรีสะเกษ ยูไนเต็ด พบ ชลบุรี เอฟซี (T1 - สัปดาห์ที่ 4)</title>
-    <title lang="en">LIVE: Sisaket United vs Chonburi FC (T1 - Matchday 4)</title>
+  <programme channel="ch0000000000100002092" start="20261011183000 +0700" stop="20261011203000 +0700">
+    <title lang="th">LIVE: ศรีสะเกษ พบ ชลบุรี (T1 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Sisaket vs Chonburi (T1 - Matchday 4)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002092" start="20261011203000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002092" start="20261011203000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002092" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002092" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -52912,21 +52938,21 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002094" start="20261011000000 +0700" stop="20261011180000 +0700">
-    <title lang="th">เริ่มเวลา 18.00 มหาสารคาม ซีซี พบ อุตรดิตถ์</title>
-    <title lang="en">Kick Off 18.00 Mahasarakham CC vs Uttaradit</title>
+    <title lang="th">เริ่มเวลา 18:00 มหาสารคาม ซีซี พบ อุตรดิตถ์ (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">Kick Off 18:00 Mahasarakham CC vs Uttaradit (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002094" start="20261011180000 +0700" stop="20261011200000 +0700">
-    <title lang="th">LIVE: มหาสารคาม ซีซี เอฟซี พบ อุตรดิตถ์ เอฟซี (T2 - สัปดาห์ที่ 5)</title>
-    <title lang="en">LIVE: Mahasarakham CC vs Uttaradit FC (T2 - Matchday 5)</title>
+    <title lang="th">LIVE: มหาสารคาม ซีซี พบ อุตรดิตถ์ (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">LIVE: Mahasarakham CC vs Uttaradit (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261011200000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002094" start="20261011200000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002094" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -52967,21 +52993,21 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002095" start="20261011000000 +0700" stop="20261011180000 +0700">
-    <title lang="th">เริ่มเวลา 18.00 พีที สตูล พบ ขอนแก่น</title>
-    <title lang="en">Kick Off 6PM: PT Satun FC vs Khon Kaen United</title>
+    <title lang="th">เริ่มเวลา 18:00 พีที สตูล พบ ขอนแก่น ยูไนเต็ด (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">Kick Off 18:00 PT Satun vs Khonkaen United (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002095" start="20261011180000 +0700" stop="20261011200000 +0700">
-    <title lang="th">LIVE: พีที สตูล เอฟซี พบ ขอนแก่น ยูไนเต็ด (T2 - สัปดาห์ที่ 5)</title>
-    <title lang="en">LIVE: PT Satun FC vs Khon Kaen United (T2 - Matchday 5)</title>
+    <title lang="th">LIVE: พีที สตูล พบ ขอนแก่น ยูไนเต็ด (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">LIVE: PT Satun vs Khonkaen United (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261011200000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002095" start="20261011200000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002095" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53022,21 +53048,21 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002096" start="20261011000000 +0700" stop="20261011183000 +0700">
-    <title lang="th">เริ่มเวลา 18.30 ชัยนาท ฮอร์นบิล พบ สงขลา</title>
-    <title lang="en">Kick Off 6.30PM: Chainat Hornbill vs Songkhla</title>
+    <title lang="th">เริ่มเวลา 18:30 ชัยนาท ฮอร์นบิล พบ สงขลา (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">Kick Off 18:30 Chainat Hornbill vs Songkhla (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002096" start="20261011183000 +0700" stop="20261011203000 +0700">
-    <title lang="th">LIVE: ชัยนาท ฮอร์นบิล พบ สงขลา เอฟซี (T2 - สัปดาห์ที่ 5)</title>
-    <title lang="en">LIVE: Chainat Hornbill FC vs Songkhla FC (T2 - Matchday5)</title>
+    <title lang="th">LIVE: ชัยนาท ฮอร์นบิล พบ สงขลา (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">LIVE: Chainat Hornbill vs Songkhla (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002096" start="20261011203000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002096" start="20261011203000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002096" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002096" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -53077,21 +53103,21 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002097" start="20261011000000 +0700" stop="20261011190000 +0700">
-    <title lang="th">เริ่มเวลา 19.00 น. จันทบุรี พบ หนองบัว พิชญ</title>
-    <title lang="en">Kick Off 7PM: Chanthaburi vs Nongbua Pitchaya</title>
+    <title lang="th">เริ่มเวลา 19:00 จันทบุรี พบ หนองบัว พิชญ (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">Kick Off 19:00 Chanthaburi vs Nongbua Pitchaya (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002097" start="20261011190000 +0700" stop="20261011210000 +0700">
-    <title lang="th">LIVE: จันทบุรี เอฟซี พบ หนองบัว พิชญ เอฟซี (T2 - สัปดาห์ที่ 5)</title>
-    <title lang="en">LIVE: Chanthaburi FC vs Nongbua Pitchaya FC (T2 - Matchday5)</title>
+    <title lang="th">LIVE: จันทบุรี พบ หนองบัว พิชญ (T2 - สัปดาห์ที่ 5)</title>
+    <title lang="en">LIVE: Chanthaburi vs Nongbua Pitchaya (T2 - Matchday 5)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002097" start="20261011210000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002097" start="20261011210000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002097" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002097" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -54884,22 +54910,32 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002311" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002311" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 ชาติตระการ พบ สิงห์ เชียงราย ซิตี้ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Chattrakan vs Singha Chiangrai City (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: ชาติตระการ พบ สิงห์ เชียงราย ซิตี้ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Chattrakan vs Singha Chiangrai City (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002311" start="20261012000000 +0700" stop="20261012153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 น. โคราช พบ ยโสธร</title>
-    <title lang="en">Kick Off 3.30PM: Korat City vs Yasothon FC</title>
+    <title lang="th">เริ่มเวลา 15:30 โคราช พบ ยโสธร (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Korat vs Yasothon (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002311" start="20261012153000 +0700" stop="20261012173000 +0700">
-    <title lang="th">LIVE: โคราช ซิตี้ พบ ยโสธร เอฟซี (T3 - สัปดาห์ที่ 4)</title>
-    <title lang="en">LIVE: Korat City vs Yasothon FC (T3 - Matchday 4)</title>
+    <title lang="th">LIVE: โคราช พบ ยโสธร (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Korat vs Yasothon (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002311" start="20261012173000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002311" start="20261012173000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -54926,19 +54962,23 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002312" start="20261011000000 +0700" stop="20261011153000 +0700">
-    <title>Kick Off 3.30PM: Thailand National Sports University Lampang Campus vs Phitsanulok</title>
+    <title lang="th">เริ่มเวลา 15:30 ม. การกีฬาแห่งชาติ ว. ลำปาง พบ พิษณุโลก (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Thailand National Sports University vs Phitsanulok (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002312" start="20261011153000 +0700" stop="20261011173000 +0700">
-    <title>LIVE: Thailand National Sports University Lampang Campus vs Phitsanulok FC (T3 - Matchday 4)</title>
+    <title lang="th">LIVE: ม. การกีฬาแห่งชาติ ว. ลำปาง พบ พิษณุโลก (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Thailand National Sports University vs Phitsanulok (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002312" start="20261011173000 +0700" stop="20261012000000 +0700">
-    <title>No Broadcast</title>
+  <programme channel="ch0000000000100002312" start="20261011173000 +0700" stop="20261011235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002312" start="20261012000000 +0700" stop="20261013000000 +0700">
-    <title>No Broadcast</title>
+  <programme channel="ch0000000000100002312" start="20261012000000 +0700" stop="20261012235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002312" start="20261013000000 +0700" stop="20261014000000 +0700">
@@ -54956,21 +54996,21 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261011000000 +0700" stop="20261011153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 น. อุดร พบ ม. การจัดการและเทคโนโลยีอีสเทิร์น</title>
-    <title lang="en">Kick Off 3.30PM: Udon vs The Eastern University of Management and Technology</title>
+    <title lang="th">เริ่มเวลา 15:30 อุดร พบ ม. การจัดการและเทคโนโลยีอีสเทิร์น (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Udon vs UMT (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261011153000 +0700" stop="20261011173000 +0700">
-    <title lang="th">LIVE: อุดร ยูไนเต็ด พบ ม. การจัดการและเทคโนโลยีอีสเทิร์น (T3 - สัปดาห์ที่ 4)</title>
-    <title lang="en">LIVE: Udon United vs The Eastern University of Management and Technology (T3 - Matchday 4)</title>
+    <title lang="th">LIVE: อุดร พบ ม. การจัดการและเทคโนโลยีอีสเทิร์น (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Udon vs UMT (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002313" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002313" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002313" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002313" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55000,12 +55040,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002314" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002314" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 สุรินทร์ พบ ขอนแก่น เอฟซี (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Surin vs Khonkaen FC (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002314" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: สุรินทร์ พบ ขอนแก่น เอฟซี (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Surin vs Khonkaen FC (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002314" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002314" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002314" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55035,12 +55085,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002321" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002321" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 นาวิกโยธิน พบ ฉะเชิงเทรา ไฮเทค (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Marines vs Chachoengsao Hi-Tek (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002321" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: นาวิกโยธิน พบ ฉะเชิงเทรา ไฮเทค (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Marines vs Chachoengsao Hi-Tek (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002321" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002321" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002321" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55070,12 +55130,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002322" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 สโมสรฟุตบอลราชนาวี พบ ปลวกแดง (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Navy vs Pluankdaeng (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002322" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: สโมสรฟุตบอลราชนาวี พบ ปลวกแดง (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Navy vs Pluankdaeng (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002322" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002322" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55105,12 +55175,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002323" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002323" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 ฟูเทร่า พบ สิงห์บุรี วอร์ริเออร์ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Futera vs Singburi Warriors (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002323" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: ฟูเทร่า พบ สิงห์บุรี วอร์ริเออร์ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Futera vs Singburi Warriors (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002323" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002323" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002323" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55140,12 +55220,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002324" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002324" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 บางกะปิ พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Bangkapi vs Kasembundit University (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002324" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: บางกะปิ พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Bangkapi vs Kasembundit University (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002324" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002324" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002324" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55175,12 +55265,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002325" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002325" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 สโมสรฟุตบอลราชประชา พบ เพชรบุรี พีบีอาร์ยู (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Rajphacha vs Phetchaburi PBRU (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002325" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: สโมสรฟุตบอลราชประชา พบ เพชรบุรี พีบีอาร์ยู (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Rajphacha vs Phetchaburi PBRU (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002325" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002325" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002325" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55211,21 +55311,21 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002326" start="20261011000000 +0700" stop="20261011153000 +0700">
-    <title lang="th">เริ่มเวลา 15.30 น. ธนบุรี พบ วีอาร์เอ็น เมืองนนท์</title>
-    <title lang="en">Kick Off 3.30PM: Thonburi vs VRN Muangnon</title>
+    <title lang="th">เริ่มเวลา 15:30 ธนบุรี พบ วีอาร์เอ็น เมืองนนท์ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Thonburi vs VRN Muangnon (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002326" start="20261011153000 +0700" stop="20261011173000 +0700">
-    <title lang="th">LIVE:  ธนบุรี ยูไนเต็ด พบ วีอาร์เอ็น เมืองนนท์ เอฟซี (T3 - สัปดาห์ที่ 4)</title>
-    <title lang="en">LIVE: Thonburi United vs VRN Muangnon FC (T3 - Matchday 4)</title>
+    <title lang="th">LIVE: ธนบุรี พบ วีอาร์เอ็น เมืองนนท์ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Thonburi vs VRN Muangnon (T3 - Matchday 4)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002326" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002326" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002326" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002326" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55245,12 +55345,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002327" start="20261011000000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002327" start="20261011000000 +0700" stop="20261011180000 +0700">
+    <title lang="th">เริ่มเวลา 18:00 แม่โจ้ พบ พิจิตร 2025 (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 18:00 Maejo vs Phichit 2025 (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002327" start="20261011180000 +0700" stop="20261011200000 +0700">
+    <title lang="th">LIVE: แม่โจ้ พบ พิจิตร 2025 (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Maejo vs Phichit 2025 (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002327" start="20261011200000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002327" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002327" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55270,12 +55380,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002328" start="20261011000000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002328" start="20261011000000 +0700" stop="20261011170000 +0700">
+    <title lang="th">เริ่มเวลา 17:00 อุบล ครัวนภัส พบ อีสาน ไฟท์เตอร์ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 17:00 Ubon Kruanapat vs Esan Fighter (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002328" start="20261011170000 +0700" stop="20261011190000 +0700">
+    <title lang="th">LIVE: อุบล ครัวนภัส พบ อีสาน ไฟท์เตอร์ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Ubon Kruanapat vs Esan Fighter (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002328" start="20261011190000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002328" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002328" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55295,12 +55415,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002329" start="20261011000000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002329" start="20261011000000 +0700" stop="20261011180000 +0700">
+    <title lang="th">เริ่มเวลา 18:00 เมืองตรัง พบ ระนอง พีเจ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 18:00 Muangtrang vs Ranong PJ (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002329" start="20261011180000 +0700" stop="20261011200000 +0700">
+    <title lang="th">LIVE: เมืองตรัง พบ ระนอง พีเจ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Muangtrang vs Ranong PJ (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002329" start="20261011200000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002329" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002329" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55320,12 +55450,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002330" start="20261011000000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002330" start="20261011000000 +0700" stop="20261011180000 +0700">
+    <title lang="th">เริ่มเวลา 18:00 ภูเก็ต อันดามัน พบ ชุมพร (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 18:00 Phuket Andaman vs Chumphon (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002330" start="20261011180000 +0700" stop="20261011200000 +0700">
+    <title lang="th">LIVE: ภูเก็ต อันดามัน พบ ชุมพร (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Phuket Andaman vs Chumphon (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002330" start="20261011200000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002330" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002330" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55355,12 +55495,22 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002331" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002331" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 ม. นอร์ทกรุงเทพ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 North Bangkok University vs Royal Thai Air Force (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002331" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: ม. นอร์ทกรุงเทพ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: North Bangkok University vs Royal Thai Air Force (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002331" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002331" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002331" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55387,12 +55537,22 @@
     <title>No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002341" start="20261011173000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002341" start="20261011000000 +0700" stop="20261011153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 หัวหิน พบ บางกอก (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">Kick Off 15:30 Huahin vs Bangkok FC (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002341" start="20261011153000 +0700" stop="20261011173000 +0700">
+    <title lang="th">LIVE: หัวหิน พบ บางกอก (T3 - สัปดาห์ที่ 4)</title>
+    <title lang="en">LIVE: Huahin vs Bangkok FC (T3 - Matchday 4)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002341" start="20261011173000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002341" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002341" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55412,12 +55572,12 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002351" start="20261011000000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002351" start="20261011000000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002351" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002351" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -55532,125 +55692,435 @@
     <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
     <category>NBA, Basketball</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011000000 +0700" stop="20261011030000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011000000 +0700" stop="20261011012000 +0700">
+    <title lang="th">รีรัน: RSI : Girl Team - THA vs IDN</title>
+    <title lang="en">RERUN: RSI : Girl Team - THA vs IDN</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011030000 +0700" stop="20261011060000 +0700">
-    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
-    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011012000 +0700" stop="20261011030000 +0700">
+    <title lang="th">รีรัน: RSI : Boy Team - PHI vs THA</title>
+    <title lang="en">RERUN: RSI : Boy Team - PHI vs THA</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011060000 +0700" stop="20261011090000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011030000 +0700" stop="20261011041000 +0700">
+    <title lang="th">รีรัน: NBA Special : MLK Virtual Roundtable</title>
+    <title lang="en">RERUN: NBA Special : MLK Virtual Roundtable</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011090000 +0700" stop="20261011120000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011041000 +0700" stop="20261011050000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Muggsy Bogues</title>
+    <title lang="en">RERUN: NBA_Spot : Muggsy Bogues</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011120000 +0700" stop="20261011150000 +0700">
-    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
-    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011050000 +0700" stop="20261011053000 +0700">
+    <title lang="th">รีรัน: NBA Special : Stephen Curry: The Art of 3</title>
+    <title lang="en">RERUN: NBA Special : Stephen Curry: The Art of 3</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011150000 +0700" stop="20261011180000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011053000 +0700" stop="20261011060000 +0700">
+    <title lang="th">รีรัน: NBA Special : Muggsy Bogues: Always Believe</title>
+    <title lang="en">RERUN: NBA Special : Muggsy Bogues: Always Believe</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011180000 +0700" stop="20261011210000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011060000 +0700" stop="20261011070000 +0700">
+    <title lang="th">รีรัน: NBA Special : Donovan's Keys to the Game</title>
+    <title lang="en">RERUN: NBA Special : Donovan's Keys to the Game</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261011210000 +0700" stop="20261012000000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011070000 +0700" stop="20261011073000 +0700">
+    <title lang="th">รีรัน: Legends : Derek Fisher</title>
+    <title lang="en">RERUN: Legends : Derek Fisher</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012000000 +0700" stop="20261012030000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011073000 +0700" stop="20261011080000 +0700">
+    <title lang="th">รีรัน: 2025 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2025 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012030000 +0700" stop="20261012060000 +0700">
-    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
-    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011080000 +0700" stop="20261011083000 +0700">
+    <title lang="th">รีรัน: 2025 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2025 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012060000 +0700" stop="20261012090000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011083000 +0700" stop="20261011090000 +0700">
+    <title lang="th">รีรัน: 2025 NBA Finals Film Room, Game 3</title>
+    <title lang="en">RERUN: 2025 NBA Finals Film Room, Game 3</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012090000 +0700" stop="20261012120000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011090000 +0700" stop="20261011093000 +0700">
+    <title lang="th">รีรัน: 2025 NBA Finals Film Room, Game 4</title>
+    <title lang="en">RERUN: 2025 NBA Finals Film Room, Game 4</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012120000 +0700" stop="20261012150000 +0700">
-    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
-    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011093000 +0700" stop="20261011100000 +0700">
+    <title lang="th">รีรัน: 2025 NBA Finals Film Room, Game 5</title>
+    <title lang="en">RERUN: 2025 NBA Finals Film Room, Game 5</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012150000 +0700" stop="20261012180000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011100000 +0700" stop="20261011103000 +0700">
+    <title lang="th">รีรัน: 2025 NBA Finals Film Room, Game 6</title>
+    <title lang="en">RERUN: 2025 NBA Finals Film Room, Game 6</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012180000 +0700" stop="20261012210000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011103000 +0700" stop="20261011110000 +0700">
+    <title lang="th">รีรัน: 2025 NBA Finals Film Room, Game 7</title>
+    <title lang="en">RERUN: 2025 NBA Finals Film Room, Game 7</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261012210000 +0700" stop="20261013000000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011110000 +0700" stop="20261011130000 +0700">
+    <title lang="th">รีรัน: ฮิวสตัน ร็อกเก็ตส์ พบ ดัลลัส แมฟเวอริกส์</title>
+    <title lang="en">RERUN: Houston Rockets vs Dallas Mavericks</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013000000 +0700" stop="20261013030000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011130000 +0700" stop="20261011133000 +0700">
+    <title lang="th">รีรัน: NBA TV Film Room 2022-23 #2</title>
+    <title lang="en">RERUN: NBA TV Film Room 2022-23 #2</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013030000 +0700" stop="20261013060000 +0700">
-    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
-    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011133000 +0700" stop="20261011140000 +0700">
+    <title lang="th">รีรัน: NBA TV Film Room 2022-23 #3</title>
+    <title lang="en">RERUN: NBA TV Film Room 2022-23 #3</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013060000 +0700" stop="20261013090000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011140000 +0700" stop="20261011143000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
+    <title lang="en">RERUN: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013090000 +0700" stop="20261013120000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011143000 +0700" stop="20261011150000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Kobe Bryant, James Harden &amp; Willis Reed</title>
+    <title lang="en">RERUN: 75 Stories: Kobe Bryant, James Harden &amp; Willis Reed</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013120000 +0700" stop="20261013150000 +0700">
-    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ ฟีนิกซ์ ซันส์</title>
-    <title lang="en">RERUN: Brooklyn Nets vs Phoenix Suns</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011150000 +0700" stop="20261011153000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Kevin Garnett, Tim Duncan &amp; Kawhi Leonard</title>
+    <title lang="en">RERUN: 75 Stories: Kevin Garnett, Tim Duncan &amp; Kawhi Leonard</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013150000 +0700" stop="20261013180000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011153000 +0700" stop="20261011160000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
+    <title lang="en">RERUN: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013180000 +0700" stop="20261013210000 +0700">
-    <title lang="th">รีรัน: ลอสแอนเจลิส เลเกอร์ส พบ โกลเดน สเตท วอริเออร์ส</title>
-    <title lang="en">RERUN: Los Angeles Lakers vs Golden State Warriors</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011160000 +0700" stop="20261011163000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Isiah Thomas, Chris Paul, Nate "Tiny" Archibald &amp; Russell Westbrook</title>
+    <title lang="en">RERUN: 75 Stories: Isiah Thomas, Chris Paul, Nate "Tiny" Archibald &amp; Russell Westbrook</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002401" start="20261013210000 +0700" stop="20261014000000 +0700">
-    <title lang="th">รีรัน: ฟีนิกซ์ ซันส์ พบ บรูคลิน เน็ตส์</title>
-    <title lang="en">RERUN: Phoenix Suns vs Brooklyn Nets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261011163000 +0700" stop="20261011170000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Bill Russell, Bill Walton, Bob Petit &amp; Robert Parish</title>
+    <title lang="en">RERUN: 75 Stories: Bill Russell, Bill Walton, Bob Petit &amp; Robert Parish</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261011170000 +0700" stop="20261011200000 +0700">
+    <title lang="th">LIVE: ดัลลัส แมฟเวอริกส์ พบ ฮิวสตัน ร็อกเก็ตส์</title>
+    <title lang="en">LIVE: Dallas Mavericks vs Houston Rockets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261011200000 +0700" stop="20261011230000 +0700">
+    <title lang="th">รีรัน: ฮิวสตัน ร็อกเก็ตส์ พบ ดัลลัส แมฟเวอริกส์</title>
+    <title lang="en">RERUN: Houston Rockets vs Dallas Mavericks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261011230000 +0700" stop="20261011233000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Larry Bird, Reggie Miller &amp; David Cowens</title>
+    <title lang="en">RERUN: 75 Stories: Larry Bird, Reggie Miller &amp; David Cowens</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261011233000 +0700" stop="20261012000000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Michael Jordan, Kevin Durant &amp; Jerry West</title>
+    <title lang="en">RERUN: 75 Stories: Michael Jordan, Kevin Durant &amp; Jerry West</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012000000 +0700" stop="20261012003000 +0700">
+    <title lang="th">รีรัน: 75 Stories: LeBron James, Magic Johnson &amp; Oscar Robertson</title>
+    <title lang="en">RERUN: 75 Stories: LeBron James, Magic Johnson &amp; Oscar Robertson</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012003000 +0700" stop="20261012010000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Stephen Curry, Steve Nash, Bob Cousy &amp; Gary Payton</title>
+    <title lang="en">RERUN: 75 Stories: Stephen Curry, Steve Nash, Bob Cousy &amp; Gary Payton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012010000 +0700" stop="20261012013000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Tim Duncan, Dirk Nowitzki, Karl Malone, Patrick Ewing &amp; Kevin McHale</title>
+    <title lang="en">RERUN: 75 Stories: Tim Duncan, Dirk Nowitzki, Karl Malone, Patrick Ewing &amp; Kevin McHale</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012013000 +0700" stop="20261012020000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Kareem Abdul-Jabbar, George Mikan &amp; Bob McAdoo</title>
+    <title lang="en">RERUN: 75 Stories: Kareem Abdul-Jabbar, George Mikan &amp; Bob McAdoo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012020000 +0700" stop="20261012023000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Bill Russell, Bill Walton, Bob Petit &amp; Robert Parish</title>
+    <title lang="en">RERUN: 75 Stories: Bill Russell, Bill Walton, Bob Petit &amp; Robert Parish</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012023000 +0700" stop="20261012025000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Elgin Baylor, Billy Cunningham, John Havlicek, Paul Airzin &amp; Dolph Schayes</title>
+    <title lang="en">RERUN: 75 Stories: Elgin Baylor, Billy Cunningham, John Havlicek, Paul Airzin &amp; Dolph Schayes</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012025000 +0700" stop="20261012040000 +0700">
+    <title lang="th">รีรัน: Chasing History: 2025 NBA Finals Movie</title>
+    <title lang="en">RERUN: Chasing History: 2025 NBA Finals Movie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012040000 +0700" stop="20261012051000 +0700">
+    <title lang="th">รีรัน: NBA Special : MLK Virtual Roundtable</title>
+    <title lang="en">RERUN: NBA Special : MLK Virtual Roundtable</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012051000 +0700" stop="20261012054000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Muggsy Bogues</title>
+    <title lang="en">RERUN: NBA_Spot : Muggsy Bogues</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012054000 +0700" stop="20261012061000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Ray Allen</title>
+    <title lang="en">RERUN: NBA_Spot : Ray Allen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012061000 +0700" stop="20261012064500 +0700">
+    <title lang="th">รีรัน: Legends : Derek Fisher</title>
+    <title lang="en">RERUN: Legends : Derek Fisher</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012064500 +0700" stop="20261012070000 +0700">
+    <title lang="th">รีรัน: Legends : Chris Bosh</title>
+    <title lang="en">RERUN: Legends : Chris Bosh</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012070000 +0700" stop="20261012081500 +0700">
+    <title lang="th">รีรัน: NBA Special : NBA 75: The Celebration</title>
+    <title lang="en">RERUN: NBA Special : NBA 75: The Celebration</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012081500 +0700" stop="20261012084000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Ray Allen</title>
+    <title lang="en">RERUN: NBA_Spot : Ray Allen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012084000 +0700" stop="20261012090000 +0700">
+    <title lang="th">รีรัน: PlayerDoc : Sit Down with Sue Bird</title>
+    <title lang="en">RERUN: PlayerDoc : Sit Down with Sue Bird</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012090000 +0700" stop="20261012113000 +0700">
+    <title lang="th">รีรัน: ดัลลัส แมฟเวอริกส์ พบ ฮิวสตัน ร็อกเก็ตส์</title>
+    <title lang="en">RERUN: Dallas Mavericks vs Houston Rockets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012113000 +0700" stop="20261012130000 +0700">
+    <title lang="th">รีรัน: RSI : Boy Team - PHI vs THA</title>
+    <title lang="en">RERUN: RSI : Boy Team - PHI vs THA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012130000 +0700" stop="20261012140000 +0700">
+    <title lang="th">รีรัน: Chasing History: 2024 NBA Finals Mini Movie</title>
+    <title lang="en">RERUN: Chasing History: 2024 NBA Finals Mini Movie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012140000 +0700" stop="20261012150000 +0700">
+    <title lang="th">รีรัน: Open Court: HBCU Coaches</title>
+    <title lang="en">RERUN: Open Court: HBCU Coaches</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012150000 +0700" stop="20261012153000 +0700">
+    <title lang="th">รีรัน: Open Court: The Evolution of the Game #1</title>
+    <title lang="en">RERUN: Open Court: The Evolution of the Game #1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012153000 +0700" stop="20261012160000 +0700">
+    <title lang="th">รีรัน: Open Court: The Evolution of the Game #2</title>
+    <title lang="en">RERUN: Open Court: The Evolution of the Game #2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012160000 +0700" stop="20261012163000 +0700">
+    <title lang="th">รีรัน: Open Court: The Evolution of the Game #3</title>
+    <title lang="en">RERUN: Open Court: The Evolution of the Game #3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012163000 +0700" stop="20261012170000 +0700">
+    <title lang="th">รีรัน: PlayerDoc : Josh Giddey Road to the NBA</title>
+    <title lang="en">RERUN: PlayerDoc : Josh Giddey Road to the NBA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012170000 +0700" stop="20261012193000 +0700">
+    <title lang="th">รีรัน: ฮิวสตัน ร็อกเก็ตส์ พบ ดัลลัส แมฟเวอริกส์</title>
+    <title lang="en">RERUN: Houston Rockets vs Dallas Mavericks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012193000 +0700" stop="20261012220000 +0700">
+    <title lang="th">รีรัน: ดัลลัส แมฟเวอริกส์ พบ ฮิวสตัน ร็อกเก็ตส์</title>
+    <title lang="en">RERUN: Dallas Mavericks vs Houston Rockets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012220000 +0700" stop="20261012223000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Paul Pierce, Sam Jones, Bill Sharman &amp; Ray Allen</title>
+    <title lang="en">RERUN: 75 Stories: Paul Pierce, Sam Jones, Bill Sharman &amp; Ray Allen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012223000 +0700" stop="20261012230000 +0700">
+    <title lang="th">รีรัน: 75 Stories: John Stockton, Pete Maravich &amp; Lenny Wilkens</title>
+    <title lang="en">RERUN: 75 Stories: John Stockton, Pete Maravich &amp; Lenny Wilkens</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012230000 +0700" stop="20261012233000 +0700">
+    <title lang="th">รีรัน: Legends : Derek Fisher</title>
+    <title lang="en">RERUN: Legends : Derek Fisher</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261012233000 +0700" stop="20261013000000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Allen Iverson, Damian Lillard &amp; Jerry Lucas</title>
+    <title lang="en">RERUN: 75 Stories: Allen Iverson, Damian Lillard &amp; Jerry Lucas</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013000000 +0700" stop="20261013012000 +0700">
+    <title lang="th">รีรัน: RSI : Girl Team - THA vs IDN</title>
+    <title lang="en">RERUN: RSI : Girl Team - THA vs IDN</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013012000 +0700" stop="20261013020000 +0700">
+    <title lang="th">รีรัน: NBA Special : Great Debate with Charles Barkley</title>
+    <title lang="en">RERUN: NBA Special : Great Debate with Charles Barkley</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013020000 +0700" stop="20261013030000 +0700">
+    <title lang="th">รีรัน: NBA Special : Donovan's Keys to the Game</title>
+    <title lang="en">RERUN: NBA Special : Donovan's Keys to the Game</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013030000 +0700" stop="20261013041000 +0700">
+    <title lang="th">รีรัน: NBA Special : MLK Virtual Roundtable</title>
+    <title lang="en">RERUN: NBA Special : MLK Virtual Roundtable</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013041000 +0700" stop="20261013050000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Muggsy Bogues</title>
+    <title lang="en">RERUN: NBA_Spot : Muggsy Bogues</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013050000 +0700" stop="20261013053000 +0700">
+    <title lang="th">รีรัน: NBA Special : Stephen Curry: The Art of 3</title>
+    <title lang="en">RERUN: NBA Special : Stephen Curry: The Art of 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013053000 +0700" stop="20261013060000 +0700">
+    <title lang="th">รีรัน: NBA Special : Muggsy Bogues: Always Believe</title>
+    <title lang="en">RERUN: NBA Special : Muggsy Bogues: Always Believe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013060000 +0700" stop="20261013070000 +0700">
+    <title lang="th">รีรัน: NBA Special : Donovan's Keys to the Game</title>
+    <title lang="en">RERUN: NBA Special : Donovan's Keys to the Game</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013070000 +0700" stop="20261013073000 +0700">
+    <title lang="th">รีรัน: Legends : Derek Fisher</title>
+    <title lang="en">RERUN: Legends : Derek Fisher</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013073000 +0700" stop="20261013080000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013080000 +0700" stop="20261013083000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013083000 +0700" stop="20261013090000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 3</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013090000 +0700" stop="20261013093000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 4</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013093000 +0700" stop="20261013100000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 5</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013100000 +0700" stop="20261013103000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013103000 +0700" stop="20261013110000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013110000 +0700" stop="20261013130000 +0700">
+    <title lang="th">รีรัน: ฮิวสตัน ร็อกเก็ตส์ พบ ดัลลัส แมฟเวอริกส์</title>
+    <title lang="en">RERUN: Houston Rockets vs Dallas Mavericks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013130000 +0700" stop="20261013133000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 3</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013133000 +0700" stop="20261013140000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 4</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013140000 +0700" stop="20261013143000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 5</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013143000 +0700" stop="20261013150000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
+    <title lang="en">RERUN: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013150000 +0700" stop="20261013153000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Allen Iverson, Damian Lillard &amp; Jerry Lucas</title>
+    <title lang="en">RERUN: 75 Stories: Allen Iverson, Damian Lillard &amp; Jerry Lucas</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013153000 +0700" stop="20261013160000 +0700">
+    <title lang="th">รีรัน: 75 Stories: John Stockton, Pete Maravich &amp; Lenny Wilkens</title>
+    <title lang="en">RERUN: 75 Stories: John Stockton, Pete Maravich &amp; Lenny Wilkens</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013160000 +0700" stop="20261013163000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Washington Wizards</title>
+    <title lang="en">RERUN: NBA_Spot : Washington Wizards</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013163000 +0700" stop="20261013170000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Golden State Warriors</title>
+    <title lang="en">RERUN: NBA_Spot : Golden State Warriors</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013170000 +0700" stop="20261013200000 +0700">
+    <title lang="th">รีรัน: ดัลลัส แมฟเวอริกส์ พบ ฮิวสตัน ร็อกเก็ตส์</title>
+    <title lang="en">RERUN: Dallas Mavericks vs Houston Rockets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013200000 +0700" stop="20261013230000 +0700">
+    <title lang="th">รีรัน: ฮิวสตัน ร็อกเก็ตส์ พบ ดัลลัส แมฟเวอริกส์</title>
+    <title lang="en">RERUN: Houston Rockets vs Dallas Mavericks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013230000 +0700" stop="20261013233000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Larry Bird, Reggie Miller &amp; David Cowens</title>
+    <title lang="en">RERUN: 75 Stories: Larry Bird, Reggie Miller &amp; David Cowens</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261013233000 +0700" stop="20261014000000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Michael Jordan, Kevin Durant &amp; Jerry West</title>
+    <title lang="en">RERUN: 75 Stories: Michael Jordan, Kevin Durant &amp; Jerry West</title>
+    <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002403" start="20261009000000 +0700" stop="20261010000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -55717,12 +56187,12 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002471" start="20261011000000 +0700" stop="20261012000000 +0700">
+  <programme channel="ch0000000000100002471" start="20261011000000 +0700" stop="20261011235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002471" start="20261012000000 +0700" stop="20261013000000 +0700">
+  <programme channel="ch0000000000100002471" start="20261012000000 +0700" stop="20261012235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -56410,6 +56880,281 @@
     <title lang="en">RERUN: Lotte Championship Final</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002528" start="20261009190000 +0700" stop="20261010000000 +0700">
+    <title lang="th">LIVE: โอเพ่น เด เอสปันญา รอบ 2</title>
+    <title lang="en">LIVE: Open de Espana presented by Madrid Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010000000 +0700" stop="20261010002000 +0700">
+    <title lang="th">แอมเจน ไอริช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Amgen Irish Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010002000 +0700" stop="20261010052000 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบแรก</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010052000 +0700" stop="20261010054500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010054500 +0700" stop="20261010061500 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FedEx Open de France Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010061500 +0700" stop="20261010111500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 2</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010111500 +0700" stop="20261010114500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010114500 +0700" stop="20261010121000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010121000 +0700" stop="20261010171000 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 2</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010171000 +0700" stop="20261010173000 +0700">
+    <title lang="th">แอมเจน ไอริช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Amgen Irish Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010173000 +0700" stop="20261010180000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบแรก</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010180000 +0700" stop="20261010183000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 2</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010183000 +0700" stop="20261010230000 +0700">
+    <title lang="th">LIVE: โอเพ่น เด เอสปันญา รอบ 3</title>
+    <title lang="en">LIVE: Open de Espana presented by Madrid Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010230000 +0700" stop="20261010232000 +0700">
+    <title lang="th">โอเมก้า ยูโรเปียน มาสเตอร์ส ไฮไลต์ รอบ 3</title>
+    <title lang="en">Omega European Masters Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010232000 +0700" stop="20261010234500 +0700">
+    <title lang="th">โอเมก้า ยูโรเปียน มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Omega European Masters Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261010234500 +0700" stop="20261011000500 +0700">
+    <title lang="th">แอมเจน ไอริช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Amgen Irish Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011000500 +0700" stop="20261011050500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 2</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011050500 +0700" stop="20261011053000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011053000 +0700" stop="20261011060500 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 2</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011060500 +0700" stop="20261011103500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 3</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011103500 +0700" stop="20261011110000 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Danish Golf Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011110000 +0700" stop="20261011112500 +0700">
+    <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Nexo Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011112500 +0700" stop="20261011115500 +0700">
+    <title lang="th">ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Husqvarna British Masters hosted by Sir Nick Faldo Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011115500 +0700" stop="20261011162500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 3</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011162500 +0700" stop="20261011165500 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FedEx Open de France Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011165500 +0700" stop="20261011173000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011173000 +0700" stop="20261011223000 +0700">
+    <title lang="th">LIVE: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">LIVE: Open de Espana presented by Madrid Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011223000 +0700" stop="20261011230000 +0700">
+    <title lang="th">โอเพ่น ดิ อิตาเลีย ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open d'Italia Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011230000 +0700" stop="20261011233000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011233000 +0700" stop="20261011235500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW International Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261011235500 +0700" stop="20261012042500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 3</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012042500 +0700" stop="20261012044500 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">FedEx Open de France Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012044500 +0700" stop="20261012051000 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FedEx Open de France Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012051000 +0700" stop="20261012053000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012053000 +0700" stop="20261012055500 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012055500 +0700" stop="20261012112500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012112500 +0700" stop="20261012115000 +0700">
+    <title lang="th">โอเมก้า ยูโรเปียน มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Omega European Masters Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012115000 +0700" stop="20261012122000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 3</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012122000 +0700" stop="20261012175000 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012175000 +0700" stop="20261012181000 +0700">
+    <title lang="th">แอมเจน ไอริช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Amgen Irish Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012181000 +0700" stop="20261012183500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261012183500 +0700" stop="20261013000500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013000500 +0700" stop="20261013003500 +0700">
+    <title lang="th">บาห์เรน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Bahrain Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013003500 +0700" stop="20261013010000 +0700">
+    <title lang="th">กาตาร์ มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Qatar Masters Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013010000 +0700" stop="20261013063000 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013063000 +0700" stop="20261013070000 +0700">
+    <title lang="th">แมจิคัล เคนยา โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Magical Kenya Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013070000 +0700" stop="20261013073000 +0700">
+    <title lang="th">อินเวสเทค เซาท์ แอฟริกัน โอเพ่น แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Investec South African Open Championship Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013073000 +0700" stop="20261013120000 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 3</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013120000 +0700" stop="20261013122000 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Joburg Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013122000 +0700" stop="20261013124500 +0700">
+    <title lang="th">โจเบิร์ก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Joburg Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013124500 +0700" stop="20261013181500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013181500 +0700" stop="20261013184000 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">Hero Indian Open Highlights Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013184000 +0700" stop="20261013190500 +0700">
+    <title lang="th">ฮีโร่ อินเดียน โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Hero Indian Open Highlights Final</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013190500 +0700" stop="20261013233500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบ 3</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Round 3</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261013233500 +0700" stop="20261014000000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
+    <category>Sports</category>
+  </programme>
   <programme channel="ch0000000000100002530" start="20261009220000 +0700" stop="20261010000000 +0700">
     <title lang="th">รีรัน: รอบ 128: คาเมรอน นอร์รี พบ ดาลิบอร์ สเวอร์ชินา</title>
     <title lang="en">RERUN: R128: Cameron Norrie vs Dalibor Svrcina</title>
@@ -56431,8 +57176,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010010000 +0700" stop="20261010030000 +0700">
-    <title lang="th">รีรัน: รอบ 64: อาเดรียน มังนาริโน พบ ฟลาวิโอ โคบอลลี</title>
-    <title lang="en">RERUN: R64: Adrian Mannarino vs Flavio Cobolli</title>
+    <title lang="th">รีรัน: รอบ 64: อเล็กซานเดอร์ ซเวเรฟ พบ อู๋ อี้ปิ่ง</title>
+    <title lang="en">RERUN: R64: Alexander Zverev vs Yibing Wu</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010030000 +0700" stop="20261010032000 +0700">
@@ -56471,13 +57216,13 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010070000 +0700" stop="20261010090000 +0700">
-    <title lang="th">รีรัน: รอบ 64: เรอิ ซากาโมโตะ พบ อันเดร รูเบลฟ</title>
-    <title lang="en">RERUN: R64: Rei Sakamoto vs Andrey Rublev</title>
+    <title lang="th">รีรัน: รอบ 64: อเล็กซานเดอร์ ซเวเรฟ พบ อู๋ อี้ปิ่ง</title>
+    <title lang="en">RERUN: R64: Alexander Zverev vs Yibing Wu</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010090000 +0700" stop="20261010093000 +0700">
-    <title lang="th">ATP Tour This Week ตอนที่ 25</title>
-    <title lang="en">ATP Tour This Week Episode 25</title>
+    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 25</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 25</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010093000 +0700" stop="20261010095000 +0700">
@@ -56496,12 +57241,13 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010103000 +0700" stop="20261010110000 +0700">
-    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 26</title>
+    <title lang="th">รีรัน: เอทีพี ทัวร์ ดิส วีค ตอนที่ 26</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 26</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010110000 +0700" stop="20261010210000 +0700">
-    <title>LIVE: Rolex Shanghai Masters Day 4</title>
+    <title lang="th">LIVE: โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4</title>
+    <title lang="en">LIVE: Rolex Shanghai Masters Day 4</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261010210000 +0700" stop="20261010212000 +0700">
@@ -56524,14 +57270,9 @@
     <title lang="en">RERUN: R64: Ben Shelton vs Daniel Altmaier</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261011000000 +0700" stop="20261011002000 +0700">
+  <programme channel="ch0000000000100002530" start="20261011000000 +0700" stop="20261011003000 +0700">
     <title lang="th">(ไฮไลต์) รอบ 64: เรอิ ซากาโมโตะ พบ อันเดร รูเบลฟ</title>
     <title lang="en">(HL) R64: Rei Sakamoto vs Andrey Rublev</title>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002530" start="20261011002000 +0700" stop="20261011004000 +0700">
-    <title lang="th">(ไฮไลต์) รอบ 64: คามิโล อูโก คาราเบลลี พบ เฟลิกซ์ โอเฌร์-อาเลียซีม</title>
-    <title lang="en">(HL) R64: Camilo Ugo Carabelli vs Felix Auger-Aliassime</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261011004000 +0700" stop="20261011010000 +0700">
@@ -56634,22 +57375,22 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261010000000 +0700" stop="20261010110000 +0700">
-    <title lang="th">เริ่มเวลา 11.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ซีซัน 1</title>
+    <title lang="th">เริ่มเวลา 11.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ช่วงที่ 1</title>
     <title lang="en">UPCOMING at 11AM: ATP 1000 Rolex Shanghai Masters Day 4 - Session 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261010110000 +0700" stop="20261010150000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ซีซัน 1</title>
+    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ช่วงที่ 1</title>
     <title lang="en">LIVE: ATP 1000 Rolex Shanghai Masters Day 4 - Session 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261010150000 +0700" stop="20261010170000 +0700">
-    <title lang="th">เริ่มเวลา 17.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ซีซัน 2</title>
+    <title lang="th">เริ่มเวลา 17.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ช่วงที่ 2</title>
     <title lang="en">UPCOMING at 5PM: ATP 1000 Rolex Shanghai Masters Day 4 - Session 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261010170000 +0700" stop="20261010210000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ซีซัน 2</title>
+    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 4 - ช่วงที่ 2</title>
     <title lang="en">LIVE: ATP 1000 Rolex Shanghai Masters Day 4 - Session 2</title>
     <category>Sports</category>
   </programme>
@@ -56659,22 +57400,22 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261011000000 +0700" stop="20261011110000 +0700">
-    <title lang="th">เริ่มเวลา 11.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ซีซัน 1</title>
+    <title lang="th">เริ่มเวลา 11.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ช่วงที่ 1</title>
     <title lang="en">UPCOMING at 11AM: ATP 1000 Rolex Shanghai Masters Day 5 - Session 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261011110000 +0700" stop="20261011150000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ซีซัน 1</title>
+    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ช่วงที่ 1</title>
     <title lang="en">LIVE: ATP 1000 Rolex Shanghai Masters Day 5 - Session 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261011150000 +0700" stop="20261011170000 +0700">
-    <title lang="th">เริ่มเวลา 17.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ซีซัน 2</title>
+    <title lang="th">เริ่มเวลา 17.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ช่วงที่ 2</title>
     <title lang="en">UPCOMING at 5PM: ATP 1000 Rolex Shanghai Masters Day 5 - Session 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261011170000 +0700" stop="20261011210000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ซีซัน 2</title>
+    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 5 - ช่วงที่ 2</title>
     <title lang="en">LIVE: ATP 1000 Rolex Shanghai Masters Day 5 - Session 2</title>
     <category>Sports</category>
   </programme>
@@ -56684,22 +57425,22 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261012000000 +0700" stop="20261012110000 +0700">
-    <title lang="th">เริ่มเวลา 11.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ซีซัน 1</title>
+    <title lang="th">เริ่มเวลา 11.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ช่วงที่ 1</title>
     <title lang="en">UPCOMING at 11AM: ATP 1000 Rolex Shanghai Masters Day 6 - Session 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261012110000 +0700" stop="20261012150000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ซีซัน 1</title>
+    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ช่วงที่ 1</title>
     <title lang="en">LIVE: ATP 1000 Rolex Shanghai Masters Day 6 - Session 1</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261012150000 +0700" stop="20261012170000 +0700">
-    <title lang="th">เริ่มเวลา 17.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ซีซัน 2</title>
+    <title lang="th">เริ่มเวลา 17.00 น. เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ช่วงที่ 2</title>
     <title lang="en">UPCOMING at 5PM: ATP 1000 Rolex Shanghai Masters Day 6 - Session 2</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261012170000 +0700" stop="20261012210000 +0700">
-    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ซีซัน 2</title>
+    <title lang="th">LIVE: เอทีพี 1000 โรเล็กซ์ เซี่ยงไฮ้ มาสเตอร์ส วันที่ 6 - ช่วงที่ 2</title>
     <title lang="en">LIVE: ATP 1000 Rolex Shanghai Masters Day 6 - Session 2</title>
     <category>Sports</category>
   </programme>
