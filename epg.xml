@@ -260,11 +260,6 @@
     <display-name lang="en">PLAY SPORTS 6</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png"/>
   </channel>
-  <channel id="ch0000000000100002095">
-    <display-name lang="th">เพลย์สปอร์ต 7</display-name>
-    <display-name lang="en">PLAY SPORTS 7</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141713018926.png"/>
-  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -515,215 +510,218 @@
     <display-name lang="en">Asian Para Games 914</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091911080620.png"/>
   </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
   <channel id="ch0000000000100002327">
     <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002402">
-    <display-name>ch0000000000100002402</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002584">
-    <display-name>ch0000000000100002584</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
   </channel>
   <channel id="ch0000000000100002403">
     <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
   <channel id="ch0000000000100002341">
     <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002642">
-    <display-name>ch0000000000100002642</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
   </channel>
   <channel id="ch0000000000100002441">
     <display-name>ch0000000000100002441</display-name>
   </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
   <channel id="ch0000000000100002533">
     <display-name>ch0000000000100002533</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002535">
-    <display-name>ch0000000000100002535</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
   <channel id="ch0000000000100002382">
     <display-name>ch0000000000100002382</display-name>
   </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
   </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002642">
+    <display-name>ch0000000000100002642</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
   </channel>
   <channel id="ch0000000000100002314">
     <display-name>ch0000000000100002314</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
+  </channel>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002402">
+    <display-name>ch0000000000100002402</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002535">
+    <display-name>ch0000000000100002535</display-name>
+  </channel>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
   <channel id="ch0000000000100002311">
     <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100002584">
+    <display-name>ch0000000000100002584</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261013223000 +0700" stop="20261014001500 +0700">
     <title>Mountainhead</title>
@@ -53122,6 +53120,130 @@
     <title lang="en">RERUN: Nara FC vs Samui United</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002052" start="20261016000000 +0700" stop="20261016020000 +0700">
+    <title lang="th">รีรัน: เอฟซี ยะลา พบ สมุย ยูไนเต็ด</title>
+    <title lang="en">RERUN: FC Yala vs Samui United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016020000 +0700" stop="20261016040000 +0700">
+    <title lang="th">รีรัน: จามจุรี ยูไนเต็ด พบ สระบุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chamchuri United vs Saraburi United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016040000 +0700" stop="20261016060000 +0700">
+    <title lang="th">รีรัน: พราม แบงค็อก พบ ม. เกษมบัณฑิต เอฟซี</title>
+    <title lang="en">RERUN: Prime Bangkok vs Kasembundit University FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016060000 +0700" stop="20261016080000 +0700">
+    <title lang="th">รีรัน: เมืองเลย ยูไนเต็ด พบ สุรินทร์ โขงชีมูล เอฟซี</title>
+    <title lang="en">RERUN: Muang Loei United vs Surin Khongcheemool FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016080000 +0700" stop="20261016100000 +0700">
+    <title lang="th">รีรัน: นาวิกโยธิน เอฟซี พบ สายมิตรกบินทร์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Marines FC vs Saimit Kabin United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016100000 +0700" stop="20261016120000 +0700">
+    <title lang="th">รีรัน: บูรพา ยูไนเต็ด พบ ปลวกแดง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Burapha United vs Pluankdaeng United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016120000 +0700" stop="20261016140000 +0700">
+    <title lang="th">รีรัน: กระบี่ เอฟซี พบ ชุมพร ยูไนเต็ด</title>
+    <title lang="en">RERUN: Krabi FC vs Chumphon United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016140000 +0700" stop="20261016160000 +0700">
+    <title lang="th">รีรัน: ฟุตบอลหญิงจังหวัดชลบุรี พบ บีจีซี บัณฑิตเอเซีย</title>
+    <title lang="en">RERUN: Chonburi Women FC vs BGC College of Asian Scholars</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016160000 +0700" stop="20261016180000 +0700">
+    <title lang="th">รีรัน: เชียงราย ทีเอสซี เอฟซี พบ เขลางค์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chiangrai TSC FC vs Khelang United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016180000 +0700" stop="20261016200000 +0700">
+    <title lang="th">รีรัน: วิทยาลัยพิชญบัณฑิต พบ อุดร-บ้านจั่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pitchaya Bundit College vs Udon Banjan United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016200000 +0700" stop="20261016220000 +0700">
+    <title lang="th">รีรัน: บ้านบึง เอฟซี พบ เอ็มเอ็นเค เอสซี</title>
+    <title lang="en">RERUN: Banbueng FC vs MNK SC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261016220000 +0700" stop="20261017000000 +0700">
+    <title lang="th">รีรัน: แชมเปียนส์ลีก: สมุทรสาคร ซิตี้ พบ ธนบุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Champions League: Samutsakhon City vs Thonburi United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017000000 +0700" stop="20261017020000 +0700">
+    <title lang="th">รีรัน: อ่างทอง เอฟซี พบ อยุธยา พีเค เอฟซี</title>
+    <title lang="en">RERUN: Angthong FC vs Ayutthaya PK FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017020000 +0700" stop="20261017040000 +0700">
+    <title lang="th">รีรัน: จามจุรี ยูไนเต็ด พบ พราม แบงค็อก</title>
+    <title lang="en">RERUN: Chamchuri United vs Prime Bangkok</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017040000 +0700" stop="20261017060000 +0700">
+    <title lang="th">รีรัน: ลพบุรี โพม่า เอฟซี พบ ม. ปทุมธานี</title>
+    <title lang="en">RERUN: Lopburi Poma FC vs Pathumthani University</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017060000 +0700" stop="20261017080000 +0700">
+    <title lang="th">รีรัน: อัสสัมชัญ ยูไนเต็ด พบ ทหารบก เอฟซี</title>
+    <title lang="en">RERUN: Assumption United vs Royal Thai Army FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017080000 +0700" stop="20261017100000 +0700">
+    <title lang="th">รีรัน: กำแพงเพชร เอฟซี พบ ปากน้ำโพ เอฟซี</title>
+    <title lang="en">RERUN: Kamphengphet FC vs Paknampho FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017100000 +0700" stop="20261017120000 +0700">
+    <title lang="th">รีรัน: ฟุตบอลหญิงจังหวัดชลบุรี พบ บีจีซี บัณฑิตเอเซีย</title>
+    <title lang="en">RERUN: Chonburi Women FC vs BGC College of Asian Scholars</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017120000 +0700" stop="20261017140000 +0700">
+    <title lang="th">รีรัน: ขอนแก่นมอดินแดง ฟุตบอลคลับ พบ ร้อยเอ็ด พีบี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Khonkaen Mordindang FC vs Roi-Et PB United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017140000 +0700" stop="20261017160000 +0700">
+    <title lang="th">รีรัน: สุรินทร์ หินโคน ยูไนเต็ด พบ ฟุตบอลหญิงพระนคร</title>
+    <title lang="en">RERUN: Surin Hinkhon United vs Phranakorn Football Club Women</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017160000 +0700" stop="20261017170000 +0700">
+    <title lang="th">PLAY นี้มีเรื่อง ตอนที่ 4: ไฮไลต์ ไทยลีก 1</title>
+    <title lang="en">PLAY with Stories EP 4: Thai Leauge 1 (Season Highlight)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017170000 +0700" stop="20261017173000 +0700">
+    <title>HIGHLIGHT Thai League 1 MD 4 (2026/27)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017173000 +0700" stop="20261017200000 +0700">
+    <title lang="th">LIVE: สุโขทัย เอฟซี พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">LIVE: Sukhothai FC vs Rasisalai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017200000 +0700" stop="20261017220000 +0700">
+    <title lang="th">รีรัน: ภูเก็ต อันดามัน เอฟซี พบ ชุมพร ยูไนเต็ด</title>
+    <title lang="en">RERUN: Phuket Andaman FC vs Chumphon United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">รีรัน: นอร์ทเทิร์น นครแม่สอด ยูไนเต็ด พบ ชาติตระการ ซิตี้</title>
+    <title lang="en">RERUN: Northern Nakhonmaesot United vs Chattrakan City</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002091" start="20261014000000 +0700" stop="20261014235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -56838,9 +56960,134 @@
     <title lang="en">FedEx Open de France Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261015120000 +0700" stop="20261015160000 +0700">
+  <programme channel="ch0000000000100002528" start="20261015120000 +0700" stop="20261015123000 +0700">
     <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261015123000 +0700" stop="20261015183000 +0700">
+    <title lang="th">LIVE: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">LIVE: DP World India Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261015183000 +0700" stop="20261015184500 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 3</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261015184500 +0700" stop="20261015233500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261015233500 +0700" stop="20261016000000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016000000 +0700" stop="20261016060000 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: DP World India Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016060000 +0700" stop="20261016061500 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 3</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016061500 +0700" stop="20261016063500 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016063500 +0700" stop="20261016123500 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: DP World India Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016123500 +0700" stop="20261016130000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016130000 +0700" stop="20261016133000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016133000 +0700" stop="20261016183000 +0700">
+    <title lang="th">LIVE: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">LIVE: DP World India Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016183000 +0700" stop="20261016185000 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบ 3</title>
+    <title lang="en">FedEx Open de France Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016185000 +0700" stop="20261016192000 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FedEx Open de France Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016192000 +0700" stop="20261017012000 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: DP World India Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017012000 +0700" stop="20261017015000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017015000 +0700" stop="20261017021500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017021500 +0700" stop="20261017071500 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: DP World India Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017071500 +0700" stop="20261017073500 +0700">
+    <title lang="th">แอมเจน ไอริช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Amgen Irish Open Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017073500 +0700" stop="20261017080000 +0700">
+    <title lang="th">ดีพี เวิลด์ อินเดีย แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">DP World India Championship Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017080000 +0700" stop="20261017130000 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: DP World India Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017130000 +0700" stop="20261017133000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017133000 +0700" stop="20261017183000 +0700">
+    <title lang="th">LIVE: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">LIVE: DP World India Championship Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017183000 +0700" stop="20261017190000 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FedEx Open de France Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017190000 +0700" stop="20261017192000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017192000 +0700" stop="20261018002000 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: DP World India Championship Round 2</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261013220000 +0700" stop="20261014000000 +0700">
@@ -57117,6 +57364,159 @@
   <programme channel="ch0000000000100002530" start="20261015220000 +0700" stop="20261016000000 +0700">
     <title lang="th">รีรัน: รอบ 16: โบติก ฟาน เดอ ซานด์สชูลป์ พบ ราฟาเอล โฮดาร์</title>
     <title lang="en">RERUN: R16: Botic van de Zandschulp vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016000000 +0700" stop="20261016002000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซ์ เดอ มินอร์</title>
+    <title lang="en">(HL) QF: Alexander Zverev vs Alex de Minaur</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016002000 +0700" stop="20261016004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อาตูร์ เจอา พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">(HL) QF: Arthur Gea vs Alejandro Davidovich Fokina</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016004000 +0700" stop="20261016010000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ทอมมี่ พอล พบ ซิซู เบิร์กส์</title>
+    <title lang="en">(HL) R16: Tommy Paul vs Zizou Bergs</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016010000 +0700" stop="20261016030000 +0700">
+    <title lang="th">รีรัน: รอบ 8: อาตูร์ เจอา พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">RERUN: QF: Arthur Gea vs Alejandro Davidovich Fokina</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016030000 +0700" stop="20261016032000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: แคสเปอร์ รุด พบ เฟลิกซ์ โอเฌร์-อาเลียซีม</title>
+    <title lang="en">(HL) R16: Casper Ruud vs Felix Auger-Aliassime</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016032000 +0700" stop="20261016034000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: โบติก ฟาน เดอ ซานด์สชูลป์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) R16: Botic van de Zandschulp vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016034000 +0700" stop="20261016040000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซานเดอร์ บูบลิค</title>
+    <title lang="en">(HL) R16: Alexander Zverev vs Alexander Bublik</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016040000 +0700" stop="20261016060000 +0700">
+    <title lang="th">รีรัน: รอบ 8: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซ์ เดอ มินอร์</title>
+    <title lang="en">RERUN: QF: Alexander Zverev vs Alex de Minaur</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016060000 +0700" stop="20261016062000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซ์ เดอ มินอร์</title>
+    <title lang="en">(HL) QF: Alexander Zverev vs Alex de Minaur</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016062000 +0700" stop="20261016064000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อาตูร์ เจอา พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">(HL) QF: Arthur Gea vs Alejandro Davidovich Fokina</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016064000 +0700" stop="20261016070000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ทอมมี่ พอล พบ ซิซู เบิร์กส์</title>
+    <title lang="en">(HL) R16: Tommy Paul vs Zizou Bergs</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016070000 +0700" stop="20261016090000 +0700">
+    <title lang="th">รีรัน: รอบ 8: อาตูร์ เจอา พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">RERUN: QF: Arthur Gea vs Alejandro Davidovich Fokina</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016090000 +0700" stop="20261016092000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: แคสเปอร์ รุด พบ เฟลิกซ์ โอเฌร์-อาเลียซีม</title>
+    <title lang="en">(HL) R16: Casper Ruud vs Felix Auger-Aliassime</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016092000 +0700" stop="20261016094000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: โบติก ฟาน เดอ ซานด์สชูลป์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) R16: Botic van de Zandschulp vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016094000 +0700" stop="20261016100000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซานเดอร์ บูบลิค</title>
+    <title lang="en">(HL) R16: Alexander Zverev vs Alexander Bublik</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016100000 +0700" stop="20261016120000 +0700">
+    <title lang="th">รีรัน: รอบ 16: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซานเดอร์ บูบลิค</title>
+    <title lang="en">RERUN: R16: Alexander Zverev vs Alexander Bublik</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016120000 +0700" stop="20261016122000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซ์ เดอ มินอร์</title>
+    <title lang="en">(HL) QF: Alexander Zverev vs Alex de Minaur</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016122000 +0700" stop="20261016124000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อาตูร์ เจอา พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">(HL) QF: Arthur Gea vs Alejandro Davidovich Fokina</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016124000 +0700" stop="20261016130000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ทอมมี่ พอล พบ ซิซู เบิร์กส์</title>
+    <title lang="en">(HL) R16: Tommy Paul vs Zizou Bergs</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016130000 +0700" stop="20261016133000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 31</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 31</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016133000 +0700" stop="20261016153000 +0700">
+    <title>LIVE: Rolex Shanghai Masters Day 10 S1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016153000 +0700" stop="20261016155000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: แคสเปอร์ รุด พบ เฟลิกซ์ โอเฌร์-อาเลียซีม</title>
+    <title lang="en">(HL) R16: Casper Ruud vs Felix Auger-Aliassime</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016155000 +0700" stop="20261016161000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: โบติก ฟาน เดอ ซานด์สชูลป์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) R16: Botic van de Zandschulp vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016161000 +0700" stop="20261016163000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซานเดอร์ บูบลิค</title>
+    <title lang="en">(HL) R16: Alexander Zverev vs Alexander Bublik</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016163000 +0700" stop="20261016170000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 30</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 30</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016170000 +0700" stop="20261016190000 +0700">
+    <title>LIVE: Rolex Shanghai Masters Day 10 S2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016190000 +0700" stop="20261016192000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซ์ เดอ มินอร์</title>
+    <title lang="en">(HL) QF: Alexander Zverev vs Alex de Minaur</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016192000 +0700" stop="20261016194000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อาตูร์ เจอา พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">(HL) QF: Arthur Gea vs Alejandro Davidovich Fokina</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016194000 +0700" stop="20261016200000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ทอมมี่ พอล พบ ซิซู เบิร์กส์</title>
+    <title lang="en">(HL) R16: Tommy Paul vs Zizou Bergs</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016200000 +0700" stop="20261016220000 +0700">
+    <title lang="th">รีรัน: รอบ 8: อเล็กซานเดอร์ ซเวเรฟ พบ อเล็กซ์ เดอ มินอร์</title>
+    <title lang="en">RERUN: QF: Alexander Zverev vs Alex de Minaur</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261016220000 +0700" stop="20261017000000 +0700">
+    <title lang="th">รีรัน: รอบ 8: อาตูร์ เจอา พบ อเลฮานโดร ดาวิโดวิช โฟกินา</title>
+    <title lang="en">RERUN: QF: Arthur Gea vs Alejandro Davidovich Fokina</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261013000000 +0700" stop="20261014000000 +0700">
@@ -58608,6 +59008,116 @@
     <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 26</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002701" start="20261017000000 +0700" stop="20261017003000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 4</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017003000 +0700" stop="20261017010000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 5</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017010000 +0700" stop="20261017011500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Eintracht Frankfurt</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017011500 +0700" stop="20261017033000 +0700">
+    <title lang="th">LIVE: ไอน์ทรัค แฟรงก์เฟิร์ต พบ โคโลญจน์</title>
+    <title lang="en">LIVE: Eintracht Frankfurt vs 1. FC Koeln</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017033000 +0700" stop="20261017040000 +0700">
+    <title lang="th">รีรัน: Bundesliga Weekly 2025-26 Episode 5 Matchday 5</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2025-26 Episode 5 Matchday 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017040000 +0700" stop="20261017060000 +0700">
+    <title lang="th">รีรัน: ออสนาบรุค พบ ดินาโม เดรสเดน</title>
+    <title lang="en">RERUN: VfL Osnabrueck vs Dynamo Dresden</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017060000 +0700" stop="20261017063000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 5</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017063000 +0700" stop="20261017064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: สตุ๊ตการ์ท</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: VfB Stuttgart</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017064500 +0700" stop="20261017070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: RB Leipzig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017070000 +0700" stop="20261017090000 +0700">
+    <title lang="th">รีรัน: เอาก์สบวร์ก พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: FC Augsburg vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017090000 +0700" stop="20261017110000 +0700">
+    <title lang="th">รีรัน: แอร์เบ ไลป์ซิก พบ ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: RB Leipzig vs Eintracht Frankfurt</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017110000 +0700" stop="20261017120000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 5</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017120000 +0700" stop="20261017140000 +0700">
+    <title lang="th">รีรัน: ไอน์ทรัค แฟรงก์เฟิร์ต พบ โคโลญจน์</title>
+    <title lang="en">RERUN: Eintracht Frankfurt vs 1. FC Koeln</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017140000 +0700" stop="20261017160000 +0700">
+    <title lang="th">รีรัน: เนิร์นแบร์ก พบ โวล์ฟสบวร์ก</title>
+    <title lang="en">RERUN: 1. FC Nuernberg vs VfL Wolfsburg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017160000 +0700" stop="20261017170000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 4 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 4 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017170000 +0700" stop="20261017180000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 5</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017180000 +0700" stop="20261017200000 +0700">
+    <title lang="th">รีรัน: โบรุสเซีย ดอร์ทมุนด์ พบ แวร์เดอร์ เบรเมน</title>
+    <title lang="en">RERUN: Borussia Dortmund vs SV Werder Bremen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017200000 +0700" stop="20261017201500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017201500 +0700" stop="20261017223000 +0700">
+    <title lang="th">LIVE: อูนิโอน เบอร์ลิน พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">LIVE: 1. FC Union Berlin vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017223000 +0700" stop="20261017230000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 4</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017230000 +0700" stop="20261017231500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: RB Leipzig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261017231500 +0700" stop="20261018013000 +0700">
+    <title lang="th">LIVE: บาเยิร์น มิวนิค พบ แอร์เบ ไลป์ซิก</title>
+    <title lang="en">LIVE: FC Bayern Munich vs RB Leipzig</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002721" start="20261013000000 +0700" stop="20261014000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -58799,26 +59309,38 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20261015000000 +0700" stop="20261015235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002781" start="20261016000000 +0700" stop="20261016070000 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261016070000 +0700" stop="20261016180000 +0700">
-    <title lang="th">LIVE: แบดมินตัน คนพิการ - รอบคัดเลือก</title>
+  <programme channel="ch0000000000100002781" start="20261016070000 +0700" stop="20261016083000 +0700">
+    <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261016180000 +0700" stop="20261016235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+  <programme channel="ch0000000000100002781" start="20261016083000 +0700" stop="20261016100000 +0700">
+    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: คูเวต พบ ไทย</title>
+    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Kuwait vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261016100000 +0700" stop="20261016183000 +0700">
+    <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Para Badminton - Preliminary</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261016183000 +0700" stop="20261016235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -58847,44 +59369,68 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20261015000000 +0700" stop="20261015235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20261016000000 +0700" stop="20261016073000 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016073000 +0700" stop="20261016083000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002782" start="20261016073000 +0700" stop="20261016080000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ คาซัคสถาน</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs Kazakhstan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016083000 +0700" stop="20261016093000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: คูเวต พบ ไทย</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Kuwait vs Thailand</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20261016093000 +0700" stop="20261016112000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Para Table Tennis - Group</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20261016112000 +0700" stop="20261016130000 +0700">
-    <title lang="th">เริ่ม 13:00 แบดมินตัน - รอบคัดเลือก</title>
+  <programme channel="ch0000000000100002782" start="20261016080000 +0700" stop="20261016080500 +0700">
+    <title lang="th">เริ่ม 08:05 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม ฮ่องกง พบ ไทย</title>
     <title lang="en">ASIAN PARA GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016130000 +0700" stop="20261016143000 +0700">
-    <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
-    <title lang="en">LIVE: Para Badminton - Preliminary</title>
+  <programme channel="ch0000000000100002782" start="20261016080500 +0700" stop="20261016084000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ฮ่องกง พบ ไทย</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Hong Kong vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261016084000 +0700" stop="20261016091500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ จีนไทเป</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Japan vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261016091500 +0700" stop="20261016095000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีนไทเป พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Chinese Taipei vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261016095000 +0700" stop="20261016112000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: จีน พบ ไทย</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: China vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261016112000 +0700" stop="20261016120000 +0700">
+    <title lang="th">เริ่ม 12:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก อิรัก พบ อิหร่าน</title>
+    <title lang="en">ASIAN PARA GAMES Reruns &amp; Highlights</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261016120000 +0700" stop="20261016140000 +0700">
+    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: อิรัก พบ อิหร่าน</title>
+    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Iraq vs Iran</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261016140000 +0700" stop="20261016143000 +0700">
+    <title lang="th">เริ่ม 14:30 วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก ลาว พบ ไทย</title>
+    <title lang="en">ASIAN PARA GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -58901,8 +59447,8 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20261016163000 +0700" stop="20261016180000 +0700">
-    <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
-    <title lang="en">LIVE: Para Badminton - Preliminary</title>
+    <title lang="th">เริ่ม 18:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก อิหร่าน พบ ญี่ปุ่น</title>
+    <title lang="en">ASIAN PARA GAMES Reruns &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -58913,8 +59459,8 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20261016193000 +0700" stop="20261016235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -58961,20 +59507,20 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20261015000000 +0700" stop="20261015235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20261016000000 +0700" stop="20261016235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002783" start="20261017000000 +0700" stop="20261017235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -59093,18 +59639,54 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002787" start="20261016000000 +0700" stop="20261016073000 +0700">
-    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">Upcoming at 07:30AM Para Table Tennis - Group</title>
+    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม เกาหลีใต้ พบ คูเวต</title>
+    <title lang="en">Upcoming at 07:30AM Men's Singles Para Table Tennis - Group South Korea vs Kuwait</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20261016073000 +0700" stop="20261016112000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002787" start="20261016073000 +0700" stop="20261016080000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ คูเวต</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: South Korea vs Kuwait</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20261016112000 +0700" stop="20261016235959 +0700">
+  <programme channel="ch0000000000100002787" start="20261016080000 +0700" stop="20261016080500 +0700">
+    <title lang="th">เริ่ม 08:05 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม อินโดนีเซีย พบ เนปาล</title>
+    <title lang="en">Upcoming at 08:05AM Men's Singles Para Table Tennis - Group Indonesia vs Nepal</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261016080500 +0700" stop="20261016084000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: อินโดนีเซีย พบ เนปาล</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Indonesia vs Nepal</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261016084000 +0700" stop="20261016091500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: อินเดีย พบ คูเวต</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: India vs Kuwait</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261016091500 +0700" stop="20261016094000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ สิงคโปร์</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: South Korea vs Singapore</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261016094000 +0700" stop="20261016095000 +0700">
+    <title lang="th">เริ่ม 09:50 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม ญี่ปุ่น พบ มาเก๊า</title>
+    <title lang="en">Upcoming at 09:50AM Men's Singles Para Table Tennis - Group Japan vs Macau</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261016095000 +0700" stop="20261016103000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ มาเก๊า</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs Macau</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261016103000 +0700" stop="20261016235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59195,14 +59777,44 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002790" start="20261016000000 +0700" stop="20261016073000 +0700">
-    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">Upcoming at 07:30AM Para Table Tennis - Group</title>
+    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม ญี่ปุ่น พบ คาซัคสถาน</title>
+    <title lang="en">Upcoming at 07:30AM Men's Singles Para Table Tennis - Group Japan vs Kazakhstan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261016073000 +0700" stop="20261016112000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002790" start="20261016073000 +0700" stop="20261016080000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ คาซัคสถาน</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs Kazakhstan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261016080000 +0700" stop="20261016080500 +0700">
+    <title lang="th">เริ่ม 08:05 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม ฮ่องกง พบ ไทย</title>
+    <title lang="en">Upcoming at 08:05AM Men's Singles Para Table Tennis - Group Hong Kong vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261016080500 +0700" stop="20261016084000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ฮ่องกง พบ ไทย</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Hong Kong vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261016084000 +0700" stop="20261016091500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ จีนไทเป</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Japan vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261016091500 +0700" stop="20261016095000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีนไทเป พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Chinese Taipei vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261016095000 +0700" stop="20261016112000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: จีน พบ ไทย</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: China vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -59278,13 +59890,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016083000 +0700" stop="20261016093000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016083000 +0700" stop="20261016100000 +0700">
     <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: คูเวต พบ ไทย</title>
     <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Kuwait vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016093000 +0700" stop="20261016110000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016100000 +0700" stop="20261016110000 +0700">
     <title lang="th">เริ่ม 11:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก จีน พบ ญี่ปุ่น</title>
     <title lang="en">Upcoming at 11:00AM Men's Wheelchair Basketball - Preliminary China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59296,13 +59908,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016120000 +0700" stop="20261016130000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016120000 +0700" stop="20261016140000 +0700">
     <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: อิรัก พบ อิหร่าน</title>
     <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Iraq vs Iran</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016130000 +0700" stop="20261016143000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016140000 +0700" stop="20261016143000 +0700">
     <title lang="th">เริ่ม 14:30 วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก ลาว พบ ไทย</title>
     <title lang="en">Upcoming at 02:30PM Women's Wheelchair Basketball - Preliminary Lao vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
