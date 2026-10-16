@@ -340,6 +340,16 @@
     <display-name lang="en">PLAY SPORTS 90</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png"/>
   </channel>
+  <channel id="ch0000000000100002742">
+    <display-name lang="th">เพลย์สปอร์ต 95</display-name>
+    <display-name lang="en">PLAY SPORTS 95</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png"/>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name lang="th">เพลย์สปอร์ต 96</display-name>
+    <display-name lang="en">PLAY SPORTS 96</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134957064655.png"/>
+  </channel>
   <channel id="ch0000000000100001237">
     <display-name lang="th">ซีเอ็นเอ็น</display-name>
     <display-name lang="en">CNN</display-name>
@@ -510,95 +520,50 @@
     <display-name lang="en">Asian Para Games 914</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091911080620.png"/>
   </channel>
-  <channel id="ch0000000000100002642">
-    <display-name>ch0000000000100002642</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100002441">
-    <display-name>ch0000000000100002441</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
   <channel id="ch0000000000100002731">
     <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
   </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
   </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002402">
-    <display-name>ch0000000000100002402</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
   <channel id="ch0000000000100002541">
     <display-name>ch0000000000100002541</display-name>
   </channel>
-  <channel id="ch0000000000100002584">
-    <display-name>ch0000000000100002584</display-name>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002441">
+    <display-name>ch0000000000100002441</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
   <channel id="ch0000000000100002323">
     <display-name>ch0000000000100002323</display-name>
@@ -606,122 +571,161 @@
   <channel id="ch0000000000100002721">
     <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
   </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
   </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002535">
-    <display-name>ch0000000000100002535</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
   </channel>
   <channel id="ch0000000000100002582">
     <display-name>ch0000000000100002582</display-name>
   </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
   </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
   <channel id="ch0000000000100002092">
     <display-name>ch0000000000100002092</display-name>
   </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
   <channel id="ch0000000000100002644">
     <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002584">
+    <display-name>ch0000000000100002584</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002535">
+    <display-name>ch0000000000100002535</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002642">
+    <display-name>ch0000000000100002642</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
+  </channel>
+  <channel id="ch0000000000100002402">
+    <display-name>ch0000000000100002402</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
   </channel>
   <channel id="ch0000000000100002095">
     <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261014232000 +0700" stop="20261015005500 +0700">
     <title>Sully</title>
@@ -4262,6 +4266,10 @@
     <title>FIGHTS BREAK SPHERE สัประยุทธ์ทะลุฟ้า (EP. 43-45)</title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001081" start="20261018230000 +0700" stop="20261019010000 +0700">
+    <title>JOY OF LIFE 2 หาญท้าชะตาฟ้า ปริศนายุทธจักร 2 (EP. 31-32)</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001091" start="20261014232500 +0700" stop="20261015010500 +0700">
     <title>Caddo Lake</title>
     <desc>The disappearance of an eight-year-old girl sets off a chain of events.</desc>
@@ -5697,7 +5705,7 @@
     <title>DISTRICT 9 ยึดแผ่นดิน เปลี่ยนพันธุ์มนุษย์</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001093" start="20261018230000 +0700" stop="20261018233000 +0700">
+  <programme channel="ch0000000000100001093" start="20261018230000 +0700" stop="20261019010000 +0700">
     <title>TRIPLE TAP เฉือนเหลี่ยมกระสุนจับตาย</title>
     <category>Entertainment</category>
   </programme>
@@ -21476,7 +21484,7 @@
     <desc>รายการที่จะนำเสนอเพลงเพราะ เพลงฮิต จากศิลปินดัง ตลอด 2 ชั่วโมง</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001183" start="20261018220000 +0700" stop="20261018230000 +0700">
+  <programme channel="ch0000000000100001183" start="20261018220000 +0700" stop="20261019000000 +0700">
     <title>YOUNGSTER Variety (Rerun)</title>
     <desc>ช่วงเวลาที่รวบรวมความสนุกหลากหลายรูปแบบมามอบให้คุณผู้ชม ทั้งเรื่องราวที่เป็นกระแสในโลกโซเชี่ยล อัพเดทข่าวสารในทุกวงการพูดคุยกับศิลปินที่กำลังเป็นที่นิยมพร้อมโชว์สุดพิเศษและรวมไปถึงเหล่านักแสดงมากความสามารถที่จะมาพูดคุยถึงบรรยากาศและความสนุกในกองละคร</desc>
     <category>Entertainment</category>
@@ -28596,7 +28604,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261017043000 +0700" stop="20261017050000 +0700">
     <title>Today's Close-Up</title>
-    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc>As severe weather grows more common, Japan turns to AI to refine typhoon forecasts, cut tracking errors and deliver localized data that turns early warnings into lifesaving action.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261017050000 +0700" stop="20261017053000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28612,7 +28620,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261017061000 +0700" stop="20261017061500 +0700">
     <title>Chatroom Japan</title>
-    <desc>Chatroom Japan puts a spotlight on our diverse international community. We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <desc>Do you know what to do when disaster strikes? If you don't, Andrew Mitchell from the UK has some stories to tell you from his own experience living through the 2016 Kumamoto quakes.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261017061500 +0700" stop="20261017063000 +0700">
     <title>Japan's Top Inventions</title>
@@ -28620,7 +28628,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261017063000 +0700" stop="20261017070000 +0700">
     <title>Japanology Plus</title>
-    <desc>Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974. Each time, Peter himself discovers something new about Japan.</desc>
+    <desc>From secondhand stores to online marketplaces and home pickups, Japan's resale market is booming among people of all ages and foreign buyers. We explore Japan's waste-conscious approach to used goods.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261017070000 +0700" stop="20261017071000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28710,9 +28718,13 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261017151000 +0700" stop="20261017160000 +0700">
+  <programme channel="ch0000000000100001238" start="20261017151000 +0700" stop="20261017154000 +0700">
     <title>YOKAI</title>
     <desc>The Kuchisake-Onna is a Yokai described in Gifu in the 1970s who requests affirmation of her beauty, then reveals a disfigured mouth. We interview locals to learn the background of her appearance.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261017154000 +0700" stop="20261017160000 +0700">
+    <title>Time-lapse Journey</title>
+    <desc>Experience the fascinating sights of the airports and transport hubs which connect Japan with the world. Time-lapse photography will show you how these places bustle with activity around the clock.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261017160000 +0700" stop="20261017161000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28776,7 +28788,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261017211000 +0700" stop="20261017214000 +0700">
     <title>BIZ STREAM</title>
-    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc>New Twists on Fermented Flavors: Discover how food and drink makers are creating new miso and sake-based products to appeal to a broader consumer base.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261017214000 +0700" stop="20261017215000 +0700">
     <title>Rockie and Her Friends</title>
@@ -28798,9 +28810,13 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261017231000 +0700" stop="20261018000000 +0700">
+  <programme channel="ch0000000000100001238" start="20261017231000 +0700" stop="20261017234000 +0700">
     <title>YOKAI</title>
     <desc>The Kuchisake-Onna is a Yokai described in Gifu in the 1970s who requests affirmation of her beauty, then reveals a disfigured mouth. We interview locals to learn the background of her appearance.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261017234000 +0700" stop="20261018000000 +0700">
+    <title>Time-lapse Journey</title>
+    <desc>Experience the fascinating sights of the airports and transport hubs which connect Japan with the world. Time-lapse photography will show you how these places bustle with activity around the clock.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018000000 +0700" stop="20261018001000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28840,11 +28856,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018031000 +0700" stop="20261018034000 +0700">
     <title>BIZ STREAM</title>
-    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc>New Twists on Fermented Flavors: Discover how food and drink makers are creating new miso and sake-based products to appeal to a broader consumer base.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261018034000 +0700" stop="20261018040000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261018034000 +0700" stop="20261018035000 +0700">
+    <title>Rockie and Her Friends</title>
+    <desc>Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261018035000 +0700" stop="20261018040000 +0700">
+    <title>TAKE TECH</title>
+    <desc>A program for upper primary to lower secondary school children to explore the everyday technologies all around them. Each episode takes a piece of familiar tech to find out what it does and how.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018040000 +0700" stop="20261018041000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28852,15 +28872,19 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018041000 +0700" stop="20261018050000 +0700">
     <title>CYCLE AROUND JAPAN</title>
-    <desc>Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc>We visit the Goto Islands on Japan's western tip, meeting people with hospitality, like a couple passing on the history of hidden Christians and islanders trying to preserve their small community.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018050000 +0700" stop="20261018051000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261018051000 +0700" stop="20261018060000 +0700">
+  <programme channel="ch0000000000100001238" start="20261018051000 +0700" stop="20261018054000 +0700">
     <title>YOKAI</title>
     <desc>The Kuchisake-Onna is a Yokai described in Gifu in the 1970s who requests affirmation of her beauty, then reveals a disfigured mouth. We interview locals to learn the background of her appearance.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261018054000 +0700" stop="20261018060000 +0700">
+    <title>Time-lapse Journey</title>
+    <desc>Experience the fascinating sights of the airports and transport hubs which connect Japan with the world. Time-lapse photography will show you how these places bustle with activity around the clock.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018060000 +0700" stop="20261018061000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28896,11 +28920,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018091000 +0700" stop="20261018094000 +0700">
     <title>J-MELO</title>
-    <desc>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news.</desc>
+    <desc>Tune in to J-MELO for Japanese music! This week: a live special with exclusive performances from idol group WHITE SCORPION, singer-songwriter Mahiru, and five-piece rock band BIGMAMA.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018094000 +0700" stop="20261018095000 +0700">
     <title>Little Charo</title>
-    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home.</desc>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 2-6.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018095000 +0700" stop="20261018095500 +0700">
     <title>Japanology Plus mini</title>
@@ -28916,11 +28940,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018101000 +0700" stop="20261018104000 +0700">
     <title>ANIME MANGA EXPLOSION</title>
-    <desc>ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc>Detective Conan, a mystery loved for over 30 years. Discover the manga's appeal, the studio behind the anime, how mysteries become animation, and the meetings that lead to the original stories.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261018104000 +0700" stop="20261018110000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261018104000 +0700" stop="20261018105000 +0700">
+    <title>I Love 'Mee'</title>
+    <desc>Mee has set her sights on becoming a kendama master, like the heroine of a TV series. Mee gives it a shot, but it's a real challenge! So, Mee gives up right away and blames it on other things.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261018105000 +0700" stop="20261018110000 +0700">
+    <title>Design Ah neo: Ears</title>
+    <desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Ears.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018110000 +0700" stop="20261018111000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28928,35 +28956,35 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018111000 +0700" stop="20261018120000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>Dumaguete, "the City of Gentle People", is on Negros Island in the tropical Philippines. It's a town of calm, kind-hearted people with several universities that add youthful, intellectual energy.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018120000 +0700" stop="20261018121000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018121000 +0700" stop="20261018122500 +0700">
-    <title>NHK WORLD Selection</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>On the Wings</title>
+    <desc>Japan's only regular helicopter service! Breathtaking Izu Islands views! Meet the crew connecting remote islands.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018122500 +0700" stop="20261018123000 +0700">
-    <title>Core Kyoto mini.</title>
-    <desc>The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title>Core Kyoto mini</title>
+    <desc>Gifts are exchanged in the traditional betrothal rite. Paper cords are twisted into intricate shapes and decorate gifts.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018123000 +0700" stop="20261018124500 +0700">
     <title>Easy Japanese for Work</title>
-    <desc>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc>Today: fielding an urgent request on the phone. Dong Van Huu from Vietnam designs blueprints at an architecture company. In a roleplay, he fields a call about blueprints that are missing information.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018124500 +0700" stop="20261018130000 +0700">
     <title>Zero Waste Life</title>
-    <desc>Meet people around Japan who strive for a life without waste under the traditional philosophy of "MOTTAINAI," which values cherishing the things we have.</desc>
+    <desc>Papermaker Igarashi Masami's "Food Paper," based on historic Echizen washi, incorporates vegetable discards and scraps. Her aim is to raise awareness of food loss while promoting traditional crafts.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018130000 +0700" stop="20261018131000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018131000 +0700" stop="20261018140000 +0700">
-    <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title>The Young Virtuosos</title>
+    <desc>Go behind the scenes at one of the world's top piano competitions, where joy, heartbreak, and unexpected miracles unfold as young virtuosos take the stage to embody the music of Chopin.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018140000 +0700" stop="20261018141000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28972,7 +29000,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018151000 +0700" stop="20261018160000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>Dumaguete, "the City of Gentle People", is on Negros Island in the tropical Philippines. It's a town of calm, kind-hearted people with several universities that add youthful, intellectual energy.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018160000 +0700" stop="20261018161000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28980,11 +29008,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018161000 +0700" stop="20261018164000 +0700">
     <title>ANIME MANGA EXPLOSION</title>
-    <desc>ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc>Detective Conan, a mystery loved for over 30 years. Discover the manga's appeal, the studio behind the anime, how mysteries become animation, and the meetings that lead to the original stories.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261018164000 +0700" stop="20261018170000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261018164000 +0700" stop="20261018165000 +0700">
+    <title>I Love 'Mee'</title>
+    <desc>Mee has set her sights on becoming a kendama master, like the heroine of a TV series. Mee gives it a shot, but it's a real challenge! So, Mee gives up right away and blames it on other things.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261018165000 +0700" stop="20261018170000 +0700">
+    <title>Design Ah neo: Ears</title>
+    <desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Ears.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018170000 +0700" stop="20261018171000 +0700">
     <title>NHK NEWSLINE</title>
@@ -28992,11 +29024,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018171000 +0700" stop="20261018174000 +0700">
     <title>J-MELO</title>
-    <desc>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news.</desc>
+    <desc>Tune in to J-MELO for Japanese music! This week: a live special with exclusive performances from idol group WHITE SCORPION, singer-songwriter Mahiru, and five-piece rock band BIGMAMA.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018174000 +0700" stop="20261018175000 +0700">
     <title>Little Charo</title>
-    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home.</desc>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 2-6.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018175000 +0700" stop="20261018175500 +0700">
     <title>Japanology Plus mini</title>
@@ -29011,28 +29043,28 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018181000 +0700" stop="20261018182500 +0700">
-    <title>NHK WORLD Selection</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>On the Wings</title>
+    <desc>Japan's only regular helicopter service! Breathtaking Izu Islands views! Meet the crew connecting remote islands.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018182500 +0700" stop="20261018183000 +0700">
-    <title>Core Kyoto mini.</title>
-    <desc>The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title>Core Kyoto mini</title>
+    <desc>Gifts are exchanged in the traditional betrothal rite. Paper cords are twisted into intricate shapes and decorate gifts.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018183000 +0700" stop="20261018184500 +0700">
     <title>Easy Japanese for Work</title>
-    <desc>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc>Today: fielding an urgent request on the phone. Dong Van Huu from Vietnam designs blueprints at an architecture company. In a roleplay, he fields a call about blueprints that are missing information.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018184500 +0700" stop="20261018190000 +0700">
     <title>Zero Waste Life</title>
-    <desc>Meet people around Japan who strive for a life without waste under the traditional philosophy of "MOTTAINAI," which values cherishing the things we have.</desc>
+    <desc>Papermaker Igarashi Masami's "Food Paper," based on historic Echizen washi, incorporates vegetable discards and scraps. Her aim is to raise awareness of food loss while promoting traditional crafts.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018190000 +0700" stop="20261018191000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018191000 +0700" stop="20261018200000 +0700">
-    <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title>The Young Virtuosos</title>
+    <desc>Go behind the scenes at one of the world's top piano competitions, where joy, heartbreak, and unexpected miracles unfold as young virtuosos take the stage to embody the music of Chopin.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018200000 +0700" stop="20261018201000 +0700">
     <title>NHK NEWSLINE</title>
@@ -29048,11 +29080,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018211000 +0700" stop="20261018214000 +0700">
     <title>ANIME MANGA EXPLOSION</title>
-    <desc>ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc>Detective Conan, a mystery loved for over 30 years. Discover the manga's appeal, the studio behind the anime, how mysteries become animation, and the meetings that lead to the original stories.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261018214000 +0700" stop="20261018220000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261018214000 +0700" stop="20261018215000 +0700">
+    <title>I Love 'Mee'</title>
+    <desc>Mee has set her sights on becoming a kendama master, like the heroine of a TV series. Mee gives it a shot, but it's a real challenge! So, Mee gives up right away and blames it on other things.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261018215000 +0700" stop="20261018220000 +0700">
+    <title>Design Ah neo: Ears</title>
+    <desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Ears.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018220000 +0700" stop="20261018221000 +0700">
     <title>NHK NEWSLINE</title>
@@ -29060,11 +29096,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018221000 +0700" stop="20261018224000 +0700">
     <title>J-MELO</title>
-    <desc>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news.</desc>
+    <desc>Tune in to J-MELO for Japanese music! This week: a live special with exclusive performances from idol group WHITE SCORPION, singer-songwriter Mahiru, and five-piece rock band BIGMAMA.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018224000 +0700" stop="20261018225000 +0700">
     <title>Little Charo</title>
-    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home.</desc>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 2-6.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261018225000 +0700" stop="20261018225500 +0700">
     <title>Japanology Plus mini</title>
@@ -29080,7 +29116,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261018231000 +0700" stop="20261019000000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>Dumaguete, "the City of Gentle People", is on Negros Island in the tropical Philippines. It's a town of calm, kind-hearted people with several universities that add youthful, intellectual energy.</desc>
   </programme>
   <programme channel="ch0000000000100001244" start="20261014230300 +0700" stop="20261015000000 +0700">
     <title>East Asia Tonight</title>
@@ -41991,6 +42027,14 @@
     <desc>GENERAL</desc>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001358" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title>Arirang Prime Ep.249</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261018230000 +0700" stop="20261019000000 +0700">
+    <title>Gugak The Music Of Korea Ep.142</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001360" start="20261014231500 +0700" stop="20261015000000 +0700">
     <title>อัศจรรย์บันลือโลก</title>
     <desc>อัศจรรย์บันลือโลก</desc>
@@ -46201,7 +46245,7 @@
     <title>The Sunday Briefing</title>
   </programme>
   <programme channel="ch0000000000100001841" start="20261018230000 +0700" stop="20261019000000 +0700">
-    <title>Fox News Live</title>
+    <title>he Ruthless Podcast</title>
   </programme>
   <programme channel="ch0000000000100001891" start="20261014230000 +0700" stop="20261015000000 +0700">
     <title>FOOD TO DIE FOR: BAKING WITH LEAF</title>
@@ -52549,7 +52593,7 @@
     <title>ถ่ายทอดสด PREMIER LEAGUE 2026/2027 / ข่าวในพระราชสำนัก</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261018222000 +0700" stop="20261018233000 +0700">
+  <programme channel="ch0000000000100001941" start="20261018222000 +0700" stop="20261019010000 +0700">
     <title>PREMIER LEAGUE 2026/2027</title>
     <category>Entertainment</category>
   </programme>
@@ -52724,6 +52768,262 @@
   <programme channel="ch0000000000100001992" start="20261017040000 +0700" stop="20261017050000 +0700">
     <title>Bloomberg: Balance of Power</title>
     <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017050000 +0700" stop="20261017055959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017060000 +0700" stop="20261017062959 +0700">
+    <title>The Mishal Husain Show</title>
+    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017063000 +0700" stop="20261017065959 +0700">
+    <title>The Mishal Husain Show: Michael Palin</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017070000 +0700" stop="20261017072959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Dynasty Equity Co-Founder and CEO K. Don Cornwell</title>
+    <desc>The Deal with Alex Rodriguez and Jason Kelly showcases intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017073000 +0700" stop="20261017075959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: FIFA's Jill Ellis on World Cup Demand</title>
+    <desc>FIFA's Jill Ellis on World Cup Demand. FIFA Chief Football Officer Jill Ellis discusses World Cup ticket prices, revenue expectations and the growth of the game.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017080000 +0700" stop="20261017082959 +0700">
+    <title>The David Rubenstein Show: Ana Botin, Santander Executive Chair</title>
+    <desc>Ana Botin, Santander Executive Chair. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017083000 +0700" stop="20261017085959 +0700">
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017090000 +0700" stop="20261017095959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017100000 +0700" stop="20261017102959 +0700">
+    <title>The Circuit: Jennifer Doudna on CRISPR Gene Editing</title>
+    <desc>Nobel Prize-winning scientist and Berkeley Professor Jennifer Doudna discusses the origins of CRISPR and what Silicon Valley gets wrong about the future of biology.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017103000 +0700" stop="20261017105959 +0700">
+    <title>Bloomberg Primer: The Race to Challenge China's EV Lead</title>
+    <desc>Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017110000 +0700" stop="20261017112959 +0700">
+    <title>How Larry Ellison Built His Empire</title>
+    <desc>Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017113000 +0700" stop="20261017115959 +0700">
+    <title>Bloomberg Chief Future Officer: Mandy Fields, e.l.f. Beauty</title>
+    <desc>CFO Mandy Fields has helped lead the cosmetics company e.l.f. Beauty to 30 consecutive quarters of net sales growth.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017120000 +0700" stop="20261017122959 +0700">
+    <title>The Circuit: Jennifer Doudna on CRISPR Gene Editing</title>
+    <desc>Nobel Prize-winning scientist and Berkeley Professor Jennifer Doudna discusses the origins of CRISPR and what Silicon Valley gets wrong about the future of biology.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017123000 +0700" stop="20261017125959 +0700">
+    <title>The Circuit: Karlie Kloss on Reviving Magazines</title>
+    <desc>Karlie Kloss on Reviving Magazines. Emily Chang goes inside the world of supermodel-turned-entrepreneur Karlie Kloss to explore how she's trying to revive magazine publishing.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017130000 +0700" stop="20261017132959 +0700">
+    <title>The Mishal Husain Show</title>
+    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017133000 +0700" stop="20261017135959 +0700">
+    <title>The Mishal Husain Show: Michael Palin</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017140000 +0700" stop="20261017145959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017150000 +0700" stop="20261017152959 +0700">
+    <title>Bloomberg Primer: The Race to Challenge China's EV Lead</title>
+    <desc>Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017153000 +0700" stop="20261017155959 +0700">
+    <title>The Mishal Husain Show</title>
+    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017160000 +0700" stop="20261017162959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Dynasty Equity Co-Founder and CEO K. Don Cornwell</title>
+    <desc>The Deal with Alex Rodriguez and Jason Kelly showcases intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017163000 +0700" stop="20261017165959 +0700">
+    <title>The Mishal Husain Show: Michael Palin</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017170000 +0700" stop="20261017175959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017180000 +0700" stop="20261017205959 +0700">
+    <title>Bloomberg This Weekend</title>
+    <desc>The news doesn't stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend's biggest headlines, live from New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017210000 +0700" stop="20261017215959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017220000 +0700" stop="20261017222959 +0700">
+    <title>The Mishal Husain Show: Michael Palin</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017223000 +0700" stop="20261017225959 +0700">
+    <title>The David Rubenstein Show: Ana Botin, Santander Executive Chair</title>
+    <desc>Ana Botin, Santander Executive Chair. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017230000 +0700" stop="20261017232959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Dynasty Equity Co-Founder and CEO K. Don Cornwell</title>
+    <desc>The Deal with Alex Rodriguez and Jason Kelly showcases intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261017233000 +0700" stop="20261017235959 +0700">
+    <title>Quantum Marketing: L'Oréal's Strategy for a New Era of Beauty</title>
+    <desc>Asmita Dubey, L'Oréal's global chief digital and marketing officer, unpacks how the century-old brand is adapting to the influencer economy and beauty technology.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018000000 +0700" stop="20261018002959 +0700">
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018003000 +0700" stop="20261018005959 +0700">
+    <title>The David Rubenstein Show: Ana Botin, Santander Executive Chair</title>
+    <desc>Ana Botin, Santander Executive Chair. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018010000 +0700" stop="20261018015959 +0700">
+    <title>Bloomberg Investigates: Inside the Legal Fight Against Trump's Deportation Campaign</title>
+    <desc>A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump's immigration policies.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018020000 +0700" stop="20261018022959 +0700">
+    <title>Bloomberg Chief Future Officer: Mandy Fields, e.l.f. Beauty</title>
+    <desc>CFO Mandy Fields has helped lead the cosmetics company e.l.f. Beauty to 30 consecutive quarters of net sales growth.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018023000 +0700" stop="20261018025959 +0700">
+    <title>The Circuit: Jennifer Doudna on CRISPR Gene Editing</title>
+    <desc>Nobel Prize-winning scientist and Berkeley Professor Jennifer Doudna discusses the origins of CRISPR and what Silicon Valley gets wrong about the future of biology.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018030000 +0700" stop="20261018032959 +0700">
+    <title>The Circuit: Karlie Kloss on Reviving Magazines</title>
+    <desc>Karlie Kloss on Reviving Magazines. Emily Chang goes inside the world of supermodel-turned-entrepreneur Karlie Kloss to explore how she's trying to revive magazine publishing.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018033000 +0700" stop="20261018035959 +0700">
+    <title>Bloomberg Tech: Decoding the Future</title>
+    <desc>The content, capital and connectivity powering Tech's most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018040000 +0700" stop="20261018042959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Dynasty Equity Co-Founder and CEO K. Don Cornwell</title>
+    <desc>The Deal with Alex Rodriguez and Jason Kelly showcases intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018043000 +0700" stop="20261018045959 +0700">
+    <title>Bloomberg Primer: Making New Nuclear Fuel for an Atomic Renaissance</title>
+    <desc>Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018050000 +0700" stop="20261018052959 +0700">
+    <title>The Mishal Husain Show</title>
+    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018053000 +0700" stop="20261018055959 +0700">
+    <title>The Mishal Husain Show: Michael Palin</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018060000 +0700" stop="20261018065959 +0700">
+    <title>Post Credits: How Women Athletes Are Taking Power Back : Laura Correnti</title>
+    <desc>Deep Blue Sports + Entertainment founder Laura Correnti breaks down how women athletes are turning attention into negotiating power and why brands are investing beyond sponsorship.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018070000 +0700" stop="20261018072959 +0700">
+    <title>Bloomberg Primer: The Business of Adapting to Flood Risk</title>
+    <desc>Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018073000 +0700" stop="20261018075959 +0700">
+    <title>VivaTech x Bloomberg Awards</title>
+    <desc>VivaTech and Bloomberg join forces to create a new global awards platform to celebrate not just who's succeeding in tech, but who's shaping where tech goes next.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018080000 +0700" stop="20261018082959 +0700">
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018083000 +0700" stop="20261018085959 +0700">
+    <title>Bloomberg Chief Future Officer: Kate Gulliver, Wayfair</title>
+    <desc>Kate Gulliver, Wayfair. Wayfair CFO Kate Gulliver is leading the home goods retailer's efforts to achieve profitable growth during a challenging period for the housing market.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018090000 +0700" stop="20261018095959 +0700">
+    <title>Bloomberg Investigates: Inside the Legal Fight Against Trump's Deportation Campaign</title>
+    <desc>A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump's immigration policies.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018100000 +0700" stop="20261018102959 +0700">
+    <title>How Larry Ellison Built His Empire</title>
+    <desc>Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018103000 +0700" stop="20261018105959 +0700">
+    <title>Bloomberg Chief Future Officer: Mandy Fields, e.l.f. Beauty</title>
+    <desc>CFO Mandy Fields has helped lead the cosmetics company e.l.f. Beauty to 30 consecutive quarters of net sales growth.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018110000 +0700" stop="20261018112959 +0700">
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018113000 +0700" stop="20261018115959 +0700">
+    <title>Bloomberg Tech: Decoding the Future</title>
+    <desc>The content, capital and connectivity powering Tech's most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018120000 +0700" stop="20261018122959 +0700">
+    <title>Bloomberg Primer: AI Is Pushing Chipmaking to Its Limits</title>
+    <desc>Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018123000 +0700" stop="20261018125959 +0700">
+    <title>The Mishal Husain Show</title>
+    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018130000 +0700" stop="20261018132959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Dynasty Equity Co-Founder and CEO K. Don Cornwell</title>
+    <desc>The Deal with Alex Rodriguez and Jason Kelly showcases intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018133000 +0700" stop="20261018135959 +0700">
+    <title>The Mishal Husain Show: Michael Palin</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018140000 +0700" stop="20261018142959 +0700">
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018143000 +0700" stop="20261018145959 +0700">
+    <title>How Larry Ellison Built His Empire</title>
+    <desc>Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018150000 +0700" stop="20261018155959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018160000 +0700" stop="20261018165959 +0700">
+    <title>Post Credits: How Women Athletes Are Taking Power Back : Laura Correnti</title>
+    <desc>Deep Blue Sports + Entertainment founder Laura Correnti breaks down how women athletes are turning attention into negotiating power and why brands are investing beyond sponsorship.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018170000 +0700" stop="20261018175959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018180000 +0700" stop="20261018205959 +0700">
+    <title>Bloomberg This Weekend</title>
+    <desc>The news doesn't stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend's biggest headlines, live from New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018210000 +0700" stop="20261018212959 +0700">
+    <title>The Mishal Husain Show</title>
+    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018213000 +0700" stop="20261018215959 +0700">
+    <title>The David Rubenstein Show: Ana Botin, Santander Executive Chair</title>
+    <desc>Ana Botin, Santander Executive Chair. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018220000 +0700" stop="20261018222959 +0700">
+    <title>Quantum Marketing: L'Oréal's Strategy for a New Era of Beauty</title>
+    <desc>Asmita Dubey, L'Oréal's global chief digital and marketing officer, unpacks how the century-old brand is adapting to the influencer economy and beauty technology.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018223000 +0700" stop="20261018225959 +0700">
+    <title>Bloomberg Chief Future Officer: Sayurie Naidoo, Valterra Platinum</title>
+    <desc>A profile of Valterra Platinum CFO Sayurie Naidoo, who leads the world's largest company producing platinum group metals.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261018230000 +0700" stop="20261018235959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
   </programme>
   <programme channel="ch0000000000100002011" start="20261014230000 +0700" stop="20261015000000 +0700">
     <title>The Big Money Show</title>
@@ -54655,8 +54955,8 @@
     <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261016133000 +0700" stop="20261016154500 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+    <title>Liga 26/27: Real Madrid vs Villarreal</title>
+    <desc>Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261016154500 +0700" stop="20261016180000 +0700">
     <title>Liga 26/27: Real Madrid vs Málaga</title>
@@ -54699,8 +54999,8 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261017050000 +0700" stop="20261017071500 +0700">
-    <title>TBC: Champions League 26/27: Roma vs Real Madrid</title>
-    <desc>TBC: Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
+    <title>Champions League 26/27: Roma vs Real Madrid</title>
+    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261017071500 +0700" stop="20261017073000 +0700">
     <title>Real Madrid News</title>
@@ -54714,89 +55014,109 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261017111500 +0700" stop="20261017140000 +0700">
-    <title>Pre-season 26/27. Schalke 04 vs Real Madrid</title>
-    <desc>Real Madrid face Schalke 04 in Veltins-Arena de Gelsenkirchen Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20261017111500 +0700" stop="20261017132500 +0700">
+    <title>Youth League: Roma U19 vs Real Madrid U19</title>
+    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261017140000 +0700" stop="20261017173000 +0700">
-    <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
-    <desc>It's the Champions League winners vs the Europa League winners.</desc>
+  <programme channel="ch0000000000100002181" start="20261017132500 +0700" stop="20261017143000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261017173000 +0700" stop="20261017183000 +0700">
+  <programme channel="ch0000000000100002181" start="20261017143000 +0700" stop="20261017150000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261017150000 +0700" stop="20261017171500 +0700">
+    <title>Real Madrid City</title>
+    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261017171500 +0700" stop="20261017193000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261017183000 +0700" stop="20261017210000 +0700">
-    <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
-    <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final</desc>
+  <programme channel="ch0000000000100002181" start="20261017193000 +0700" stop="20261017200000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261017210000 +0700" stop="20261017231500 +0700">
-    <title>Liga 26/27: Espanyol vs Real Madrid</title>
-    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  <programme channel="ch0000000000100002181" start="20261017200000 +0700" stop="20261017211500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261017231500 +0700" stop="20261018013000 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261017211500 +0700" stop="20261018000000 +0700">
+    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
+    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018013000 +0700" stop="20261018014500 +0700">
+  <programme channel="ch0000000000100002181" start="20261018000000 +0700" stop="20261018011500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261018011500 +0700" stop="20261018013000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018014500 +0700" stop="20261018033000 +0700">
-    <title>Classic Matches: 1966 European Cup (6th) La Sexta</title>
-    <desc>Watch Real Madrid's sixth Champions League triumph against F.K Partizan in Brussels.</desc>
+  <programme channel="ch0000000000100002181" start="20261018013000 +0700" stop="20261018020000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018033000 +0700" stop="20261018054500 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261018054500 +0700" stop="20261018080000 +0700">
+  <programme channel="ch0000000000100002181" start="20261018020000 +0700" stop="20261018041500 +0700">
     <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
     <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018080000 +0700" stop="20261018081500 +0700">
+  <programme channel="ch0000000000100002181" start="20261018041500 +0700" stop="20261018064500 +0700">
+    <title>Supercopa de España 2022: Athletic Club vs Real Madrid</title>
+    <desc>Final Supercopa de España 2022 Athletic Club vs Real Madrid</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261018064500 +0700" stop="20261018070000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261018070000 +0700" stop="20261018071500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018081500 +0700" stop="20261018104500 +0700">
-    <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
-    <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final</desc>
+  <programme channel="ch0000000000100002181" start="20261018071500 +0700" stop="20261018094500 +0700">
+    <title>Champions League 26/27: Roma vs Real Madrid</title>
+    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018104500 +0700" stop="20261018110000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20261018094500 +0700" stop="20261018110000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261018110000 +0700" stop="20261018111500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018111500 +0700" stop="20261018133000 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261018111500 +0700" stop="20261018143000 +0700">
+    <title>Champions League: Manchester City vs Real Madrid 23/24</title>
+    <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018133000 +0700" stop="20261018154500 +0700">
+  <programme channel="ch0000000000100002181" start="20261018143000 +0700" stop="20261018164500 +0700">
     <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018154500 +0700" stop="20261018180000 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261018164500 +0700" stop="20261018175000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018180000 +0700" stop="20261018183000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20261018175000 +0700" stop="20261018181000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018183000 +0700" stop="20261018210000 +0700">
-    <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
-    <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final</desc>
+  <programme channel="ch0000000000100002181" start="20261018181000 +0700" stop="20261018202500 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018210000 +0700" stop="20261018231500 +0700">
-    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
-    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261018202500 +0700" stop="20261018213000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261018231500 +0700" stop="20261019013000 +0700">
-    <title>Liga 26/27: Elche vs Real Madrid</title>
-    <desc>Matchday 6 of Liga. Real Madrid face Elche in the Manuel Martínez Valero Stadium.</desc>
+  <programme channel="ch0000000000100002181" start="20261018213000 +0700" stop="20261018215000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261018215000 +0700" stop="20261019000500 +0700">
+    <title>Liga 26/27: Real Madrid vs Villarreal</title>
+    <desc>Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20261014234000 +0700" stop="20261015024500 +0700">
     <title lang="th">รีรัน: ฟิลาเดลเฟีย อีเกิลส์ พบ แจ็กสันวิลล์ แจกัวร์ส</title>
@@ -56830,10 +57150,166 @@
     <title lang="en">RBC Canadian Open Highlights Round 3</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002511" start="20261016060000 +0700" stop="20261016100000 +0700">
+  <programme channel="ch0000000000100002511" start="20261016060000 +0700" stop="20261016103500 +0700">
     <title lang="th">รีรัน: เพรสซิเดนท์ส คัพ รอบ 2</title>
     <title lang="en">RERUN: Presidents Cup Round 2</title>
-    <category>Sports</category>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261016103500 +0700" stop="20261016110000 +0700">
+    <title lang="th">วันไฟลต์ เมอร์เทิลบีช คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ONEflight Myrtle Beach Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261016110000 +0700" stop="20261016120000 +0700">
+    <title>2026 FedEx St Jude Championship</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261016120000 +0700" stop="20261016224000 +0700">
+    <title lang="th">รีรัน: เพรสซิเดนท์ส คัพ รอบ 3</title>
+    <title lang="en">RERUN: Presidents Cup Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261016224000 +0700" stop="20261016230000 +0700">
+    <title lang="th">เฟดเอ็กซ์ เซนต์จูด แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">FedEx St. Jude Championship Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261016230000 +0700" stop="20261017000000 +0700">
+    <title>2026 Rocket Classic</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017000000 +0700" stop="20261017010000 +0700">
+    <title>2026 Travelers Championship</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017010000 +0700" stop="20261017020000 +0700">
+    <title>2026 3M Open</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017020000 +0700" stop="20261017124000 +0700">
+    <title lang="th">รีรัน: เพรสซิเดนท์ส คัพ รอบ 3</title>
+    <title lang="en">RERUN: Presidents Cup Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017124000 +0700" stop="20261017130000 +0700">
+    <title lang="th">วันไฟลต์ เมอร์เทิลบีช คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ONEflight Myrtle Beach Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017130000 +0700" stop="20261017160000 +0700">
+    <title lang="th">รีรัน: คอนสเตลเลชัน ฟิวริก แอนด์ เฟรนด์ส รอบสุดท้าย</title>
+    <title lang="en">RERUN: Constellation FURYK &amp; FRIENDS Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017160000 +0700" stop="20261017163000 +0700">
+    <title lang="th">อาร์บีซี แคนาเดียน โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">RBC Canadian Open Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017163000 +0700" stop="20261017230500 +0700">
+    <title lang="th">รีรัน: เพรสซิเดนท์ส คัพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Presidents Cup Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261017230500 +0700" stop="20261018000000 +0700">
+    <title>2026 Corales Puntacana Championship</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018000000 +0700" stop="20261018010000 +0700">
+    <title>2026 ISCO Championship</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018010000 +0700" stop="20261018020000 +0700">
+    <title>2026 John Deere Classic</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018020000 +0700" stop="20261018030000 +0700">
+    <title>2026 WM Phoenix Open</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018030000 +0700" stop="20261018060000 +0700">
+    <title lang="th">รีรัน: เจฟเฟอร์สัน ลีไฮ วัลเลย์ คลาสสิก รอบสุดท้าย</title>
+    <title lang="en">RERUN: Jefferson Lehigh Valley Classic Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018060000 +0700" stop="20261018063000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">TOUR Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018063000 +0700" stop="20261018070000 +0700">
+    <title lang="th">ทัวร์แชมเปี้ยนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">TOUR Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018070000 +0700" stop="20261018110000 +0700">
+    <title lang="th">รีรัน: เบย์เคอร์เรนต์ คลาสสิก รอบ 3</title>
+    <title lang="en">RERUN: Baycurrent Classic Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018110000 +0700" stop="20261018113000 +0700">
+    <title lang="th">รีรัน: 2026 THE CUT Episode 28</title>
+    <title lang="en">RERUN: 2026 THE CUT Episode 28</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018113000 +0700" stop="20261018120000 +0700">
+    <title lang="th">เบย์เคอร์เรนต์ คลาสสิก ไฮไลต์ รอบ 2</title>
+    <title lang="en">Baycurrent Classic Highlights Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018120000 +0700" stop="20261018123000 +0700">
+    <title lang="th">เบย์เคอร์เรนต์ คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">Baycurrent Classic Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018123000 +0700" stop="20261018130000 +0700">
+    <title lang="th">เบย์เคอร์เรนต์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Baycurrent Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018130000 +0700" stop="20261018160000 +0700">
+    <title lang="th">รีรัน: คอมพลายแอนซ์ โซลูชันส์ แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: Compliance Solutions Championship Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018160000 +0700" stop="20261018163000 +0700">
+    <title lang="th">เบย์เคอร์เรนต์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Baycurrent Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018163000 +0700" stop="20261018170000 +0700">
+    <title lang="th">เบย์เคอร์เรนต์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Baycurrent Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018170000 +0700" stop="20261018210000 +0700">
+    <title lang="th">รีรัน: เบย์เคอร์เรนต์ คลาสสิก รอบสุดท้าย</title>
+    <title lang="en">RERUN: Baycurrent Classic Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018210000 +0700" stop="20261018213000 +0700">
+    <title lang="th">เบย์เคอร์เรนต์ คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">Baycurrent Classic Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018213000 +0700" stop="20261018220000 +0700">
+    <title lang="th">เบย์เคอร์เรนต์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Baycurrent Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018220000 +0700" stop="20261018223000 +0700">
+    <title lang="th">รีรัน: 2026 THE CUT Episode 29</title>
+    <title lang="en">RERUN: 2026 THE CUT Episode 29</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018223000 +0700" stop="20261018230000 +0700">
+    <title lang="th">เพรสซิเดนท์ส คัพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Presidents Cup Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002511" start="20261018230000 +0700" stop="20261019000000 +0700">
+    <title>2026 ONEflight Myrtle Beach Classic</title>
+    <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002523" start="20261014000000 +0700" stop="20261015000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -57230,39 +57706,44 @@
     <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261015233500 +0700" stop="20261016000000 +0700">
+  <programme channel="ch0000000000100002528" start="20261015233500 +0700" stop="20261016000500 +0700">
     <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261016000000 +0700" stop="20261016060000 +0700">
-    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
-    <title lang="en">RERUN: DP World India Championship Round 1</title>
+  <programme channel="ch0000000000100002528" start="20261016000500 +0700" stop="20261016045500 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261016060000 +0700" stop="20261016061500 +0700">
-    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 3</title>
-    <title lang="en">Open de Espana presented by Madrid Highlights Round 3</title>
+  <programme channel="ch0000000000100002528" start="20261016045500 +0700" stop="20261016052500 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261016061500 +0700" stop="20261016063500 +0700">
+  <programme channel="ch0000000000100002528" start="20261016052500 +0700" stop="20261016054500 +0700">
     <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261016063500 +0700" stop="20261016123500 +0700">
+  <programme channel="ch0000000000100002528" start="20261016054500 +0700" stop="20261016061500 +0700">
+    <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Nexo Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016061500 +0700" stop="20261016064000 +0700">
+    <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Danish Golf Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016064000 +0700" stop="20261016085500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
     <title lang="en">RERUN: DP World India Championship Round 1</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261016123500 +0700" stop="20261016130000 +0700">
-    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
-    <title lang="en">Alfred Dunhill Links Championship Highlights Round 3</title>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002528" start="20261016130000 +0700" stop="20261016133000 +0700">
-    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
-    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+  <programme channel="ch0000000000100002528" start="20261016085500 +0700" stop="20261016133000 +0700">
+    <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
+    <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20261016133000 +0700" stop="20261016183000 +0700">
@@ -57280,22 +57761,42 @@
     <title lang="en">FedEx Open de France Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261016192000 +0700" stop="20261017012000 +0700">
+  <programme channel="ch0000000000100002528" start="20261016192000 +0700" stop="20261016213500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
     <title lang="en">RERUN: DP World India Championship Round 1</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261017012000 +0700" stop="20261017015000 +0700">
+  <programme channel="ch0000000000100002528" start="20261016213500 +0700" stop="20261016220000 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261016220000 +0700" stop="20261017001500 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: DP World India Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017001500 +0700" stop="20261017004500 +0700">
+    <title lang="th">ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Husqvarna British Masters hosted by Sir Nick Faldo Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017004500 +0700" stop="20261017011000 +0700">
+    <title lang="th">โอเมก้า ยูโรเปียน มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Omega European Masters Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261017011000 +0700" stop="20261017014000 +0700">
     <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">BMW PGA CHAMPIONSHIP Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261017015000 +0700" stop="20261017021500 +0700">
+  <programme channel="ch0000000000100002528" start="20261017014000 +0700" stop="20261017020500 +0700">
     <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261017021500 +0700" stop="20261017071500 +0700">
+  <programme channel="ch0000000000100002528" start="20261017020500 +0700" stop="20261017071500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบ 2</title>
     <title lang="en">RERUN: DP World India Championship Round 2</title>
     <category>Sport</category>
@@ -57370,17 +57871,17 @@
     <title lang="en">RERUN: DP World India Championship Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261018120000 +0700" stop="20261018121500 +0700">
+  <programme channel="ch0000000000100002528" start="20261018120000 +0700" stop="20261018122000 +0700">
     <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 3</title>
     <title lang="en">Open de Espana presented by Madrid Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261018121500 +0700" stop="20261018123500 +0700">
+  <programme channel="ch0000000000100002528" start="20261018122000 +0700" stop="20261018124000 +0700">
     <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261018123500 +0700" stop="20261018130000 +0700">
+  <programme channel="ch0000000000100002528" start="20261018124000 +0700" stop="20261018130000 +0700">
     <title lang="th">ดีพี เวิลด์ อินเดีย แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">DP World India Championship Highlights Round 3</title>
     <category>Sport</category>
@@ -57390,17 +57891,17 @@
     <title lang="en">LIVE: DP World India Championship Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261018180000 +0700" stop="20261018182000 +0700">
+  <programme channel="ch0000000000100002528" start="20261018180000 +0700" stop="20261018182500 +0700">
     <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">Alfred Dunhill Links Championship Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261018182000 +0700" stop="20261018184500 +0700">
+  <programme channel="ch0000000000100002528" start="20261018182500 +0700" stop="20261018185500 +0700">
     <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261018184500 +0700" stop="20261018234500 +0700">
+  <programme channel="ch0000000000100002528" start="20261018185500 +0700" stop="20261018234500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ อินเดีย แชมเปียนชิพ รอบ 3</title>
     <title lang="en">RERUN: DP World India Championship Round 3</title>
     <category>Sport</category>
@@ -59467,57 +59968,27 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261016070000 +0700" stop="20261016083000 +0700">
+  <programme channel="ch0000000000100002781" start="20261016070000 +0700" stop="20261016155000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261016083000 +0700" stop="20261016100000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: คูเวต พบ ไทย</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Kuwait vs Thailand</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20261016100000 +0700" stop="20261016183000 +0700">
+  <programme channel="ch0000000000100002781" start="20261016155000 +0700" stop="20261016162000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261016180000 +0700" stop="20261016235959 +0700">
+  <programme channel="ch0000000000100002781" start="20261016162000 +0700" stop="20261016235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261016183000 +0700" stop="20261016235959 +0700">
+  <programme channel="ch0000000000100002781" start="20261017000000 +0700" stop="20261017235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20261017000000 +0700" stop="20261017070000 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20261017070000 +0700" stop="20261017133000 +0700">
-    <title lang="th">LIVE: แบดมินตัน คนพิการ - รอบคัดเลือก</title>
-    <title lang="en">LIVE: Para Badminton - Preliminary</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20261017133000 +0700" stop="20261017183000 +0700">
-    <title lang="th">LIVE: บอคเซีย - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Boccia - Pool</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002781" start="20261017183000 +0700" stop="20261017235959 +0700">
-    <title lang="th">เอเชียนพาราเกมส์ รีรันและไฮไลต์</title>
-    <title lang="en">ASIAN PARA GAMES Rerun &amp; Highlights</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -59534,8 +60005,8 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002782" start="20261016000000 +0700" stop="20261016073000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม ญี่ปุ่น พบ คาซัคสถาน</title>
+    <title lang="en">Upcoming at 07:30AM Men's Singles Para Table Tennis - Group Japan vs Kazakhstan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -59547,67 +60018,61 @@
   </programme>
   <programme channel="ch0000000000100002782" start="20261016080000 +0700" stop="20261016080500 +0700">
     <title lang="th">เริ่ม 08:05 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม ฮ่องกง พบ ไทย</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="en">Upcoming at 08:05AM Men's Singles Para Table Tennis - Group Hong Kong vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016080500 +0700" stop="20261016084000 +0700">
+  <programme channel="ch0000000000100002782" start="20261016080500 +0700" stop="20261016090000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ฮ่องกง พบ ไทย</title>
     <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Hong Kong vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016084000 +0700" stop="20261016091500 +0700">
+  <programme channel="ch0000000000100002782" start="20261016090000 +0700" stop="20261016094000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ จีนไทเป</title>
     <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Japan vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016091500 +0700" stop="20261016095000 +0700">
+  <programme channel="ch0000000000100002782" start="20261016094000 +0700" stop="20261016100000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีนไทเป พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Chinese Taipei vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016095000 +0700" stop="20261016112000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: จีน พบ ไทย</title>
-    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: China vs Thailand</title>
+  <programme channel="ch0000000000100002782" start="20261016100000 +0700" stop="20261016104000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีน พบ ไทย</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: China vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016112000 +0700" stop="20261016120000 +0700">
-    <title lang="th">เริ่ม 12:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก อิรัก พบ อิหร่าน</title>
-    <title lang="en">No Broadcast</title>
+  <programme channel="ch0000000000100002782" start="20261016104000 +0700" stop="20261016110000 +0700">
+    <title lang="th">เริ่ม 11:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก จีน พบ ญี่ปุ่น</title>
+    <title lang="en">Upcoming at 11:00AM Men's Wheelchair Basketball - Preliminary China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016120000 +0700" stop="20261016140000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: อิรัก พบ อิหร่าน</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Iraq vs Iran</title>
+  <programme channel="ch0000000000100002782" start="20261016110000 +0700" stop="20261016124000 +0700">
+    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: จีน พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016140000 +0700" stop="20261016143000 +0700">
+  <programme channel="ch0000000000100002782" start="20261016124000 +0700" stop="20261016143000 +0700">
     <title lang="th">เริ่ม 14:30 วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก ลาว พบ ไทย</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="en">Upcoming at 02:30PM Women's Wheelchair Basketball - Preliminary Lao vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016143000 +0700" stop="20261016153000 +0700">
+  <programme channel="ch0000000000100002782" start="20261016143000 +0700" stop="20261016161000 +0700">
     <title lang="th">LIVE: วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก: ลาว พบ ไทย</title>
     <title lang="en">LIVE: Women's Wheelchair Basketball - Preliminary: Lao vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261016153000 +0700" stop="20261016163000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: เกาหลีใต้ พบ ฟิลิปปินส์</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: South Korea vs Philippines</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002782" start="20261016163000 +0700" stop="20261016180000 +0700">
+  <programme channel="ch0000000000100002782" start="20261016161000 +0700" stop="20261016180000 +0700">
     <title lang="th">เริ่ม 18:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก อิหร่าน พบ ญี่ปุ่น</title>
-    <title lang="en">No Broadcast</title>
+    <title lang="en">Upcoming at 06:00PM Men's Wheelchair Basketball - Preliminary Iran vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -59743,13 +60208,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20261016070000 +0700" stop="20261016180000 +0700">
+  <programme channel="ch0000000000100002785" start="20261016070000 +0700" stop="20261016155000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20261016180000 +0700" stop="20261016235959 +0700">
+  <programme channel="ch0000000000100002785" start="20261016155000 +0700" stop="20261016235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59803,25 +60268,25 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20261017073000 +0700" stop="20261017120500 +0700">
+  <programme channel="ch0000000000100002786" start="20261017073000 +0700" stop="20261017123000 +0700">
     <title lang="th">LIVE: บอคเซีย - แบ่งกลุ่ม</title>
     <title lang="en">LIVE: Boccia - Pool</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20261017120500 +0700" stop="20261017133000 +0700">
+  <programme channel="ch0000000000100002786" start="20261017123000 +0700" stop="20261017133000 +0700">
     <title lang="th">เริ่ม 13:30 บอคเซีย - แบ่งกลุ่ม</title>
     <title lang="en">Upcoming at 01:30PM Boccia - Pool</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20261017133000 +0700" stop="20261017181000 +0700">
+  <programme channel="ch0000000000100002786" start="20261017133000 +0700" stop="20261017183000 +0700">
     <title lang="th">LIVE: บอคเซีย - แบ่งกลุ่ม</title>
     <title lang="en">LIVE: Boccia - Pool</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20261017181000 +0700" stop="20261017235959 +0700">
+  <programme channel="ch0000000000100002786" start="20261017183000 +0700" stop="20261017235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59881,31 +60346,103 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20261016095000 +0700" stop="20261016103000 +0700">
+  <programme channel="ch0000000000100002787" start="20261016095000 +0700" stop="20261016101000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ มาเก๊า</title>
     <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs Macau</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20261016103000 +0700" stop="20261016235959 +0700">
+  <programme channel="ch0000000000100002787" start="20261016101000 +0700" stop="20261016235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20261017000000 +0700" stop="20261017130000 +0700">
-    <title lang="th">เริ่ม 13:00 เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">Upcoming at 01:00PM Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002787" start="20261017000000 +0700" stop="20261017073000 +0700">
+    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม อินเดีย พบ ญี่ปุ่น</title>
+    <title lang="en">Upcoming at 07:30AM Women's Singles Para Table Tennis - Group India vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20261017130000 +0700" stop="20261017190000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002787" start="20261017073000 +0700" stop="20261017080500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: อินเดีย พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: India vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002787" start="20261017190000 +0700" stop="20261017235959 +0700">
+  <programme channel="ch0000000000100002787" start="20261017080500 +0700" stop="20261017084000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ ไทย</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: South Korea vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017084000 +0700" stop="20261017091500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: อินเดีย พบ คาซัคสถาน</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: India vs Kazakhstan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017091500 +0700" stop="20261017124000 +0700">
+    <title lang="th">เริ่ม 12:40 เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม เกาหลีใต้ พบ ญี่ปุ่น</title>
+    <title lang="en">Upcoming at 12:40PM Women's Singles Para Table Tennis - Group South Korea vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017124000 +0700" stop="20261017131500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: South Korea vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017131500 +0700" stop="20261017135000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: เนปาล พบ กัมพูชา</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Nepal vs Cambodia</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017135000 +0700" stop="20261017142500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: อินเดีย พบ เกาหลีใต้</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: India vs South Korea</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017142500 +0700" stop="20261017150000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ฟิลิปปินส์ พบ มองโกเลีย</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Philippines vs Mongolia</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017150000 +0700" stop="20261017153500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ จอร์แดน</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: South Korea vs Jordan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017153500 +0700" stop="20261017161000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีน พบ ไทย</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: China vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017161000 +0700" stop="20261017164500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: ไทย พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Thailand vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017164500 +0700" stop="20261017172000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ ปากีสถาน</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: South Korea vs Pakistan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017172000 +0700" stop="20261017180000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: อินเดีย พบ คาซัคสถาน</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: India vs Kazakhstan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002787" start="20261017180000 +0700" stop="20261017235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59953,13 +60490,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20261016070000 +0700" stop="20261016180000 +0700">
+  <programme channel="ch0000000000100002789" start="20261016070000 +0700" stop="20261016162000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20261016180000 +0700" stop="20261016235959 +0700">
+  <programme channel="ch0000000000100002789" start="20261016162000 +0700" stop="20261016235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -60013,61 +60550,127 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261016080500 +0700" stop="20261016084000 +0700">
+  <programme channel="ch0000000000100002790" start="20261016080500 +0700" stop="20261016090000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ฮ่องกง พบ ไทย</title>
     <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Hong Kong vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261016084000 +0700" stop="20261016091500 +0700">
+  <programme channel="ch0000000000100002790" start="20261016090000 +0700" stop="20261016094000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ จีนไทเป</title>
     <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Japan vs Chinese Taipei</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261016091500 +0700" stop="20261016095000 +0700">
+  <programme channel="ch0000000000100002790" start="20261016094000 +0700" stop="20261016100000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีนไทเป พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Chinese Taipei vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261016095000 +0700" stop="20261016112000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: จีน พบ ไทย</title>
-    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: China vs Thailand</title>
+  <programme channel="ch0000000000100002790" start="20261016100000 +0700" stop="20261016104000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีน พบ ไทย</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: China vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261016112000 +0700" stop="20261016235959 +0700">
+  <programme channel="ch0000000000100002790" start="20261016104000 +0700" stop="20261016235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002790" start="20261017000000 +0700" stop="20261017073000 +0700">
-    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">Upcoming at 07:30AM Para Table Tennis - Group</title>
+    <title lang="th">เริ่ม 07:30 เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม ไทย พบ อินโดนีเซีย</title>
+    <title lang="en">Upcoming at 07:30AM Women's Singles Para Table Tennis - Group Thailand vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261017073000 +0700" stop="20261017103000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002790" start="20261017073000 +0700" stop="20261017080500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: ไทย พบ อินโดนีเซีย</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Thailand vs Indonesia</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261017103000 +0700" stop="20261017130000 +0700">
-    <title lang="th">เริ่ม 13:00 เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">Upcoming at 01:00PM Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002790" start="20261017080500 +0700" stop="20261017084000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ คาซัคสถาน</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs Kazakhstan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261017130000 +0700" stop="20261017190000 +0700">
-    <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
-    <title lang="en">LIVE: Para Table Tennis - Group</title>
+  <programme channel="ch0000000000100002790" start="20261017084000 +0700" stop="20261017091500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ อินเดีย</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs India</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261017190000 +0700" stop="20261017235959 +0700">
+  <programme channel="ch0000000000100002790" start="20261017091500 +0700" stop="20261017103000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ คาซัคสถาน</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs Kazakhstan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017103000 +0700" stop="20261017124000 +0700">
+    <title lang="th">เริ่ม 12:40 เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม เกาหลีใต้ พบ จีนไทเป</title>
+    <title lang="en">Upcoming at 12:40PM Men's Singles Para Table Tennis - Group South Korea vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017124000 +0700" stop="20261017131500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ จีนไทเป</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: South Korea vs Chinese Taipei</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017131500 +0700" stop="20261017135000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Japan vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017135000 +0700" stop="20261017142500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีนไทเป พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: Chinese Taipei vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017142500 +0700" stop="20261017150000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว - แบ่งกลุ่ม: จีน พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Group: China vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017150000 +0700" stop="20261017153500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: จีน พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: China vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017153500 +0700" stop="20261017161000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: ญี่ปุ่น พบ ฮ่องกง</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Japan vs Hong Kong</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017161000 +0700" stop="20261017164500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: จีนไทเป พบ มาเลเซีย</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Chinese Taipei vs Malaysia</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017164500 +0700" stop="20261017172000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: อินโดนีเซีย พบ ฟิลิปปินส์</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: Indonesia vs Philippines</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017172000 +0700" stop="20261017181000 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสชายเดี่ยว - แบ่งกลุ่ม: เกาหลีใต้ พบ อิรัก</title>
+    <title lang="en">LIVE: Men's Singles Para Table Tennis - Group: South Korea vs Iraq</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002790" start="20261017181000 +0700" stop="20261017235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -60121,49 +60724,31 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016085000 +0700" stop="20261016105000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: คูเวต พบ ไทย</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Kuwait vs Thailand</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002801" start="20261016105000 +0700" stop="20261016110000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016085000 +0700" stop="20261016110000 +0700">
     <title lang="th">เริ่ม 11:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก จีน พบ ญี่ปุ่น</title>
     <title lang="en">Upcoming at 11:00AM Men's Wheelchair Basketball - Preliminary China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016110000 +0700" stop="20261016120000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016110000 +0700" stop="20261016124000 +0700">
     <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: จีน พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: China vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016120000 +0700" stop="20261016140000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: อิรัก พบ อิหร่าน</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Iraq vs Iran</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002801" start="20261016140000 +0700" stop="20261016143000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016124000 +0700" stop="20261016143000 +0700">
     <title lang="th">เริ่ม 14:30 วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก ลาว พบ ไทย</title>
     <title lang="en">Upcoming at 02:30PM Women's Wheelchair Basketball - Preliminary Lao vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016143000 +0700" stop="20261016153000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016143000 +0700" stop="20261016161000 +0700">
     <title lang="th">LIVE: วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก: ลาว พบ ไทย</title>
     <title lang="en">LIVE: Women's Wheelchair Basketball - Preliminary: Lao vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261016153000 +0700" stop="20261016163000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: เกาหลีใต้ พบ ฟิลิปปินส์</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: South Korea vs Philippines</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002801" start="20261016163000 +0700" stop="20261016180000 +0700">
+  <programme channel="ch0000000000100002801" start="20261016161000 +0700" stop="20261016180000 +0700">
     <title lang="th">เริ่ม 18:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก อิหร่าน พบ ญี่ปุ่น</title>
     <title lang="en">Upcoming at 06:00PM Men's Wheelchair Basketball - Preliminary Iran vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -60193,13 +60778,7 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261017083000 +0700" stop="20261017093000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: ฟิลิปปินส์ พบ อิรัก</title>
-    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Philippines vs Iraq</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002801" start="20261017093000 +0700" stop="20261017110000 +0700">
+  <programme channel="ch0000000000100002801" start="20261017083000 +0700" stop="20261017110000 +0700">
     <title lang="th">เริ่ม 11:00 วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก ญี่ปุ่น พบ จีน</title>
     <title lang="en">Upcoming at 11:00AM Women's Wheelchair Basketball - Preliminary Japan vs China</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -60211,31 +60790,19 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261017120000 +0700" stop="20261017130000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก: กัมพูชา พบ ลาว</title>
-    <title lang="en">LIVE: Women's Wheelchair Basketball - Preliminary: Cambodia vs Lao</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002801" start="20261017130000 +0700" stop="20261017143000 +0700">
-    <title lang="th">เริ่ม 14:30 ชาย - รอบคัดเลือก คูเวต พบ จีน</title>
-    <title lang="en">Upcoming at 02:30PM Men's Wheelchair Baskeyball - Preliminary Kuwait vs China</title>
+  <programme channel="ch0000000000100002801" start="20261017120000 +0700" stop="20261017143000 +0700">
+    <title lang="th">เริ่ม 14:30 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก คูเวต พบ จีน</title>
+    <title lang="en">Upcoming at 02:30PM Men's Wheelchair Basketball - Preliminary Kuwait vs China</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002801" start="20261017143000 +0700" stop="20261017153000 +0700">
-    <title lang="th">LIVE: ชาย - รอบคัดเลือก: คูเวต พบ จีน</title>
-    <title lang="en">LIVE: Men's Wheelchair Baskeyball - Preliminary: Kuwait vs China</title>
+    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก: คูเวต พบ จีน</title>
+    <title lang="en">LIVE: Men's Wheelchair Basketball - Preliminary: Kuwait vs China</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261017153000 +0700" stop="20261017163000 +0700">
-    <title lang="th">LIVE: วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก: อิหร่าน พบ ไทย</title>
-    <title lang="en">LIVE: Women's Wheelchair Basketball - Preliminary: Iran vs Thailand</title>
-    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
-    <category lang="en">Sports,Asian Para Games</category>
-  </programme>
-  <programme channel="ch0000000000100002801" start="20261017163000 +0700" stop="20261017180000 +0700">
+  <programme channel="ch0000000000100002801" start="20261017153000 +0700" stop="20261017180000 +0700">
     <title lang="th">เริ่ม 18:00 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก ญี่ปุ่น พบ ไทย</title>
     <title lang="en">Upcoming at 06:00PM Men's Wheelchair Basketball - Preliminary Japan vs Thailand</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
