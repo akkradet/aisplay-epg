@@ -248,12 +248,12 @@
   <channel id="ch0000000000100002041">
     <display-name lang="th">เพลย์สปอร์ต 1</display-name>
     <display-name lang="en">PLAY SPORTS 1</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134447018596.png"/>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250922100351024158.png"/>
   </channel>
   <channel id="ch0000000000100002052">
     <display-name lang="th">เพลย์สปอร์ต 2</display-name>
     <display-name lang="en">PLAY SPORTS 2</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250922100400024159.png"/>
   </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
@@ -510,95 +510,23 @@
     <display-name lang="en">Asian Para Games 914</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091911080620.png"/>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002402">
-    <display-name>ch0000000000100002402</display-name>
-  </channel>
-  <channel id="ch0000000000100002551">
-    <display-name>ch0000000000100002551</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002541">
-    <display-name>ch0000000000100002541</display-name>
-  </channel>
   <channel id="ch0000000000100002323">
     <display-name>ch0000000000100002323</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
   </channel>
-  <channel id="ch0000000000100002642">
-    <display-name>ch0000000000100002642</display-name>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
   <channel id="ch0000000000100001293">
     <display-name>ch0000000000100001293</display-name>
@@ -606,119 +534,194 @@
   <channel id="ch0000000000100002252">
     <display-name>ch0000000000100002252</display-name>
   </channel>
-  <channel id="ch0000000000100002441">
-    <display-name>ch0000000000100002441</display-name>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
   </channel>
   <channel id="ch0000000000100002325">
     <display-name>ch0000000000100002325</display-name>
   </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100002721">
     <display-name>ch0000000000100002721</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002534">
-    <display-name>ch0000000000100002534</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002535">
-    <display-name>ch0000000000100002535</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
   </channel>
   <channel id="ch0000000000100002584">
     <display-name>ch0000000000100002584</display-name>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
+  <channel id="ch0000000000100002551">
+    <display-name>ch0000000000100002551</display-name>
   </channel>
   <channel id="ch0000000000100001286">
     <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name>ch0000000000100002742</display-name>
+  <channel id="ch0000000000100002642">
+    <display-name>ch0000000000100002642</display-name>
   </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
   </channel>
   <channel id="ch0000000000100002312">
     <display-name>ch0000000000100002312</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002742">
+    <display-name>ch0000000000100002742</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
   </channel>
   <channel id="ch0000000000100002582">
     <display-name>ch0000000000100002582</display-name>
   </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002534">
+    <display-name>ch0000000000100002534</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002441">
+    <display-name>ch0000000000100002441</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002402">
+    <display-name>ch0000000000100002402</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002535">
+    <display-name>ch0000000000100002535</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002541">
+    <display-name>ch0000000000100002541</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261017230000 +0700" stop="20261018000000 +0700">
     <title>Lanterns S1 Ep.6</title>
@@ -21902,8 +21905,8 @@
     <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001187" start="20261018140000 +0700" stop="20261018145500 +0700">
-    <title>Mystery At Blind Frog Ranch S5 Ep.3: Chamber Of Gold</title>
-    <desc>The team descends into the secret Mormon mine entrance. They finally find the Keyhole Chamber -and uncover the truth about the Aztec gold.</desc>
+    <title>Unmasking A Monster: Aileen Wuornos S1 Ep.3: The World Will Learn</title>
+    <desc>When the world finally hears from Wuornos herself, she claims that the killings were in self-defence. If a jury doesn’t believe her, she will die.</desc>
     <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001187" start="20261018145500 +0700" stop="20261018162000 +0700">
@@ -21928,12 +21931,12 @@
   </programme>
   <programme channel="ch0000000000100001187" start="20261018190500 +0700" stop="20261018193000 +0700">
     <title>The Answer Is Earth S1 Ep.2</title>
-    <desc>Focus on China's environmental protection initiatives and will collaborate with Wild Aid to raise public awareness of environmental conservation.</desc>
+    <desc>Zhang Linghe explores pumped-storage plants and fishery-solar projects, showcasing how China uses both established and innovative tech.</desc>
     <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001187" start="20261018193000 +0700" stop="20261018200000 +0700">
-    <title>TBA S Ep.: TBA</title>
-    <desc>TBA</desc>
+    <title>Greater Bay Area Theme Week Program S1 Ep.2: Taste of Hongkong</title>
+    <desc>Exploring Hong Kong's culinary evolution, this documentary series weaves together iconic drama clips and real-life stories.</desc>
     <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001187" start="20261018200000 +0700" stop="20261018205500 +0700">
@@ -21942,9 +21945,9 @@
     <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001187" start="20261018205500 +0700" stop="20261018215000 +0700">
-    <title>How To Catch A Dirtbag S1 Ep.2: The Kilted Keisterer</title>
-    <desc>Tizzy searches for a kilted man who was recorded placing items from an antique shop under his kilt, and a woman claims a public beach as her own yard.</desc>
-    <category>Lifestyle</category>
+    <title>Unmasking A Monster: Aileen Wuornos S1 Ep.3: The World Will Learn</title>
+    <desc>When the world finally hears from Wuornos herself, she claims that the killings were in self-defence. If a jury doesn’t believe her, she will die.</desc>
+    <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001187" start="20261018215000 +0700" stop="20261018231000 +0700">
     <title>Expedition Unknown S11 Ep.5: Secrets Of Mexicos Underworld</title>
@@ -22343,7 +22346,7 @@
   </programme>
   <programme channel="ch0000000000100001187" start="20261021200000 +0700" stop="20261021202500 +0700">
     <title>The Answer Is Earth S1 Ep.2</title>
-    <desc>Focus on China's environmental protection initiatives and will collaborate with Wild Aid to raise public awareness of environmental conservation.</desc>
+    <desc>Zhang Linghe explores pumped-storage plants and fishery-solar projects, showcasing how China uses both established and innovative tech.</desc>
     <category>Factual &amp; Documentary/Documentary</category>
   </programme>
   <programme channel="ch0000000000100001187" start="20261021202500 +0700" stop="20261021205500 +0700">
@@ -26949,8 +26952,128 @@
     <title>2026 KLPGA Tour Iceberg Golf - Seoul Shinmun Open Round 1</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100001212" start="20261019230000 +0700" stop="20261020030000 +0700">
+  <programme channel="ch0000000000100001212" start="20261019230000 +0700" stop="20261020000000 +0700">
     <title>Highlight 2026 LIV GOLF VIRGINIA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020000000 +0700" stop="20261020023000 +0700">
+    <title>2026 LIV GOLF MEXICO CITY Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020023000 +0700" stop="20261020063000 +0700">
+    <title>2026 LIV GOLF MEXICO CITY Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020063000 +0700" stop="20261020090000 +0700">
+    <title>2026 KLPGA Tour HJ Shipbuilding &amp; Construction - Dongbu Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020090000 +0700" stop="20261020113000 +0700">
+    <title>2026 KLPGA Tour HJ Shipbuilding &amp; Construction - Dongbu Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020113000 +0700" stop="20261020123000 +0700">
+    <title>Highlight 2026 LIV GOLF VIRGINIA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020123000 +0700" stop="20261020153000 +0700">
+    <title>2026 KLPGA Tour The 15th KG Ladies Open Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020153000 +0700" stop="20261020154500 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020154500 +0700" stop="20261020160000 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020160000 +0700" stop="20261020190000 +0700">
+    <title>2026 KLPGA Tour Iceberg Golf - Seoul Shinmun Open Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020190000 +0700" stop="20261020191500 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020191500 +0700" stop="20261020193000 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020193000 +0700" stop="20261020200000 +0700">
+    <title>Health Series</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020200000 +0700" stop="20261020230000 +0700">
+    <title>2026 KLPGA Tour Iceberg Golf - Seoul Shinmun Open Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261020230000 +0700" stop="20261021000000 +0700">
+    <title>Highlight 2026 LIV GOLF KOREA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021000000 +0700" stop="20261021040000 +0700">
+    <title>2026 LIV GOLF MEXICO CITY Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021040000 +0700" stop="20261021063000 +0700">
+    <title>2026 KLPGA Tour HJ Shipbuilding &amp; Construction - Dongbu Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021063000 +0700" stop="20261021090000 +0700">
+    <title>2026 KLPGA Tour HJ Shipbuilding &amp; Construction - Dongbu Championship Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021090000 +0700" stop="20261021113000 +0700">
+    <title>2026 KLPGA Tour HJ Shipbuilding &amp; Construction - Dongbu Championship Final Round</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021113000 +0700" stop="20261021123000 +0700">
+    <title>Highlight 2026 LIV GOLF KOREA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021123000 +0700" stop="20261021130000 +0700">
+    <title>Health Series</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021130000 +0700" stop="20261021153000 +0700">
+    <title>2026 KLPGA Tour The 15th KG Ladies Open Final Round</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021153000 +0700" stop="20261021154500 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021154500 +0700" stop="20261021160000 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021160000 +0700" stop="20261021190000 +0700">
+    <title>026 KLPGA Tour Iceberg Golf - Seoul Shinmun Open Final Round</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021190000 +0700" stop="20261021191500 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021191500 +0700" stop="20261021193000 +0700">
+    <title>2026 DriveLine</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021193000 +0700" stop="20261021194500 +0700">
+    <title>Greenline GolfLab</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021194500 +0700" stop="20261021200000 +0700">
+    <title>2026 James Oh Golf</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021200000 +0700" stop="20261021230000 +0700">
+    <title>2026 KLPGA Tour Iceberg Golf - Seoul Shinmun Open Final Round</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100001212" start="20261021230000 +0700" stop="20261022000000 +0700">
+    <title>Highlight 2026 LIV GOLF ANDALUCIA</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261017233000 +0700" stop="20261018000000 +0700">
@@ -27197,13 +27320,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261019090000 +0700" stop="20261019093000 +0700">
-    <title>African Voices: Episode 236</title>
-    <desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
+    <title>African Voices: Ramzi Yamusah</title>
+    <desc>Ghanaian hospitality entrepreneur Ramzi Yamusah is exporting a modern vision of African culture and hospitality to the world.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261019093000 +0700" stop="20261019094500 +0700">
-    <title>Marketplace Europe: Episode 62</title>
-    <desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
+    <title>Marketplace Europe: The UK's Energy Industry</title>
+    <desc>Octopus Energy has gone from startup to unicorn to the UK's largest energy supplier. CEO Jackson talks about how they've achieved their meteoric rise.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261019094500 +0700" stop="20261019100000 +0700">
@@ -27306,8 +27429,8 @@
     <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261019234500 +0700" stop="20261020000000 +0700">
-    <title>African Voices: Episode 236A</title>
-    <desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
+    <title>African Voices: Ramzi Yamusah</title>
+    <desc>Ghanaian hospitality entrepreneur Ramzi Yamusah is exporting a modern vision of African culture and hospitality to the world.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261020000000 +0700" stop="20261020010000 +0700">
@@ -27331,8 +27454,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261020034500 +0700" stop="20261020040000 +0700">
-    <title>Quest's World of Wonder: October 2026 83A</title>
-    <desc>In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep, and a revealing visit to the ancient city of Pompeii leaves him speechless.</desc>
+    <title>Quest's World of Wonder: Naples, Italy</title>
+    <desc>In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261020040000 +0700" stop="20261020043000 +0700">
@@ -27460,8 +27583,8 @@
     <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261020234500 +0700" stop="20261021000000 +0700">
-    <title>African Voices: Episode 236B</title>
-    <desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
+    <title>African Voices: Ramzi Yamusah</title>
+    <desc>Ghanaian hospitality entrepreneur Ramzi Yamusah is exporting a modern vision of African culture and hospitality to the world.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261021000000 +0700" stop="20261021010000 +0700">
@@ -27485,8 +27608,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261021034500 +0700" stop="20261021040000 +0700">
-    <title>Quest's World of Wonder: October 2026 83B</title>
-    <desc>In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep, and a revealing visit to the ancient city of Pompeii leaves him speechless.</desc>
+    <title>Quest's World of Wonder: Naples, Italy</title>
+    <desc>In the lively energy in the heart of historic Naples, Richard learns why Neapolitans are described as deeply authentic with traditions running deep.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261021040000 +0700" stop="20261021043000 +0700">
@@ -29060,14 +29183,12 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261019180000 +0700" stop="20261019183000 +0700">
-    <title lang="th">Money Mind Episode 25</title>
-    <title lang="en">Money Mind Episode 25 (Eng Subs)</title>
+    <title>Money Mind Episode 25</title>
     <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261019183000 +0700" stop="20261019190000 +0700">
-    <title lang="th">On The Red Dot Episode 21</title>
-    <title lang="en">On The Red Dot Ep.21: Last Act (Ep 1)</title>
+    <title>On The Red Dot Episode 21</title>
     <desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
     <category>News</category>
   </programme>
@@ -29137,8 +29258,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261020090000 +0700" stop="20261020100000 +0700">
-    <title lang="th">China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subs)</title>
+    <title>China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subtitles)</title>
     <desc>In Chengdu, youth fight burnout with "night schools" and forest blind walks, then escape into the Metaverse and luxury esports hotels. This is the future of leisure.</desc>
     <category>News</category>
   </programme>
@@ -29148,8 +29268,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261020120000 +0700" stop="20261020130000 +0700">
-    <title lang="th">China’s Night Boom Ep.2: Changsha's Culture Gold Rush (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.2: Changsha's Culture Gold Rush (Eng Subs)</title>
+    <title>China’s Night Boom Ep.2: Changsha's Culture Gold Rush (Eng Subtitles)</title>
     <desc>Welcome to Changsha. From a booming multi-billion dollar "vertical drama" industry to Tang Dynasty theme parks and midnight mountain hikes, discover how China’s entertainment capital turns night into money.</desc>
     <category>News</category>
   </programme>
@@ -29159,15 +29278,12 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261020150000 +0700" stop="20261020153000 +0700">
-    <title lang="th">Money Mind Episode 25</title>
-    <title lang="en">Money Mind Episode 25 (Eng Subs)</title>
-    <desc lang="th">Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.  </desc>
-    <desc lang="en">Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <title>Money Mind Episode 25</title>
+    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.  </desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261020153000 +0700" stop="20261020160000 +0700">
-    <title lang="th">CNA Correspondent Episode 24</title>
-    <title lang="en">CNA Correspondent Episode 24 (Eng Subs)</title>
+    <title>CNA Correspondent Episode 24</title>
     <desc>They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
     <category>News</category>
   </programme>
@@ -29187,8 +29303,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261020180000 +0700" stop="20261020190000 +0700">
-    <title lang="th">China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subs)</title>
+    <title>China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subtitles)</title>
     <desc>Inside Shenzhen, China's "Silicon Valley of Hardware": 10,000 drone swarms, AI tennis courts, and dark sky sanctuaries. Welcome to the tech city that never sleeps.</desc>
     <category>News</category>
   </programme>
@@ -29198,8 +29313,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261020200000 +0700" stop="20261020210000 +0700">
-    <title lang="th">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
-    <title lang="en">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subs)</title>
+    <title>Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
     <desc>At Lam Takhong Dam, hydropower supports Thailand’s grid, but for nearby communities, access to land and water reveals how energy systems shape daily life.</desc>
     <category>News</category>
   </programme>
@@ -29209,8 +29323,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261020220000 +0700" stop="20261020230000 +0700">
-    <title lang="th">China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subs)</title>
+    <title>China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subtitles)</title>
     <desc>In Chengdu, youth fight burnout with "night schools" and forest blind walks, then escape into the Metaverse and luxury esports hotels. This is the future of leisure.</desc>
     <category>News</category>
   </programme>
@@ -29225,8 +29338,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021000000 +0700" stop="20261021010000 +0700">
-    <title lang="th">China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subs)</title>
+    <title>China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subtitles)</title>
     <desc>Inside Shenzhen, China's "Silicon Valley of Hardware": 10,000 drone swarms, AI tennis courts, and dark sky sanctuaries. Welcome to the tech city that never sleeps.</desc>
     <category>News</category>
   </programme>
@@ -29246,8 +29358,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021040000 +0700" stop="20261021050000 +0700">
-    <title lang="th">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
-    <title lang="en">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subs)</title>
+    <title>Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
     <desc>At Lam Takhong Dam, hydropower supports Thailand’s grid, but for nearby communities, access to land and water reveals how energy systems shape daily life.</desc>
     <category>News</category>
   </programme>
@@ -29262,8 +29373,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021090000 +0700" stop="20261021100000 +0700">
-    <title lang="th">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
-    <title lang="en">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subs)</title>
+    <title>Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
     <desc>At Lam Takhong Dam, hydropower supports Thailand’s grid, but for nearby communities, access to land and water reveals how energy systems shape daily life.</desc>
     <category>News</category>
   </programme>
@@ -29273,8 +29383,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021120000 +0700" stop="20261021130000 +0700">
-    <title lang="th">China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subs)</title>
+    <title>China’s Night Boom Ep.3: Chengdu's Evolving Soul (Eng Subtitles)</title>
     <desc>In Chengdu, youth fight burnout with "night schools" and forest blind walks, then escape into the Metaverse and luxury esports hotels. This is the future of leisure.</desc>
     <category>News</category>
   </programme>
@@ -29294,8 +29403,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021160200 +0700" stop="20261021170000 +0700">
-    <title lang="th">China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subs)</title>
+    <title>China’s Night Boom Ep.1: Shenzhen's Tech After Dark (Eng Subtitles)</title>
     <desc>Inside Shenzhen, China's "Silicon Valley of Hardware": 10,000 drone swarms, AI tennis courts, and dark sky sanctuaries. Welcome to the tech city that never sleeps.</desc>
     <category>News</category>
   </programme>
@@ -29305,8 +29413,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021180000 +0700" stop="20261021190000 +0700">
-    <title lang="th">China’s Night Boom Ep.2: Changsha's Culture Gold Rush (Eng Subtitles)</title>
-    <title lang="en">China’s Night Boom Ep.2: Changsha's Culture Gold Rush (Eng Subs)</title>
+    <title>China’s Night Boom Ep.2: Changsha's Culture Gold Rush (Eng Subtitles)</title>
     <desc>Welcome to Changsha. From a booming multi-billion dollar "vertical drama" industry to Tang Dynasty theme parks and midnight mountain hikes, discover how China’s entertainment capital turns night into money.</desc>
     <category>News</category>
   </programme>
@@ -29317,8 +29424,7 @@
   </programme>
   <programme channel="ch0000000000100001244" start="20261021200000 +0700" stop="20261021203000 +0700">
     <title>Money Mind Episode 26</title>
-    <desc lang="th">Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.  </desc>
-    <desc lang="en">Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.  </desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021203000 +0700" stop="20261021210000 +0700">
@@ -29332,8 +29438,7 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001244" start="20261021220000 +0700" stop="20261021230000 +0700">
-    <title lang="th">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
-    <title lang="en">Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subs)</title>
+    <title>Power To The People S2 Ep.4: They Live Beside a Dam But Can’t Use The Water (Eng Subtitles)</title>
     <desc>At Lam Takhong Dam, hydropower supports Thailand’s grid, but for nearby communities, access to land and water reveals how energy systems shape daily life.</desc>
     <category>News</category>
   </programme>
@@ -48072,7 +48177,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261017233000 +0700" stop="20261018000000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: How this runway system can prevent plane crashes</title>
+    <desc>It looks unremarkable, but this system at the end of a runway can stop an aircraft overrun from becoming a disaster Plus: the hunt for falling satellites and a new space telescope set to explore the universe.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018000000 +0700" stop="20261018000200 +0700">
@@ -48094,7 +48200,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018010200 +0700" stop="20261018011500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Fashion — "Your style is a statement — What’s yours?”</title>
+    <desc>From Malaysia’s modest fashion economy to Singapore’s genderfluid designs and Indonesia’s fight against fast fashion — Southeast Asia’s style scene is bold, political, and transformative. Fashion doesn’t just cover us. It challenges us. It shapes us.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018011500 +0700" stop="20261018013000 +0700">
@@ -48110,7 +48217,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018020200 +0700" stop="20261018021500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: From a Small Romanian Town to World No. 1 in Skateboarding</title>
+    <desc>As the world's top freestyle skateboarder, Daniel Popescu could pursue greater opportunities abroad. Instead, he stays in Romania, determined to prove that success doesn't have to mean leaving home.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018021500 +0700" stop="20261018030000 +0700">
@@ -48144,7 +48252,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018043000 +0700" stop="20261018050000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: India follows Brazil example in its transition to E20</title>
+    <desc>A shift to E20 fuel promises cleaner energy and lower oil imports. But is India moving too fast for millions of vehicles? And: parcel delivery via Madrid's metro, and artists in Mali and Tanzania help climate protection.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018050000 +0700" stop="20261018050300 +0700">
@@ -48177,15 +48286,18 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018070200 +0700" stop="20261018071500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Fashion — "Your style is a statement — What’s yours?”</title>
+    <desc>From Malaysia’s modest fashion economy to Singapore’s genderfluid designs and Indonesia’s fight against fast fashion — Southeast Asia’s style scene is bold, political, and transformative. Fashion doesn’t just cover us. It challenges us. It shapes us.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018071500 +0700" stop="20261018073000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018073000 +0700" stop="20261018080000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: History: The 1918 German Revolution</title>
+    <desc>Most countries celebrate their revolutions — so why doesn't Germany? In November 1918, German sailors refused to die in a pointless battle, sparking a revolution that would overthrow the Kaiser and end World War I.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018080000 +0700" stop="20261018080200 +0700">
@@ -48193,7 +48305,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018080200 +0700" stop="20261018081500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: From a Small Romanian Town to World No. 1 in Skateboarding</title>
+    <desc>As the world's top freestyle skateboarder, Daniel Popescu could pursue greater opportunities abroad. Instead, he stays in Romania, determined to prove that success doesn't have to mean leaving home.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018081500 +0700" stop="20261018090000 +0700">
@@ -48210,11 +48323,13 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018091500 +0700" stop="20261018093000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018093000 +0700" stop="20261018100000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Medals Alone Don't Pay Rent</title>
+    <desc>Kenya produces world-class athletes. But why do so many struggle to make a living from sports? Athletes and experts debate funding, sponsorship, missed opportunities and the future of Kenyan sports.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018100000 +0700" stop="20261018100200 +0700">
@@ -48222,11 +48337,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018100200 +0700" stop="20261018103000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: The forest standing between the Sundarbans and disaster</title>
+    <desc>Storms have devastated these islands repeatedly. Now residents are restoring an ancient defense to protect their future. Plus: How AI could aid India's fight against air pollution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018103000 +0700" stop="20261018110000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: India follows Brazil example in its transition to E20</title>
+    <desc>A shift to E20 fuel promises cleaner energy and lower oil imports. But is India moving too fast for millions of vehicles? And: parcel delivery via Madrid's metro, and artists in Mali and Tanzania help climate protection.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018110000 +0700" stop="20261018110200 +0700">
@@ -48247,7 +48364,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018120200 +0700" stop="20261018121500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Fashion — "Your style is a statement — What’s yours?”</title>
+    <desc>From Malaysia’s modest fashion economy to Singapore’s genderfluid designs and Indonesia’s fight against fast fashion — Southeast Asia’s style scene is bold, political, and transformative. Fashion doesn’t just cover us. It challenges us. It shapes us.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018121500 +0700" stop="20261018123000 +0700">
@@ -48255,7 +48373,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018123000 +0700" stop="20261018130000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: History: The 1918 German Revolution</title>
+    <desc>Most countries celebrate their revolutions — so why doesn't Germany? In November 1918, German sailors refused to die in a pointless battle, sparking a revolution that would overthrow the Kaiser and end World War I.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018130000 +0700" stop="20261018130300 +0700">
@@ -48276,11 +48395,13 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018141500 +0700" stop="20261018143000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018143000 +0700" stop="20261018150000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Under the Baobab: Can Alan Kyerematen shatter Ghana's two-party grip?</title>
+    <desc>For over thirty years, power in Ghana has swung strictly between the New Patriotic Party (NPP) and the National Democratic Congress (NDC).</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018150000 +0700" stop="20261018151500 +0700">
@@ -48288,11 +48409,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018151500 +0700" stop="20261018153000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: Estonia's Hanno Pevkur on Russia's shadow war</title>
+    <desc>At the Warsaw Security Forum, DW Chief Political Correspondent Nina Haase speaks with former Estonian Defense Minister Hanno Pevkur.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018153000 +0700" stop="20261018160000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: History: The 1918 German Revolution</title>
+    <desc>Most countries celebrate their revolutions — so why doesn't Germany? In November 1918, German sailors refused to die in a pointless battle, sparking a revolution that would overthrow the Kaiser and end World War I.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018160000 +0700" stop="20261018161500 +0700">
@@ -48304,7 +48427,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018163000 +0700" stop="20261018170000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Creative Transformations</title>
+    <desc>At Lilongwe’s Family Food Festival, cultures connect through food and creativity. From Senegalese music and Nigerian wire art to a cat café in Kampala and vintage fashion in Johannesburg, discover fresh African ideas.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018170000 +0700" stop="20261018171500 +0700">
@@ -48312,7 +48436,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018171500 +0700" stop="20261018173000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: From a Small Romanian Town to World No. 1 in Skateboarding</title>
+    <desc>As the world's top freestyle skateboarder, Daniel Popescu could pursue greater opportunities abroad. Instead, he stays in Romania, determined to prove that success doesn't have to mean leaving home.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018173000 +0700" stop="20261018180000 +0700">
@@ -48324,11 +48449,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018181500 +0700" stop="20261018183000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018183000 +0700" stop="20261018190000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: India follows Brazil example in its transition to E20</title>
+    <desc>A shift to E20 fuel promises cleaner energy and lower oil imports. But is India moving too fast for millions of vehicles? And: parcel delivery via Madrid's metro, and artists in Mali and Tanzania help climate protection.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018190000 +0700" stop="20261018191500 +0700">
@@ -48345,7 +48472,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018201500 +0700" stop="20261018203000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: From a Small Romanian Town to World No. 1 in Skateboarding</title>
+    <desc>As the world's top freestyle skateboarder, Daniel Popescu could pursue greater opportunities abroad. Instead, he stays in Romania, determined to prove that success doesn't have to mean leaving home.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018203000 +0700" stop="20261018210000 +0700">
@@ -48357,7 +48485,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018210200 +0700" stop="20261018211500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>The Scene: Fashion — "Your style is a statement — What’s yours?”</title>
+    <desc>From Malaysia’s modest fashion economy to Singapore’s genderfluid designs and Indonesia’s fight against fast fashion — Southeast Asia’s style scene is bold, political, and transformative. Fashion doesn’t just cover us. It challenges us. It shapes us.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018211500 +0700" stop="20261018213000 +0700">
@@ -48365,7 +48494,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018213000 +0700" stop="20261018220000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: How this runway system can prevent plane crashes</title>
+    <desc>It looks unremarkable, but this system at the end of a runway can stop an aircraft overrun from becoming a disaster Plus: the hunt for falling satellites and a new space telescope set to explore the universe.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018220000 +0700" stop="20261018220200 +0700">
@@ -48373,11 +48503,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018220200 +0700" stop="20261018223000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Creative Transformations</title>
+    <desc>At Lilongwe’s Family Food Festival, cultures connect through food and creativity. From Senegalese music and Nigerian wire art to a cat café in Kampala and vintage fashion in Johannesburg, discover fresh African ideas.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018223000 +0700" stop="20261018230000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Under the Baobab: Can Alan Kyerematen shatter Ghana's two-party grip?</title>
+    <desc>For over thirty years, power in Ghana has swung strictly between the New Patriotic Party (NPP) and the National Democratic Congress (NDC).</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018230000 +0700" stop="20261018230200 +0700">
@@ -48389,11 +48521,13 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018231500 +0700" stop="20261018233000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261018233000 +0700" stop="20261019000000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: India follows Brazil example in its transition to E20</title>
+    <desc>A shift to E20 fuel promises cleaner energy and lower oil imports. But is India moving too fast for millions of vehicles? And: parcel delivery via Madrid's metro, and artists in Mali and Tanzania help climate protection.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019000000 +0700" stop="20261019000200 +0700">
@@ -48430,11 +48564,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019020200 +0700" stop="20261019023000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: The forest standing between the Sundarbans and disaster</title>
+    <desc>Storms have devastated these islands repeatedly. Now residents are restoring an ancient defense to protect their future. Plus: How AI could aid India's fight against air pollution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019023000 +0700" stop="20261019030000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Under the Baobab: Can Alan Kyerematen shatter Ghana's two-party grip?</title>
+    <desc>For over thirty years, power in Ghana has swung strictly between the New Patriotic Party (NPP) and the National Democratic Congress (NDC).</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019030000 +0700" stop="20261019030200 +0700">
@@ -48476,7 +48612,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019053000 +0700" stop="20261019060000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: How this runway system can prevent plane crashes</title>
+    <desc>It looks unremarkable, but this system at the end of a runway can stop an aircraft overrun from becoming a disaster Plus: the hunt for falling satellites and a new space telescope set to explore the universe.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019060000 +0700" stop="20261019060200 +0700">
@@ -48484,15 +48621,18 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019060200 +0700" stop="20261019061500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: From a Small Romanian Town to World No. 1 in Skateboarding</title>
+    <desc>As the world's top freestyle skateboarder, Daniel Popescu could pursue greater opportunities abroad. Instead, he stays in Romania, determined to prove that success doesn't have to mean leaving home.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019061500 +0700" stop="20261019063000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019063000 +0700" stop="20261019070000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Climate extremes, health threats</title>
+    <desc>Climate change is not only reshaping our weather - it may also be changing the way diseases like malaria spread. And: Prepping for El Niño across Africa.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019070000 +0700" stop="20261019070200 +0700">
@@ -48513,12 +48653,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019080200 +0700" stop="20261019083000 +0700">
-    <title>DocFilm: An Electric Truck Hits the Road for Norway</title>
-    <desc>Trucker Tobias Wagner's mission: to get from Germany's East Frisia to Norway in an electric truck. A navigation buoy from the Juister Riff in the North Sea went missing and has turned up in Scandinavia. Now, it's Wagner's job to bring it back.</desc>
+    <title>DocFilm: Young Startups - Germany's Next Tech Champions?</title>
+    <desc>Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations to tackle tomorrow's biggest challenges. They're not just dreaming about the future — they're building it.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019083000 +0700" stop="20261019090000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Under the Baobab: Can Alan Kyerematen shatter Ghana's two-party grip?</title>
+    <desc>For over thirty years, power in Ghana has swung strictly between the New Patriotic Party (NPP) and the National Democratic Congress (NDC).</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019090000 +0700" stop="20261019090200 +0700">
@@ -48539,12 +48680,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019100200 +0700" stop="20261019101500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: From a Small Romanian Town to World No. 1 in Skateboarding</title>
+    <desc>As the world's top freestyle skateboarder, Daniel Popescu could pursue greater opportunities abroad. Instead, he stays in Romania, determined to prove that success doesn't have to mean leaving home.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019101500 +0700" stop="20261019110000 +0700">
-    <title>DocFilm: Through Kazakhstan by Train - A Clinic on Rails - Part 2</title>
-    <desc>Each year, a train carrying doctors and medical gear travels through remote areas of Kazakhstan. The project is called Salamatty Kazakhstan, or "Healthy Kazakhstan." The train is underway for eight months and the clinic operates daily.</desc>
+    <title>DocFilm: Under Pressure - Trump's Fractured America</title>
+    <desc>A cinematic journey through the first year of Donald Trump's second term as president. Fear, hope, protest, loyalty and disappointment all shape this portrait of the US as a nation in turmoil.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019110000 +0700" stop="20261019110200 +0700">
@@ -48552,7 +48694,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019110200 +0700" stop="20261019113000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Climate extremes, health threats</title>
+    <desc>Climate change is not only reshaping our weather - it may also be changing the way diseases like malaria spread. And: Prepping for El Niño across Africa.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019113000 +0700" stop="20261019120000 +0700">
@@ -48579,11 +48722,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019131500 +0700" stop="20261019133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: This necklace is hiding a dark secret</title>
+    <desc>Corals are one of the most traded and smuggled animals in the world - even more than ivory and pangolins. What do people want them for?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019133000 +0700" stop="20261019140000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Medals Alone Don't Pay Rent</title>
+    <desc>Kenya produces world-class athletes. But why do so many struggle to make a living from sports? Athletes and experts debate funding, sponsorship, missed opportunities and the future of Kenyan sports.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019140000 +0700" stop="20261019140200 +0700">
@@ -48620,7 +48765,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019171500 +0700" stop="20261019173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: This necklace is hiding a dark secret</title>
+    <desc>Corals are one of the most traded and smuggled animals in the world - even more than ivory and pangolins. What do people want them for?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019173000 +0700" stop="20261019180000 +0700">
@@ -48633,7 +48779,7 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20261019183000 +0700" stop="20261019190000 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019190000 +0700" stop="20261019190200 +0700">
@@ -48644,11 +48790,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019191500 +0700" stop="20261019193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: This necklace is hiding a dark secret</title>
+    <desc>Corals are one of the most traded and smuggled animals in the world - even more than ivory and pangolins. What do people want them for?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019193000 +0700" stop="20261019200000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Under the Baobab: Can Alan Kyerematen shatter Ghana's two-party grip?</title>
+    <desc>For over thirty years, power in Ghana has swung strictly between the New Patriotic Party (NPP) and the National Democratic Congress (NDC).</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019200000 +0700" stop="20261019203000 +0700">
@@ -48691,12 +48839,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019231500 +0700" stop="20261019233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: This necklace is hiding a dark secret</title>
+    <desc>Corals are one of the most traded and smuggled animals in the world - even more than ivory and pangolins. What do people want them for?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261019233000 +0700" stop="20261020000000 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020000000 +0700" stop="20261020000200 +0700">
@@ -48708,7 +48857,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020003000 +0700" stop="20261020010000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Climate extremes, health threats</title>
+    <desc>Climate change is not only reshaping our weather - it may also be changing the way diseases like malaria spread. And: Prepping for El Niño across Africa.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020010000 +0700" stop="20261020010300 +0700">
@@ -48729,7 +48879,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020023000 +0700" stop="20261020030000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: India follows Brazil example in its transition to E20</title>
+    <desc>A shift to E20 fuel promises cleaner energy and lower oil imports. But is India moving too fast for millions of vehicles? And: parcel delivery via Madrid's metro, and artists in Mali and Tanzania help climate protection.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020030000 +0700" stop="20261020030200 +0700">
@@ -48740,12 +48891,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020031500 +0700" stop="20261020033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: This necklace is hiding a dark secret</title>
+    <desc>Corals are one of the most traded and smuggled animals in the world - even more than ivory and pangolins. What do people want them for?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020033000 +0700" stop="20261020040000 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020040000 +0700" stop="20261020040300 +0700">
@@ -48777,11 +48929,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020061500 +0700" stop="20261020063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Planet A: This necklace is hiding a dark secret</title>
+    <desc>Corals are one of the most traded and smuggled animals in the world - even more than ivory and pangolins. What do people want them for?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020063000 +0700" stop="20261020070000 +0700">
-    <title>Arts Unveiled: Experiencing and understanding the art world</title>
+    <title>Arts Unveiled: History: The 1918 German Revolution</title>
+    <desc>Most countries celebrate their revolutions — so why doesn't Germany? In November 1918, German sailors refused to die in a pointless battle, sparking a revolution that would overthrow the Kaiser and end World War I.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020070000 +0700" stop="20261020070200 +0700">
@@ -48805,7 +48959,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020083000 +0700" stop="20261020090000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Climate extremes, health threats</title>
+    <desc>Climate change is not only reshaping our weather - it may also be changing the way diseases like malaria spread. And: Prepping for El Niño across Africa.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020090000 +0700" stop="20261020090200 +0700">
@@ -48817,7 +48972,7 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20261020091500 +0700" stop="20261020094500 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020094500 +0700" stop="20261020100000 +0700">
@@ -48829,8 +48984,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020100300 +0700" stop="20261020110000 +0700">
-    <title>DocFilm: Killing Time - The Science of Boredom</title>
-    <desc>Our modern lives are wired for productivity, speed and constant stimulation. Boredom? No time! Yet boredom can fire up our creativity and help teach us to manage our emotions.</desc>
+    <title>DocFilm: The Trillion Dollar Case</title>
+    <desc>From their lecture halls to the International Court of Justice. Law students from the South Pacific have joined island nations to demand greater climate accountability from industrialized countries.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020110000 +0700" stop="20261020110200 +0700">
@@ -48838,7 +48993,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020110200 +0700" stop="20261020113000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: How this runway system can prevent plane crashes</title>
+    <desc>It looks unremarkable, but this system at the end of a runway can stop an aircraft overrun from becoming a disaster Plus: the hunt for falling satellites and a new space telescope set to explore the universe.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020113000 +0700" stop="20261020120000 +0700">
@@ -48855,11 +49011,12 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20261020121500 +0700" stop="20261020124500 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020124500 +0700" stop="20261020130000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020130000 +0700" stop="20261020130200 +0700">
@@ -48870,11 +49027,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020131500 +0700" stop="20261020133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Inside China's strategy to secure its food supply</title>
+    <desc>Food security is an issue on many global leaders' plates. The climate phenomenon, El Niño, could impact food security worldwide by increasing the risk of floods, droughts, and heat waves. And the conflict raging over the Strait of Hormuz is impacting global supply chains.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020133000 +0700" stop="20261020140000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: The forest standing between the Sundarbans and disaster</title>
+    <desc>Storms have devastated these islands repeatedly. Now residents are restoring an ancient defense to protect their future. Plus: How AI could aid India's fight against air pollution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020140000 +0700" stop="20261020140200 +0700">
@@ -48886,7 +49045,7 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20261020141500 +0700" stop="20261020144500 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020144500 +0700" stop="20261020150000 +0700">
@@ -48914,11 +49073,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020171500 +0700" stop="20261020173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Inside China's strategy to secure its food supply</title>
+    <desc>Food security is an issue on many global leaders' plates. The climate phenomenon, El Niño, could impact food security worldwide by increasing the risk of floods, droughts, and heat waves. And the conflict raging over the Strait of Hormuz is impacting global supply chains.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020173000 +0700" stop="20261020180000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: India follows Brazil example in its transition to E20</title>
+    <desc>A shift to E20 fuel promises cleaner energy and lower oil imports. But is India moving too fast for millions of vehicles? And: parcel delivery via Madrid's metro, and artists in Mali and Tanzania help climate protection.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020180000 +0700" stop="20261020183000 +0700">
@@ -48926,7 +49087,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020183000 +0700" stop="20261020190000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Climate extremes, health threats</title>
+    <desc>Climate change is not only reshaping our weather - it may also be changing the way diseases like malaria spread. And: Prepping for El Niño across Africa.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020190000 +0700" stop="20261020190200 +0700">
@@ -48937,11 +49099,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020191500 +0700" stop="20261020193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Inside China's strategy to secure its food supply</title>
+    <desc>Food security is an issue on many global leaders' plates. The climate phenomenon, El Niño, could impact food security worldwide by increasing the risk of floods, droughts, and heat waves. And the conflict raging over the Strait of Hormuz is impacting global supply chains.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020193000 +0700" stop="20261020200000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: How this runway system can prevent plane crashes</title>
+    <desc>It looks unremarkable, but this system at the end of a runway can stop an aircraft overrun from becoming a disaster Plus: the hunt for falling satellites and a new space telescope set to explore the universe.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020200000 +0700" stop="20261020203000 +0700">
@@ -48961,11 +49125,12 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20261020211500 +0700" stop="20261020214500 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020214500 +0700" stop="20261020220000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020220000 +0700" stop="20261020220200 +0700">
@@ -48977,7 +49142,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020223000 +0700" stop="20261020230000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Medals Alone Don't Pay Rent</title>
+    <desc>Kenya produces world-class athletes. But why do so many struggle to make a living from sports? Athletes and experts debate funding, sponsorship, missed opportunities and the future of Kenyan sports.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020230000 +0700" stop="20261020230200 +0700">
@@ -48988,7 +49154,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020231500 +0700" stop="20261020233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Inside China's strategy to secure its food supply</title>
+    <desc>Food security is an issue on many global leaders' plates. The climate phenomenon, El Niño, could impact food security worldwide by increasing the risk of floods, droughts, and heat waves. And the conflict raging over the Strait of Hormuz is impacting global supply chains.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261020233000 +0700" stop="20261021000000 +0700">
@@ -49004,7 +49171,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021003000 +0700" stop="20261021010000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Under pressure: how education, industry and lives are being reshaped</title>
+    <desc>From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021010000 +0700" stop="20261021010200 +0700">
@@ -49039,11 +49207,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021031500 +0700" stop="20261021033000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Inside China's strategy to secure its food supply</title>
+    <desc>Food security is an issue on many global leaders' plates. The climate phenomenon, El Niño, could impact food security worldwide by increasing the risk of floods, droughts, and heat waves. And the conflict raging over the Strait of Hormuz is impacting global supply chains.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021033000 +0700" stop="20261021040000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Climate extremes, health threats</title>
+    <desc>Climate change is not only reshaping our weather - it may also be changing the way diseases like malaria spread. And: Prepping for El Niño across Africa.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021040000 +0700" stop="20261021040200 +0700">
@@ -49067,7 +49237,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021053000 +0700" stop="20261021060000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Under pressure: how education, industry and lives are being reshaped</title>
+    <desc>From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021060000 +0700" stop="20261021060200 +0700">
@@ -49078,7 +49249,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021061500 +0700" stop="20261021063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Mapped Out: Inside China's strategy to secure its food supply</title>
+    <desc>Food security is an issue on many global leaders' plates. The climate phenomenon, El Niño, could impact food security worldwide by increasing the risk of floods, droughts, and heat waves. And the conflict raging over the Strait of Hormuz is impacting global supply chains.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021063000 +0700" stop="20261021070000 +0700">
@@ -49095,11 +49267,12 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20261021071500 +0700" stop="20261021074500 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021074500 +0700" stop="20261021080000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021080000 +0700" stop="20261021080200 +0700">
@@ -49107,11 +49280,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021080200 +0700" stop="20261021083000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Medals Alone Don't Pay Rent</title>
+    <desc>Kenya produces world-class athletes. But why do so many struggle to make a living from sports? Athletes and experts debate funding, sponsorship, missed opportunities and the future of Kenyan sports.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021083000 +0700" stop="20261021090000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: The forest standing between the Sundarbans and disaster</title>
+    <desc>Storms have devastated these islands repeatedly. Now residents are restoring an ancient defense to protect their future. Plus: How AI could aid India's fight against air pollution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021090000 +0700" stop="20261021090300 +0700">
@@ -49119,8 +49294,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021090300 +0700" stop="20261021100000 +0700">
-    <title>DocFilm: Killing Time - The Science of Boredom</title>
-    <desc>Our modern lives are wired for productivity, speed and constant stimulation. Boredom? No time! Yet boredom can fire up our creativity and help teach us to manage our emotions.</desc>
+    <title>DocFilm: The Trillion Dollar Case</title>
+    <desc>From their lecture halls to the International Court of Justice. Law students from the South Pacific have joined island nations to demand greater climate accountability from industrialized countries.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021100000 +0700" stop="20261021100200 +0700">
@@ -49132,11 +49307,12 @@
   </programme>
   <programme channel="ch0000000000100001903" start="20261021101500 +0700" stop="20261021104500 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021104500 +0700" stop="20261021110000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: How AI Is Changing the Working World</title>
+    <desc>How is artificial intelligence transforming hiring, entry-level roles, and the future of work? Get ready for a world where AI doesn't just help you do your job, it may even decide whether you get one.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021110000 +0700" stop="20261021110200 +0700">
@@ -49144,12 +49320,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021110200 +0700" stop="20261021113000 +0700">
-    <title>DocFilm: An Electric Truck Hits the Road for Norway</title>
-    <desc>Trucker Tobias Wagner's mission: to get from Germany's East Frisia to Norway in an electric truck. A navigation buoy from the Juister Riff in the North Sea went missing and has turned up in Scandinavia. Now, it's Wagner's job to bring it back.</desc>
+    <title>DocFilm: Young Startups - Germany's Next Tech Champions?</title>
+    <desc>Could Germany become a hotspot for the global markets of the future? Young startup founders are using cutting-edge innovations to tackle tomorrow's biggest challenges. They're not just dreaming about the future — they're building it.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021113000 +0700" stop="20261021120000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Under pressure: how education, industry and lives are being reshaped</title>
+    <desc>From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021120000 +0700" stop="20261021120200 +0700">
@@ -49172,11 +49349,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021131500 +0700" stop="20261021133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: How does being a teenager in a refugee camp in Greece shape your life?</title>
+    <desc>Fadia fled Afghanistan at 16, survived a dangerous journey through Iran and Turkey, and spent a year at the Ritsona refugee camp in Greece before eventually reaching Germany. Around five years later, she returns — only to find the gates still closed to her. Today, Fadia volunteers with ROSA, a charity that creates safe spaces for women in refugee camps around Athens.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021133000 +0700" stop="20261021140000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Climate extremes, health threats</title>
+    <desc>Climate change is not only reshaping our weather - it may also be changing the way diseases like malaria spread. And: Prepping for El Niño across Africa.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021140000 +0700" stop="20261021140300 +0700">
@@ -49184,8 +49363,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021140300 +0700" stop="20261021150000 +0700">
-    <title>DocFilm: Killing Time - The Science of Boredom</title>
-    <desc>Our modern lives are wired for productivity, speed and constant stimulation. Boredom? No time! Yet boredom can fire up our creativity and help teach us to manage our emotions.</desc>
+    <title>DocFilm: The Trillion Dollar Case</title>
+    <desc>From their lecture halls to the International Court of Justice. Law students from the South Pacific have joined island nations to demand greater climate accountability from industrialized countries.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021150000 +0700" stop="20261021153000 +0700">
@@ -49193,7 +49372,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021153000 +0700" stop="20261021160000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: The forest standing between the Sundarbans and disaster</title>
+    <desc>Storms have devastated these islands repeatedly. Now residents are restoring an ancient defense to protect their future. Plus: How AI could aid India's fight against air pollution.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021160000 +0700" stop="20261021163000 +0700">
@@ -49201,7 +49381,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021163000 +0700" stop="20261021170000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Under pressure: how education, industry and lives are being reshaped</title>
+    <desc>From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021170000 +0700" stop="20261021171500 +0700">
@@ -49209,12 +49390,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021171500 +0700" stop="20261021173000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: How does being a teenager in a refugee camp in Greece shape your life?</title>
+    <desc>Fadia fled Afghanistan at 16, survived a dangerous journey through Iran and Turkey, and spent a year at the Ritsona refugee camp in Greece before eventually reaching Germany. Around five years later, she returns — only to find the gates still closed to her. Today, Fadia volunteers with ROSA, a charity that creates safe spaces for women in refugee camps around Athens.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021173000 +0700" stop="20261021180000 +0700">
     <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc>The small Serbian town of Bor lives from copper mining. Many residents say that high levels of pollution from the mine, which has been majority-owned by a Chinese corporation since 2018, are making them sick.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021180000 +0700" stop="20261021183000 +0700">
@@ -49234,11 +49416,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021191500 +0700" stop="20261021193000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: How does being a teenager in a refugee camp in Greece shape your life?</title>
+    <desc>Fadia fled Afghanistan at 16, survived a dangerous journey through Iran and Turkey, and spent a year at the Ritsona refugee camp in Greece before eventually reaching Germany. Around five years later, she returns — only to find the gates still closed to her. Today, Fadia volunteers with ROSA, a charity that creates safe spaces for women in refugee camps around Athens.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021193000 +0700" stop="20261021200000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Street Debate: Medals Alone Don't Pay Rent</title>
+    <desc>Kenya produces world-class athletes. But why do so many struggle to make a living from sports? Athletes and experts debate funding, sponsorship, missed opportunities and the future of Kenyan sports.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021200000 +0700" stop="20261021203000 +0700">
@@ -49267,7 +49451,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021223000 +0700" stop="20261021230000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: Under pressure: how education, industry and lives are being reshaped</title>
+    <desc>From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021230000 +0700" stop="20261021230200 +0700">
@@ -49278,7 +49463,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021231500 +0700" stop="20261021233000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>ENTR: How does being a teenager in a refugee camp in Greece shape your life?</title>
+    <desc>Fadia fled Afghanistan at 16, survived a dangerous journey through Iran and Turkey, and spent a year at the Ritsona refugee camp in Greece before eventually reaching Germany. Around five years later, she returns — only to find the gates still closed to her. Today, Fadia volunteers with ROSA, a charity that creates safe spaces for women in refugee camps around Athens.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261021233000 +0700" stop="20261022000000 +0700">
@@ -54661,8 +54847,8 @@
     <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261021210000 +0700" stop="20261021233000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+    <title>Live: Youth League: Real Madrid U19 vs RB Leipzig</title>
+    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261021233000 +0700" stop="20261022001500 +0700">
     <title>Classic Highlights</title>
@@ -54907,6 +55093,282 @@
     <title lang="th">รีรัน: แคโรไลนา แพนเทอร์ส พบ ฟิลาเดลเฟีย อีเกิลส์</title>
     <title lang="en">RERUN: Carolina Panthers at Philadelphia Eagles</title>
     <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019010000 +0700" stop="20261019015959 +0700">
+    <title>Pigura NTB10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019020000 +0700" stop="20261019025959 +0700">
+    <title>Daerah Membangun NTB10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019030000 +0700" stop="20261019035959 +0700">
+    <title>Salam dari Desa10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019040000 +0700" stop="20261019045959 +0700">
+    <title>Pelangi Desa NTB10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019050000 +0700" stop="20261019055959 +0700">
+    <title>Siaran Pendidikan10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019060000 +0700" stop="20261019065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019070000 +0700" stop="20261019075959 +0700">
+    <title>Sentuhan Sanubari10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019080000 +0700" stop="20261019085959 +0700">
+    <title>Sekolah Alam10.19</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019090000 +0700" stop="20261019095959 +0700">
+    <title>English News Service10.19</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019100000 +0700" stop="20261019105959 +0700">
+    <title>Jendela Dunia10.19</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019110000 +0700" stop="20261019115959 +0700">
+    <title>Kilas Balik Reformasi Hukum10.19</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019120000 +0700" stop="20261019125959 +0700">
+    <title>Warta Malam10.19</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019130000 +0700" stop="20261019135959 +0700">
+    <title>Dialog UUD 194510.19</title>
+    <desc>117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019140000 +0700" stop="20261019145959 +0700">
+    <title>Bincang Malam10.19</title>
+    <desc>118</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019150000 +0700" stop="20261019155959 +0700">
+    <title>Warta Dunia10.19</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019160000 +0700" stop="20261019165959 +0700">
+    <title>Ring TVRI10.19</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019170000 +0700" stop="20261019175959 +0700">
+    <title>Album Kenangan10.19</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019180000 +0700" stop="20261019185959 +0700">
+    <title>WartaSiang10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019190000 +0700" stop="20261019195959 +0700">
+    <title>PiguraNTB10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019200000 +0700" stop="20261019205959 +0700">
+    <title>DaerahMembangun NTB10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019210000 +0700" stop="20261019215959 +0700">
+    <title>SalamdariDesa10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019220000 +0700" stop="20261019225959 +0700">
+    <title>PelangiDesaNTB10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261019230000 +0700" stop="20261020005959 +0700">
+    <title>SiaranPendidikan10.19</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020010000 +0700" stop="20261020015959 +0700">
+    <title>Pigura NTB10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020020000 +0700" stop="20261020025959 +0700">
+    <title>Daerah Membangun NTB10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020030000 +0700" stop="20261020035959 +0700">
+    <title>Salam dari Desa10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020040000 +0700" stop="20261020045959 +0700">
+    <title>Pelangi Desa NTB10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020050000 +0700" stop="20261020055959 +0700">
+    <title>Siaran Pendidikan10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020060000 +0700" stop="20261020065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020070000 +0700" stop="20261020075959 +0700">
+    <title>Sentuhan Sanubari10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020080000 +0700" stop="20261020085959 +0700">
+    <title>Sekolah Alam10.20</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020090000 +0700" stop="20261020095959 +0700">
+    <title>English News Service10.20</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020100000 +0700" stop="20261020105959 +0700">
+    <title>Jendela Dunia10.20</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020110000 +0700" stop="20261020115959 +0700">
+    <title>Kilas Balik Reformasi Hukum10.20</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020120000 +0700" stop="20261020125959 +0700">
+    <title>Warta Malam10.20</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020130000 +0700" stop="20261020135959 +0700">
+    <title>Dialog UUD 194510.20</title>
+    <desc>117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020140000 +0700" stop="20261020145959 +0700">
+    <title>Bincang Malam10.20</title>
+    <desc>118</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020150000 +0700" stop="20261020155959 +0700">
+    <title>Warta Dunia10.20</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020160000 +0700" stop="20261020165959 +0700">
+    <title>Ring TVRI10.20</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020170000 +0700" stop="20261020175959 +0700">
+    <title>Album Kenangan10.20</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020180000 +0700" stop="20261020185959 +0700">
+    <title>WartaSiang10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020190000 +0700" stop="20261020195959 +0700">
+    <title>PiguraNTB10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020200000 +0700" stop="20261020205959 +0700">
+    <title>DaerahMembangun NTB10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020210000 +0700" stop="20261020215959 +0700">
+    <title>SalamdariDesa10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020220000 +0700" stop="20261020225959 +0700">
+    <title>PelangiDesaNTB10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261020230000 +0700" stop="20261021005959 +0700">
+    <title>SiaranPendidikan10.20</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021010000 +0700" stop="20261021015959 +0700">
+    <title>Pigura NTB10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021020000 +0700" stop="20261021025959 +0700">
+    <title>Daerah Membangun NTB10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021030000 +0700" stop="20261021035959 +0700">
+    <title>Salam dari Desa10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021040000 +0700" stop="20261021045959 +0700">
+    <title>Pelangi Desa NTB10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021050000 +0700" stop="20261021055959 +0700">
+    <title>Siaran Pendidikan10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021060000 +0700" stop="20261021065959 +0700">
+    <title>Kompetisi Debat APBN Tingkat SMU10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021070000 +0700" stop="20261021075959 +0700">
+    <title>Sentuhan Sanubari10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021080000 +0700" stop="20261021085959 +0700">
+    <title>Sekolah Alam10.21</title>
+    <desc>112</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021090000 +0700" stop="20261021095959 +0700">
+    <title>English News Service10.21</title>
+    <desc>113</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021100000 +0700" stop="20261021105959 +0700">
+    <title>Jendela Dunia10.21</title>
+    <desc>114</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021110000 +0700" stop="20261021115959 +0700">
+    <title>Kilas Balik Reformasi Hukum10.21</title>
+    <desc>115</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021120000 +0700" stop="20261021125959 +0700">
+    <title>Warta Malam10.21</title>
+    <desc>116</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021130000 +0700" stop="20261021135959 +0700">
+    <title>Dialog UUD 194510.21</title>
+    <desc>117</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021140000 +0700" stop="20261021145959 +0700">
+    <title>Bincang Malam10.21</title>
+    <desc>118</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021150000 +0700" stop="20261021155959 +0700">
+    <title>Warta Dunia10.21</title>
+    <desc>119</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021160000 +0700" stop="20261021165959 +0700">
+    <title>Ring TVRI10.21</title>
+    <desc>120</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021170000 +0700" stop="20261021175959 +0700">
+    <title>Album Kenangan10.21</title>
+    <desc>121</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021180000 +0700" stop="20261021185959 +0700">
+    <title>WartaSiang10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021190000 +0700" stop="20261021195959 +0700">
+    <title>PiguraNTB10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021200000 +0700" stop="20261021205959 +0700">
+    <title>DaerahMembangun NTB10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021210000 +0700" stop="20261021215959 +0700">
+    <title>SalamdariDesa10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021220000 +0700" stop="20261021225959 +0700">
+    <title>PelangiDesaNTB10.21</title>
+    <desc>111</desc>
+  </programme>
+  <programme channel="ch0000000000100002231" start="20261021230000 +0700" stop="20261022005959 +0700">
+    <title>SiaranPendidikan10.21</title>
+    <desc>111</desc>
   </programme>
   <programme channel="ch0000000000100002251" start="20261017000000 +0700" stop="20261018000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -58695,19 +59157,61 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261019090000 +0700" stop="20261019091000 +0700">
+  <programme channel="ch0000000000100002781" start="20261019091000 +0700" stop="20261019100000 +0700">
     <title lang="th">LIVE: เทควันโด</title>
     <title lang="en">LIVE: Para Taekwondo</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261019091000 +0700" stop="20261019183000 +0700">
+  <programme channel="ch0000000000100002781" start="20261019100000 +0700" stop="20261019102000 +0700">
     <title lang="th">LIVE: ฟันดาบ - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Fencing - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261019183000 +0700" stop="20261019235959 +0700">
+  <programme channel="ch0000000000100002781" start="20261019102000 +0700" stop="20261019104500 +0700">
+    <title lang="th">LIVE: เทเบิลเทนนิสหญิงเดี่ยว: ญี่ปุ่น พบ อินโดนีเซีย</title>
+    <title lang="en">LIVE: Women's Singles Para Table Tennis - Japan vs Indonesia</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261019104500 +0700" stop="20261019153000 +0700">
+    <title lang="th">LIVE: ฟันดาบ - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Para Fencing - Preliminary</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261019153000 +0700" stop="20261019154800 +0700">
+    <title lang="th">LIVE: เทควันโดหญิง - รอบชิงเหรียญทอง: ไทย พบ อิหร่าน</title>
+    <title lang="en">LIVE: Women's Para Taekwondo - Gold Medal Game: Thailand vs Iran</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261019154800 +0700" stop="20261019170500 +0700">
+    <title lang="th">LIVE: ฟันดาบ - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Para Fencing - Preliminary</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261019170500 +0700" stop="20261019173000 +0700">
+    <title lang="th">LIVE: ว่ายน้ำ - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Para Swimming - Heats</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261019173000 +0700" stop="20261019180000 +0700">
+    <title lang="th">LIVE: ฟันดาบ - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Para Fencing - Preliminary</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261019180000 +0700" stop="20261019193000 +0700">
+    <title lang="th">LIVE: ว่ายน้ำ - รอบคัดเลือก</title>
+    <title lang="en">LIVE: Para Swimming - Heats</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261019193000 +0700" stop="20261019235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -58755,19 +59259,31 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261019080000 +0700" stop="20261019100000 +0700">
+  <programme channel="ch0000000000100002782" start="20261019080000 +0700" stop="20261019094000 +0700">
     <title lang="th">LIVE: วีลแชร์ บาสเกตบอล</title>
     <title lang="en">LIVE: Para Wheelchair Basketball</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261019100000 +0700" stop="20261019110000 +0700">
+  <programme channel="ch0000000000100002782" start="20261019094000 +0700" stop="20261019100000 +0700">
+    <title lang="th">เริ่ม 10:00 บอคเซีย - แบ่งกลุ่ม</title>
+    <title lang="en">Upcoming at 10:00AM Boccia - Pool</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261019100000 +0700" stop="20261019103000 +0700">
     <title lang="th">LIVE: บอคเซีย - แบ่งกลุ่ม</title>
     <title lang="en">LIVE: Boccia - Pool</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261019110000 +0700" stop="20261019150000 +0700">
+  <programme channel="ch0000000000100002782" start="20261019103000 +0700" stop="20261019130000 +0700">
+    <title lang="th">LIVE: ฟุตบอล คนตาบอด - รอบคัดเลือก: อินเดีย พบ ไทย</title>
+    <title lang="en">LIVE: Blind Football - Preliminary: India vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261019130000 +0700" stop="20261019150000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -58815,13 +59331,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20261019000000 +0700" stop="20261019145000 +0700">
-    <title lang="th">เริ่ม 14:50 กรีฑา - ประเภทบูรณาการ</title>
-    <title lang="en">Upcoming at 02:50PM Para Athletics - Integrated</title>
+  <programme channel="ch0000000000100002783" start="20261019000000 +0700" stop="20261019130000 +0700">
+    <title lang="th">เริ่ม 13:00 กรีฑา - ประเภทบูรณาการ</title>
+    <title lang="en">Upcoming at 01:00PM Para Athletics - Integrated</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002783" start="20261019145000 +0700" stop="20261019200000 +0700">
+  <programme channel="ch0000000000100002783" start="20261019130000 +0700" stop="20261019200000 +0700">
     <title lang="th">LIVE: กรีฑา - ประเภทบูรณาการ</title>
     <title lang="en">LIVE: Para Athletics - Integrated</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -58899,13 +59415,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20261019000000 +0700" stop="20261019145000 +0700">
-    <title lang="th">เริ่ม 14:50 กรีฑา - ประเภทลาน</title>
-    <title lang="en">Upcoming at 02:50PM Para Athletics - Field</title>
+  <programme channel="ch0000000000100002784" start="20261019000000 +0700" stop="20261019130000 +0700">
+    <title lang="th">เริ่ม 13:00 กรีฑา - ประเภทลาน</title>
+    <title lang="en">Upcoming at 01:00PM Para Athletics - Field</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002784" start="20261019145000 +0700" stop="20261019200000 +0700">
+  <programme channel="ch0000000000100002784" start="20261019130000 +0700" stop="20261019200000 +0700">
     <title lang="th">LIVE: กรีฑา - ประเภทลาน</title>
     <title lang="en">LIVE: Para Athletics - Field</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -58989,13 +59505,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20261019070000 +0700" stop="20261019180000 +0700">
+  <programme channel="ch0000000000100002785" start="20261019070000 +0700" stop="20261019160000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002785" start="20261019180000 +0700" stop="20261019235959 +0700">
+  <programme channel="ch0000000000100002785" start="20261019160000 +0700" stop="20261019235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59061,9 +59577,15 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002786" start="20261019100000 +0700" stop="20261019110500 +0700">
+  <programme channel="ch0000000000100002786" start="20261019100000 +0700" stop="20261019104000 +0700">
     <title lang="th">LIVE: บอคเซียชาย - แบ่งกลุ่ม: ไทย พบ คาซัคสถาน</title>
     <title lang="en">LIVE: Men's Boccia - Pool: Thailand vs Kazakhstan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261019104000 +0700" stop="20261019110500 +0700">
+    <title lang="th">เริ่ม 11:05 บอคเซียหญิง - แบ่งกลุ่ม เกาหลีใต้ พบ มาเลเซีย</title>
+    <title lang="en">Upcoming at 11:05AM Women's Boccia - Pool South Korea vs Malaysia</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -59271,13 +59793,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20261019070000 +0700" stop="20261019180000 +0700">
+  <programme channel="ch0000000000100002789" start="20261019070000 +0700" stop="20261019160000 +0700">
     <title lang="th">LIVE: แบดมินตัน - รอบคัดเลือก</title>
     <title lang="en">LIVE: Para Badminton - Preliminary</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002789" start="20261019180000 +0700" stop="20261019235959 +0700">
+  <programme channel="ch0000000000100002789" start="20261019160000 +0700" stop="20261019235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59331,13 +59853,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261019125500 +0700" stop="20261019181500 +0700">
+  <programme channel="ch0000000000100002790" start="20261019125500 +0700" stop="20261019163000 +0700">
     <title lang="th">LIVE: เทเบิลเทนนิส - แบ่งกลุ่ม</title>
     <title lang="en">LIVE: Para Table Tennis - Group</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002790" start="20261019181500 +0700" stop="20261019235959 +0700">
+  <programme channel="ch0000000000100002790" start="20261019163000 +0700" stop="20261019235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59391,13 +59913,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261019080000 +0700" stop="20261019090000 +0700">
+  <programme channel="ch0000000000100002801" start="20261019080000 +0700" stop="20261019092000 +0700">
     <title lang="th">LIVE: วีลแชร์ บาสเกตบอลหญิง - รอบคัดเลือก: ไทย พบ ญี่ปุ่น</title>
     <title lang="en">LIVE: Women's Wheelchair Basketball - Preliminary: Thailand vs Japan</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002801" start="20261019090000 +0700" stop="20261019113000 +0700">
+  <programme channel="ch0000000000100002801" start="20261019092000 +0700" stop="20261019113000 +0700">
     <title lang="th">เริ่ม 11:30 วีลแชร์ บาสเกตบอลชาย - รอบคัดเลือก ฟิลิปปินส์ พบ อิหร่าน</title>
     <title lang="en">Upcoming at 11:30AM Men's Wheelchair Basketball - Preliminary Philippines vs Iran</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59481,13 +60003,13 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20261019074000 +0700" stop="20261019182000 +0700">
+  <programme channel="ch0000000000100002811" start="20261019074000 +0700" stop="20261019163000 +0700">
     <title lang="th">LIVE: เทควันโด</title>
     <title lang="en">LIVE: Para Taekwondo</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002811" start="20261019182000 +0700" stop="20261019235959 +0700">
+  <programme channel="ch0000000000100002811" start="20261019163000 +0700" stop="20261019235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
