@@ -530,104 +530,131 @@
     <display-name lang="en">Asian Para Games 914</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091911080620.png"/>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
   </channel>
   <channel id="ch0000000000100002326">
     <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
   <channel id="ch0000000000100002722">
     <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
   </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
   </channel>
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
   </channel>
   <channel id="ch0000000000100001353">
     <display-name>ch0000000000100001353</display-name>
   </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
   </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
   <channel id="ch0000000000100002329">
     <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002642">
+    <display-name>ch0000000000100002642</display-name>
   </channel>
   <channel id="ch0000000000100002584">
     <display-name>ch0000000000100002584</display-name>
@@ -635,89 +662,62 @@
   <channel id="ch0000000000100001286">
     <display-name>ch0000000000100001286</display-name>
   </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002642">
-    <display-name>ch0000000000100002642</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
   </channel>
   <channel id="ch0000000000100002471">
     <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
   <channel id="ch0000000000100002441">
     <display-name>ch0000000000100002441</display-name>
   </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261021224500 +0700" stop="20261022003500 +0700">
     <title>Imagine That</title>
@@ -58839,9 +58839,33 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002781" start="20261024000000 +0700" stop="20261024235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+  <programme channel="ch0000000000100002781" start="20261024000000 +0700" stop="20261024063000 +0700">
+    <title lang="th">รีรันและไฮไลต์ เอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">Rerun &amp; Highlights Asian Para Games 2026</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261024063000 +0700" stop="20261024130000 +0700">
+    <title lang="th">LIVE: ฟันดาบ - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Para Fencing - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261024130000 +0700" stop="20261024160000 +0700">
+    <title lang="th">รีรันและไฮไลต์ เอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">Rerun &amp; Highlights Asian Para Games 2026</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261024160000 +0700" stop="20261024180000 +0700">
+    <title lang="th">LIVE: พิธีปิดเอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">LIVE: Asian Para Games 2026 Closing Ceremony</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002781" start="20261024180000 +0700" stop="20261024235959 +0700">
+    <title lang="th">รีรันและไฮไลต์ เอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">Rerun &amp; Highlights Asian Para Games 2026</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -58881,9 +58905,45 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
-  <programme channel="ch0000000000100002782" start="20261024000000 +0700" stop="20261024235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+  <programme channel="ch0000000000100002782" start="20261024000000 +0700" stop="20261024073000 +0700">
+    <title lang="th">รีรันและไฮไลต์ เอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">Rerun &amp; Highlights Asian Para Games 2026</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261024073000 +0700" stop="20261024091000 +0700">
+    <title lang="th">LIVE: บอคเซียทีมผสม - รอบชิงเหรียญทอง: อินโดนีเซีย พบ ไทย</title>
+    <title lang="en">LIVE: Mixed Team Boccia - Gold Medal Game: Indonesia vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261024091000 +0700" stop="20261024105000 +0700">
+    <title lang="th">LIVE: บอคเซียคู่ผสม - รอบชิงเหรียญทอง: สิงคโปร์ พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Mixed Doubles Boccia - Gold Medal Game: Singapore vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261024105000 +0700" stop="20261024113000 +0700">
+    <title lang="th">LIVE: บอคเซียคู่ผสม - รอบชิงเหรียญทอง: ฮ่องกง พบ จีน</title>
+    <title lang="en">LIVE: Mixed Doubles Boccia - Gold Medal Game: Hong Kong vs China</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261024113000 +0700" stop="20261024160000 +0700">
+    <title lang="th">รีรันและไฮไลต์ เอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">Upcoming at 04:00PM Asian Para Games 2026 Closing Ceremony</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261024160000 +0700" stop="20261024180000 +0700">
+    <title lang="th">LIVE: พิธีปิดเอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">LIVE: Asian Para Games 2026 Closing Ceremony</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002782" start="20261024180000 +0700" stop="20261024235959 +0700">
+    <title lang="th">รีรันและไฮไลต์ เอเชียนพาราเกมส์ 2026</title>
+    <title lang="en">Rerun &amp; Highlights Asian Para Games 2026</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
@@ -59169,6 +59229,36 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
+  <programme channel="ch0000000000100002786" start="20261024000000 +0700" stop="20261024073000 +0700">
+    <title lang="th">เริ่ม 07:30 บอคเซียทีมผสม - รอบชิงเหรียญทอง อินโดนีเซีย พบ ไทย</title>
+    <title lang="en">Upcoming at 07:30AM Mixed Team Boccia - Gold Medal Game Indonesia vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261024073000 +0700" stop="20261024091000 +0700">
+    <title lang="th">LIVE: บอคเซียทีมผสม - รอบชิงเหรียญทอง: อินโดนีเซีย พบ ไทย</title>
+    <title lang="en">LIVE: Mixed Team Boccia - Gold Medal Game: Indonesia vs Thailand</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261024091000 +0700" stop="20261024105000 +0700">
+    <title lang="th">LIVE: บอคเซียคู่ผสม - รอบชิงเหรียญทอง: สิงคโปร์ พบ ญี่ปุ่น</title>
+    <title lang="en">LIVE: Mixed Doubles Boccia - Gold Medal Game: Singapore vs Japan</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261024105000 +0700" stop="20261024113000 +0700">
+    <title lang="th">LIVE: บอคเซียคู่ผสม - รอบชิงเหรียญทอง: ฮ่องกง พบ จีน</title>
+    <title lang="en">LIVE: Mixed Doubles Boccia - Gold Medal Game: Hong Kong vs China</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002786" start="20261024113000 +0700" stop="20261024235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
   <programme channel="ch0000000000100002787" start="20261022000000 +0700" stop="20261022073000 +0700">
     <title lang="th">เริ่ม 07:30 เทเบิลเทนนิสชายคู่ - แบ่งกลุ่ม จีนไทเป พบ ญี่ปุ่น</title>
     <title lang="en">Upcoming at 07:30AM Men's Doubles Para Table Tennis - Group Chinese Taipei vs Japan</title>
@@ -59337,6 +59427,24 @@
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
+  <programme channel="ch0000000000100002788" start="20261024000000 +0700" stop="20261024063000 +0700">
+    <title lang="th">เริ่ม 06:30 ฟันดาบ - รอบชิงเหรียญทอง</title>
+    <title lang="en">Upcoming at 06:30AM Para Fencing - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20261024063000 +0700" stop="20261024130000 +0700">
+    <title lang="th">LIVE: ฟันดาบ - รอบชิงเหรียญทอง</title>
+    <title lang="en">LIVE: Para Fencing - Gold Medal Game</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002788" start="20261024130000 +0700" stop="20261024235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
   <programme channel="ch0000000000100002789" start="20261022000000 +0700" stop="20261022065500 +0700">
     <title lang="th">เริ่ม 06:55 แบดมินตัน - รอบรองฯ</title>
     <title lang="en">Upcoming at 06:55AM Para Badminton - Semi Finals</title>
@@ -59368,6 +59476,12 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002789" start="20261023161500 +0700" stop="20261023235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002789" start="20261024000000 +0700" stop="20261024235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
@@ -59536,6 +59650,12 @@
     <category lang="en">Sports,Asian Para Games</category>
   </programme>
   <programme channel="ch0000000000100002791" start="20261023191500 +0700" stop="20261023235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
+    <category lang="en">Sports,Asian Para Games</category>
+  </programme>
+  <programme channel="ch0000000000100002791" start="20261024000000 +0700" stop="20261024235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category lang="th">กีฬา,เอเชียนพาราเกมส์</category>
