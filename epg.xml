@@ -455,188 +455,164 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
-  </channel>
-  <channel id="ch0000000000100002441">
-    <display-name>ch0000000000100002441</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
   </channel>
   <channel id="ch0000000000100002092">
     <display-name>ch0000000000100002092</display-name>
   </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002642">
-    <display-name>ch0000000000100002642</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002741">
-    <display-name>ch0000000000100002741</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
   <channel id="ch0000000000100001353">
     <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002402">
-    <display-name>ch0000000000100002402</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
   </channel>
   <channel id="ch0000000000100002096">
     <display-name>ch0000000000100002096</display-name>
   </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
   </channel>
   <channel id="ch0000000000100002325">
     <display-name>ch0000000000100002325</display-name>
   </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002642">
+    <display-name>ch0000000000100002642</display-name>
+  </channel>
   <channel id="ch0000000000100002584">
     <display-name>ch0000000000100002584</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002402">
+    <display-name>ch0000000000100002402</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
   </channel>
   <channel id="ch0000000000100002095">
     <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
   </channel>
   <channel id="ch0000000000100001283">
     <display-name>ch0000000000100001283</display-name>
@@ -644,11 +620,35 @@
   <channel id="ch0000000000100002312">
     <display-name>ch0000000000100002312</display-name>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
   </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100002441">
+    <display-name>ch0000000000100002441</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261028223000 +0700" stop="20261029002000 +0700">
     <title>American Made</title>
@@ -59651,14 +59651,29 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002721" start="20261031000000 +0700" stop="20261101000000 +0700">
+  <programme channel="ch0000000000100002721" start="20261031000000 +0700" stop="20261031213000 +0700">
+    <title lang="th">เริ่มเวลา 21:30 น. เอาก์สบวร์ก พบ ไฟรบวร์ก</title>
+    <title lang="en">Kick Off 9.30PM: FCA vs SCF</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261031213000 +0700" stop="20261031233000 +0700">
+    <title lang="th">LIVE: เอาก์สบวร์ก พบ ไฟรบวร์ก (บุนเดสลีกา - สัปดาห์ที่ 8)</title>
+    <title lang="en">LIVE: FC Augsburg vs SC Freiburg (Bundesliga - Matchday 8)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261031233000 +0700" stop="20261101000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002721" start="20261101000000 +0700" stop="20261102000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+  <programme channel="ch0000000000100002721" start="20261101000000 +0700" stop="20261101233000 +0700">
+    <title lang="th">เริ่มเวลา 23:30 น. ไอน์ทรัค แฟรงก์เฟิร์ต พบ ฮัมบูร์ก</title>
+    <title lang="en">Kick Off 11.30PM: SGE vs HSV</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261101233000 +0700" stop="20261102013000 +0700">
+    <title lang="th">LIVE: ไอน์ทรัค แฟรงก์เฟิร์ต พบ ฮัมบูร์ก (บุนเดสลีกา - สัปดาห์ที่ 8)</title>
+    <title lang="en">LIVE: Eintracht Frankfurt vs Hamburger SV (Bundesliga - Matchday 8)</title>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002722" start="20261028000000 +0700" stop="20261029000000 +0700">
@@ -59676,7 +59691,22 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002722" start="20261031000000 +0700" stop="20261101000000 +0700">
+  <programme channel="ch0000000000100002722" start="20261031000000 +0700" stop="20261031213000 +0700">
+    <title lang="th">เริ่มเวลา 20:30 น. โบรุสเซีย มึนเชนกลัดบัค พบ พาเดอร์บอร์น 07</title>
+    <title lang="en">Kick Off 9.30PM: BMG vs SCP</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261031213000 +0700" stop="20261031233000 +0700">
+    <title lang="th">LIVE: โบรุสเซีย มึนเชนกลัดบัค พบ พาเดอร์บอร์น 07 (บุนเดสลีกา - สัปดาห์ที่ 8)</title>
+    <title lang="en">LIVE: Borussia Moenchengladbach vs SC Paderborn 07 (Bundesliga - Matchday 8)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261031233000 +0700" stop="20261101000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261101000000 +0700" stop="20261102000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -59696,7 +59726,22 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002731" start="20261031000000 +0700" stop="20261101000000 +0700">
+  <programme channel="ch0000000000100002731" start="20261031000000 +0700" stop="20261031213000 +0700">
+    <title lang="th">เริ่มเวลา 21:30 น. แวร์เดอร์ เบรเมน พบ ฮอฟเฟนไฮม์</title>
+    <title lang="en">Kick Off 9.30PM: SVW vs SCP</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20261031213000 +0700" stop="20261031233000 +0700">
+    <title lang="th">LIVE: แวร์เดอร์ เบรเมน พบ ฮอฟเฟนไฮม์ (บุนเดสลีกา - สัปดาห์ที่ 8)</title>
+    <title lang="en">LIVE: SV Werder Bremen vs TSG 1899 Hoffenheim (Bundesliga - Matchday 8)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20261031233000 +0700" stop="20261101000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20261101000000 +0700" stop="20261102000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -59716,7 +59761,22 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002741" start="20261031000000 +0700" stop="20261101000000 +0700">
+  <programme channel="ch0000000000100002741" start="20261031000000 +0700" stop="20261031213000 +0700">
+    <title lang="th">เริ่มเวลา 21:30 น. ชาลเก้ 04 พบ แอร์เบ ไลป์ซิก</title>
+    <title lang="en">Kick Off 9.30PM: S04 vs RBL</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20261031213000 +0700" stop="20261031233000 +0700">
+    <title lang="th">LIVE: ชาลเก้ 04 พบ แอร์เบ ไลป์ซิก (บุนเดสลีกา - สัปดาห์ที่ 8)</title>
+    <title lang="en">LIVE: FC Schalke 04 vs RB Leipzig (Bundesliga - Matchday 8)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20261031233000 +0700" stop="20261101000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20261101000000 +0700" stop="20261102000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
@@ -59727,19 +59787,52 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002742" start="20261030000000 +0700" stop="20261030235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
+    <title lang="th">เริ่มเวลา 00:30 ค็อตบุส พบ โบคุม (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 00:30 Cottbus vs Bochum (Bundesliga 2 - Matchday 10)</title>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
   </programme>
-  <programme channel="ch0000000000100002742" start="20261031000000 +0700" stop="20261031235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
+  <programme channel="ch0000000000100002742" start="20261031003000 +0700" stop="20261031023000 +0700">
+    <title lang="th">LIVE: ค็อตบุส พบ โบคุม (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Cottbus vs Bochum (Bundesliga 2 - Matchday 10)</title>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
   </programme>
-  <programme channel="ch0000000000100002742" start="20261101000000 +0700" stop="20261101235959 +0700">
+  <programme channel="ch0000000000100002742" start="20261031023000 +0700" stop="20261031190000 +0700">
+    <title lang="th">เริ่มเวลา 19:00 โวล์ฟสบวร์ก พบ ออสนาบรุค (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 19:00 Wolfsburg vs Osnabrueck (Bundesliga 2 - Matchday 10)</title>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261031190000 +0700" stop="20261031210000 +0700">
+    <title lang="th">LIVE: โวล์ฟสบวร์ก พบ ออสนาบรุค (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Wolfsburg vs Osnabrueck (Bundesliga 2 - Matchday 10)</title>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261031210000 +0700" stop="20261031235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
-    <category>Sports</category>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261101000000 +0700" stop="20261101193000 +0700">
+    <title lang="th">เริ่มเวลา 19:30 ซังต์ เพาลี พบ เนิร์นแบร์ก (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 19:30 St. Pauli vs Nuernberg (Bundesliga 2 - Matchday 10)</title>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261101193000 +0700" stop="20261101213000 +0700">
+    <title lang="th">LIVE: ซังต์ เพาลี พบ เนิร์นแบร์ก (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: St. Pauli vs Nuernberg (Bundesliga 2 - Matchday 10)</title>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261101213000 +0700" stop="20261101235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">Sports</category>
+    <category lang="en">Sport</category>
   </programme>
   <programme channel="ch0000000000100002751" start="20261028000000 +0700" stop="20261029000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
@@ -59751,12 +59844,36 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002751" start="20261030000000 +0700" stop="20261031000000 +0700">
+  <programme channel="ch0000000000100002751" start="20261030000000 +0700" stop="20261030235959 +0700">
+    <title>No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261031000000 +0700" stop="20261031190000 +0700">
+    <title lang="th">เริ่มเวลา 19:00 ไกเซอร์สเลาเทิร์น พบ แฮร์ธา เบอร์ลิน (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 19:00 Kaiserslautern vs Hertha BSC (Bundesliga 2 - Matchday 10)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261031190000 +0700" stop="20261031210000 +0700">
+    <title lang="th">LIVE: ไกเซอร์สเลาเทิร์น พบ แฮร์ธา เบอร์ลิน (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Kaiserslautern vs Hertha BSC (Bundesliga 2 - Matchday 10)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261031210000 +0700" stop="20261031235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002751" start="20261031000000 +0700" stop="20261101000000 +0700">
+  <programme channel="ch0000000000100002751" start="20261101000000 +0700" stop="20261101193000 +0700">
+    <title lang="th">เริ่มเวลา 19:30 ฮันโนเวอร์ พบ เดรสเดน (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 19:30 Hannover vs Dresden (Bundesliga 2 - Matchday 10)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261101193000 +0700" stop="20261101213000 +0700">
+    <title lang="th">LIVE: ฮันโนเวอร์ พบ เดรสเดน (บุนเดสลีกา 2 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Hannover vs Dresden (Bundesliga 2 - Matchday 10)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261101213000 +0700" stop="20261101235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
