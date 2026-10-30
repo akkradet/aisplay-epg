@@ -455,141 +455,26 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
-  <channel id="ch0000000000100002788">
-    <display-name lang="th">เอเชียนพาราเกมส์ 910</display-name>
-    <display-name lang="en">Asian Para Games 910</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103510069640.png"/>
+  <channel id="ch0000000000100002361">
+    <display-name>ch0000000000100002361</display-name>
   </channel>
-  <channel id="ch0000000000100002789">
-    <display-name lang="th">เอเชียนพาราเกมส์ 911</display-name>
-    <display-name lang="en">Asian Para Games 911</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091839080617.png"/>
-  </channel>
-  <channel id="ch0000000000100002790">
-    <display-name lang="th">เอเชียนพาราเกมส์ 912</display-name>
-    <display-name lang="en">Asian Para Games 912</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091850080618.png"/>
-  </channel>
-  <channel id="ch0000000000100002811">
-    <display-name lang="th">เอเชียนพาราเกมส์ 913</display-name>
-    <display-name lang="en">Asian Para Games 913</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091900080619.png"/>
-  </channel>
-  <channel id="ch0000000000100002812">
-    <display-name lang="th">เอเชียนพาราเกมส์ 914</display-name>
-    <display-name lang="en">Asian Para Games 914</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091911080620.png"/>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002382">
-    <display-name>ch0000000000100002382</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002721">
-    <display-name>ch0000000000100002721</display-name>
-  </channel>
-  <channel id="ch0000000000100002582">
-    <display-name>ch0000000000100002582</display-name>
-  </channel>
-  <channel id="ch0000000000100002583">
-    <display-name>ch0000000000100002583</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002722">
-    <display-name>ch0000000000100002722</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002371">
-    <display-name>ch0000000000100002371</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002403">
-    <display-name>ch0000000000100002403</display-name>
+  <channel id="ch0000000000100002441">
+    <display-name>ch0000000000100002441</display-name>
   </channel>
   <channel id="ch0000000000100002328">
     <display-name>ch0000000000100002328</display-name>
   </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
   </channel>
   <channel id="ch0000000000100002098">
     <display-name>ch0000000000100002098</display-name>
   </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
   </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002642">
-    <display-name>ch0000000000100002642</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002731">
-    <display-name>ch0000000000100002731</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
   </channel>
   <channel id="ch0000000000100002097">
     <display-name>ch0000000000100002097</display-name>
@@ -597,53 +482,50 @@
   <channel id="ch0000000000100001356">
     <display-name>ch0000000000100001356</display-name>
   </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002441">
-    <display-name>ch0000000000100002441</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
   </channel>
   <channel id="ch0000000000100002331">
     <display-name>ch0000000000100002331</display-name>
   </channel>
-  <channel id="ch0000000000100002644">
-    <display-name>ch0000000000100002644</display-name>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
   </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
+  <channel id="ch0000000000100002403">
+    <display-name>ch0000000000100002403</display-name>
   </channel>
-  <channel id="ch0000000000100002402">
-    <display-name>ch0000000000100002402</display-name>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100002371">
+    <display-name>ch0000000000100002371</display-name>
   </channel>
-  <channel id="ch0000000000100002361">
-    <display-name>ch0000000000100002361</display-name>
+  <channel id="ch0000000000100002582">
+    <display-name>ch0000000000100002582</display-name>
   </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002642">
+    <display-name>ch0000000000100002642</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
   <channel id="ch0000000000100002741">
     <display-name>ch0000000000100002741</display-name>
@@ -651,29 +533,122 @@
   <channel id="ch0000000000100002324">
     <display-name>ch0000000000100002324</display-name>
   </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
   </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
   </channel>
-  <channel id="ch0000000000100002751">
-    <display-name>ch0000000000100002751</display-name>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100002584">
-    <display-name>ch0000000000100002584</display-name>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
   </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002583">
+    <display-name>ch0000000000100002583</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
   </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002644">
+    <display-name>ch0000000000100002644</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002402">
+    <display-name>ch0000000000100002402</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002382">
+    <display-name>ch0000000000100002382</display-name>
+  </channel>
   <channel id="ch0000000000100002341">
     <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002584">
+    <display-name>ch0000000000100002584</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261028223000 +0700" stop="20261029002000 +0700">
     <title>American Made</title>
@@ -30122,6 +30097,134 @@
     <title>ข่าวในพระราชสำนัก </title>
     <category>การศึกษา</category>
   </programme>
+  <programme channel="ch0000000000100001281" start="20261101000000 +0700" stop="20261101060000 +0700">
+    <title>ETV</title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101060000 +0700" stop="20261101063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101063000 +0700" stop="20261101070000 +0700">
+    <title>นิทานอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101070000 +0700" stop="20261101073000 +0700">
+    <title>ยักษ์คู่ รู้วิทย์/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101073000 +0700" stop="20261101080000 +0700">
+    <title>Smart Kid เด็กไฮเทค </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101080000 +0700" stop="20261101083000 +0700">
+    <title>ข่าวการศึกษา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101083000 +0700" stop="20261101090000 +0700">
+    <title>เรียนนอกรั้ว </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101090000 +0700" stop="20261101100000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101100000 +0700" stop="20261101110000 +0700">
+    <title>Road to U </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101110000 +0700" stop="20261101113000 +0700">
+    <title>ถิ่นวิถี สุนทรีย์สำรับ/World Wide Science </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101113000 +0700" stop="20261101120000 +0700">
+    <title>ก้าวทัน Smart Tech </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101120000 +0700" stop="20261101123000 +0700">
+    <title>Power of Art พลังแห่งศิลปะ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101123000 +0700" stop="20261101130000 +0700">
+    <title>Sports Code </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101130000 +0700" stop="20261101133000 +0700">
+    <title>ข่าวการศึกษา </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101133000 +0700" stop="20261101140000 +0700">
+    <title>ฟังให้ได้ศัพท์ ชุด ภาษาเวียดนาม/Say It Right ใช้ได้ชัวร์ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101140000 +0700" stop="20261101143000 +0700">
+    <title>Hello English </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101143000 +0700" stop="20261101150000 +0700">
+    <title>E-BIKE FIX ซ่อมเองได้ มอเตอร์ไซค์ไฟฟ้า </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101150000 +0700" stop="20261101153000 +0700">
+    <title>สถานีอาชีพ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101153000 +0700" stop="20261101160000 +0700">
+    <title>Smart Kid เด็กไฮเทค </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101160000 +0700" stop="20261101163000 +0700">
+    <title>นิทานอาเซียน (ภาษามือ) </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101163000 +0700" stop="20261101170000 +0700">
+    <title>ยักษ์คู่ รู้วิทย์/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101170000 +0700" stop="20261101173000 +0700">
+    <title>English in Shape/Petch Journey </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101173000 +0700" stop="20261101180000 +0700">
+    <title>Check List สุขภาพจิต The Family </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101180000 +0700" stop="20261101183000 +0700">
+    <title>มวยไทย Exercise </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101183000 +0700" stop="20261101190000 +0700">
+    <title>ลีลาศวัยเก๋า/ไทย Exercise </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101190000 +0700" stop="20261101200000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้ </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101200000 +0700" stop="20261101203000 +0700">
+    <title>ข่าวในพระราชสำนัก </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101203000 +0700" stop="20261101213000 +0700">
+    <title>Road to U </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101213000 +0700" stop="20261101220000 +0700">
+    <title>รู้'รักษ์พลังงาน </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101220000 +0700" stop="20261101230000 +0700">
+    <title>ที่นี่มีเรื่อง </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101230000 +0700" stop="20261101233000 +0700">
+    <title>มวยไทย Exercise </title>
+    <category>การศึกษา</category>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261101233000 +0700" stop="20261101235959 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <category>การศึกษา</category>
+  </programme>
   <programme channel="ch0000000000100001283" start="20261028233000 +0700" stop="20261029000000 +0700">
     <title>R : Sparkling English</title>
     <desc>R : Sparkling English</desc>
@@ -34653,6 +34756,122 @@
     <title>รายการ วาไรตี้ผีดุ</title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001311" start="20261101000000 +0700" stop="20261101010000 +0700">
+    <title>ซีรีส์จีน องครักษ์พิทักษ์ ซุนยัดเซ็น - THE STAND-IN</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101010000 +0700" stop="20261101051500 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101051500 +0700" stop="20261101054500 +0700">
+    <title>รายการ กัลยาโณโซไซตี้</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101054500 +0700" stop="20261101062000 +0700">
+    <title>รายการ 1 ในไทยแลนด์</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101062000 +0700" stop="20261101073000 +0700">
+    <title>รายการ เกษตรสำราญ</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101073000 +0700" stop="20261101080000 +0700">
+    <title>รายการ Awaycation</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101080000 +0700" stop="20261101083000 +0700">
+    <title>รายการ ล้อหมุนทั่วไทย</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101083000 +0700" stop="20261101093000 +0700">
+    <title>รายการ สร้างเรื่อง เรื่องสร้างคน</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101093000 +0700" stop="20261101093500 +0700">
+    <title>รายการ “สวัสดีสถานีข่าว” 5 นาที</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101093500 +0700" stop="20261101100000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101100000 +0700" stop="20261101110000 +0700">
+    <title>รายการ คลายทุกข์ประชาชน</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101110000 +0700" stop="20261101113000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101113000 +0700" stop="20261101123000 +0700">
+    <title>รายการ Smart อปท.</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101123000 +0700" stop="20261101130000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101130000 +0700" stop="20261101140000 +0700">
+    <title>รายการ ชีวิตต้องวิน</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101140000 +0700" stop="20261101143000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101143000 +0700" stop="20261101153000 +0700">
+    <title>รายการ บ้านโหราศาสตร์</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101153000 +0700" stop="20261101160000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101160000 +0700" stop="20261101180000 +0700">
+    <title>หนังดังวันอาทิตย์</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101180000 +0700" stop="20261101180500 +0700">
+    <title>รายการ “โซนข่าว” 5นาที</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101180500 +0700" stop="20261101183000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101183000 +0700" stop="20261101190000 +0700">
+    <title>ละครไทย</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101190000 +0700" stop="20261101193000 +0700">
+    <title>รายการ สร้างเมืองแปลงบ้าน</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101193000 +0700" stop="20261101200000 +0700">
+    <title>รายการ ฅ-การเมือง</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101200000 +0700" stop="20261101213000 +0700">
+    <title>รายการ ประเทศไทยต้องมาก่อน LIVE</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101213000 +0700" stop="20261101220000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101220000 +0700" stop="20261101230000 +0700">
+    <title>รายการ ประตูมิติ</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101230000 +0700" stop="20261101233000 +0700">
+    <title>MV MALL</title>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001311" start="20261101233000 +0700" stop="20261102000000 +0700">
+    <title>รายการ วาไรตี้ผีดุ</title>
+    <category>News</category>
+  </programme>
   <programme channel="ch0000000000100001331" start="20261028235500 +0700" stop="20261029002000 +0700">
     <title>The Chocolate Queen (S6) Ep.1</title>
     <desc>Get ready for another indulgent season of The Chocolate Queen, because Kirsten Tibballs is back with more irresistible chocolate creations!</desc>
@@ -35652,8 +35871,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261030053000 +0700" stop="20261030060000 +0700">
-    <title>101 East</title>
-    <desc>101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <title>101 East: Rethinking The Death Penalty</title>
+    <desc>As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse. 101 East investigates.</desc>
     <category>Current Affairs</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261030060000 +0700" stop="20261030063000 +0700">
@@ -35729,8 +35948,8 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261030163000 +0700" stop="20261030170000 +0700">
-    <title>101 East</title>
-    <desc>101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <title>101 East: Rethinking The Death Penalty</title>
+    <desc>As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse. 101 East investigates.</desc>
     <category>Current Affairs</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261030170000 +0700" stop="20261030180000 +0700">
@@ -35801,7 +36020,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261031053000 +0700" stop="20261031060000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261031060000 +0700" stop="20261031063000 +0700">
     <title>News Live</title>
@@ -35878,7 +36097,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261031163000 +0700" stop="20261031170000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261031170000 +0700" stop="20261031180000 +0700">
     <title>Newshour</title>
@@ -35937,7 +36156,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261101023000 +0700" stop="20261101030000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261101030000 +0700" stop="20261101040000 +0700">
@@ -35955,7 +36174,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261101053000 +0700" stop="20261101060000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261101060000 +0700" stop="20261101063000 +0700">
     <title>News Live</title>
@@ -35984,7 +36203,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261101103000 +0700" stop="20261101110000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261101110000 +0700" stop="20261101113000 +0700">
     <title>News Live</title>
@@ -36022,7 +36241,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261101153000 +0700" stop="20261101160000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261101160000 +0700" stop="20261101163000 +0700">
@@ -36031,7 +36250,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261101163000 +0700" stop="20261101170000 +0700">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261101170000 +0700" stop="20261101180000 +0700">
     <title>Newshour</title>
@@ -41724,9 +41943,21 @@
     <desc>GENERAL</desc>
     <category>Infotainment</category>
   </programme>
-  <programme channel="ch0000000000100001358" start="20261101210000 +0700" stop="20261101230000 +0700">
+  <programme channel="ch0000000000100001358" start="20261101210000 +0700" stop="20261101220000 +0700">
     <title>Gugak The Music Of Korea Ep.145</title>
     <desc>GENERAL</desc>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261101220000 +0700" stop="20261101223000 +0700">
+    <title>Countryside Escape Ep.15</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261101223000 +0700" stop="20261101230000 +0700">
+    <title>Countryside Escape Ep.16</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261101230000 +0700" stop="20261102000000 +0700">
+    <title>Gugak The Music Of Korea Ep.144</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001360" start="20261028231500 +0700" stop="20261029000000 +0700">
@@ -44306,6 +44537,84 @@
     <title>Rerun Sondhi Talk</title>
   </programme>
   <programme channel="ch0000000000100001401" start="20261031233000 +0700" stop="20261031235000 +0700">
+    <title>รอยลายไก่ชน</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261031235000 +0700" stop="20261101003000 +0700">
+    <title>รอยลายไก่ชน</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101003000 +0700" stop="20261101010000 +0700">
+    <title>Rerun สลามเมืองไทย</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101010000 +0700" stop="20261101020000 +0700">
+    <title>Rerun คนเคาะข่าว</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101020000 +0700" stop="20261101030000 +0700">
+    <title>Rerun รอบวันทันเหตุการณ์ - เย็น</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101030000 +0700" stop="20261101040000 +0700">
+    <title>แม่ไม้ เพลงไทย</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101040000 +0700" stop="20261101050000 +0700">
+    <title>Rerun ชัดเจนเปลี่ยน BY สภากาแฟ</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101050000 +0700" stop="20261101060000 +0700">
+    <title>Rerun News Hour</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101060000 +0700" stop="20261101070000 +0700">
+    <title>Rerun รอยลายไก่ชน</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101070000 +0700" stop="20261101080000 +0700">
+    <title>การ์ตูน สัมมาทิฐิ</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101080000 +0700" stop="20261101080200 +0700">
+    <title>เคารพธงชาติ</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101080200 +0700" stop="20261101090000 +0700">
+    <title>Rerun News Hour</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101090000 +0700" stop="20261101110000 +0700">
+    <title>ถอดรหัสข่าว</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101110000 +0700" stop="20261101113000 +0700">
+    <title>B-DRIVE</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101113000 +0700" stop="20261101120000 +0700">
+    <title>Rerun คนจริง ใจไม่ท้อ</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101120000 +0700" stop="20261101130000 +0700">
+    <title>รอบวันทันเหตุการณ์ - เที่ยง</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101130000 +0700" stop="20261101140000 +0700">
+    <title>Rerun คนเคาะข่าว</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101140000 +0700" stop="20261101160000 +0700">
+    <title>Rerun Sondhi Talk</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101160000 +0700" stop="20261101170000 +0700">
+    <title>Rerun คนเคาะข่าว</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101170000 +0700" stop="20261101180000 +0700">
+    <title>รอบวันทันเหตุการณ์ - เย็น</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101180000 +0700" stop="20261101180200 +0700">
+    <title>เคารพธงชาติ</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101180200 +0700" stop="20261101193000 +0700">
+    <title>News Hour</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101193000 +0700" stop="20261101203000 +0700">
+    <title>คมคุย คมคิด</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101203000 +0700" stop="20261101204500 +0700">
+    <title>ข่าวพระราชสำนัก</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101204500 +0700" stop="20261101223000 +0700">
+    <title>Rerun ถอดรหัสข่าว</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101223000 +0700" stop="20261101233000 +0700">
+    <title>Hammer Time</title>
+  </programme>
+  <programme channel="ch0000000000100001401" start="20261101233000 +0700" stop="20261102000000 +0700">
     <title>รอยลายไก่ชน</title>
   </programme>
   <programme channel="ch0000000000100001462" start="20261029000000 +0700" stop="20261029000500 +0700">
@@ -52080,6 +52389,10 @@
     <title>PREMIER LEAGUE 2026/2027</title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001941" start="20261101230000 +0700" stop="20261102030000 +0700">
+    <title>Sports Program</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001992" start="20261029000000 +0700" stop="20261029002959 +0700">
     <title>Bloomberg: Balance of Power</title>
     <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
@@ -52765,55 +53078,43 @@
     <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101050000 +0700" stop="20261101060000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>The Journal Editorial Report</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101060000 +0700" stop="20261101070000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101070000 +0700" stop="20261101080000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101080000 +0700" stop="20261101090000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101090000 +0700" stop="20261101100000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101100000 +0700" stop="20261101110000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101110000 +0700" stop="20261101120000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101120000 +0700" stop="20261101130000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101130000 +0700" stop="20261101140000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101140000 +0700" stop="20261101150000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101150000 +0700" stop="20261101160000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101160000 +0700" stop="20261101170000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101170000 +0700" stop="20261101180000 +0700">
-    <title>Weather Command Weekend</title>
+    <title>American Gold</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101180000 +0700" stop="20261101190000 +0700">
     <title>Weather Command Weekend</title>
@@ -52822,140 +53123,279 @@
     <title>Weather Command Weekend</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101200000 +0700" stop="20261101210000 +0700">
-    <title>THE CLAMAN COUNTDOWN</title>
-    <desc>The Claman Countdown captures the chaos of the last hour on Wall Street.</desc>
+    <title>Weather Command Weekend</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101210000 +0700" stop="20261101220000 +0700">
-    <title>Maria Bartiromo's Wall Street / Barron's Roundtable</title>
+    <title>Making Money with Charles Payne</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101220000 +0700" stop="20261101230000 +0700">
-    <title>Sunday Morning Futures</title>
+    <title>Claman's Power Players / Barron's Roundtable</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261101230000 +0700" stop="20261102000000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>Sunday Morning Futures</title>
   </programme>
   <programme channel="ch0000000000100002041" start="20261028220000 +0700" stop="20261029000000 +0700">
     <title>RERUN: Buriram United vs Sisaket United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029000000 +0700" stop="20261029020000 +0700">
-    <title>RERUN: Chainat Hornbill FC vs Police Tero FC</title>
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ โปลิศ เทโร เอฟซี</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Police Tero FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029020000 +0700" stop="20261029040000 +0700">
-    <title>RERUN: Pattani FC vs Chanthaburi FC</title>
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Pattani FC vs Chanthaburi FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029040000 +0700" stop="20261029060000 +0700">
-    <title>RERUN: Chiangmai United vs Nongbua Pitchaya FC</title>
+    <title lang="th">รีรัน: เชียงใหม่ ยูไนเต็ด พบ หนองบัว พิชญ เอฟซี</title>
+    <title lang="en">RERUN: Chiangmai United vs Nongbua Pitchaya FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029060000 +0700" stop="20261029080000 +0700">
-    <title>RERUN: True Bangkok United vs Ayutthaya United</title>
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: True Bangkok United vs Ayutthaya United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029080000 +0700" stop="20261029100000 +0700">
-    <title>RERUN: Kanchanaburi Power FC vs Chonburi FC</title>
+    <title lang="th">รีรัน: พลังกาญจน์ เอฟซี พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: Kanchanaburi Power FC vs Chonburi FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029100000 +0700" stop="20261029120000 +0700">
-    <title>RERUN: Rasisalai United vs Mahasarakham SBT FC</title>
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ มหาสารคาม เอสบีที เอฟซี</title>
+    <title lang="en">RERUN: Rasisalai United vs Mahasarakham SBT FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029120000 +0700" stop="20261029140000 +0700">
-    <title>RERUN: Port FC vs Buriram United</title>
+    <title lang="th">รีรัน: การท่าเรือ เอฟซี พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Port FC vs Buriram United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029140000 +0700" stop="20261029150000 +0700">
-    <title>HIGHLIGHT Thai League 2 MD 32</title>
+    <title lang="th">ไฮไลต์ ไทยลีก 2 สัปดาห์ที่ 32</title>
+    <title lang="en">HIGHLIGHT Thai League 2 MD 32</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029150000 +0700" stop="20261029160000 +0700">
-    <title>HIGHLIGHT Thai League 1 MD 29</title>
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 29</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 29</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029160000 +0700" stop="20261029180000 +0700">
-    <title>RERUN: Kasetsart FC vs PT Satun FC</title>
+    <title lang="th">รีรัน: เกษตรศาสตร์ เอฟซี พบ พีที สตูล เอฟซี</title>
+    <title lang="en">RERUN: Kasetsart FC vs PT Satun FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029180000 +0700" stop="20261029200000 +0700">
-    <title>RERUN: Songkhla FC vs Phrae United</title>
+    <title lang="th">รีรัน: สงขลา เอฟซี พบ แพร่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Songkhla FC vs Phrae United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029200000 +0700" stop="20261029220000 +0700">
-    <title>RERUN: BG Pathum United vs Singha Chiangrai United</title>
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ สิงห์ เชียงราย ยูไนเต็ด</title>
+    <title lang="en">RERUN: BG Pathum United vs Singha Chiangrai United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261029220000 +0700" stop="20261030000000 +0700">
-    <title>RERUN: Ratchaburi FC vs Chonburi FC</title>
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: Ratchaburi FC vs Chonburi FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030000000 +0700" stop="20261030020000 +0700">
-    <title>RERUN: Kanchanaburi Power FC vs Chainat Hornbill FC</title>
+    <title lang="th">รีรัน: พลังกาญจน์ เอฟซี พบ ชัยนาท ฮอร์นบิล</title>
+    <title lang="en">RERUN: Kanchanaburi Power FC vs Chainat Hornbill FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030020000 +0700" stop="20261030040000 +0700">
-    <title>RERUN: Chanthaburi FC vs Chiangmai United</title>
+    <title lang="th">รีรัน: จันทบุรี เอฟซี พบ เชียงใหม่ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chanthaburi FC vs Chiangmai United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030040000 +0700" stop="20261030060000 +0700">
-    <title>RERUN: Nakhon Ratchasima Mazda FC vs Pattaya United</title>
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ พัทยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Pattaya United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030060000 +0700" stop="20261030080000 +0700">
-    <title>RERUN: Khon Kaen United vs Muang Loei United</title>
+    <title lang="th">รีรัน: ขอนแก่น ยูไนเต็ด พบ เมืองเลย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Khon Kaen United vs Muang Loei United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030080000 +0700" stop="20261030100000 +0700">
-    <title>RERUN: Nongbua Pitchaya FC vs Mahasarakham CC</title>
+    <title lang="th">รีรัน: หนองบัว พิชญ เอฟซี พบ มหาสารคาม ซีซี เอฟซี</title>
+    <title lang="en">RERUN: Nongbua Pitchaya FC vs Mahasarakham CC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030100000 +0700" stop="20261030120000 +0700">
-    <title>RERUN: Uttaradit FC vs Nakhon Pathom United</title>
+    <title lang="th">รีรัน: อุตรดิตถ์ เอฟซี พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Uttaradit FC vs Nakhon Pathom United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030120000 +0700" stop="20261030140000 +0700">
-    <title>RERUN: PT Prachuap FC vs True Bangkok United</title>
+    <title lang="th">รีรัน: พีที ประจวบ เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด</title>
+    <title lang="en">RERUN: PT Prachuap FC vs True Bangkok United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030140000 +0700" stop="20261030160000 +0700">
-    <title>RERUN: Rasisalai United vs Ayutthaya United</title>
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs Ayutthaya United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030160000 +0700" stop="20261030180000 +0700">
-    <title>RERUN: Muangthong United vs Police Tero FC</title>
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ โปลิศ เทโร เอฟซี</title>
+    <title lang="en">RERUN: Muangthong United vs Police Tero FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030180000 +0700" stop="20261030183000 +0700">
-    <title>HIGHLIGHT Thai League 1 MD 6 (2026/27)</title>
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 6</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 6</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030183000 +0700" stop="20261030210000 +0700">
-    <title>LIVE: Sisaket United vs Ratchaburi FC</title>
+    <title lang="th">LIVE: ศรีสะเกษ ยูไนเต็ด พบ ราชบุรี เอฟซี</title>
+    <title lang="en">LIVE: Sisaket United vs Ratchaburi FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030210000 +0700" stop="20261030230000 +0700">
-    <title>RERUN: Khon Kaen United vs Muang Loei United</title>
+    <title lang="th">รีรัน: ขอนแก่น ยูไนเต็ด พบ เมืองเลย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Khon Kaen United vs Muang Loei United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261030230000 +0700" stop="20261031000000 +0700">
-    <title>Highlight of the Week Thai League 2 - Matchday 7</title>
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 8</title>
+    <title lang="en">Highlight of the Week Thai League 2 - Matchday 8</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261031000000 +0700" stop="20261031020000 +0700">
-    <title>RERUN: Khon Kaen United vs BG Pathum United</title>
+    <title lang="th">รีรัน: ขอนแก่น ยูไนเต็ด พบ บีจี ปทุม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Khon Kaen United vs BG Pathum United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261031020000 +0700" stop="20261031040000 +0700">
-    <title>RERUN: Ratchaburi FC vs Pattani FC</title>
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ ปัตตานี เอฟซี</title>
+    <title lang="en">RERUN: Ratchaburi FC vs Pattani FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261031040000 +0700" stop="20261031060000 +0700">
-    <title>RERUN: Lamphun Warriors vs Pattani FC</title>
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ ปัตตานี เอฟซี</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Pattani FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261031060000 +0700" stop="20261031080000 +0700">
-    <title>RERUN: Rasisalai United vs Pattaya United</title>
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ พัทยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs Pattaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031080000 +0700" stop="20261031100000 +0700">
+    <title lang="th">รีรัน: มหาสารคาม ซีซี เอฟซี พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Mahasarakham CC vs Chanthaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031100000 +0700" stop="20261031120000 +0700">
+    <title lang="th">รีรัน: พีที ประจวบ เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด</title>
+    <title lang="en">RERUN: PT Prachuap FC vs True Bangkok United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031120000 +0700" stop="20261031140000 +0700">
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs Ayutthaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031140000 +0700" stop="20261031160000 +0700">
+    <title lang="th">รีรัน: อุทัยธานี เอฟซี พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: Uthai Thani FC vs Sukhothai FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031160000 +0700" stop="20261031180000 +0700">
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ โปลิศ เทโร เอฟซี</title>
+    <title lang="en">RERUN: Muangthong United vs Police Tero FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031180000 +0700" stop="20261031183000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 6</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031183000 +0700" stop="20261031210000 +0700">
+    <title lang="th">LIVE: ทรู แบงค็อก ยูไนเต็ด พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">LIVE: True Bangkok United vs Uthai Thani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031210000 +0700" stop="20261031230000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ ราชบุรี เอฟซี</title>
+    <title lang="en">RERUN: Sisaket United vs Ratchaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261031230000 +0700" stop="20261101000000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 8</title>
+    <title lang="en">Highlight of the Week Thai League 2 - Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101000000 +0700" stop="20261101020000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: True Bangkok United vs Uthai Thani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101020000 +0700" stop="20261101040000 +0700">
+    <title lang="th">รีรัน: แพร่ ยูไนเต็ด พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Phrae United vs Khon Kaen United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101040000 +0700" stop="20261101060000 +0700">
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ สงขลา เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Songkhla FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101060000 +0700" stop="20261101080000 +0700">
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ เกษตรศาสตร์ เอฟซี</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Kasetsart FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101080000 +0700" stop="20261101100000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ ราชบุรี เอฟซี</title>
+    <title lang="en">RERUN: Sisaket United vs Ratchaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101100000 +0700" stop="20261101120000 +0700">
+    <title lang="th">รีรัน: บุรีรัมย์ ยูไนเต็ด พบ ดีพียู เอฟซี</title>
+    <title lang="en">RERUN: Buriram United vs DPU FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101120000 +0700" stop="20261101140000 +0700">
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pattani FC vs Rasisalai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101140000 +0700" stop="20261101160000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: True Bangkok United vs Uthai Thani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101160000 +0700" stop="20261101180000 +0700">
+    <title lang="th">รีรัน: เมืองเลย ยูไนเต็ด พบ เมืองทอง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Muang Loei United vs Muangthong United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101180000 +0700" stop="20261101183000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 6</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101183000 +0700" stop="20261101210000 +0700">
+    <title lang="th">LIVE: ระยอง เอฟซี พบ ลำพูน วอริเออร์</title>
+    <title lang="en">LIVE: Rayong FC vs Lamphun Warriors</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101210000 +0700" stop="20261101230000 +0700">
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pattani FC vs Rasisalai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261101230000 +0700" stop="20261102000000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 7</title>
+    <title lang="en">Highlight of the Week Thai League 2 - Matchday 7</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20261028220000 +0700" stop="20261029000000 +0700">
@@ -53116,6 +53556,100 @@
   <programme channel="ch0000000000100002052" start="20261031120000 +0700" stop="20261031140000 +0700">
     <title lang="th">รีรัน: โคราช ซิตี้ พบ ขอนแก่น เอฟซี</title>
     <title lang="en">RERUN: Korat City vs Khonkaen FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261031140000 +0700" stop="20261031160000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ ราชบุรี เอฟซี</title>
+    <title lang="en">RERUN: Sisaket United vs Ratchaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261031160000 +0700" stop="20261031170000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 4 (2026/27)</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 4 (2026/27)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261031170000 +0700" stop="20261031173000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 5 (2026/27)</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 5 (2026/27)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261031173000 +0700" stop="20261031200000 +0700">
+    <title lang="th">LIVE: ปัตตานี เอฟซี พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">LIVE: Pattani FC vs Rasisalai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261031200000 +0700" stop="20261031220000 +0700">
+    <title lang="th">รีรัน: นาวิกโยธิน เอฟซี พบ สโมสรฟุตบอลกองเรือรบ</title>
+    <title lang="en">RERUN: Marines FC vs Fleet United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261031220000 +0700" stop="20261101000000 +0700">
+    <title lang="th">รีรัน: ปลวกแดง ยูไนเต็ด พบ บีเอฟบี พัทยา ซิตี้</title>
+    <title lang="en">RERUN: Pluankdaeng United vs BFB Pattaya City</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101000000 +0700" stop="20261101020000 +0700">
+    <title lang="th">รีรัน: สโมสรฟุตบอลกองเรือรบ พบ เอ็มเอ็นเค เอสซี</title>
+    <title lang="en">RERUN: Fleet United vs MNK SC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101020000 +0700" stop="20261101040000 +0700">
+    <title lang="th">รีรัน: จามจุรี ยูไนเต็ด พบ ม. นอร์ทกรุงเทพ</title>
+    <title lang="en">RERUN: Chamchuri United vs North Bangkok University</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101040000 +0700" stop="20261101060000 +0700">
+    <title lang="th">รีรัน: ทหารอากาศ เอฟซี พบ อยุธยา พีเค เอฟซี</title>
+    <title lang="en">RERUN: Royal Thai Air Force FC vs Ayutthaya PK FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101060000 +0700" stop="20261101080000 +0700">
+    <title lang="th">รีรัน: ม. ปทุมธานี พบ ม. เกษมบัณฑิต เอฟซี</title>
+    <title lang="en">RERUN: Pathumthani University vs Kasembundit University FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101080000 +0700" stop="20261101100000 +0700">
+    <title lang="th">รีรัน: อัสสัมชัญ ยูไนเต็ด พบ ทัพหลวง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Assumption United vs Thapluang United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101100000 +0700" stop="20261101120000 +0700">
+    <title lang="th">รีรัน: บีจีซี บัณฑิตเอเซีย พบ รร. กีฬาจังหวัดชลบุรี</title>
+    <title lang="en">RERUN: BGC College of Asian Scholars vs Chonburi Sports School</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101120000 +0700" stop="20261101140000 +0700">
+    <title lang="th">รีรัน: สมุทรสาคร ซิตี้ พบ วีอาร์เอ็น เมืองนนท์ เอฟซี</title>
+    <title lang="en">RERUN: Samutsakhon City vs VRN Muangnon FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101140000 +0700" stop="20261101160000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: True Bangkok United vs Uthai Thani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101160000 +0700" stop="20261101170000 +0700">
+    <title lang="th">ไฮไลต์ ไทยลีก 1 สัปดาห์ที่ 4 (2026/27)</title>
+    <title lang="en">HIGHLIGHT Thai League 1 MD 4 (2026/27)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101170000 +0700" stop="20261101173000 +0700">
+    <title>HIGHLIGHT Thai League 1 MD 6 (2026/27)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101173000 +0700" stop="20261101200000 +0700">
+    <title lang="th">LIVE: สุโขทัย เอฟซี พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">LIVE: Sukhothai FC vs Ayutthaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101200000 +0700" stop="20261101220000 +0700">
+    <title lang="th">รีรัน: ชุมพร ยูไนเต็ด พบ สมุย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chumphon United vs Samui United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261101220000 +0700" stop="20261102000000 +0700">
+    <title lang="th">รีรัน: ม. การจัดการ และเทคโนโลยีอีสเทิร์น พบ ยโสธร เอฟซี</title>
+    <title lang="en">RERUN: The Eastern University of Management and Technology vs Yasothon FC</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002091" start="20261029000000 +0700" stop="20261029235959 +0700">
@@ -53296,6 +53830,16 @@
   <programme channel="ch0000000000100002096" start="20261101000000 +0700" stop="20261101183000 +0700">
     <title lang="th">เริ่มเวลา 18:30 พัทยา พบ พลังกาญจน์ (T2 - สัปดาห์ที่ 9)</title>
     <title lang="en">Kick Off 18:30 Pattaya vs Kanchanaburi Power (T2 - Matchday 9)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002096" start="20261101183000 +0700" stop="20261101203000 +0700">
+    <title lang="th">LIVE: พัทยา พบ พลังกาญจน์ (T2 - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Pattaya vs Kanchanaburi Power (T2 - Matchday 9)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002096" start="20261101203000 +0700" stop="20261101235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002097" start="20261029000000 +0700" stop="20261029235959 +0700">
@@ -53985,13 +54529,17 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261029123000 +0700" stop="20261029164000 +0700">
+  <programme channel="ch0000000000100002181" start="20261029123000 +0700" stop="20261029152000 +0700">
     <title>Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Bernabéu.</desc>
   </programme>
+  <programme channel="ch0000000000100002181" start="20261029152000 +0700" stop="20261029164000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
   <programme channel="ch0000000000100002181" start="20261029164000 +0700" stop="20261029185500 +0700">
-    <title>Champions League 26/27: Roma vs Real Madrid</title>
-    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261029185500 +0700" stop="20261029192500 +0700">
     <title>Realmadrid Life</title>
@@ -54033,11 +54581,11 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261030091500 +0700" stop="20261030114500 +0700">
-    <title>Intercontinental Cup Final Under-20: Real Madrid vs Wanderers</title>
-    <desc>Youth League champions face Conmebol Libertadores winners Santiago Wanderers in the Intercontinental Cup Final.</desc>
+  <programme channel="ch0000000000100002181" start="20261030091500 +0700" stop="20261030113000 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261030114500 +0700" stop="20261030120000 +0700">
+  <programme channel="ch0000000000100002181" start="20261030113000 +0700" stop="20261030120000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
@@ -54049,17 +54597,17 @@
     <title>Liga 26/27: Real Madrid vs Málaga</title>
     <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261030143000 +0700" stop="20261030174000 +0700">
+  <programme channel="ch0000000000100002181" start="20261030143000 +0700" stop="20261030174500 +0700">
     <title>Champions League: Manchester City vs Real Madrid 23/24</title>
     <desc>Quarter Final (second leg). Real Madrid face Manchester City in Etihad Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261030174000 +0700" stop="20261030181000 +0700">
+  <programme channel="ch0000000000100002181" start="20261030174500 +0700" stop="20261030181500 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261030181000 +0700" stop="20261030202500 +0700">
-    <title>Liga 26/27: Real Madrid vs Sevilla</title>
-    <desc>Matchday 9 of Liga. Real Madrid host Sevilla in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261030181500 +0700" stop="20261030202500 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261030202500 +0700" stop="20261030224500 +0700">
     <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
@@ -54094,22 +54642,22 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261031050000 +0700" stop="20261031071000 +0700">
-    <title>Champions League 17/18: Real Madrid vs Borussia Dortmund</title>
-    <desc>Enjoy this five goal thriller from the Champions League group</desc>
+    <title>Champions League 26/27: Roma vs Real Madrid</title>
+    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261031071000 +0700" stop="20261031081500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261031081500 +0700" stop="20261031103000 +0700">
-    <title>TBC: Women´s Champions League 26/27:Bayern Múnich vs Real Madrid</title>
-    <desc>TBC: Matchday 3 of the Women´s Champions League. Real Madrid face Bayern Múnich in Uhlsport Park Stadium.</desc>
+    <title>Women´s Champions League 26/27:Bayern Múnich vs Real Madrid</title>
+    <desc>Matchday 3 of the Women´s Champions League. Real Madrid face Bayern Múnich in Uhlsport Park Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261031103000 +0700" stop="20261031113500 +0700">
+  <programme channel="ch0000000000100002181" start="20261031103000 +0700" stop="20261031114000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261031113500 +0700" stop="20261031120000 +0700">
+  <programme channel="ch0000000000100002181" start="20261031114000 +0700" stop="20261031120000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show</desc>
   </programme>
@@ -54117,9 +54665,113 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261031121500 +0700" stop="20261031130000 +0700">
-    <title>The Match</title>
-    <desc>Don't miss our first team football action. Catch all the matches in full right here on RealmadridTV</desc>
+  <programme channel="ch0000000000100002181" start="20261031121500 +0700" stop="20261031142500 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031142500 +0700" stop="20261031153000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031153000 +0700" stop="20261031174500 +0700">
+    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
+    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031174500 +0700" stop="20261031180500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031180500 +0700" stop="20261031182500 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031182500 +0700" stop="20261031204000 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031204000 +0700" stop="20261031210000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031210000 +0700" stop="20261031233000 +0700">
+    <title>Real Madrid City</title>
+    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261031233000 +0700" stop="20261101010000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101010000 +0700" stop="20261101021000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101021000 +0700" stop="20261101023000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101023000 +0700" stop="20261101044500 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101044500 +0700" stop="20261101051500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101051500 +0700" stop="20261101074500 +0700">
+    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
+    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101074500 +0700" stop="20261101090000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101090000 +0700" stop="20261101091500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101091500 +0700" stop="20261101113000 +0700">
+    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101113000 +0700" stop="20261101120000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101120000 +0700" stop="20261101121500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101121500 +0700" stop="20261101144500 +0700">
+    <title>Champions League 26/27: Real Madrid vs Inter</title>
+    <desc>Matchday 1 of the Champions League. Real Madrid host Inter in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101144500 +0700" stop="20261101155000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101155000 +0700" stop="20261101161000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101161000 +0700" stop="20261101182500 +0700">
+    <title>Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc>Matchday 2 of Liga. Real Madrid face Espanyol in the RCDE Stadium</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101182500 +0700" stop="20261101193000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101193000 +0700" stop="20261101214500 +0700">
+    <title>Liga 26/27: Real Madrid vs Sevilla</title>
+    <desc>Matchday 9 of Liga. Real Madrid host Sevilla in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101214500 +0700" stop="20261101221500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261101221500 +0700" stop="20261102002000 +0700">
+    <title>Youth League: Real Madrid U19 vs RB Leipzig</title>
+    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20261028234000 +0700" stop="20261029024500 +0700">
     <title lang="th">รีรัน: นิวอิงแลนด์ แพทริออตส์ พบ ชิคาโก แบร์ส</title>
@@ -55034,43 +55686,35 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261029000000 +0700" stop="20261029235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title>No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261030000000 +0700" stop="20261030235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title>No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261031000000 +0700" stop="20261031153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 จามจุรี พบ ม. นอร์ทกรุงเทพ (T3 - สัปดาห์ที่ 7)</title>
-    <title lang="en">Kick Off 15:30 Chamchuri vs North Bangkok University (T3 - Matchday 7)</title>
+    <title>Kick Off 15:30 Chamchuri vs North Bangkok University (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261031153000 +0700" stop="20261031173000 +0700">
-    <title lang="th">LIVE: จามจุรี พบ ม. นอร์ทกรุงเทพ (T3 - สัปดาห์ที่ 7)</title>
-    <title lang="en">LIVE: Chamchuri vs North Bangkok University (T3 - Matchday 7)</title>
+    <title>LIVE: Chamchuri vs North Bangkok University (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261031173000 +0700" stop="20261031235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title>No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261101000000 +0700" stop="20261101153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 นอร์ทเทิร์น นครแม่สอด พบ สิงห์ เชียงราย ซิตี้ (T3 - สัปดาห์ที่ 7)</title>
-    <title lang="en">Kick Off 15:30 Northern Nakhonmaesot vs Singha Chiangrai City (T3 - Matchday 7)</title>
+    <title>Kick Off 15:30 Northern Nakhonmaesot vs Singha Chiangrai City (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261101153000 +0700" stop="20261101173000 +0700">
-    <title lang="th">LIVE: นอร์ทเทิร์น นครแม่สอด พบ สิงห์ เชียงราย ซิตี้ (T3 - สัปดาห์ที่ 7)</title>
-    <title lang="en">LIVE: Northern Nakhonmaesot vs Singha Chiangrai City (T3 - Matchday 7)</title>
+    <title>LIVE: Northern Nakhonmaesot vs Singha Chiangrai City (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261101173000 +0700" stop="20261101235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
+    <title>No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002314" start="20261029000000 +0700" stop="20261029235959 +0700">
@@ -55163,32 +55807,32 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261031000000 +0700" stop="20261031153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 อัสสัมชัญ พบ ทัพหลวง (T3 - สัปดาห์ที่ 7)</title>
-    <title lang="en">Kick Off 15:30 Assumption vs Thapluang (T3 - Matchday 7)</title>
+  <programme channel="ch0000000000100002322" start="20261031000000 +0700" stop="20261031190000 +0700">
+    <title lang="th">เริ่มเวลา 19:00 อัสสัมชัญ พบ ทัพหลวง (T3 - สัปดาห์ที่ 7)</title>
+    <title lang="en">Kick Off 19:00 Assumption vs Thapluang (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261031153000 +0700" stop="20261031173000 +0700">
+  <programme channel="ch0000000000100002322" start="20261031190000 +0700" stop="20261031210000 +0700">
     <title lang="th">LIVE: อัสสัมชัญ พบ ทัพหลวง (T3 - สัปดาห์ที่ 7)</title>
     <title lang="en">LIVE: Assumption vs Thapluang (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261031173000 +0700" stop="20261031235959 +0700">
+  <programme channel="ch0000000000100002322" start="20261031210000 +0700" stop="20261031235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261101000000 +0700" stop="20261101153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 อ่างทอง พบ บางกะปิ (T3 - สัปดาห์ที่ 7)</title>
-    <title lang="en">Kick Off 15:30 Angthong vs Bangkapi (T3 - Matchday 7)</title>
+  <programme channel="ch0000000000100002322" start="20261101000000 +0700" stop="20261101170000 +0700">
+    <title lang="th">เริ่มเวลา 17:00 อ่างทอง พบ บางกะปิ (T3 - สัปดาห์ที่ 7)</title>
+    <title lang="en">Kick Off 17:00 Angthong vs Bangkapi (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261101153000 +0700" stop="20261101173000 +0700">
+  <programme channel="ch0000000000100002322" start="20261101170000 +0700" stop="20261101190000 +0700">
     <title lang="th">LIVE: อ่างทอง พบ บางกะปิ (T3 - สัปดาห์ที่ 7)</title>
     <title lang="en">LIVE: Angthong vs Bangkapi (T3 - Matchday 7)</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002322" start="20261101173000 +0700" stop="20261101235959 +0700">
+  <programme channel="ch0000000000100002322" start="20261101190000 +0700" stop="20261101235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -57375,8 +58019,117 @@
     <title lang="en">RERUN: ATP Tour This Week Episode 16</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261030193000 +0700" stop="20261031050000 +0700">
+  <programme channel="ch0000000000100002530" start="20261030193000 +0700" stop="20261031040000 +0700">
     <title>LIVE: Erste Bank Open Day 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031040000 +0700" stop="20261031042000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: นิโคลอซ บาซิลาชวิลี พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) R16: Nikoloz Basilashvili vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031042000 +0700" stop="20261031044000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เทย์เลอร์ ฟริตซ์ พบ เดนิส ชาโปวาลอฟ</title>
+    <title lang="en">(HL) R16: Taylor Fritz vs Denis Shapovalov</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031044000 +0700" stop="20261031050000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ ซเวเรฟ พบ ทัลลอน กริกสปูร์</title>
+    <title lang="en">(HL) R16: Alexander Zverev vs Tallon Griekspoor</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031050000 +0700" stop="20261031070000 +0700">
+    <title lang="th">รีรัน: รอบ 16: ทอมมี่ พอล พบ ลูเชียโน ดาร์เดรี</title>
+    <title lang="en">RERUN: R16: Tommy Paul vs Luciano Darderi</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031070000 +0700" stop="20261031090000 +0700">
+    <title lang="th">รีรัน: รอบ 16: โนวัค ยอโควิช พบ ยาน-เลนนาร์ด สตรัฟฟ์</title>
+    <title lang="en">RERUN: R16: Novak Djokovic vs Jan-Lennard Struff</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031090000 +0700" stop="20261031091500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ฟลาวิโอ โคบอลลี พบ มัตเตโอ แบร์เรตตินี</title>
+    <title lang="en">(HL) R16: Flavio Cobolli vs Matteo Berrettini</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031091500 +0700" stop="20261031093000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: โนวัค ยอโควิช พบ ยาน-เลนนาร์ด สตรัฟฟ์</title>
+    <title lang="en">(HL) R16: Novak Djokovic vs Jan-Lennard Struff</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031093000 +0700" stop="20261031100000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 17</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 17</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031100000 +0700" stop="20261031120000 +0700">
+    <title lang="th">รีรัน: รอบ 16: ฟลาวิโอ โคบอลลี พบ มัตเตโอ แบร์เรตตินี</title>
+    <title lang="en">RERUN: R16: Flavio Cobolli vs Matteo Berrettini</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031120000 +0700" stop="20261031122000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เบน เชลตัน พบ เฌอโรม คิม</title>
+    <title lang="en">(HL) R16: Ben Shelton vs Jerome Kym</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031122000 +0700" stop="20261031124000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อาเทอร์ เฟรี พบ ลอเรนโซ มูเซตติ</title>
+    <title lang="en">(HL) R16: Arthur Fery vs Lorenzo Musetti</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031124000 +0700" stop="20261031130000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: โนวัค ยอโควิช พบ ยาน-เลนนาร์ด สตรัฟฟ์</title>
+    <title lang="en">(HL) R16: Novak Djokovic vs Jan-Lennard Struff</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031130000 +0700" stop="20261031150000 +0700">
+    <title lang="th">รีรัน: รอบ 16: อาเทอร์ เฟรี พบ ลอเรนโซ มูเซตติ</title>
+    <title lang="en">RERUN: R16: Arthur Fery vs Lorenzo Musetti</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031150000 +0700" stop="20261031151500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: โนวัค ยอโควิช พบ ยาน-เลนนาร์ด สตรัฟฟ์</title>
+    <title lang="en">(HL) R16: Novak Djokovic vs Jan-Lennard Struff</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031151500 +0700" stop="20261031153000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ฟลาวิโอ โคบอลลี พบ มัตเตโอ แบร์เรตตินี</title>
+    <title lang="en">(HL) R16: Flavio Cobolli vs Matteo Berrettini</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031153000 +0700" stop="20261031160000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 18</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 18</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031160000 +0700" stop="20261031180000 +0700">
+    <title lang="th">รีรัน: รอบ 16: โนวัค ยอโควิช พบ ยาน-เลนนาร์ด สตรัฟฟ์</title>
+    <title lang="en">RERUN: R16: Novak Djokovic vs Jan-Lennard Struff</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031180000 +0700" stop="20261031183000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 38</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 38</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031183000 +0700" stop="20261031203000 +0700">
+    <title lang="th">รีรัน: รอบ 16: ฟลาวิโอ โคบอลลี พบ มัตเตโอ แบร์เรตตินี</title>
+    <title lang="en">RERUN: R16: Flavio Cobolli vs Matteo Berrettini</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031203000 +0700" stop="20261031210000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 39</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 39</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261031210000 +0700" stop="20261101010000 +0700">
+    <title>LIVE: Erste Bank Open Day 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261101010000 +0700" stop="20261101020000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 19</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 19</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261028233000 +0700" stop="20261029003000 +0700">
@@ -58688,14 +59441,199 @@
     <title lang="en">Highlights of the Week Matchday 5 - Bundesliga 2026/27</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002701" start="20261031000000 +0700" stop="20261031003000 +0700">
+  <programme channel="ch0000000000100002701" start="20261031000000 +0700" stop="20261031010000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 10</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 10</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031010000 +0700" stop="20261031013000 +0700">
     <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 6</title>
     <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 6</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002701" start="20261031003000 +0700" stop="20261031023000 +0700">
+  <programme channel="ch0000000000100002701" start="20261031013000 +0700" stop="20261031020000 +0700">
     <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 6</title>
     <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031020000 +0700" stop="20261031021500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: เอลเวอร์สแบร์ก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: SV Elversberg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031021500 +0700" stop="20261031043000 +0700">
+    <title lang="th">LIVE: เอลเวอร์สแบร์ก พบ ไมนซ์ 05</title>
+    <title lang="en">LIVE: SV Elversberg vs 1. FSV Mainz 05</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031043000 +0700" stop="20261031050000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031050000 +0700" stop="20261031070000 +0700">
+    <title lang="th">รีรัน: ไอน์ทรัค เบราน์ชไวค์ พบ ฮันโนเวอร์ 96</title>
+    <title lang="en">RERUN: Eintracht Braunschweig vs Hannover 96</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031070000 +0700" stop="20261031090000 +0700">
+    <title lang="th">รีรัน: ฮอฟเฟนไฮม์ พบ ไบเออร์ เลเวอร์คูเซ่น</title>
+    <title lang="en">RERUN: TSG 1899 Hoffenheim vs Bayer 04 Leverkusen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031090000 +0700" stop="20261031110000 +0700">
+    <title lang="th">รีรัน: เอลเวอร์สแบร์ก พบ ไมนซ์ 05</title>
+    <title lang="en">RERUN: SV Elversberg vs 1. FSV Mainz 05</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031110000 +0700" stop="20261031120000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 7 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 7 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031120000 +0700" stop="20261031140000 +0700">
+    <title lang="th">รีรัน: ไฟรบวร์ก พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: SC Freiburg vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031140000 +0700" stop="20261031160000 +0700">
+    <title lang="th">รีรัน: อาร์มิเนีย บีเลเฟลด์ พบ ไอน์ทรัค เบราน์ชไวค์</title>
+    <title lang="en">RERUN: DSC Arminia Bielefeld vs Eintracht Braunschweig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031160000 +0700" stop="20261031170000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031170000 +0700" stop="20261031180000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 7 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 7 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031180000 +0700" stop="20261031200000 +0700">
+    <title lang="th">รีรัน: เอลเวอร์สแบร์ก พบ ไมนซ์ 05</title>
+    <title lang="en">RERUN: SV Elversberg vs 1. FSV Mainz 05</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031200000 +0700" stop="20261031210000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031210000 +0700" stop="20261031211500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: สตุ๊ตการ์ท</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: VfB Stuttgart</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031211500 +0700" stop="20261031233000 +0700">
+    <title lang="th">LIVE: ไบเออร์ เลเวอร์คูเซ่น พบ สตุ๊ตการ์ท</title>
+    <title lang="en">LIVE: Bayer 04 Leverkusen vs VfB Stuttgart</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261031233000 +0700" stop="20261101000000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101000000 +0700" stop="20261101001500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101001500 +0700" stop="20261101023000 +0700">
+    <title lang="th">LIVE: บาเยิร์น มิวนิค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">LIVE: FC Bayern Munich vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101023000 +0700" stop="20261101030000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 6</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101030000 +0700" stop="20261101050000 +0700">
+    <title lang="th">รีรัน: เอเนอร์กี ค็อตบุส พบ โบคุม</title>
+    <title lang="en">RERUN: Energie Cottbus vs VfL Bochum</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101050000 +0700" stop="20261101060000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 4 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 4 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101060000 +0700" stop="20261101063000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101063000 +0700" stop="20261101064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Eintracht Frankfurt</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101064500 +0700" stop="20261101070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: สตุ๊ตการ์ท</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: VfB Stuttgart</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101070000 +0700" stop="20261101090000 +0700">
+    <title lang="th">รีรัน: ชาลเก้ 04 พบ แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: FC Schalke 04 vs RB Leipzig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101090000 +0700" stop="20261101110000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: FC Bayern Munich vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101110000 +0700" stop="20261101120000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101120000 +0700" stop="20261101140000 +0700">
+    <title lang="th">รีรัน: ชาลเก้ 04 พบ แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: FC Schalke 04 vs RB Leipzig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101140000 +0700" stop="20261101160000 +0700">
+    <title lang="th">รีรัน: โวล์ฟสบวร์ก พบ ออสนาบรุค</title>
+    <title lang="en">RERUN: VfL Wolfsburg vs VfL Osnabrueck</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101160000 +0700" stop="20261101170000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 7 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 7 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101170000 +0700" stop="20261101180000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 6</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101180000 +0700" stop="20261101200000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: FC Bayern Munich vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101200000 +0700" stop="20261101210000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101210000 +0700" stop="20261101211500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: อูนิโอน เบอร์ลิน</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: 1 FC Union Berlin</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101211500 +0700" stop="20261101233000 +0700">
+    <title lang="th">LIVE: อูนิโอน เบอร์ลิน พบ โคโลญจน์</title>
+    <title lang="en">LIVE: 1. FC Union Berlin vs 1. FC Koeln</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261101233000 +0700" stop="20261102000000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 3</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 3</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002721" start="20261028000000 +0700" stop="20261029000000 +0700">
