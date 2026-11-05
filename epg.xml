@@ -440,155 +440,160 @@
     <display-name lang="en">MVTV</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png"/>
   </channel>
+  <channel id="ch0000000000100002901">
+    <display-name lang="th">ดับเบิลยูทีจีแอล 901</display-name>
+    <display-name lang="en">WTGL 901</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261102084840086158.png"/>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
   <channel id="ch0000000000100002324">
     <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100001295">
     <display-name>ch0000000000100001295</display-name>
   </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
   <channel id="ch0000000000100002091">
     <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
   </channel>
   <channel id="ch0000000000100002325">
     <display-name>ch0000000000100002325</display-name>
   </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name>ch0000000000100002341</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
   </channel>
   <channel id="ch0000000000100001372">
     <display-name>ch0000000000100001372</display-name>
   </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
   <channel id="ch0000000000100002331">
     <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261103220000 +0700" stop="20261104002000 +0700">
     <title>13 Hours: The Secret Soldiers Of Benghazi</title>
@@ -2527,15 +2532,15 @@
     <desc>Nicola Six has a dark foreshadowing of her impending murder. But instead of trying to save herself, she seduces three different men - one of whom will be her killer.</desc>
     <category>Comedy</category>
   </programme>
-  <programme channel="ch0000000000100001044" start="20261107144500 +0700" stop="20261107162500 +0700">
-    <title>Despicable Me 2</title>
-    <desc>A series of spectacular evil crimes has risen and former super-villain Gru has been recruited to find out who is responsible for them.</desc>
-    <category>Family</category>
-  </programme>
-  <programme channel="ch0000000000100001044" start="20261107162500 +0700" stop="20261107182500 +0700">
+  <programme channel="ch0000000000100001044" start="20261107144500 +0700" stop="20261107164500 +0700">
     <title>Crazy Rich Asians</title>
     <desc>Chinese-American New Yorker Rachel Chu travels to Singapore with her boyfriend Nick to attend his best friend's wedding. Before long, his secret is out: Nick's family is wealthy, and he's considered the most eligible bachelor in Asia…</desc>
     <category>Comedy</category>
+  </programme>
+  <programme channel="ch0000000000100001044" start="20261107164500 +0700" stop="20261107182500 +0700">
+    <title>Despicable Me 2</title>
+    <desc>A series of spectacular evil crimes has risen and former super-villain Gru has been recruited to find out who is responsible for them.</desc>
+    <category>Family</category>
   </programme>
   <programme channel="ch0000000000100001044" start="20261107182500 +0700" stop="20261107200000 +0700">
     <title>Gravity</title>
@@ -36048,14 +36053,9 @@
     <title>U.S. Midterms 2026</title>
     <desc>Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
   </programme>
-  <programme channel="ch0000000000100001351" start="20261104150000 +0700" stop="20261104153000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100001351" start="20261104153000 +0700" stop="20261104160000 +0700">
-    <title>The Listening Post</title>
-    <desc>Student protests, police violence and a French media obsessed with "barbarians". Plus, The Kyiv Independent's fight to report Ukraine's war.</desc>
-    <category>News</category>
+  <programme channel="ch0000000000100001351" start="20261104150000 +0700" stop="20261104160000 +0700">
+    <title>U.S. Midterms 2026</title>
+    <desc>Live coverage of the U.S. Midterms election 2026, as it happens.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261104160000 +0700" stop="20261104163000 +0700">
     <title>News Live</title>
