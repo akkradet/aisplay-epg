@@ -440,161 +440,176 @@
     <display-name lang="en">WTGL 901</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261102084840086158.png"/>
   </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name>ch0000000000100002311</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
-  </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name>ch0000000000100002314</display-name>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name>ch0000000000100002313</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
   </channel>
   <channel id="ch0000000000100002531">
     <display-name>ch0000000000100002531</display-name>
   </channel>
-  <channel id="ch0000000000100002312">
-    <display-name>ch0000000000100002312</display-name>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
   </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
   </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
-  </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002533">
-    <display-name>ch0000000000100002533</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <channel id="ch0000000000100002581">
     <display-name>ch0000000000100002581</display-name>
   </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002533">
+    <display-name>ch0000000000100002533</display-name>
   </channel>
   <channel id="ch0000000000100002327">
     <display-name>ch0000000000100002327</display-name>
   </channel>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
+  </channel>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name>ch0000000000100002722</display-name>
+  </channel>
   <channel id="ch0000000000100002094">
     <display-name>ch0000000000100002094</display-name>
   </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
   </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002751">
+    <display-name>ch0000000000100002751</display-name>
+  </channel>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
   <channel id="ch0000000000100001353">
     <display-name>ch0000000000100001353</display-name>
   </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
+  </channel>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100002721">
+    <display-name>ch0000000000100002721</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name>ch0000000000100002731</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
   <channel id="ch0000000000100001294">
     <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
   <channel id="ch0000000000100002341">
     <display-name>ch0000000000100002341</display-name>
   </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002741">
+    <display-name>ch0000000000100002741</display-name>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261104225500 +0700" stop="20261105010500 +0700">
     <title>The Running Man</title>
@@ -4080,8 +4095,12 @@
     <title>THE TRUST ลำนำรักสลับร่าง (EP. 3-4)</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001081" start="20261108210000 +0700" stop="20261108220000 +0700">
+  <programme channel="ch0000000000100001081" start="20261108210000 +0700" stop="20261108230000 +0700">
     <title>ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (EP. 11-12)</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001081" start="20261108230000 +0700" stop="20261109010000 +0700">
+    <title>PRINCESS AT LARGE SEASON 1 พระชายาลอยนวล ปี 1 (EP. 7-8)</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001091" start="20261104220000 +0700" stop="20261105000000 +0700">
@@ -5581,7 +5600,7 @@
     <title>THE PEACEKEEPER วิกฤตนิวเคลียร์ถล่มโลก</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001093" start="20261108230000 +0700" stop="20261108233000 +0700">
+  <programme channel="ch0000000000100001093" start="20261108230000 +0700" stop="20261109010000 +0700">
     <title>สวยรหัสฆ่า BLOOD VALENTINE</title>
     <category>Entertainment</category>
   </programme>
@@ -21287,7 +21306,7 @@
     <desc>รายการที่จะนำเสนอเพลงเพราะ เพลงฮิต จากศิลปินดัง ตลอด 2 ชั่วโมง</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001183" start="20261108220000 +0700" stop="20261108230000 +0700">
+  <programme channel="ch0000000000100001183" start="20261108220000 +0700" stop="20261109000000 +0700">
     <title>YOUNGSTER Variety (Rerun)</title>
     <desc>ช่วงเวลาที่รวบรวมความสนุกหลากหลายรูปแบบมามอบให้คุณผู้ชม ทั้งเรื่องราวที่เป็นกระแสในโลกโซเชี่ยล อัพเดทข่าวสารในทุกวงการพูดคุยกับศิลปินที่กำลังเป็นที่นิยมพร้อมโชว์สุดพิเศษและรวมไปถึงเหล่านักแสดงมากความสามารถที่จะมาพูดคุยถึงบรรยากาศและความสนุกในกองละคร</desc>
     <category>Entertainment</category>
@@ -27769,11 +27788,13 @@
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261106120000 +0700" stop="20261106130000 +0700">
-    <title>CNN Newsroom</title>
+    <title>The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261106130000 +0700" stop="20261106140000 +0700">
-    <title>CNN Newsroom</title>
+    <title>The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261106140000 +0700" stop="20261106150000 +0700">
@@ -27782,11 +27803,12 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261106150000 +0700" stop="20261106160000 +0700">
-    <title>Election Night In America (2026)</title>
+    <title>CNN Newsroom</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261106160000 +0700" stop="20261106170000 +0700">
-    <title>Election Night In America (2026)</title>
+    <title>CNN Newsroom</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261106170000 +0700" stop="20261106180000 +0700">
@@ -29903,533 +29925,452 @@
     <desc>Shipping vessels are the backbone of global trade, but they are also significant polluters. Enter AI and groundbreaking innovation that optimises shipping routes, and show how smarter logistics can have a global environmental impact.</desc>
     <category>News</category>
   </programme>
+  <programme channel="ch0000000000100001281" start="20261104233000 +0700" stop="20261105000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+  </programme>
   <programme channel="ch0000000000100001281" start="20261105000000 +0700" stop="20261105060000 +0700">
     <title>ETV</title>
-    <category>การศึกษา</category>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105060000 +0700" stop="20261105063000 +0700">
-    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
-    <category>การศึกษา</category>
+    <title>ธรรมสาธุ (ทำวัตรเช้า)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105063000 +0700" stop="20261105070000 +0700">
-    <title>ปล่อยใจไปกับธรรม </title>
-    <category>การศึกษา</category>
+    <title>ปล่อยใจไปกับธรรม</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105070000 +0700" stop="20261105073000 +0700">
-    <title>คุณธรรม คุณทำได้ </title>
-    <category>การศึกษา</category>
+    <title>คุณธรรมคุณทำได้</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105073000 +0700" stop="20261105080000 +0700">
-    <title>สยามศิลป์ </title>
-    <category>การศึกษา</category>
+    <title>สยามศิลป์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105080000 +0700" stop="20261105083000 +0700">
-    <title>ข่าวการศึกษา/ลุยเดี่ยวเกี่ยวประเด็น </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา / ลุยเดี่ยวเกี่ยวประเด็น</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105083000 +0700" stop="20261105090000 +0700">
-    <title>สุขพอ ขอปัน </title>
-    <category>การศึกษา</category>
+    <title>สุขพอ..ขอปัน</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105090000 +0700" stop="20261105093000 +0700">
-    <title>Let's go solar cell </title>
-    <category>การศึกษา</category>
+    <title>Let's go solar cell</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105093000 +0700" stop="20261105100000 +0700">
-    <title>OnScreen Market ตลาดบนจอ </title>
-    <category>การศึกษา</category>
+    <title>OnScreen Market ตลาดบนจอ</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261105100000 +0700" stop="20261105110000 +0700">
-    <title>สกร. วาไรตี้ </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261105100000 +0700" stop="20261105103000 +0700">
+    <title>สกร. วาไรตี้</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261105103000 +0700" stop="20261105110000 +0700">
+    <title>สกร. วาไรตี้</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105110000 +0700" stop="20261105113000 +0700">
-    <title>Sports Code </title>
-    <category>การศึกษา</category>
+    <title>Sports Code</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105113000 +0700" stop="20261105120000 +0700">
-    <title>Bring Bright Science/Cool วิทย์ </title>
-    <category>การศึกษา</category>
+    <title>Bring Bright Science / Cool วิทย์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105120000 +0700" stop="20261105123000 +0700">
-    <title>In Sci/Math Digest </title>
-    <category>การศึกษา</category>
+    <title>Science Click / Math Digest</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105123000 +0700" stop="20261105130000 +0700">
-    <title>Math is Fun/Think Math </title>
-    <category>การศึกษา</category>
+    <title>Math is Fun / Think Math</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105130000 +0700" stop="20261105133000 +0700">
-    <title>ข่าวการศึกษา/I can say </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา / I can say</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105133000 +0700" stop="20261105140000 +0700">
-    <title>ฟังให้ได้ศัพท์ ชุดภาษาเวียดนาม/Say It Right ใช้ได้ชัวร์ </title>
-    <category>การศึกษา</category>
+    <title>ฟังให้ได้ศัพท์ ชุดภาษาเวียดนาม / Say It Right ใช้ได้ชัวร์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105140000 +0700" stop="20261105143000 +0700">
-    <title>Hello English </title>
-    <category>การศึกษา</category>
+    <title>Hello English</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105143000 +0700" stop="20261105150000 +0700">
-    <title>ก้าวทัน Smart Tech </title>
-    <category>การศึกษา</category>
+    <title>ก้าวทัน Smart Tech</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105150000 +0700" stop="20261105153000 +0700">
-    <title>สถานีอาชีพ </title>
-    <category>การศึกษา</category>
+    <title>สถานีอาชีพ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105153000 +0700" stop="20261105160000 +0700">
-    <title>สยามศิลป์ </title>
-    <category>การศึกษา</category>
+    <title>สยามศิลป์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105160000 +0700" stop="20261105163000 +0700">
-    <title>คุณธรรม คุณทำได้ </title>
-    <category>การศึกษา</category>
+    <title>คุณธรรมคุณทำได้</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105163000 +0700" stop="20261105170000 +0700">
-    <title>Kids จะเล่น </title>
-    <category>การศึกษา</category>
+    <title>Kids จะเล่น</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105170000 +0700" stop="20261105173000 +0700">
-    <title>ข่าวการศึกษา/Petch Journey </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา / Petch Journey</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105173000 +0700" stop="20261105180000 +0700">
-    <title>สุขพอ ขอปัน </title>
-    <category>การศึกษา</category>
+    <title>สุขพอ..ขอปัน</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261105180000 +0700" stop="20261105190000 +0700">
-    <title>ลีลา ลีลาศ </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261105180000 +0700" stop="20261105183000 +0700">
+    <title>ลีลาลีลาศ</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261105190000 +0700" stop="20261105200000 +0700">
-    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261105183000 +0700" stop="20261105190000 +0700">
+    <title>ลีลาลีลาศ</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261105190000 +0700" stop="20261105193000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาไทย</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261105193000 +0700" stop="20261105200000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาไทย</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105200000 +0700" stop="20261105203000 +0700">
-    <title>ข่าวในพระราชสำนัก </title>
-    <category>การศึกษา</category>
+    <title>ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261105203000 +0700" stop="20261105213000 +0700">
-    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261105203000 +0700" stop="20261105210000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาไทย</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261105210000 +0700" stop="20261105213000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาไทย</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105213000 +0700" stop="20261105220000 +0700">
-    <title>Let's go solar cell </title>
-    <category>การศึกษา</category>
+    <title>Let's go solar cell</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105220000 +0700" stop="20261105223000 +0700">
-    <title>รู้'รักษ์ พลังงาน </title>
-    <category>การศึกษา</category>
+    <title>รู้รักษ์พลังงาน</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105223000 +0700" stop="20261105230000 +0700">
-    <title>ดนตรีบำบัด </title>
-    <category>การศึกษา</category>
+    <title>ดนตรีบำบัด</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261105230000 +0700" stop="20261105233000 +0700">
-    <title>ปล่อยใจไปกับธรรม </title>
-    <category>การศึกษา</category>
+    <title>ปล่อยใจไปกับธรรม</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261105233000 +0700" stop="20261105235959 +0700">
+  <programme channel="ch0000000000100001281" start="20261105233000 +0700" stop="20261106000000 +0700">
     <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
-    <category>การศึกษา</category>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106000000 +0700" stop="20261106060000 +0700">
     <title>ETV</title>
-    <category>การศึกษา</category>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106060000 +0700" stop="20261106063000 +0700">
-    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
-    <category>การศึกษา</category>
+    <title>ธรรมสาธุ (ทำวัตรเช้า)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106063000 +0700" stop="20261106070000 +0700">
-    <title>เพื่อชีวิตและสุขภาพ </title>
-    <category>การศึกษา</category>
+    <title>เพื่อชีวิตและสุขภาพ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106070000 +0700" stop="20261106073000 +0700">
-    <title>วัยเก๋าเล่าอาชีพ ปี 4 </title>
-    <category>การศึกษา</category>
+    <title>วัยเก๋าเล่าอาชีพ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106073000 +0700" stop="20261106080000 +0700">
-    <title>ศิลป์สร้างสุข (ภาพ) </title>
-    <category>การศึกษา</category>
+    <title>ศิลป์สร้างสุข(ภาพ)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106080000 +0700" stop="20261106083000 +0700">
-    <title>ข่าวการศึกษา/ที่นี่ประเทศไทย </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา / ที่นี่ประเทศไทย</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106083000 +0700" stop="20261106090000 +0700">
-    <title>การปฐมพยาบาลเบื้องต้น </title>
-    <category>การศึกษา</category>
+    <title>การปฐมพยาบาลเบื้องต้น</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106090000 +0700" stop="20261106093000 +0700">
-    <title>เขย่าความคิดกับวิทย์รักษ์โลก </title>
-    <category>การศึกษา</category>
+    <title>เขย่าความคิดกับวิทย์รักษ์โลก</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106093000 +0700" stop="20261106100000 +0700">
-    <title>Parenting Hacks เลี้ยงลูกฉบับง่าย </title>
-    <category>การศึกษา</category>
+    <title>Parenting Hacks เลี้ยงลูกฉบับง่าย</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106100000 +0700" stop="20261106103000 +0700">
-    <title>พัฒนาครู </title>
-    <category>การศึกษา</category>
+    <title>พัฒนาครู</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106103000 +0700" stop="20261106110000 +0700">
-    <title>English Wisdom/Heal Zone </title>
-    <category>การศึกษา</category>
+    <title>English Wisdom / Heal Zone</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106110000 +0700" stop="20261106113000 +0700">
-    <title>Better Me/สุขปนศิลป์ </title>
-    <category>การศึกษา</category>
+    <title>Up look สุขสร้างสรรค์ / Fit&amp;Frame</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106113000 +0700" stop="20261106120000 +0700">
-    <title>Inspire English/Make My Day English </title>
-    <category>การศึกษา</category>
+    <title>Inspire English / Make My Day English</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106120000 +0700" stop="20261106123000 +0700">
-    <title>Unlock English/ทางไทย </title>
-    <category>การศึกษา</category>
+    <title>Unlock English / ทางไทย</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106123000 +0700" stop="20261106130000 +0700">
-    <title>ติวไทย ให้เธอเต็ม/ไทยศึกษา </title>
-    <category>การศึกษา</category>
+    <title>ติวไทยให้เธอเต็ม / ไทยสุนทรีย์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106130000 +0700" stop="20261106133000 +0700">
-    <title>ข่าวการศึกษา/Alphabet Let's go </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา / Alphabet Let's go</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106133000 +0700" stop="20261106140000 +0700">
-    <title>Chinese for Careers/Simply Korean </title>
-    <category>การศึกษา</category>
+    <title>Chinese for Careers / Simply Korean</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106140000 +0700" stop="20261106143000 +0700">
-    <title>Sematkan Malaysia/ห้องเรียนเรื่องลาว ปี 1 </title>
-    <category>การศึกษา</category>
+    <title>Sematkan Malaysia / ห้องเรียนเรือง ลาว ปี 1</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106143000 +0700" stop="20261106150000 +0700">
-    <title>เกษตรยุคใหม่ หัวใจเทคโนโลยี </title>
-    <category>การศึกษา</category>
+    <title>เกษตรยุคใหม่ หัวใจเทคโนโลยี</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106150000 +0700" stop="20261106153000 +0700">
-    <title>ชุมชนชื่นใจ </title>
-    <category>การศึกษา</category>
+    <title>ชุมชนชื่นใจ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106153000 +0700" stop="20261106160000 +0700">
-    <title>ศิลป์สร้างสุข (ภาพ) </title>
-    <category>การศึกษา</category>
+    <title>ศิลป์สร้างสุข(ภาพ)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106160000 +0700" stop="20261106163000 +0700">
-    <title>วัยเก๋าเล่าอาชีพ ปี 4 </title>
-    <category>การศึกษา</category>
+    <title>วัยเก๋าเล่าอาชีพ ปี 4</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106163000 +0700" stop="20261106170000 +0700">
-    <title>Family Center ปี 1 </title>
-    <category>การศึกษา</category>
+    <title>Family Center ปี 1</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106170000 +0700" stop="20261106173000 +0700">
-    <title>ข่าวการศึกษา/วิถีอาเซียน (ภาษามือ) </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา / วิถีอาเซียน (ภาษามือ)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106173000 +0700" stop="20261106180000 +0700">
-    <title>การปฐมพยาบาลเบื้องต้น </title>
-    <category>การศึกษา</category>
+    <title>การปฐมพยาบาลเบื้องต้น</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261106180000 +0700" stop="20261106190000 +0700">
-    <title>ฟื้นฟูดูเฟิร์ม </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261106180000 +0700" stop="20261106183000 +0700">
+    <title>ฟื้นฟูดูเฟิร์ม</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261106190000 +0700" stop="20261106200000 +0700">
-    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261106183000 +0700" stop="20261106190000 +0700">
+    <title>ฟื้นฟูดูเฟิร์ม</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261106190000 +0700" stop="20261106193000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาสังคมศึกษา</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261106193000 +0700" stop="20261106200000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาสังคมศึกษา</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106200000 +0700" stop="20261106203000 +0700">
-    <title>ข่าวในพระราชสำนัก </title>
-    <category>การศึกษา</category>
+    <title>ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261106203000 +0700" stop="20261106213000 +0700">
-    <title>ติวเข้มเดิมเต็มความรู้สำหรับผู้เรียน สกร. </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261106203000 +0700" stop="20261106210000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาสังคมศึกษา</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261106210000 +0700" stop="20261106213000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาสังคมศึกษา</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106213000 +0700" stop="20261106220000 +0700">
-    <title>พัฒนาครู </title>
-    <category>การศึกษา</category>
+    <title>พัฒนาครู</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106220000 +0700" stop="20261106223000 +0700">
-    <title>รู้ทันสื่อ </title>
-    <category>การศึกษา</category>
+    <title>รู้ทันสื่อ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106223000 +0700" stop="20261106230000 +0700">
-    <title>กฎหมายคลายเครียด </title>
-    <category>การศึกษา</category>
+    <title>กฎหมายคลายเครียด</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261106230000 +0700" stop="20261106233000 +0700">
-    <title>เพื่อชีวิตและสุขภาพ </title>
-    <category>การศึกษา</category>
+    <title>เพื่อชีวิตและสุขภาพ</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261106233000 +0700" stop="20261106235959 +0700">
+  <programme channel="ch0000000000100001281" start="20261106233000 +0700" stop="20261107000000 +0700">
     <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
-    <category>การศึกษา</category>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107000000 +0700" stop="20261107060000 +0700">
     <title>ETV</title>
-    <category>การศึกษา</category>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107060000 +0700" stop="20261107063000 +0700">
-    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
-    <category>การศึกษา</category>
+    <title>ธรรมสาธุ (ทำวัตรเช้า)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107063000 +0700" stop="20261107070000 +0700">
-    <title>นิทานอาเซียน (ภาษามือ) </title>
-    <category>การศึกษา</category>
+    <title>นิทานอาเซียน (ภาษามือ)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107070000 +0700" stop="20261107073000 +0700">
-    <title>นิทานคุณหนู/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
-    <category>การศึกษา</category>
+    <title>นิทานคุณหนู / ขบวนการเด็กดี / ครอบครัวตัวหมี</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107073000 +0700" stop="20261107080000 +0700">
-    <title>Cooking Diary ชุด Little Chef </title>
-    <category>การศึกษา</category>
+    <title>Cooking Diary ชุด Little chef</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107080000 +0700" stop="20261107083000 +0700">
-    <title>ข่าวการศึกษา </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107083000 +0700" stop="20261107090000 +0700">
-    <title>Good Guide </title>
-    <category>การศึกษา</category>
+    <title>Good Guide</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261107090000 +0700" stop="20261107100000 +0700">
-    <title>ติวเข้มเติมเต็มความรู้ </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261107090000 +0700" stop="20261107093000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261107100000 +0700" stop="20261107110000 +0700">
-    <title>Easy TCAS </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261107093000 +0700" stop="20261107100000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261107100000 +0700" stop="20261107103000 +0700">
+    <title>Easy TCAS</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261107103000 +0700" stop="20261107110000 +0700">
+    <title>Easy TCAS</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107110000 +0700" stop="20261107113000 +0700">
-    <title>Art of Careers ศิลปะแห่งอาชีพ </title>
-    <category>การศึกษา</category>
+    <title>Art of Careers ศิลปะแห่งอาชีพ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107113000 +0700" stop="20261107120000 +0700">
-    <title>Social Studies/Chic Society </title>
-    <category>การศึกษา</category>
+    <title>Social Studies / Social Box</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107120000 +0700" stop="20261107123000 +0700">
-    <title>Social Story/ตามรอยมืออาชีพจิ๋ว </title>
-    <category>การศึกษา</category>
+    <title>Social Buddy / ตามรอยมืออาชีพจิ๋ว</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107123000 +0700" stop="20261107130000 +0700">
-    <title>รู้ทันคนทำงาน/Growing Goal </title>
-    <category>การศึกษา</category>
+    <title>รู้ทันคนทำงาน / Growing Goal</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107130000 +0700" stop="20261107133000 +0700">
-    <title>ข่าวการศึกษา </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107133000 +0700" stop="20261107140000 +0700">
-    <title>จีนง่ายได้เรื่อง/Japan มาดูมะ </title>
-    <category>การศึกษา</category>
+    <title>จีนง่ายได้เรื่อง / Japan มาดูมะ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107140000 +0700" stop="20261107143000 +0700">
-    <title>Belajar Bahasa Malaysia/เมียนมา ภาษาพาสนุก </title>
-    <category>การศึกษา</category>
+    <title>Belajar Bahasa Malaysia / เมียนมา ภาษาสนุก</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107143000 +0700" stop="20261107150000 +0700">
-    <title>Cick &amp; Sell คลิกแล้วขาย </title>
-    <category>การศึกษา</category>
+    <title>Click &amp; Sell คลิกแล้วขาย</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261107150000 +0700" stop="20261107151500 +0700">
-    <title>Wellness Kicthen ครัวสร้างสุข </title>
-    <category>การศึกษา</category>
-  </programme>
-  <programme channel="ch0000000000100001281" start="20261107151500 +0700" stop="20261107153000 +0700">
-    <title>The diary บันทึกประวัติศาสตร์ชาติไทยฯ </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261107150000 +0700" stop="20261107153000 +0700">
+    <title>Wellness Kitchen ครัวสร้างสุข / เตือนภัยไซเบอร์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107153000 +0700" stop="20261107160000 +0700">
-    <title>Cooking Diary ชุด Little Chef </title>
-    <category>การศึกษา</category>
+    <title>Cooking Diary ชุด Little chef</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107160000 +0700" stop="20261107163000 +0700">
-    <title>นิทานอาเซียน (ภาษามือ) </title>
-    <category>การศึกษา</category>
+    <title>นิทานอาเซียน (ภาษามือ)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107163000 +0700" stop="20261107170000 +0700">
-    <title>นิทานคุณหนู/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
-    <category>การศึกษา</category>
+    <title>นิทานคุณหนู / ขบวนการเด็กดี / ครอบครัวตัวหมี</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107170000 +0700" stop="20261107173000 +0700">
-    <title>สีสันภาษาจีน/จีนจำเป็น </title>
-    <category>การศึกษา</category>
+    <title>สีสันภาษาจีน / จีนจำเป็น</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107173000 +0700" stop="20261107180000 +0700">
-    <title>Good Guide </title>
-    <category>การศึกษา</category>
+    <title>Good Guide</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107180000 +0700" stop="20261107183000 +0700">
-    <title>หุ่นดีสร้างได้ </title>
-    <category>การศึกษา</category>
+    <title>หุ่นดีสร้างได้ ปี 2</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107183000 +0700" stop="20261107190000 +0700">
-    <title>ฟิตให้เฟิร์ม </title>
-    <category>การศึกษา</category>
+    <title>ฟิตให้เฟิร์ม</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261107190000 +0700" stop="20261107200000 +0700">
-    <title>ติวเข้มเติมเต็มความรู้ </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261107190000 +0700" stop="20261107193000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261107193000 +0700" stop="20261107200000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107200000 +0700" stop="20261107203000 +0700">
-    <title>ข่าวในพระราชสำนัก </title>
-    <category>การศึกษา</category>
+    <title>ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261107203000 +0700" stop="20261107213000 +0700">
-    <title>Easy TCAS </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261107203000 +0700" stop="20261107210000 +0700">
+    <title>Easy TCAS</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261107210000 +0700" stop="20261107213000 +0700">
+    <title>Easy TCAS</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107213000 +0700" stop="20261107220000 +0700">
-    <title>เขย่าความคิดกับวิทย์รักษ์โลก </title>
-    <category>การศึกษา</category>
+    <title>เขย่าความคิดกับวิทย์รักษ์โลก</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261107220000 +0700" stop="20261107230000 +0700">
-    <title>ประวัติศาสตร์นอกตำรา </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261107220000 +0700" stop="20261107223000 +0700">
+    <title>ประวัติศาสตร์นอกตำรา</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261107223000 +0700" stop="20261107230000 +0700">
+    <title>ประวัติศาสตร์นอกตำรา</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261107230000 +0700" stop="20261107233000 +0700">
-    <title>ดนตรีบำบัด </title>
-    <category>การศึกษา</category>
+    <title>ดนตรีบำบัด</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261107233000 +0700" stop="20261107235959 +0700">
+  <programme channel="ch0000000000100001281" start="20261107233000 +0700" stop="20261108000000 +0700">
     <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
-    <category>การศึกษา</category>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108000000 +0700" stop="20261108060000 +0700">
     <title>ETV</title>
-    <category>การศึกษา</category>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108060000 +0700" stop="20261108063000 +0700">
-    <title>ธรรมสาธุ(ทำวัตรเช้า) </title>
-    <category>การศึกษา</category>
+    <title>ธรรมสาธุ (ทำวัตรเช้า)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108063000 +0700" stop="20261108070000 +0700">
-    <title>นิทานอาเซียน (ภาษามือ) </title>
-    <category>การศึกษา</category>
+    <title>นิทานอาเซียน (ภาษามือ)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108070000 +0700" stop="20261108073000 +0700">
-    <title>ยักษ์คู่ รู้วิทย์/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
-    <category>การศึกษา</category>
+    <title>ยักษ์คู่ รู้วิทย์ / แก๊งป่วน พิทักษ์ไซเบอร์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108073000 +0700" stop="20261108080000 +0700">
-    <title>Smart Kid เด็กไฮเทค </title>
-    <category>การศึกษา</category>
+    <title>Smart Kid เด็กไฮเทค</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108080000 +0700" stop="20261108083000 +0700">
-    <title>ข่าวการศึกษา </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108083000 +0700" stop="20261108090000 +0700">
-    <title>เรียนนอกรั้ว </title>
-    <category>การศึกษา</category>
+    <title>เรียนนอกรั้ว</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261108090000 +0700" stop="20261108100000 +0700">
-    <title>ติวเข้มเติมเต็มความรู้ </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261108090000 +0700" stop="20261108093000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261108100000 +0700" stop="20261108110000 +0700">
-    <title>Road to U </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261108093000 +0700" stop="20261108100000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261108100000 +0700" stop="20261108103000 +0700">
+    <title>Road to U</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261108103000 +0700" stop="20261108110000 +0700">
+    <title>Road to U</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108110000 +0700" stop="20261108113000 +0700">
-    <title>ถิ่นวิถี สุนทรีย์สำรับ/World Wide Science </title>
-    <category>การศึกษา</category>
+    <title>ถิ่นวิถีสุนทรีย์สำรับ / Worldwide Science</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108113000 +0700" stop="20261108120000 +0700">
-    <title>ก้าวทัน Smart Tech </title>
-    <category>การศึกษา</category>
+    <title>ก้าวทัน Smart Tech</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108120000 +0700" stop="20261108123000 +0700">
-    <title>Power of Art พลังแห่งศิลปะ </title>
-    <category>การศึกษา</category>
+    <title>Power of Art “พลังแห่งศิลปะ”</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108123000 +0700" stop="20261108130000 +0700">
-    <title>Sports Code </title>
-    <category>การศึกษา</category>
+    <title>Sports Code</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108130000 +0700" stop="20261108133000 +0700">
-    <title>ข่าวการศึกษา </title>
-    <category>การศึกษา</category>
+    <title>ข่าวการศึกษา</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108133000 +0700" stop="20261108140000 +0700">
-    <title>ฟังให้ได้ศัพท์ ชุด ภาษาเวียดนาม/Say It Right ใช้ได้ชัวร์ </title>
-    <category>การศึกษา</category>
+    <title>ฟังให้ได้ศัพท์ ชุดภาษาเวียดนาม / Say It Right ใช้ได้ชัวร์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108140000 +0700" stop="20261108143000 +0700">
-    <title>Hello English </title>
-    <category>การศึกษา</category>
+    <title>Hello English</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108143000 +0700" stop="20261108150000 +0700">
-    <title>E-BIKE FIX ซ่อมเองได้ มอเตอร์ไซค์ไฟฟ้า </title>
-    <category>การศึกษา</category>
+    <title>E-BIKE FIX ซ่อมเองได้ มอเตอร์ไซค์ไฟฟ้า</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108150000 +0700" stop="20261108153000 +0700">
-    <title>สถานีอาชีพ </title>
-    <category>การศึกษา</category>
+    <title>สถานีอาชีพ</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108153000 +0700" stop="20261108160000 +0700">
-    <title>Smart Kid เด็กไฮเทค </title>
-    <category>การศึกษา</category>
+    <title>Smart Kid เด็กไฮเทค</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108160000 +0700" stop="20261108163000 +0700">
-    <title>นิทานอาเซียน (ภาษามือ) </title>
-    <category>การศึกษา</category>
+    <title>นิทานอาเซียน (ภาษามือ)</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108163000 +0700" stop="20261108170000 +0700">
-    <title>ยักษ์คู่ รู้วิทย์/ขบวนการเด็กดี/ครอบครัวตัวหมี </title>
-    <category>การศึกษา</category>
+    <title>ยักษ์คู่ รู้วิทย์ / แก๊งป่วน พิทักษ์ไซเบอร์</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108170000 +0700" stop="20261108173000 +0700">
-    <title>English in Shape/Petch Journey </title>
-    <category>การศึกษา</category>
+    <title>English in Shape / Petch Journey</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108173000 +0700" stop="20261108180000 +0700">
-    <title>Check List สุขภาพจิต The Family </title>
-    <category>การศึกษา</category>
+    <title>Check List สุขภาพจิต The Family</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108180000 +0700" stop="20261108183000 +0700">
-    <title>มวยไทย Exercise </title>
-    <category>การศึกษา</category>
+    <title>มวยไทย Exercise</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108183000 +0700" stop="20261108190000 +0700">
-    <title>ลีลาศวัยเก๋า/ไทย Exercise </title>
-    <category>การศึกษา</category>
+    <title>ลีลาศวัยเก๋า / ไทย Exercise</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261108190000 +0700" stop="20261108200000 +0700">
-    <title>ติวเข้มเติมเต็มความรู้ </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261108190000 +0700" stop="20261108193000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261108193000 +0700" stop="20261108200000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108200000 +0700" stop="20261108203000 +0700">
-    <title>ข่าวในพระราชสำนัก </title>
-    <category>การศึกษา</category>
+    <title>ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261108203000 +0700" stop="20261108213000 +0700">
-    <title>Road to U </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261108203000 +0700" stop="20261108210000 +0700">
+    <title>Road to U</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261108210000 +0700" stop="20261108213000 +0700">
+    <title>Road to U</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108213000 +0700" stop="20261108220000 +0700">
-    <title>รู้'รักษ์พลังงาน </title>
-    <category>การศึกษา</category>
+    <title>รู้ 'รักษ์พลังงาน</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261108220000 +0700" stop="20261108230000 +0700">
-    <title>ที่นี่มีเรื่อง </title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261108220000 +0700" stop="20261108223000 +0700">
+    <title>ที่นี่มีเรื่อง</title>
+  </programme>
+  <programme channel="ch0000000000100001281" start="20261108223000 +0700" stop="20261108230000 +0700">
+    <title>ที่นี่มีเรื่อง</title>
   </programme>
   <programme channel="ch0000000000100001281" start="20261108230000 +0700" stop="20261108233000 +0700">
-    <title>มวยไทย Exercise </title>
-    <category>การศึกษา</category>
+    <title>มวยไทย Exercise</title>
   </programme>
-  <programme channel="ch0000000000100001281" start="20261108233000 +0700" stop="20261108235959 +0700">
-    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
-    <category>การศึกษา</category>
+  <programme channel="ch0000000000100001281" start="20261108233000 +0700" stop="20261109000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
   </programme>
   <programme channel="ch0000000000100001283" start="20261104233000 +0700" stop="20261105000000 +0700">
     <title>R : Sparkling English</title>
@@ -42550,6 +42491,18 @@
     <desc>GENERAL</desc>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001358" start="20261108220000 +0700" stop="20261108223000 +0700">
+    <title>Countryside Escape Ep.17</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261108223000 +0700" stop="20261108230000 +0700">
+    <title>Countryside Escape Ep.18</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261108230000 +0700" stop="20261109000000 +0700">
+    <title>Gugak The Music Of Korea Ep.145</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001360" start="20261104231500 +0700" stop="20261105000000 +0700">
     <title>อัศจรรย์บันลือโลก</title>
     <desc>อัศจรรย์บันลือโลก</desc>
@@ -47943,8 +47896,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261105131500 +0700" stop="20261105133000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261105133000 +0700" stop="20261105140000 +0700">
@@ -47987,8 +47940,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261105171500 +0700" stop="20261105173000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261105173000 +0700" stop="20261105180000 +0700">
@@ -48008,12 +47961,12 @@
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261105190200 +0700" stop="20261105191500 +0700">
+  <programme channel="ch0000000000100001903" start="20261105190200 +0700" stop="20261105191800 +0700">
     <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261105191500 +0700" stop="20261105193000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+  <programme channel="ch0000000000100001903" start="20261105191800 +0700" stop="20261105193000 +0700">
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261105193000 +0700" stop="20261105200000 +0700">
@@ -48058,18 +48011,18 @@
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261105230200 +0700" stop="20261105231500 +0700">
+  <programme channel="ch0000000000100001903" start="20261105230200 +0700" stop="20261105231700 +0700">
     <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261105231500 +0700" stop="20261105233000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+  <programme channel="ch0000000000100001903" start="20261105231700 +0700" stop="20261105233000 +0700">
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261105233000 +0700" stop="20261106000000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>Made in Germany: From food to shipping: How El Niño impacts the global economy</title>
+    <desc>A severe El Niño could reduce harvests, disrupt shipping routes, and increase government spending across multiple regions at once.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106000000 +0700" stop="20261106000200 +0700">
     <title>DW News</title>
@@ -48116,8 +48069,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106031500 +0700" stop="20261106033000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106033000 +0700" stop="20261106040000 +0700">
@@ -48157,14 +48110,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106061500 +0700" stop="20261106063000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106063000 +0700" stop="20261106070000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>Focus on Europe: Spotlight on People</title>
+    <desc>Human trafficking: How foreign workers are exploited in Serbia. +++ Italy: Why a major steel plant has to shut down.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106070000 +0700" stop="20261106070200 +0700">
     <title>DW News</title>
@@ -48298,7 +48251,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106173000 +0700" stop="20261106180000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Africa's Bold Creators</title>
+    <desc>This time, host Zimingonaphakade Mabunzi welcomes you from the RMB Latitudes Art Fair in Johannesburg, South Africa. Plus: fair trade Ethiopian coffee, Cameroonian architect Hermann Kamte and a Nigerian to burn canvases.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106180000 +0700" stop="20261106183000 +0700">
@@ -48323,7 +48277,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106193000 +0700" stop="20261106200000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Bamboo brings new life to Kenya</title>
+    <desc>Growing bamboo is paying off economically and environmentally in Kenya's communities. In Uganda, young and old are learning how to farm organically in a community garden. Also: a Namibian city that can teach us about water management.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106200000 +0700" stop="20261106203000 +0700">
@@ -48372,8 +48327,9 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261106233000 +0700" stop="20261107000000 +0700">
-    <title>DW News: Africa</title>
-    <category>News</category>
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107000000 +0700" stop="20261107000200 +0700">
     <title>DW News</title>
@@ -48396,8 +48352,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107011500 +0700" stop="20261107013000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107013000 +0700" stop="20261107020000 +0700">
@@ -48460,7 +48416,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107053000 +0700" stop="20261107060000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: West Africa or East Africa: Who has the better plate?</title>
+    <desc>West Africa or East Africa: Who has the better plate? This week, Fatou and Sulemani face off in a friendly culinary showdown while sharing stories and traditions, behind some of Africa's favorite dishes.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107060000 +0700" stop="20261107060200 +0700">
@@ -48476,9 +48433,9 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107063000 +0700" stop="20261107070000 +0700">
-    <title>REV: Back to the future? Everything old is new again at VW</title>
-    <desc>VW is badging its new EVs with the names of old favorites like the Polo, while partnering with XPeng and Rivian on tech. Will its rebrand work? And: Therapy on wheels — rollerblading in Abuja and drifting in Kyív.</desc>
-    <category>Magazine</category>
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107070000 +0700" stop="20261107070200 +0700">
     <title>DW News</title>
@@ -48589,7 +48546,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107143000 +0700" stop="20261107150000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: West Africa or East Africa: Who has the better plate?</title>
+    <desc>West Africa or East Africa: Who has the better plate? This week, Fatou and Sulemani face off in a friendly culinary showdown while sharing stories and traditions, behind some of Africa's favorite dishes.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107150000 +0700" stop="20261107151500 +0700">
@@ -48597,8 +48555,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107151500 +0700" stop="20261107153000 +0700">
-    <title>ENTR: How Serbia's Gen Z brought down their government</title>
-    <desc>The images from Belgrade go around the world. Thousands celebrate in the streets. But the real story takes place behind the scenes. How did a student movement manage to mobilize an entire country? And what now?</desc>
+    <title>ENTR: We were there when Serbia's student movement toppled the government</title>
+    <desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107153000 +0700" stop="20261107160000 +0700">
@@ -48622,7 +48580,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107173000 +0700" stop="20261107180000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: West Africa or East Africa: Who has the better plate?</title>
+    <desc>West Africa or East Africa: Who has the better plate? This week, Fatou and Sulemani face off in a friendly culinary showdown while sharing stories and traditions, behind some of Africa's favorite dishes.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107180000 +0700" stop="20261107181500 +0700">
@@ -48655,7 +48614,8 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107203000 +0700" stop="20261107210000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Africa's Bold Creators</title>
+    <desc>This time, host Zimingonaphakade Mabunzi welcomes you from the RMB Latitudes Art Fair in Johannesburg, South Africa. Plus: fair trade Ethiopian coffee, Cameroonian architect Hermann Kamte and a Nigerian to burn canvases.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261107210000 +0700" stop="20261107210200 +0700">
@@ -48811,7 +48771,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108073000 +0700" stop="20261108080000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Africa's Bold Creators</title>
+    <desc>This time, host Zimingonaphakade Mabunzi welcomes you from the RMB Latitudes Art Fair in Johannesburg, South Africa. Plus: fair trade Ethiopian coffee, Cameroonian architect Hermann Kamte and a Nigerian to burn canvases.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108080000 +0700" stop="20261108080200 +0700">
@@ -48840,7 +48801,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108093000 +0700" stop="20261108100000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: West Africa or East Africa: Who has the better plate?</title>
+    <desc>West Africa or East Africa: Who has the better plate? This week, Fatou and Sulemani face off in a friendly culinary showdown while sharing stories and traditions, behind some of Africa's favorite dishes.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108100000 +0700" stop="20261108100200 +0700">
@@ -48884,7 +48846,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108123000 +0700" stop="20261108130000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: Bamboo brings new life to Kenya</title>
+    <desc>Growing bamboo is paying off economically and environmentally in Kenya's communities. In Uganda, young and old are learning how to farm organically in a community garden. Also: a Namibian city that can teach us about water management.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108130000 +0700" stop="20261108130200 +0700">
@@ -48909,7 +48872,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108143000 +0700" stop="20261108150000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Don't hold back: The perfect life for social media - Skhu Mayaba</title>
+    <desc>Instagram shows us flowers, holidays, and perfect couple selfies — but what’s really happening behind those posts? In this season finale of Don’t Hold Back, Nozibele Qamngana-Mayaba sits down with her husband, Skhu Mayaba, for a real, funny, and vulnerable conversation about what love looks like when no one’s watching.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108150000 +0700" stop="20261108151500 +0700">
@@ -48935,7 +48899,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108163000 +0700" stop="20261108170000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Africa's Bold Creators</title>
+    <desc>This time, host Zimingonaphakade Mabunzi welcomes you from the RMB Latitudes Art Fair in Johannesburg, South Africa. Plus: fair trade Ethiopian coffee, Cameroonian architect Hermann Kamte and a Nigerian to burn canvases.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108170000 +0700" stop="20261108171500 +0700">
@@ -49009,11 +48974,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108220200 +0700" stop="20261108223000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Africa's Bold Creators</title>
+    <desc>This time, host Zimingonaphakade Mabunzi welcomes you from the RMB Latitudes Art Fair in Johannesburg, South Africa. Plus: fair trade Ethiopian coffee, Cameroonian architect Hermann Kamte and a Nigerian to burn canvases.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108223000 +0700" stop="20261108230000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <title>Don't hold back: The perfect life for social media - Skhu Mayaba</title>
+    <desc>Instagram shows us flowers, holidays, and perfect couple selfies — but what’s really happening behind those posts? In this season finale of Don’t Hold Back, Nozibele Qamngana-Mayaba sits down with her husband, Skhu Mayaba, for a real, funny, and vulnerable conversation about what love looks like when no one’s watching.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261108230000 +0700" stop="20261108230200 +0700">
@@ -52061,7 +52028,7 @@
     <title>ถ่ายทอดสด PREMIER LEAGUE 2026/2027 / ข่าวในพระราชสำนัก</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261108232500 +0700" stop="20261108235000 +0700">
+  <programme channel="ch0000000000100001941" start="20261108232500 +0700" stop="20261109003000 +0700">
     <title>PREMIER LEAGUE 2026/2027</title>
     <category>Entertainment</category>
   </programme>
@@ -52916,19 +52883,14 @@
     <title lang="en">Highlight of the Week Thai League - Matchday 7</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002041" start="20261106183000 +0700" stop="20261106210000 +0700">
+  <programme channel="ch0000000000100002041" start="20261106183000 +0700" stop="20261106220000 +0700">
     <title lang="th">LIVE: ลำพูน วอริเออร์ พบ สุโขทัย เอฟซี</title>
     <title lang="en">LIVE: Lamphun Warriors vs Sukhothai FC</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002041" start="20261106210000 +0700" stop="20261106230000 +0700">
+  <programme channel="ch0000000000100002041" start="20261106220000 +0700" stop="20261107000000 +0700">
     <title lang="th">รีรัน: เชียงใหม่ ยูไนเต็ด พบ อุตรดิตถ์ เอฟซี</title>
     <title lang="en">RERUN: Chiangmai United vs Uttaradit FC</title>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002041" start="20261106230000 +0700" stop="20261107000000 +0700">
-    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 9</title>
-    <title lang="en">Highlight of the Week Thai League 2 - Matchday 9</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002041" start="20261107000000 +0700" stop="20261107020000 +0700">
@@ -54232,177 +54194,273 @@
     <title>Matchday Live: Radio commentary: Aston Villa (A)</title>
     <desc>Live commentary from Liam Bradford and Ben Thornley. Join us at half-time for first-half analysis from our special guests.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261104230000 +0700" stop="20261105000000 +0700">
-    <title>Live: Champions League Countdown</title>
-    <desc>Join us for live Champions League build-up as Real Madrid face AEK Athens. in Allwyn Arena Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105000000 +0700" stop="20261105001500 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105001500 +0700" stop="20261105004500 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105004500 +0700" stop="20261105025500 +0700">
-    <title>Liga 26/27: Barcelona vs Real Madrid</title>
-    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105025500 +0700" stop="20261105050000 +0700">
-    <title>Liga 26/27: Elche vs Real Madrid</title>
-    <desc>Matchday 6 of Liga. Real Madrid face Elche in the Manuel Martínez Valero Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105050000 +0700" stop="20261105060500 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105060500 +0700" stop="20261105081500 +0700">
-    <title>NEW: Liga 26/27: Real Racing Club vs Real Madrid</title>
-    <desc>TBC: Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105081500 +0700" stop="20261105083000 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105083000 +0700" stop="20261105111000 +0700">
-    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
-    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105111000 +0700" stop="20261105120000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105120000 +0700" stop="20261105121500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105121500 +0700" stop="20261105143000 +0700">
-    <title>Liga 26/27: Barcelona vs Real Madrid</title>
-    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105143000 +0700" stop="20261105164500 +0700">
+  <programme channel="ch0000000000100002181" start="20261104223500 +0700" stop="20261105005000 +0700">
     <title>Liga 26/27: Real Madrid vs Villarreal</title>
     <desc>Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105005000 +0700" stop="20261105030000 +0700">
+    <title>Youth League: Real Madrid U19 vs RB Leipzig</title>
+    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105030000 +0700" stop="20261105031500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105031500 +0700" stop="20261105053500 +0700">
+    <title>Champions League 21/22: Liverpool vs Real Madrid (14th) La Decimocuarta</title>
+    <desc>Real Madrid vs Liverpool Final Champions League Final 21/22.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105053500 +0700" stop="20261105060000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105060000 +0700" stop="20261105080000 +0700">
+    <title>The Sunday Classic Match: Classic Matches: Real Madrid vs Real Madrid Castilla Copa del Rey 1980</title>
+    <desc>A rare encounter in the Copa Del Rey. Real Madrid's first team faced the club's second team back in 1980.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105080000 +0700" stop="20261105081500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105081500 +0700" stop="20261105100000 +0700">
+    <title>Classic Matches: Real Madrid vs Sevilla Liga 94/95</title>
+    <desc>Catch the talented Real Madrid team from the mid-90s as they face the Andalusians Sevilla in Liga.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105100000 +0700" stop="20261105120500 +0700">
+    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
+    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105120500 +0700" stop="20261105122000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105122000 +0700" stop="20261105143000 +0700">
+    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261105143000 +0700" stop="20261105164500 +0700">
+    <title>Champions League 26/27: Roma vs Real Madrid</title>
+    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261105164500 +0700" stop="20261105190000 +0700">
     <title>Liga 26/27: Real Madrid vs Sevilla</title>
     <desc>Matchday 9 of Liga. Real Madrid host Sevilla in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261105190000 +0700" stop="20261105214500 +0700">
-    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
-    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261105214500 +0700" stop="20261106000000 +0700">
+  <programme channel="ch0000000000100002181" start="20261105190000 +0700" stop="20261105211500 +0700">
     <title>Liga 26/27: Barcelona vs Real Madrid</title>
     <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
   </programme>
+  <programme channel="ch0000000000100002181" start="20261105211500 +0700" stop="20261106000000 +0700">
+    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
+    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+  </programme>
   <programme channel="ch0000000000100002181" start="20261106000000 +0700" stop="20261106021500 +0700">
-    <title>Liga 26/27: Real Madrid vs Málaga</title>
-    <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+    <title>Liga 26/27: Elche vs Real Madrid</title>
+    <desc>Matchday 6 of Liga. Real Madrid face Elche in the Manuel Martínez Valero Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261106021500 +0700" stop="20261106023000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261106023000 +0700" stop="20261106044500 +0700">
-    <title>European Super Cup 2024: Real Madrid vs Atalanta</title>
-    <desc>Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.</desc>
+    <title>Youth League: Roma U19 vs Real Madrid U19</title>
+    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106044500 +0700" stop="20261106070000 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261106044500 +0700" stop="20261106051500 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106070000 +0700" stop="20261106091500 +0700">
-    <title>Liga 26/27: Real Madrid vs Rayo Vallecano</title>
-    <desc>Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261106051500 +0700" stop="20261106073000 +0700">
+    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
+    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106091500 +0700" stop="20261106093000 +0700">
+  <programme channel="ch0000000000100002181" start="20261106073000 +0700" stop="20261106084500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106084500 +0700" stop="20261106090000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106093000 +0700" stop="20261106120000 +0700">
-    <title>Liga 26/27: Barcelona vs Real Madrid</title>
-    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  <programme channel="ch0000000000100002181" start="20261106090000 +0700" stop="20261106103000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106120000 +0700" stop="20261106121500 +0700">
+  <programme channel="ch0000000000100002181" start="20261106103000 +0700" stop="20261106114500 +0700">
+    <title>Champions League 26/27: AEK Athens vs Real Madrid</title>
+    <desc>TBC: Matchday 4 of the Champions League Real Madrid face AEK Athens in ALLWIN Arena Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106114500 +0700" stop="20261106120000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106121500 +0700" stop="20261106142500 +0700">
+  <programme channel="ch0000000000100002181" start="20261106120000 +0700" stop="20261106131500 +0700">
+    <title>Champions League 26/27: AEK Athens vs Real Madrid</title>
+    <desc>TBC: Matchday 4 of the Champions League Real Madrid face AEK Athens in ALLWIN Arena Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106131500 +0700" stop="20261106143000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106143000 +0700" stop="20261106144500 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106144500 +0700" stop="20261106170000 +0700">
     <title>Liga 26/27: Real Madrid vs Málaga</title>
     <desc>Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106142500 +0700" stop="20261106153000 +0700">
+  <programme channel="ch0000000000100002181" start="20261106170000 +0700" stop="20261106172000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106172000 +0700" stop="20261106192000 +0700">
+    <title>Youth League: Real Madrid U19 vs RB Leipzig</title>
+    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106192000 +0700" stop="20261106194000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261106194000 +0700" stop="20261106205500 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106153000 +0700" stop="20261106163000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20261106205500 +0700" stop="20261106231000 +0700">
+    <title>Liga 26/27: Real Madrid vs Sevilla</title>
+    <desc>Matchday 9 of Liga. Real Madrid host Sevilla in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106163000 +0700" stop="20261106190000 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  <programme channel="ch0000000000100002181" start="20261106231000 +0700" stop="20261107002500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106190000 +0700" stop="20261106200500 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20261107002500 +0700" stop="20261107004500 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106200500 +0700" stop="20261106224500 +0700">
-    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
-    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+  <programme channel="ch0000000000100002181" start="20261107004500 +0700" stop="20261107030000 +0700">
+    <title>Champions League 26/27: Roma vs Real Madrid</title>
+    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261106224500 +0700" stop="20261107010000 +0700">
-    <title>Liga 26/27: Barcelona vs Real Madrid</title>
-    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261107010000 +0700" stop="20261107013000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261107013000 +0700" stop="20261107023000 +0700">
-    <title>Liga 26/27: Real Racing Club vs Real Madrid first half</title>
-    <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261107023000 +0700" stop="20261107024500 +0700">
+  <programme channel="ch0000000000100002181" start="20261107030000 +0700" stop="20261107031500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261107024500 +0700" stop="20261107040000 +0700">
-    <title>Liga 26/27: Real Racing Club vs Real Madrid secondhalf</title>
-    <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261107040000 +0700" stop="20261107043000 +0700">
+  <programme channel="ch0000000000100002181" start="20261107031500 +0700" stop="20261107033500 +0700">
     <title>Realmadrid Life</title>
-    <desc>Weekly review show</desc>
+    <desc>Weekly review show.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261107043000 +0700" stop="20261107050000 +0700">
-    <title>The Match Preview</title>
-    <desc>A full Liga preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  <programme channel="ch0000000000100002181" start="20261107033500 +0700" stop="20261107061000 +0700">
+    <title>Champions League 17/18: Real Madrid vs Liverpool (13th) La Decimotercera</title>
+    <desc>Watch Los Blancos complete a unique hat-trick</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261107050000 +0700" stop="20261107060000 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme channel="ch0000000000100002181" start="20261107061000 +0700" stop="20261107071500 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261107060000 +0700" stop="20261107081500 +0700">
-    <title>TBC: Champions League 26/27: AEK Athens vs Real Madrid</title>
+  <programme channel="ch0000000000100002181" start="20261107071500 +0700" stop="20261107093000 +0700">
+    <title>Champions League 26/27: AEK Athens vs Real Madrid</title>
     <desc>TBC: Matchday 4 of the Champions League Real Madrid face AEK Athens in ALLWIN Arena Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261107081500 +0700" stop="20261107083000 +0700">
+  <programme channel="ch0000000000100002181" start="20261107093000 +0700" stop="20261107094500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261107083000 +0700" stop="20261107120000 +0700">
-    <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
-    <desc>It's the Champions League winners vs the Europa League winners.</desc>
+  <programme channel="ch0000000000100002181" start="20261107094500 +0700" stop="20261107120000 +0700">
+    <title>Youth League: Roma U19 vs Real Madrid U19</title>
+    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261107120000 +0700" stop="20261107121500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261107121500 +0700" stop="20261107141500 +0700">
+  <programme channel="ch0000000000100002181" start="20261107121500 +0700" stop="20261107142500 +0700">
     <title>Liga 26/27: Barcelona vs Real Madrid</title>
     <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261107142500 +0700" stop="20261107152000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261107152000 +0700" stop="20261107185000 +0700">
+    <title>European Super Cup 2016: Real Madrid vs Sevilla</title>
+    <desc>It's the Champions League winners vs the Europa League winners.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261107185000 +0700" stop="20261107210000 +0700">
+    <title>Champions League 26/27: Roma vs Real Madrid</title>
+    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261107210000 +0700" stop="20261107213000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261107213000 +0700" stop="20261107234500 +0700">
+    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
+    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261107234500 +0700" stop="20261108020000 +0700">
+    <title>Youth League: Roma U19 vs Real Madrid U19</title>
+    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108020000 +0700" stop="20261108023000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108023000 +0700" stop="20261108024500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108024500 +0700" stop="20261108050000 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108050000 +0700" stop="20261108060000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108060000 +0700" stop="20261108081500 +0700">
+    <title>TBC: Liga 26/27: Valencia vs Real Madrid</title>
+    <desc>TBC: Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108081500 +0700" stop="20261108083000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108083000 +0700" stop="20261108111000 +0700">
+    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
+    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108111000 +0700" stop="20261108120000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108120000 +0700" stop="20261108121500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108121500 +0700" stop="20261108152000 +0700">
+    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
+    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108152000 +0700" stop="20261108173500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108173500 +0700" stop="20261108194500 +0700">
+    <title>Champions League 26/27: Roma vs Real Madrid</title>
+    <desc>Matchday 2 of the Champions League Real Madrid face Roma in Stadio Olímpico.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108194500 +0700" stop="20261108205500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108205500 +0700" stop="20261108231000 +0700">
+    <title>Youth League: Real Madrid U19 vs RB Leipzig</title>
+    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261108231000 +0700" stop="20261109001500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20261104234000 +0700" stop="20261105024500 +0700">
     <title lang="th">รีรัน: คลีฟแลนด์ บราวนส์ พบ พิตต์สเบิร์ก สตีลเลอร์ส</title>
@@ -57445,8 +57503,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261106120000 +0700" stop="20261106121500 +0700">
-    <title lang="th">(ไฮไลต์) รอบ 16: อาตูร์ ฟิลส์ พบ เทย์เลอร์ ฟริตซ์</title>
-    <title lang="en">(HL) R16: Arthur Fils vs Taylor Fritz</title>
+    <title lang="th">(ไฮไลต์) รอบ 16: มัตเตโอ แบร์เรตตินี พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) R16: Matteo Berrettini vs Carlos Alcaraz</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261106121500 +0700" stop="20261106123000 +0700">
@@ -57490,8 +57548,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261106170000 +0700" stop="20261106190000 +0700">
-    <title lang="th">รีรัน: รอบ 16: ยาน-เลนนาร์ด สตรัฟฟ์ พบ แคสเปอร์ รุด</title>
-    <title lang="en">RERUN: R16: Jan-Lennard Struff vs Casper Ruud</title>
+    <title lang="th">รีรัน: รอบ 16: มัตเตโอ แบร์เรตตินี พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: R16: Matteo Berrettini vs Carlos Alcaraz</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261106190000 +0700" stop="20261106192000 +0700">
@@ -57516,6 +57574,130 @@
   <programme channel="ch0000000000100002530" start="20261107050000 +0700" stop="20261107053000 +0700">
     <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 23</title>
     <title lang="en">RERUN: ATP Tour This Week Episode 23</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107053000 +0700" stop="20261107055000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: นูโน บอร์เกส พบ อิกนาซิโอ บูเซ</title>
+    <title lang="en">(HL) R16: Nuno Borges vs Ignacio Buse</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107055000 +0700" stop="20261107061000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: อาตูร์ ฟิลส์ พบ โทมัส มาชัก</title>
+    <title lang="en">(HL) R32: Arthur Fils vs Tomas Machac</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107061000 +0700" stop="20261107063000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เบน เชลตัน พบ อาตูร์ รินเดอร์เนค</title>
+    <title lang="en">(HL) R16: Ben Shelton vs Arthur Rinderknech</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107063000 +0700" stop="20261107070000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 24</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 24</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107070000 +0700" stop="20261107090000 +0700">
+    <title lang="th">รีรัน: (ไฮไลต์) รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
+    <title lang="en">RERUN: (HL) QF: Luca Van Assche vs Rinky Hijikata</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107090000 +0700" stop="20261107092000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อาตูร์ ฟิลส์ พบ เทย์เลอร์ ฟริตซ์</title>
+    <title lang="en">(HL) R16: Arthur Fils vs Taylor Fritz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107092000 +0700" stop="20261107094000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107094000 +0700" stop="20261107100000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
+    <title lang="en">(HL) QF: Luca Van Assche vs Rinky Hijikata</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107100000 +0700" stop="20261107120000 +0700">
+    <title lang="th">รีรัน: รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">RERUN: QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107120000 +0700" stop="20261107121500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107121500 +0700" stop="20261107123000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: แคสเปอร์ รุด พบ นูโน บอร์เกส</title>
+    <title lang="en">(HL) QF: Casper Ruud vs Nuno Borges</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107123000 +0700" stop="20261107130000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 25</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 25</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107130000 +0700" stop="20261107150000 +0700">
+    <title lang="th">รีรัน: รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107150000 +0700" stop="20261107153000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 26</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 26</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107153000 +0700" stop="20261107155000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107155000 +0700" stop="20261107161000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
+    <title lang="en">(HL) QF: Luca Van Assche vs Rinky Hijikata</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107161000 +0700" stop="20261107163000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107163000 +0700" stop="20261107170000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 27</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107170000 +0700" stop="20261107190000 +0700">
+    <title lang="th">รีรัน: รอบ 8: แคสเปอร์ รุด พบ นูโน บอร์เกส</title>
+    <title lang="en">RERUN: QF: Casper Ruud vs Nuno Borges</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107190000 +0700" stop="20261107192000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: แคสเปอร์ รุด พบ นูโน บอร์เกส</title>
+    <title lang="en">(HL) QF: Casper Ruud vs Nuno Borges</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107192000 +0700" stop="20261107194000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107194000 +0700" stop="20261107200000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107200000 +0700" stop="20261107203000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 28</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 28</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261107203000 +0700" stop="20261108010000 +0700">
+    <title>LIVE: Rolex Paris Masters Day 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261108010000 +0700" stop="20261108013000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 29</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 29</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002531" start="20261104230000 +0700" stop="20261105010000 +0700">
@@ -58682,10 +58864,391 @@
     <title lang="en">RERUN: Bundesliga Special 2025-26: EP 4 Best of SEP tember</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002701" start="20261107013000 +0700" stop="20261107033000 +0700">
+  <programme channel="ch0000000000100002701" start="20261107013000 +0700" stop="20261107020000 +0700">
     <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 5 the Klassiker FC Bayern München vs. Borussia Dortmund</title>
     <title lang="en">RERUN: Bundesliga Special 2025-26: EP 5 the Klassiker FC Bayern München vs. Borussia Dortmund</title>
     <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107020000 +0700" stop="20261107021500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107021500 +0700" stop="20261107043000 +0700">
+    <title lang="th">LIVE: ฮัมบูร์ก พบ โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">LIVE: Hamburger SV vs Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107043000 +0700" stop="20261107050000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 6 Best of October</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 6 Best of October</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107050000 +0700" stop="20261107070000 +0700">
+    <title lang="th">รีรัน: ซังต์ เพาลี พบ เนิร์นแบร์ก</title>
+    <title lang="en">RERUN: FC St. Pauli vs 1. FC Nuernberg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107070000 +0700" stop="20261107090000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: FC Bayern Munich vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107090000 +0700" stop="20261107110000 +0700">
+    <title lang="th">รีรัน: ฮัมบูร์ก พบ โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: Hamburger SV vs Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107110000 +0700" stop="20261107120000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 8</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107120000 +0700" stop="20261107140000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ อูนิโอน เบอร์ลิน</title>
+    <title lang="en">RERUN: FC Bayern Munich vs 1. FC Union Berlin</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107140000 +0700" stop="20261107160000 +0700">
+    <title lang="th">รีรัน: ฮันโนเวอร์ 96 พบ ดินาโม เดรสเดน</title>
+    <title lang="en">RERUN: Hannover 96 vs Dynamo Dresden</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107160000 +0700" stop="20261107170000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 8</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107170000 +0700" stop="20261107180000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 8 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 8 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107180000 +0700" stop="20261107200000 +0700">
+    <title lang="th">รีรัน: ฮัมบูร์ก พบ โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: Hamburger SV vs Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107200000 +0700" stop="20261107210000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 8</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107210000 +0700" stop="20261107211500 +0700">
+    <title lang="th">รีรัน: Bundesliga Clubs 2025-26: ไมนซ์ 05</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2025-26: FSV Mainz 05</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107211500 +0700" stop="20261107233000 +0700">
+    <title lang="th">LIVE: ไมนซ์ 05 พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">LIVE: 1. FSV Mainz 05 vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261107233000 +0700" stop="20261108000000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 7 Roots Luis Diaz, Antonio Nusa &amp; Bilal El Khannouss</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 7 Roots Luis Diaz, Antonio Nusa &amp; Bilal El Khannouss</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108000000 +0700" stop="20261108020000 +0700">
+    <title lang="th">รีรัน: ดินาโม เดรสเดน พบ กรอยเทอร์ เฟือร์ธ</title>
+    <title lang="en">RERUN: Dynamo Dresden vs SpVgg Greuther Furth</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108020000 +0700" stop="20261108030000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 12</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 12</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108030000 +0700" stop="20261108050000 +0700">
+    <title lang="th">รีรัน: ไอน์ทรัค เบราน์ชไวค์ พบ เอเนอร์กี ค็อตบุส</title>
+    <title lang="en">RERUN: Eintracht Braunschweig vs Energie Cottbus</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108050000 +0700" stop="20261108060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 2</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108060000 +0700" stop="20261108063000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 8</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108063000 +0700" stop="20261108064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: บาเยิร์น มิวนิก</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: FC Bayern Muenchen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108064500 +0700" stop="20261108070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: ฮอฟเฟนไฮม์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: TSG Hoffenheim</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108070000 +0700" stop="20261108090000 +0700">
+    <title lang="th">รีรัน: ไมนซ์ 05 พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: 1. FSV Mainz 05 vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108090000 +0700" stop="20261108110000 +0700">
+    <title lang="th">รีรัน: โบรุสเซีย ดอร์ทมุนด์ พบ เอลเวอร์สแบร์ก</title>
+    <title lang="en">RERUN: Borussia Dortmund vs SV Elversberg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108110000 +0700" stop="20261108120000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 8 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 8 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108120000 +0700" stop="20261108140000 +0700">
+    <title lang="th">รีรัน: แอร์เบ ไลป์ซิก พบ เอาก์สบวร์ก</title>
+    <title lang="en">RERUN: RB Leipzig vs FC Augsburg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108140000 +0700" stop="20261108160000 +0700">
+    <title lang="th">รีรัน: เนิร์นแบร์ก พบ ดาร์มสตัดท์ 98</title>
+    <title lang="en">RERUN: 1. FC Nuernberg vs SV Darmstadt 98</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108160000 +0700" stop="20261108170000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 8 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 8 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108170000 +0700" stop="20261108180000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 8</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108180000 +0700" stop="20261108200000 +0700">
+    <title lang="th">รีรัน: ไมนซ์ 05 พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: 1. FSV Mainz 05 vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108200000 +0700" stop="20261108210000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 8 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 8 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108210000 +0700" stop="20261108211500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: เอฟซี โคโลญจน์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: 1 FC Koeln</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108211500 +0700" stop="20261108233000 +0700">
+    <title lang="th">LIVE: โคโลญจน์ พบ ไบเออร์ เลเวอร์คูเซ่น</title>
+    <title lang="en">LIVE: 1. FC Koeln vs Bayer 04 Leverkusen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261108233000 +0700" stop="20261109000000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 8 Best of November</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 8 Best of November</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261106000000 +0700" stop="20261106235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261107000000 +0700" stop="20261107213000 +0700">
+    <title lang="th">เริ่มเวลา 21:30 ดอร์ทมุนด์ พบ เอลเวอร์สแบร์ก (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">Kick Off 21:30 Dortmund vs Elversberg (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261107213000 +0700" stop="20261107233000 +0700">
+    <title lang="th">LIVE: ดอร์ทมุนด์ พบ เอลเวอร์สแบร์ก (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Dortmund vs Elversberg (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261107233000 +0700" stop="20261107235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261108000000 +0700" stop="20261108233000 +0700">
+    <title lang="th">เริ่มเวลา 23:30 ไฟรบวร์ก พบ อูนิโอน เบอร์ลิน (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">Kick Off 23:30 Freiburg vs Union Berlin (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002721" start="20261108233000 +0700" stop="20261109013000 +0700">
+    <title lang="th">LIVE: ไฟรบวร์ก พบ อูนิโอน เบอร์ลิน (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Freiburg vs Union Berlin (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261106000000 +0700" stop="20261106235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261107000000 +0700" stop="20261107213000 +0700">
+    <title lang="th">เริ่มเวลา 21:30 ไลป์ซิก พบ เอาก์สบวร์ก (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">Kick Off 21:30 Leipzig vs Augsburg (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261107213000 +0700" stop="20261107233000 +0700">
+    <title lang="th">LIVE: ไลป์ซิก พบ เอาก์สบวร์ก (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Leipzig vs Augsburg (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261107233000 +0700" stop="20261107235959 +0700">
+    <title>No Broadcast</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002722" start="20261108023000 +0700" stop="20261108235959 +0700">
+    <title>No Broadcast</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20261106000000 +0700" stop="20261106235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20261107000000 +0700" stop="20261107213000 +0700">
+    <title lang="th">เริ่มเวลา 21:30 พาเดอร์บอร์น พบ แฟรงก์เฟิร์ต (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">Kick Off 21:30 Paderborn vs Frankfurt (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20261107213000 +0700" stop="20261107233000 +0700">
+    <title lang="th">LIVE: พาเดอร์บอร์น พบ แฟรงก์เฟิร์ต (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Paderborn vs Frankfurt (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002731" start="20261108000000 +0700" stop="20261108235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20261106000000 +0700" stop="20261106235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20261107000000 +0700" stop="20261107235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20261108000000 +0700" stop="20261108003000 +0700">
+    <title lang="th">เริ่มเวลา 00:30 สตุ๊ตการ์ท พบ เบรเมน (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">Kick Off 00:30 Stuttgart vs Bremen (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002741" start="20261108003000 +0700" stop="20261108023000 +0700">
+    <title lang="th">LIVE: สตุ๊ตการ์ท พบ เบรเมน (บุนเดสลีกา - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Stuttgart vs Bremen (Bundesliga - Matchday 9)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261106000000 +0700" stop="20261106235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261107000000 +0700" stop="20261107003000 +0700">
+    <title lang="th">เริ่มเวลา 00:30 เบราน์ชไวค์ พบ ค็อตบุส (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">Kick Off 00:30 Braunschweig vs Cottbus (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261107003000 +0700" stop="20261107023000 +0700">
+    <title lang="th">LIVE: เบราน์ชไวค์ พบ ค็อตบุส (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">LIVE: Braunschweig vs Cottbus (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261107023000 +0700" stop="20261107190000 +0700">
+    <title lang="th">เริ่มเวลา 19:00 เนิร์นแบร์ก พบ ดาร์มสตัดท์ (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">Kick Off 19:00 Nuernberg vs Darmstadt (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261107190000 +0700" stop="20261107210000 +0700">
+    <title lang="th">LIVE: เนิร์นแบร์ก พบ ดาร์มสตัดท์ (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">LIVE: Nuernberg vs Darmstadt (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261107210000 +0700" stop="20261107235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261108000000 +0700" stop="20261108023000 +0700">
+    <title lang="th">เริ่มเวลา 02:30 แฮร์ธา เบอร์ลิน พบ โวล์ฟสบวร์ก (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">Kick Off 02:30 Hertha BSC vs Wolfsburg (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261108023000 +0700" stop="20261108043000 +0700">
+    <title lang="th">LIVE: แฮร์ธา เบอร์ลิน พบ โวล์ฟสบวร์ก (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">LIVE: Hertha BSC vs Wolfsburg (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261108043000 +0700" stop="20261108193000 +0700">
+    <title lang="th">เริ่มเวลา 19:30 มักเดบวร์ก พบ ซังต์ เพาลี (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">Kick Off 02:30 Hertha BSC vs Wolfsburg (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261108193000 +0700" stop="20261108213000 +0700">
+    <title lang="th">LIVE: มักเดบวร์ก พบ ซังต์ เพาลี (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">LIVE: Magdeburg vs St. Pauli (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261108213000 +0700" stop="20261108235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261106000000 +0700" stop="20261106235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261107000000 +0700" stop="20261107190000 +0700">
+    <title lang="th">เริ่มเวลา 19:00 ออสนาบรุค พบ ไกเซอร์สเลาเทิร์น (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">Kick Off 19:00 Osnabrueck vs Kaiserslautern (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261107190000 +0700" stop="20261107210000 +0700">
+    <title lang="th">LIVE: ออสนาบรุค พบ ไกเซอร์สเลาเทิร์น (บุนเดสลีกา 2 - สัปดาห์ที่ 11)</title>
+    <title lang="en">LIVE: Osnabrueck vs Kaiserslautern (Bundesliga 2 - Matchday 11)</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261107210000 +0700" stop="20261107235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002751" start="20261108000000 +0700" stop="20261108235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category lang="th">กีฬา</category>
+    <category lang="en">Sport</category>
   </programme>
   <programme channel="ch0000000000100002901" start="20261106000000 +0700" stop="20261106235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
