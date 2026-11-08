@@ -69,17 +69,6 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100001201` | 314 | MySci | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135217006617.png" height="30" alt="MySci"> |
 | `ch0000000000100002041` | 401 | PLAY SPORTS 1 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134447018596.png" height="30" alt="PLAY SPORTS 1"> |
 | `ch0000000000100002052` | 402 | PLAY SPORTS 2 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png" height="30" alt="PLAY SPORTS 2"> |
-| `ch0000000000100002091` | 403 | PLAY SPORTS 3 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134307018922.png" height="30" alt="PLAY SPORTS 3"> |
-| `ch0000000000100002092` | 404 | PLAY SPORTS 4 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134554018923.png" height="30" alt="PLAY SPORTS 4"> |
-| `ch0000000000100002094` | 406 | PLAY SPORTS 6 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png" height="30" alt="PLAY SPORTS 6"> |
-| `ch0000000000100002095` | 407 | PLAY SPORTS 7 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141713018926.png" height="30" alt="PLAY SPORTS 7"> |
-| `ch0000000000100002096` | 408 | PLAY SPORTS 8 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141727018927.png" height="30" alt="PLAY SPORTS 8"> |
-| `ch0000000000100002097` | 409 | PLAY SPORTS 9 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141740018928.png" height="30" alt="PLAY SPORTS 9"> |
-| `ch0000000000100002328` | 424 | PLAY SPORTS 24 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163543022541.png" height="30" alt="PLAY SPORTS 24"> |
-| `ch0000000000100002329` | 425 | PLAY SPORTS 25 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163557022542.png" height="30" alt="PLAY SPORTS 25"> |
-| `ch0000000000100002330` | 426 | PLAY SPORTS 26 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163611022543.png" height="30" alt="PLAY SPORTS 26"> |
-| `ch0000000000100002351` | 427 | PLAY SPORTS 27 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163624022544.png" height="30" alt="PLAY SPORTS 27"> |
-| `ch0000000000100002471` | 428 | PLAY SPORTS 28 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251118132818031287.png" height="30" alt="PLAY SPORTS 28"> |
 | `ch0000000000100002171` | 512 | MUTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" height="30" alt="MUTV"> |
 | `ch0000000000100002181` | 513 | Real Madrid TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" height="30" alt="Real Madrid TV"> |
 | `ch0000000000100001751` | 531 | Eurosport | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717161338006023.png" height="30" alt="Eurosport"> |
@@ -88,8 +77,6 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002561` | 539 | Premier Sports | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260127140505037927.png" height="30" alt="Premier Sports"> |
 | `ch0000000000100002261` | 541 | PLAY SPORTS 41 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260422135014049847.png" height="30" alt="PLAY SPORTS 41"> |
 | `ch0000000000100002191` | 551 | PLAY SPORTS 51 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820084603019566.png" height="30" alt="PLAY SPORTS 51"> |
-| `ch0000000000100002251` | 552 | PLAY SPORTS 52 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250901150258021674.png" height="30" alt="PLAY SPORTS 52"> |
-| `ch0000000000100002252` | 553 | PLAY SPORTS 53 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250901150316021675.png" height="30" alt="PLAY SPORTS 53"> |
 | `ch0000000000100002401` | 555 | PLAY SPORTS 55 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251001131957025352.png" height="30" alt="PLAY SPORTS 55"> |
 | `ch0000000000100002402` | 556 | PLAY SPORTS 56 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251001132050025353.png" height="30" alt="PLAY SPORTS 56"> |
 | `ch0000000000100002511` | 561 | PLAY SPORTS 61 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226102333034473.png" height="30" alt="PLAY SPORTS 61"> |
@@ -97,8 +84,6 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002528` | 569 | PLAY SPORTS 69 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226191916034600.png" height="30" alt="PLAY SPORTS 69"> |
 | `ch0000000000100002530` | 571 | PLAY SPORTS 71 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094208034571.png" height="30" alt="PLAY SPORTS 71"> |
 | `ch0000000000100002701` | 590 | PLAY SPORTS 90 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png" height="30" alt="PLAY SPORTS 90"> |
-| `ch0000000000100002721` | 591 | PLAY SPORTS 91 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134749064630.png" height="30" alt="PLAY SPORTS 91"> |
-| `ch0000000000100002742` | 595 | PLAY SPORTS 95 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png" height="30" alt="PLAY SPORTS 95"> |
 | `ch0000000000100001237` | 601 | CNN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133554006699.png" height="30" alt="CNN"> |
 | `ch0000000000100001151` | 602 | BBC News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133317006529.png" height="30" alt="BBC News"> |
 | `ch0000000000100001841` | 603 | FOX News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717150825012452.png" height="30" alt="FOX News"> |
@@ -120,46 +105,61 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100001298` | 801 | LunthungTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" height="30" alt="LunthungTV"> |
 | `ch0000000000100001311` | 802 | MVTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" height="30" alt="MVTV"> |
 | `ch0000000000100002901` | 901 | WTGL 901 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261102084840086158.png" height="30" alt="WTGL 901"> |
-| `ch0000000000100002312` |  | ch0000000000100002312 | - |
-| `ch0000000000100002411` |  | ch0000000000100002411 | - |
-| `ch0000000000100002731` |  | ch0000000000100002731 | - |
-| `ch0000000000100002327` |  | ch0000000000100002327 | - |
-| `ch0000000000100002231` |  | ch0000000000100002231 | - |
-| `ch0000000000100001285` |  | ch0000000000100001285 | - |
-| `ch0000000000100001284` |  | ch0000000000100001284 | - |
-| `ch0000000000100002321` |  | ch0000000000100002321 | - |
-| `ch0000000000100002751` |  | ch0000000000100002751 | - |
-| `ch0000000000100002311` |  | ch0000000000100002311 | - |
-| `ch0000000000100001283` |  | ch0000000000100001283 | - |
-| `ch0000000000100001293` |  | ch0000000000100001293 | - |
-| `ch0000000000100002331` |  | ch0000000000100002331 | - |
 | `ch0000000000100002323` |  | ch0000000000100002323 | - |
-| `ch0000000000100001381` |  | ch0000000000100001381 | - |
-| `ch0000000000100002098` |  | ch0000000000100002098 | - |
 | `ch0000000000100002532` |  | ch0000000000100002532 | - |
-| `ch0000000000100002324` |  | ch0000000000100002324 | - |
-| `ch0000000000100002154` |  | ch0000000000100002154 | - |
-| `ch0000000000100002313` |  | ch0000000000100002313 | - |
-| `ch0000000000100001356` |  | ch0000000000100001356 | - |
-| `ch0000000000100001292` |  | ch0000000000100001292 | - |
-| `ch0000000000100002581` |  | ch0000000000100002581 | - |
-| `ch0000000000100002314` |  | ch0000000000100002314 | - |
-| `ch0000000000100001291` |  | ch0000000000100001291 | - |
-| `ch0000000000100001295` |  | ch0000000000100001295 | - |
-| `ch0000000000100002322` |  | ch0000000000100002322 | - |
-| `ch0000000000100002722` |  | ch0000000000100002722 | - |
-| `ch0000000000100001153` |  | ch0000000000100001153 | - |
-| `ch0000000000100002523` |  | ch0000000000100002523 | - |
-| `ch0000000000100002341` |  | ch0000000000100002341 | - |
-| `ch0000000000100002326` |  | ch0000000000100002326 | - |
-| `ch0000000000100001372` |  | ch0000000000100001372 | - |
-| `ch0000000000100002531` |  | ch0000000000100002531 | - |
-| `ch0000000000100001294` |  | ch0000000000100001294 | - |
-| `ch0000000000100002093` |  | ch0000000000100002093 | - |
-| `ch0000000000100001353` |  | ch0000000000100001353 | - |
-| `ch0000000000100001152` |  | ch0000000000100001152 | - |
-| `ch0000000000100002325` |  | ch0000000000100002325 | - |
-| `ch0000000000100001391` |  | ch0000000000100001391 | - |
+| `ch0000000000100002096` |  | ch0000000000100002096 | - |
 | `ch0000000000100001286` |  | ch0000000000100001286 | - |
-| `ch0000000000100001361` |  | ch0000000000100001361 | - |
+| `ch0000000000100002311` |  | ch0000000000100002311 | - |
+| `ch0000000000100002091` |  | ch0000000000100002091 | - |
+| `ch0000000000100002095` |  | ch0000000000100002095 | - |
+| `ch0000000000100002329` |  | ch0000000000100002329 | - |
+| `ch0000000000100002092` |  | ch0000000000100002092 | - |
+| `ch0000000000100001391` |  | ch0000000000100001391 | - |
+| `ch0000000000100002325` |  | ch0000000000100002325 | - |
+| `ch0000000000100002411` |  | ch0000000000100002411 | - |
+| `ch0000000000100002313` |  | ch0000000000100002313 | - |
+| `ch0000000000100002328` |  | ch0000000000100002328 | - |
+| `ch0000000000100002731` |  | ch0000000000100002731 | - |
+| `ch0000000000100002322` |  | ch0000000000100002322 | - |
 | `ch0000000000100002741` |  | ch0000000000100002741 | - |
+| `ch0000000000100002093` |  | ch0000000000100002093 | - |
+| `ch0000000000100002721` |  | ch0000000000100002721 | - |
+| `ch0000000000100001292` |  | ch0000000000100001292 | - |
+| `ch0000000000100002321` |  | ch0000000000100002321 | - |
+| `ch0000000000100001381` |  | ch0000000000100001381 | - |
+| `ch0000000000100001295` |  | ch0000000000100001295 | - |
+| `ch0000000000100002094` |  | ch0000000000100002094 | - |
+| `ch0000000000100002722` |  | ch0000000000100002722 | - |
+| `ch0000000000100002326` |  | ch0000000000100002326 | - |
+| `ch0000000000100002251` |  | ch0000000000100002251 | - |
+| `ch0000000000100002097` |  | ch0000000000100002097 | - |
+| `ch0000000000100002331` |  | ch0000000000100002331 | - |
+| `ch0000000000100001372` |  | ch0000000000100001372 | - |
+| `ch0000000000100002751` |  | ch0000000000100002751 | - |
+| `ch0000000000100002471` |  | ch0000000000100002471 | - |
+| `ch0000000000100002531` |  | ch0000000000100002531 | - |
+| `ch0000000000100001284` |  | ch0000000000100001284 | - |
+| `ch0000000000100002341` |  | ch0000000000100002341 | - |
+| `ch0000000000100002098` |  | ch0000000000100002098 | - |
+| `ch0000000000100001356` |  | ch0000000000100001356 | - |
+| `ch0000000000100002252` |  | ch0000000000100002252 | - |
+| `ch0000000000100002330` |  | ch0000000000100002330 | - |
+| `ch0000000000100002314` |  | ch0000000000100002314 | - |
+| `ch0000000000100001294` |  | ch0000000000100001294 | - |
+| `ch0000000000100002351` |  | ch0000000000100002351 | - |
+| `ch0000000000100002742` |  | ch0000000000100002742 | - |
+| `ch0000000000100001353` |  | ch0000000000100001353 | - |
+| `ch0000000000100002324` |  | ch0000000000100002324 | - |
+| `ch0000000000100002581` |  | ch0000000000100002581 | - |
+| `ch0000000000100002231` |  | ch0000000000100002231 | - |
+| `ch0000000000100002327` |  | ch0000000000100002327 | - |
+| `ch0000000000100002154` |  | ch0000000000100002154 | - |
+| `ch0000000000100002523` |  | ch0000000000100002523 | - |
+| `ch0000000000100001361` |  | ch0000000000100001361 | - |
+| `ch0000000000100001152` |  | ch0000000000100001152 | - |
+| `ch0000000000100001283` |  | ch0000000000100001283 | - |
+| `ch0000000000100001285` |  | ch0000000000100001285 | - |
+| `ch0000000000100001291` |  | ch0000000000100001291 | - |
+| `ch0000000000100001293` |  | ch0000000000100001293 | - |
+| `ch0000000000100002312` |  | ch0000000000100002312 | - |
+| `ch0000000000100001153` |  | ch0000000000100001153 | - |
