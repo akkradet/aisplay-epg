@@ -250,26 +250,6 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name lang="th">เพลย์สปอร์ต 11</display-name>
-    <display-name lang="en">PLAY SPORTS 11</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909155033022500.png"/>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name lang="th">เพลย์สปอร์ต 12</display-name>
-    <display-name lang="en">PLAY SPORTS 12</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163216022531.png"/>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name lang="th">เพลย์สปอร์ต 13</display-name>
-    <display-name lang="en">PLAY SPORTS 13</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163244022532.png"/>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name lang="th">เพลย์สปอร์ต 14</display-name>
-    <display-name lang="en">PLAY SPORTS 14</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163300022533.png"/>
-  </channel>
   <channel id="ch0000000000100002171">
     <display-name lang="th">แมนเชสเตอร์ยูไนเต็ด ทีวี</display-name>
     <display-name lang="en">MUTV</display-name>
@@ -450,62 +430,63 @@
     <display-name lang="en">WTGL 901</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261102084840086158.png"/>
   </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name>ch0000000000100002321</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
-  </channel>
-  <channel id="ch0000000000100002325">
-    <display-name>ch0000000000100002325</display-name>
-  </channel>
-  <channel id="ch0000000000100002532">
-    <display-name>ch0000000000100002532</display-name>
-  </channel>
-  <channel id="ch0000000000100002523">
-    <display-name>ch0000000000100002523</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100002531">
-    <display-name>ch0000000000100002531</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name lang="en">PLAY SPORTS 13</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163244022532.png"/>
   </channel>
   <channel id="ch0000000000100002327">
     <display-name>ch0000000000100002327</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
+  </channel>
+  <channel id="ch0000000000100002096">
+    <display-name>ch0000000000100002096</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002523">
+    <display-name>ch0000000000100002523</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
   <channel id="ch0000000000100002329">
     <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100002326">
-    <display-name>ch0000000000100002326</display-name>
+  <channel id="ch0000000000100001391">
+    <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100001284">
+    <display-name>ch0000000000100001284</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
   </channel>
   <channel id="ch0000000000100002091">
     <display-name>ch0000000000100002091</display-name>
   </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
-  <channel id="ch0000000000100001372">
-    <display-name>ch0000000000100001372</display-name>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
   </channel>
   <channel id="ch0000000000100002328">
     <display-name>ch0000000000100002328</display-name>
@@ -513,83 +494,95 @@
   <channel id="ch0000000000100001361">
     <display-name>ch0000000000100001361</display-name>
   </channel>
-  <channel id="ch0000000000100001391">
-    <display-name>ch0000000000100001391</display-name>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
   </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
+  <channel id="ch0000000000100002326">
+    <display-name>ch0000000000100002326</display-name>
   </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
-  </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002252">
-    <display-name>ch0000000000100002252</display-name>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name>ch0000000000100002322</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002251">
-    <display-name>ch0000000000100002251</display-name>
-  </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
   </channel>
   <channel id="ch0000000000100002341">
     <display-name>ch0000000000100002341</display-name>
   </channel>
-  <channel id="ch0000000000100002323">
-    <display-name>ch0000000000100002323</display-name>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
+  <channel id="ch0000000000100002532">
+    <display-name>ch0000000000100002532</display-name>
   </channel>
-  <channel id="ch0000000000100002331">
-    <display-name>ch0000000000100002331</display-name>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
   </channel>
-  <channel id="ch0000000000100002324">
-    <display-name>ch0000000000100002324</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name>ch0000000000100002096</display-name>
-  </channel>
-  <channel id="ch0000000000100001284">
-    <display-name>ch0000000000100001284</display-name>
-  </channel>
-  <channel id="ch0000000000100001285">
-    <display-name>ch0000000000100001285</display-name>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
   </channel>
   <channel id="ch0000000000100002098">
     <display-name>ch0000000000100002098</display-name>
   </channel>
+  <channel id="ch0000000000100002531">
+    <display-name>ch0000000000100002531</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100001285">
+    <display-name>ch0000000000100001285</display-name>
+  </channel>
+  <channel id="ch0000000000100002325">
+    <display-name>ch0000000000100002325</display-name>
+  </channel>
+  <channel id="ch0000000000100002252">
+    <display-name>ch0000000000100002252</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001372">
+    <display-name>ch0000000000100001372</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
+  </channel>
   <channel id="ch0000000000100002231">
     <display-name>ch0000000000100002231</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100002251">
+    <display-name>ch0000000000100002251</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261109231000 +0700" stop="20261110002500 +0700">
     <title>Becoming Mike Nichols</title>
@@ -22132,42 +22125,42 @@
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111040000 +0700" stop="20261111041200 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 1</title>
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111041200 +0700" stop="20261111043000 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 2</title>
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111043000 +0700" stop="20261111044300 +0700">
-    <title>My Life, My Way: Family Saga Part 1</title>
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111044300 +0700" stop="20261111050000 +0700">
-    <title>My Life, My Way: Family Saga Part 2</title>
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111050000 +0700" stop="20261111051200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 1</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111051200 +0700" stop="20261111053000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 2</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 2</title>
     <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111053000 +0700" stop="20261111054200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 3</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111054200 +0700" stop="20261111060000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 4</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
@@ -22202,372 +22195,372 @@
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111073000 +0700" stop="20261111074200 +0700">
-    <title>Wars and Disasters: Released! Part 1</title>
+    <title>WARS AND DISASTERS: RELEASED! Part 1</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111074200 +0700" stop="20261111080000 +0700">
-    <title>Wars and Disasters: Released! Part 2</title>
+    <title>WARS AND DISASTERS: RELEASED! Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111080000 +0700" stop="20261111081200 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 1</title>
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111081200 +0700" stop="20261111083000 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 2</title>
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 2</title>
     <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111083000 +0700" stop="20261111084300 +0700">
-    <title>People's Problems: America's Migrant Birds Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111083000 +0700" stop="20261111084400 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111084300 +0700" stop="20261111090000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111084400 +0700" stop="20261111090000 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 2</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111090000 +0700" stop="20261111091200 +0700">
-    <title>People's Problems: America's Migrant Birds Part 3</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111091200 +0700" stop="20261111093000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 4</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 2</title>
     <desc>Two civilizational powers. The world’s largest democracy, India, and the world’s largest nation, Russia - moving like chess pieces across an ever-changing global board.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111093000 +0700" stop="20261111094400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 1</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111094400 +0700" stop="20261111100000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 2</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 2</title>
     <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111100000 +0700" stop="20261111101400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 3</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111101400 +0700" stop="20261111103000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 4</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111103000 +0700" stop="20261111104300 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111103000 +0700" stop="20261111104200 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111104300 +0700" stop="20261111110000 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111104200 +0700" stop="20261111110000 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 2</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111110000 +0700" stop="20261111111200 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111110000 +0700" stop="20261111111300 +0700">
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111111200 +0700" stop="20261111113000 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111111300 +0700" stop="20261111113000 +0700">
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111113000 +0700" stop="20261111114300 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111113000 +0700" stop="20261111114200 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111114300 +0700" stop="20261111120000 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111114200 +0700" stop="20261111120000 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111120000 +0700" stop="20261111121200 +0700">
-    <title>Politics: Blind Injustice Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111120000 +0700" stop="20261111121300 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111121200 +0700" stop="20261111123000 +0700">
-    <title>Politics: Blind Injustice Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111121300 +0700" stop="20261111123000 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 4</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111123000 +0700" stop="20261111124300 +0700">
-    <title>Politics: Blind Injustice Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261111123000 +0700" stop="20261111124500 +0700">
+    <title>THE CASE: MASK OF DECEPTION: THE ALEF SCAM Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111124300 +0700" stop="20261111130000 +0700">
-    <title>Politics: Blind Injustice Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261111124500 +0700" stop="20261111130000 +0700">
+    <title>THE CASE: MASK OF DECEPTION: THE ALEF SCAM Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111130000 +0700" stop="20261111131500 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111130000 +0700" stop="20261111131000 +0700">
+    <title>THE CASE: MASK OF DECEPTION: THE ALEF SCAM PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111131500 +0700" stop="20261111133000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111131000 +0700" stop="20261111133000 +0700">
+    <title>THE CASE: MASK OF DECEPTION: THE ALEF SCAM PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111133000 +0700" stop="20261111134000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261111133000 +0700" stop="20261111134200 +0700">
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111134000 +0700" stop="20261111140000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261111134200 +0700" stop="20261111140000 +0700">
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 2</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111140000 +0700" stop="20261111141100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 1</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111141100 +0700" stop="20261111143000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 2</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111143000 +0700" stop="20261111144100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 3</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111144100 +0700" stop="20261111150000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 4</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111150000 +0700" stop="20261111151200 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 1</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111151200 +0700" stop="20261111153000 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 2</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 2</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111153000 +0700" stop="20261111154300 +0700">
-    <title>My Life, My Way: Family Saga Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111153000 +0700" stop="20261111154200 +0700">
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111154300 +0700" stop="20261111160000 +0700">
-    <title>My Life, My Way: Family Saga Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111154200 +0700" stop="20261111160000 +0700">
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111160000 +0700" stop="20261111161200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111160000 +0700" stop="20261111161300 +0700">
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111161200 +0700" stop="20261111163000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111161300 +0700" stop="20261111163000 +0700">
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111163000 +0700" stop="20261111164200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261111163000 +0700" stop="20261111164400 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111164200 +0700" stop="20261111170000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261111164400 +0700" stop="20261111170000 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 2</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111170000 +0700" stop="20261111171400 +0700">
-    <title>Outer Space: To Be A Cosmonaut Part 1</title>
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111171400 +0700" stop="20261111173000 +0700">
-    <title>Outer Space: To Be A Cosmonaut Part 2</title>
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111173000 +0700" stop="20261111174400 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111173000 +0700" stop="20261111174300 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111174400 +0700" stop="20261111180000 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111174300 +0700" stop="20261111180000 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111180000 +0700" stop="20261111181300 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261111180000 +0700" stop="20261111181200 +0700">
+    <title>WARS AND DISASTERS: RELEASED! Part 1</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111181300 +0700" stop="20261111183000 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261111181200 +0700" stop="20261111183000 +0700">
+    <title>WARS AND DISASTERS: RELEASED! Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111183000 +0700" stop="20261111184200 +0700">
-    <title>Wars and Disasters: Released! Part 1</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 1</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111184200 +0700" stop="20261111190000 +0700">
-    <title>Wars and Disasters: Released! Part 2</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111190000 +0700" stop="20261111191300 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111190000 +0700" stop="20261111191200 +0700">
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 1</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111191300 +0700" stop="20261111193000 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111191200 +0700" stop="20261111193000 +0700">
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111193000 +0700" stop="20261111194200 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111193000 +0700" stop="20261111194300 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS Part 1</title>
     <desc>This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111194200 +0700" stop="20261111200000 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111194300 +0700" stop="20261111200000 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111200000 +0700" stop="20261111201300 +0700">
-    <title>People's Problems: America's Migrant Birds Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261111200000 +0700" stop="20261111201200 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111201300 +0700" stop="20261111203000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261111201200 +0700" stop="20261111203000 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS PART 4</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111203000 +0700" stop="20261111204200 +0700">
-    <title>People's Problems: America's Migrant Birds Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261111203000 +0700" stop="20261111204400 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111204200 +0700" stop="20261111210000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261111204400 +0700" stop="20261111210000 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111210000 +0700" stop="20261111211400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 1</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111211400 +0700" stop="20261111213000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 2</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111213000 +0700" stop="20261111214400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261111213000 +0700" stop="20261111214200 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261111214400 +0700" stop="20261111220000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261111214200 +0700" stop="20261111220000 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111220000 +0700" stop="20261111221200 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 1</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111221200 +0700" stop="20261111223000 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 2</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111223000 +0700" stop="20261111224200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 1</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111224200 +0700" stop="20261111230000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 2</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 4</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111230000 +0700" stop="20261111231200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 3</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 5</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111231200 +0700" stop="20261111233000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 4</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 6</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111233000 +0700" stop="20261111234200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 5</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 7</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261111234200 +0700" stop="20261112000000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 6</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 8</title>
     <desc>The show draws on the host's years of covering foreign policy and high-level engagements from New Delhi, Moscow and beyond.  For too long, Western narratives have shaped global and Indian discourse, often sidelining voices that do not fit a single mold.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112000000 +0700" stop="20261112001200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 7</title>
+  <programme channel="ch0000000000100001190" start="20261112000000 +0700" stop="20261112001400 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112001200 +0700" stop="20261112003000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 8</title>
+  <programme channel="ch0000000000100001190" start="20261112001400 +0700" stop="20261112003000 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112003000 +0700" stop="20261112004300 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112003000 +0700" stop="20261112004200 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112004300 +0700" stop="20261112010000 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112004200 +0700" stop="20261112010000 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 2</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112010000 +0700" stop="20261112011200 +0700">
-    <title>Politics: Blind Injustice Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112010000 +0700" stop="20261112011300 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112011200 +0700" stop="20261112013000 +0700">
-    <title>Politics: Blind Injustice Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112011300 +0700" stop="20261112013000 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112013000 +0700" stop="20261112014300 +0700">
-    <title>Politics: Blind Injustice Part 3</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112014300 +0700" stop="20261112020000 +0700">
-    <title>Politics: Blind Injustice Part 4</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
@@ -22592,351 +22585,351 @@
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112030000 +0700" stop="20261112031100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 1</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112031100 +0700" stop="20261112033000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 2</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112033000 +0700" stop="20261112034100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 3</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112034100 +0700" stop="20261112040000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 4</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 4</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112040000 +0700" stop="20261112041300 +0700">
-    <title>People's Problems: America's Migrant Birds Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112040000 +0700" stop="20261112041400 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112041300 +0700" stop="20261112043000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112041400 +0700" stop="20261112043000 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112043000 +0700" stop="20261112044200 +0700">
-    <title>People's Problems: America's Migrant Birds Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261112043000 +0700" stop="20261112044400 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112044200 +0700" stop="20261112050000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261112044400 +0700" stop="20261112050000 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 4</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112050000 +0700" stop="20261112051400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112050000 +0700" stop="20261112051200 +0700">
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112051400 +0700" stop="20261112053000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112051200 +0700" stop="20261112053000 +0700">
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112053000 +0700" stop="20261112054400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261112053000 +0700" stop="20261112054200 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112054400 +0700" stop="20261112060000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261112054200 +0700" stop="20261112060000 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112060000 +0700" stop="20261112061300 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 1</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 1</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112061300 +0700" stop="20261112063000 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 2</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112063000 +0700" stop="20261112064200 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 1</title>
+    <title>Politics: Blind Injustice Part 1</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112064200 +0700" stop="20261112070000 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 2</title>
+    <title>POLITICS: BLIND INJUSTICE Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112070000 +0700" stop="20261112071300 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 1</title>
+    <title>Politics: Blind Injustice Part 3</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112071300 +0700" stop="20261112073000 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 2</title>
+    <title>POLITICS: BLIND INJUSTICE PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112073000 +0700" stop="20261112074200 +0700">
-    <title>Politics: Blind Injustice Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112073000 +0700" stop="20261112074500 +0700">
+    <title>The Case: Mask Of Deception: The Alef Scam Part 1</title>
     <desc>Going Underground brings our viewers the news they won’t get on other networks. We examine both underground and mainstream issues from a fresh and alternative perspective. With Afshin Rattansi.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112074200 +0700" stop="20261112080000 +0700">
-    <title>Politics: Blind Injustice Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112074500 +0700" stop="20261112080000 +0700">
+    <title>THE CASE: MASK OF DECEPTION: THE ALEF SCAM Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112080000 +0700" stop="20261112081300 +0700">
-    <title>Politics: Blind Injustice Part 3</title>
-    <desc>Latest news update.</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112081300 +0700" stop="20261112083000 +0700">
-    <title>Politics: Blind Injustice Part 4</title>
-    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112083000 +0700" stop="20261112084500 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 1</title>
-    <desc>Latest news update.</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112084500 +0700" stop="20261112090000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 2</title>
-    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112090000 +0700" stop="20261112091000 +0700">
+  <programme channel="ch0000000000100001190" start="20261112080000 +0700" stop="20261112081000 +0700">
     <title>The Case: Mask Of Deception: The Alef Scam Part 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112091000 +0700" stop="20261112093000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261112081000 +0700" stop="20261112083000 +0700">
+    <title>THE CASE: MASK OF DECEPTION: THE ALEF SCAM PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112093000 +0700" stop="20261112094100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112083000 +0700" stop="20261112084100 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112094100 +0700" stop="20261112100000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112084100 +0700" stop="20261112090000 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112100000 +0700" stop="20261112101100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261112090000 +0700" stop="20261112091100 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112101100 +0700" stop="20261112103000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261112091100 +0700" stop="20261112093000 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 4</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261112093000 +0700" stop="20261112094200 +0700">
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261112094200 +0700" stop="20261112100000 +0700">
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261112100000 +0700" stop="20261112101300 +0700">
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261112101300 +0700" stop="20261112103000 +0700">
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112103000 +0700" stop="20261112104200 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 1</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112104200 +0700" stop="20261112110000 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 2</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112110000 +0700" stop="20261112111300 +0700">
-    <title>My Life, My Way: Family Saga Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112110000 +0700" stop="20261112111200 +0700">
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112111300 +0700" stop="20261112113000 +0700">
-    <title>My Life, My Way: Family Saga Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112111200 +0700" stop="20261112113000 +0700">
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112113000 +0700" stop="20261112114200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 1</title>
-    <desc>Latest news update.</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112114200 +0700" stop="20261112120000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 2</title>
-    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112120000 +0700" stop="20261112121200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 3</title>
-    <desc>Latest news update.</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112121200 +0700" stop="20261112123000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 4</title>
-    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261112123000 +0700" stop="20261112124400 +0700">
+  <programme channel="ch0000000000100001190" start="20261112113000 +0700" stop="20261112114400 +0700">
     <title>Outer Space: To Be A Cosmonaut Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
+  <programme channel="ch0000000000100001190" start="20261112114400 +0700" stop="20261112120000 +0700">
+    <title>OUTER SPACE: TO BE A COSMONAUT Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261112120000 +0700" stop="20261112121400 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261112121400 +0700" stop="20261112123000 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 2</title>
+    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261112123000 +0700" stop="20261112124400 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY Part 1</title>
+    <desc>Latest news update.</desc>
+    <category>Documentary</category>
+  </programme>
   <programme channel="ch0000000000100001190" start="20261112124400 +0700" stop="20261112130000 +0700">
-    <title>Outer Space: To Be A Cosmonaut Part 2</title>
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112130000 +0700" stop="20261112131400 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112130000 +0700" stop="20261112131300 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112131400 +0700" stop="20261112133000 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112131300 +0700" stop="20261112133000 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112133000 +0700" stop="20261112134300 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261112133000 +0700" stop="20261112134200 +0700">
+    <title>WARS AND DISASTERS: RELEASED! Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112134300 +0700" stop="20261112140000 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261112134200 +0700" stop="20261112140000 +0700">
+    <title>WARS AND DISASTERS: RELEASED! Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112140000 +0700" stop="20261112141200 +0700">
-    <title>Wars and Disasters: Released! Part 1</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112141200 +0700" stop="20261112143000 +0700">
-    <title>Wars and Disasters: Released! Part 2</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112143000 +0700" stop="20261112144300 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112143000 +0700" stop="20261112144200 +0700">
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112144300 +0700" stop="20261112150000 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112144200 +0700" stop="20261112150000 +0700">
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112150000 +0700" stop="20261112151200 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112150000 +0700" stop="20261112151300 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS Part 1</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112151200 +0700" stop="20261112153000 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112151300 +0700" stop="20261112153000 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS Part 2</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112153000 +0700" stop="20261112154300 +0700">
-    <title>People's Problems: America's Migrant Birds Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112153000 +0700" stop="20261112154200 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS PART 3</title>
     <desc>Latest news update.</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112154300 +0700" stop="20261112160000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112154200 +0700" stop="20261112160000 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS PART 4</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112160000 +0700" stop="20261112161200 +0700">
-    <title>People's Problems: America's Migrant Birds Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261112160000 +0700" stop="20261112161400 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112161200 +0700" stop="20261112163000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261112161400 +0700" stop="20261112163000 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112163000 +0700" stop="20261112164400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 1</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112164400 +0700" stop="20261112170000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 2</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 4</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112170000 +0700" stop="20261112171400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261112170000 +0700" stop="20261112171200 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112171400 +0700" stop="20261112173000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261112171200 +0700" stop="20261112173000 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112173000 +0700" stop="20261112174200 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 1</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112174200 +0700" stop="20261112180000 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 2</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112180000 +0700" stop="20261112181200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 1</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112181200 +0700" stop="20261112183000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 2</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112183000 +0700" stop="20261112184200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 3</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 5</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112184200 +0700" stop="20261112190000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 4</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 6</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112190000 +0700" stop="20261112191200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 5</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 7</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112191200 +0700" stop="20261112193000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 6</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 8</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112193000 +0700" stop="20261112194200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 7</title>
+  <programme channel="ch0000000000100001190" start="20261112193000 +0700" stop="20261112194400 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112194200 +0700" stop="20261112200000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 8</title>
+  <programme channel="ch0000000000100001190" start="20261112194400 +0700" stop="20261112200000 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112200000 +0700" stop="20261112201300 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112200000 +0700" stop="20261112201200 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112201300 +0700" stop="20261112203000 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112201200 +0700" stop="20261112203000 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112203000 +0700" stop="20261112204200 +0700">
-    <title>Politics: Blind Injustice Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261112203000 +0700" stop="20261112204300 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 3</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261112204200 +0700" stop="20261112210000 +0700">
-    <title>Politics: Blind Injustice Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261112204300 +0700" stop="20261112210000 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112210000 +0700" stop="20261112211300 +0700">
-    <title>Politics: Blind Injustice Part 3</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112211300 +0700" stop="20261112213000 +0700">
-    <title>Politics: Blind Injustice Part 4</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112213000 +0700" stop="20261112214500 +0700">
@@ -22956,51 +22949,51 @@
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112223000 +0700" stop="20261112224100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 1</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112224100 +0700" stop="20261112230000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 2</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112230000 +0700" stop="20261112231100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 3</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112231100 +0700" stop="20261112233000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 4</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112233000 +0700" stop="20261112234200 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 1</title>
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261112234200 +0700" stop="20261113000000 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 2</title>
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113000000 +0700" stop="20261113001300 +0700">
-    <title>My Life, My Way: Family Saga Part 1</title>
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113001300 +0700" stop="20261113003000 +0700">
-    <title>My Life, My Way: Family Saga Part 2</title>
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113003000 +0700" stop="20261113004200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 1</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113004200 +0700" stop="20261113010000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 2</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113010000 +0700" stop="20261113011200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 3</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113011200 +0700" stop="20261113013000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 4</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113013000 +0700" stop="20261113014400 +0700">
@@ -23028,227 +23021,227 @@
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113030000 +0700" stop="20261113031200 +0700">
-    <title>Wars and Disasters: Released! Part 1</title>
+    <title>WARS AND DISASTERS: RELEASED! Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113031200 +0700" stop="20261113033000 +0700">
-    <title>Wars and Disasters: Released! Part 2</title>
+    <title>WARS AND DISASTERS: RELEASED! Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113033000 +0700" stop="20261113034200 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 1</title>
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113034200 +0700" stop="20261113040000 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 2</title>
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113040000 +0700" stop="20261113041500 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113040000 +0700" stop="20261113041100 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113041500 +0700" stop="20261113043000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113041100 +0700" stop="20261113043000 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113043000 +0700" stop="20261113044000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261113043000 +0700" stop="20261113044100 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 3</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113044000 +0700" stop="20261113050000 +0700">
-    <title>The Case: Mask Of Deception: The Alef Scam Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261113044100 +0700" stop="20261113050000 +0700">
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 4</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113050000 +0700" stop="20261113051100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113050000 +0700" stop="20261113051200 +0700">
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113051100 +0700" stop="20261113053000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113051200 +0700" stop="20261113053000 +0700">
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113053000 +0700" stop="20261113054100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261113053000 +0700" stop="20261113054300 +0700">
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113054100 +0700" stop="20261113060000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261113054300 +0700" stop="20261113060000 +0700">
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113060000 +0700" stop="20261113061200 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 1</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113061200 +0700" stop="20261113063000 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 2</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113063000 +0700" stop="20261113064300 +0700">
-    <title>My Life, My Way: Family Saga Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113063000 +0700" stop="20261113064200 +0700">
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 3</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113064300 +0700" stop="20261113070000 +0700">
-    <title>My Life, My Way: Family Saga Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113064200 +0700" stop="20261113070000 +0700">
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 4</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113070000 +0700" stop="20261113071200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 1</title>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261113071200 +0700" stop="20261113073000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 2</title>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261113073000 +0700" stop="20261113074200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 3</title>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261113074200 +0700" stop="20261113080000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 4</title>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="ch0000000000100001190" start="20261113080000 +0700" stop="20261113081400 +0700">
+  <programme channel="ch0000000000100001190" start="20261113070000 +0700" stop="20261113071400 +0700">
     <title>Outer Space: To Be A Cosmonaut Part 1</title>
     <category>Documentary</category>
   </programme>
+  <programme channel="ch0000000000100001190" start="20261113071400 +0700" stop="20261113073000 +0700">
+    <title>OUTER SPACE: TO BE A COSMONAUT Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261113073000 +0700" stop="20261113074400 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 1</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261113074400 +0700" stop="20261113080000 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 2</title>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="ch0000000000100001190" start="20261113080000 +0700" stop="20261113081400 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY Part 1</title>
+    <category>Documentary</category>
+  </programme>
   <programme channel="ch0000000000100001190" start="20261113081400 +0700" stop="20261113083000 +0700">
-    <title>Outer Space: To Be A Cosmonaut Part 2</title>
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113083000 +0700" stop="20261113084400 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113083000 +0700" stop="20261113084300 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY PART 3</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113084400 +0700" stop="20261113090000 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113084300 +0700" stop="20261113090000 +0700">
+    <title>POLITICS: NATO: BEYOND LAW, BEYOND MORALITY PART 4</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113090000 +0700" stop="20261113091300 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261113090000 +0700" stop="20261113091200 +0700">
+    <title>WARS AND DISASTERS: RELEASED! Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113091300 +0700" stop="20261113093000 +0700">
-    <title>Politics: Nato: Beyond Law, Beyond Morality Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261113091200 +0700" stop="20261113093000 +0700">
+    <title>WARS AND DISASTERS: RELEASED! Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113093000 +0700" stop="20261113094200 +0700">
-    <title>Wars and Disasters: Released! Part 1</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113094200 +0700" stop="20261113100000 +0700">
-    <title>Wars and Disasters: Released! Part 2</title>
+    <title>PICTURE OF HEALTH: A ROAD BORN OF HOPE Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113100000 +0700" stop="20261113101300 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113100000 +0700" stop="20261113101200 +0700">
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113101300 +0700" stop="20261113103000 +0700">
-    <title>Picture Of Health: A Road Born Of Hope Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113101200 +0700" stop="20261113103000 +0700">
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113103000 +0700" stop="20261113104200 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113103000 +0700" stop="20261113104300 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113104200 +0700" stop="20261113110000 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113104300 +0700" stop="20261113110000 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113110000 +0700" stop="20261113111300 +0700">
-    <title>People's Problems: America's Migrant Birds Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113110000 +0700" stop="20261113111200 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS PART 3</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113111300 +0700" stop="20261113113000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113111200 +0700" stop="20261113113000 +0700">
+    <title>PEOPLE'S PROBLEMS: AMERICA'S MIGRANT BIRDS PART 4</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113113000 +0700" stop="20261113114200 +0700">
-    <title>People's Problems: America's Migrant Birds Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261113113000 +0700" stop="20261113114400 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113114200 +0700" stop="20261113120000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261113114400 +0700" stop="20261113120000 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113120000 +0700" stop="20261113121400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 1</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113121400 +0700" stop="20261113123000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 2</title>
+    <title>WARS AND DISASTERS: KURSK TUNING FORK PART 4</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113123000 +0700" stop="20261113124400 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 3</title>
+  <programme channel="ch0000000000100001190" start="20261113123000 +0700" stop="20261113124200 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113124400 +0700" stop="20261113130000 +0700">
-    <title>Wars and Disasters: Kursk Tuning Fork Part 4</title>
+  <programme channel="ch0000000000100001190" start="20261113124200 +0700" stop="20261113130000 +0700">
+    <title>MY LIFE, MY WAY: BRIDGING CULTURES: RUSSIA AND BEYOND Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113130000 +0700" stop="20261113131200 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 1</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113131200 +0700" stop="20261113133000 +0700">
-    <title>My Life, My Way: Bridging Cultures: Russia and Beyond Part 2</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113133000 +0700" stop="20261113134200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 1</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113134200 +0700" stop="20261113140000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 2</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113140000 +0700" stop="20261113141200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 3</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 5</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113141200 +0700" stop="20261113143000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 4</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 6</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113143000 +0700" stop="20261113144200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 5</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 7</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113144200 +0700" stop="20261113150000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 6</title>
+    <title>MEETING WITH NATURE: THE CIRCUMNAVIGATION A TRIMARAN FOR TWO PART 8</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113150000 +0700" stop="20261113151200 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 7</title>
+  <programme channel="ch0000000000100001190" start="20261113150000 +0700" stop="20261113151400 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113151200 +0700" stop="20261113153000 +0700">
-    <title>Meeting With Nature: The Circumnavigation A Trimaran For Two Part 8</title>
+  <programme channel="ch0000000000100001190" start="20261113151400 +0700" stop="20261113153000 +0700">
+    <title>WARS AND DISASTERS: ALYOSHKI. HOW IT WAS Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113153000 +0700" stop="20261113154300 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113153000 +0700" stop="20261113154200 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113154300 +0700" stop="20261113160000 +0700">
-    <title>Wars and Disasters: Avdeevka: this Is War Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113154200 +0700" stop="20261113160000 +0700">
+    <title>POLITICS: BLIND INJUSTICE Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113160000 +0700" stop="20261113161200 +0700">
-    <title>Politics: Blind Injustice Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113160000 +0700" stop="20261113161300 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 3</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113161200 +0700" stop="20261113163000 +0700">
-    <title>Politics: Blind Injustice Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113161300 +0700" stop="20261113163000 +0700">
+    <title>POLITICS: BLIND INJUSTICE PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113163000 +0700" stop="20261113164300 +0700">
-    <title>Politics: Blind Injustice Part 3</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113164300 +0700" stop="20261113170000 +0700">
-    <title>Politics: Blind Injustice Part 4</title>
+    <title>WARS AND DISASTERS: AVDEEVKA: THIS IS WAR Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113170000 +0700" stop="20261113171500 +0700">
@@ -23268,51 +23261,51 @@
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113180000 +0700" stop="20261113181100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 1</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113181100 +0700" stop="20261113183000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 2</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113183000 +0700" stop="20261113184100 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 3</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113184100 +0700" stop="20261113190000 +0700">
-    <title>Art Lounge: Kostroma Ballet. A Family Affair Part 4</title>
+    <title>ART LOUNGE: KOSTROMA BALLET. A FAMILY AFFAIR PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113190000 +0700" stop="20261113191200 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 1</title>
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113191200 +0700" stop="20261113193000 +0700">
-    <title>Wars and Disasters: Fatal Dust: U-238 Part 2</title>
+    <title>WARS AND DISASTERS: FATAL DUST: U-238 Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113193000 +0700" stop="20261113194300 +0700">
-    <title>My Life, My Way: Family Saga Part 1</title>
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113194300 +0700" stop="20261113200000 +0700">
-    <title>My Life, My Way: Family Saga Part 2</title>
+    <title>MY LIFE, MY WAY: FAMILY SAGA Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113200000 +0700" stop="20261113201200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 1</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113201200 +0700" stop="20261113203000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 2</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113203000 +0700" stop="20261113204200 +0700">
-    <title>Wars and Disasters: Feminine Front Part 3</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 3</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113204200 +0700" stop="20261113210000 +0700">
-    <title>Wars and Disasters: Feminine Front Part 4</title>
+    <title>WARS AND DISASTERS: FEMININE FRONT PART 4</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113210000 +0700" stop="20261113211400 +0700">
@@ -23340,27 +23333,27 @@
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113223000 +0700" stop="20261113224200 +0700">
-    <title>Wars and Disasters: Released! Part 1</title>
+    <title>WARS AND DISASTERS: RELEASED! Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113224200 +0700" stop="20261113230000 +0700">
-    <title>Wars and Disasters: Released! Part 2</title>
+    <title>WARS AND DISASTERS: RELEASED! Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113230000 +0700" stop="20261113231200 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 1</title>
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 1</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001190" start="20261113231200 +0700" stop="20261113233000 +0700">
-    <title>Historical Files: Kuril Islands: The War's Final Battle Part 2</title>
+    <title>HISTORICAL FILES: KURIL ISLANDS: THE WAR'S FINAL BATTLE Part 2</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113233000 +0700" stop="20261113234300 +0700">
-    <title>People's Problems: America's Migrant Birds Part 1</title>
+  <programme channel="ch0000000000100001190" start="20261113233000 +0700" stop="20261113234400 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001190" start="20261113234300 +0700" stop="20261114000000 +0700">
-    <title>People's Problems: America's Migrant Birds Part 2</title>
+  <programme channel="ch0000000000100001190" start="20261113234400 +0700" stop="20261114000000 +0700">
+    <title>WARS AND DISASTERS: KURSK TUNING FORK Part 2</title>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001191" start="20261109233600 +0700" stop="20261110000000 +0700">
@@ -50533,8 +50526,8 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261112060000 +0700" stop="20261112081500 +0700">
-    <title>TBC: Liga 26/27: Valencia vs Real Madrid</title>
-    <desc>TBC: Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
+    <title>Liga 26/27: Valencia vs Real Madrid</title>
+    <desc>Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261112081500 +0700" stop="20261112083000 +0700">
     <title>Real Madrid News</title>
@@ -51378,6 +51371,51 @@
     <title lang="en">LIVE: Petchyindee (12 November 2026)</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002261" start="20261112200000 +0700" stop="20261113010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (23 มิถุนายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (23 June 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113010000 +0700" stop="20261113034500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (6 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (6 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113034500 +0700" stop="20261113080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (30 มิถุนายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (30 June 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113080000 +0700" stop="20261113104000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (3 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (3 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113104000 +0700" stop="20261113150000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (06 กรกฎาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (06 July 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113150000 +0700" stop="20261113175500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (2 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (2 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113175500 +0700" stop="20261113191000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (10 กรกฎาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (10 July 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113191000 +0700" stop="20261113220000 +0700">
+    <title lang="th">LIVE: มวยราชดำเนิน น็อกเอาต์ (13 พฤศจิกายน 2026)</title>
+    <title lang="en">LIVE: Rajadamnern Knockout (13 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261113220000 +0700" stop="20261114010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (13 กรกฎาคม 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (13 July 2026)</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002311" start="20261110000000 +0700" stop="20261110235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -51464,31 +51502,38 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261111000000 +0700" stop="20261111180000 +0700">
-    <title>Kick Off 18:00 Roi-Et PB vs Khonkaen FC (T3 - Matchday 9)</title>
+    <title lang="th">เริ่มเวลา 18:00 ร้อยเอ็ด พีบี พบ ขอนแก่น เอฟซี (T3 - สัปดาห์ที่ 9)</title>
+    <title lang="en">Kick Off 18:00 Roi-Et PB vs Khonkaen FC (T3 - Matchday 9)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261111180000 +0700" stop="20261111200000 +0700">
-    <title>LIVE: Roi-Et PB vs Khonkaen FC (T3 - Matchday 9)</title>
+    <title lang="th">LIVE: ร้อยเอ็ด พีบี พบ ขอนแก่น เอฟซี (T3 - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Roi-Et PB vs Khonkaen FC (T3 - Matchday 9)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261111200000 +0700" stop="20261111235959 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261112000000 +0700" stop="20261112170000 +0700">
-    <title>Kick Off 17:00 Khonkaen Mordindang vs Korat (T3 - Matchday 9)</title>
+    <title lang="th">เริ่มเวลา 17:00 ขอนแก่นมอดินแดง พบ โคราช (T3 - สัปดาห์ที่ 9)</title>
+    <title lang="en">Kick Off 17:00 Khonkaen Mordindang vs Korat (T3 - Matchday 9)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261112170000 +0700" stop="20261112190000 +0700">
-    <title>LIVE: Khonkaen Mordindang vs Korat (T3 - Matchday 9)</title>
+    <title lang="th">LIVE: ขอนแก่นมอดินแดง พบ โคราช (T3 - สัปดาห์ที่ 9)</title>
+    <title lang="en">LIVE: Khonkaen Mordindang vs Korat (T3 - Matchday 9)</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261112190000 +0700" stop="20261112235959 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002313" start="20261113000000 +0700" stop="20261113235959 +0700">
-    <title>No Broadcast</title>
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002314" start="20261110000000 +0700" stop="20261110235959 +0700">
@@ -51496,7 +51541,17 @@
     <title lang="en">No Broadcast</title>
     <category>Football</category>
   </programme>
-  <programme channel="ch0000000000100002314" start="20261111000000 +0700" stop="20261111235959 +0700">
+  <programme channel="ch0000000000100002314" start="20261111000000 +0700" stop="20261111153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 ปลวกแดง พบ บีเอฟบี พัทยา (T3 - สัปดาห์ที่ 7)</title>
+    <title lang="en">Kick Off 15:30 Pluankdaeng vs BFB Pattaya (T3 - Matchday 7)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002314" start="20261111153000 +0700" stop="20261111160000 +0700">
+    <title lang="th">LIVE: ปลวกแดง พบ บีเอฟบี พัทยา (T3 - สัปดาห์ที่ 7)</title>
+    <title lang="en">LIVE: Pluankdaeng vs BFB Pattaya (T3 - Matchday 7)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002314" start="20261111160000 +0700" stop="20261111235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -51856,6 +51911,286 @@
     <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002401" start="20261111000000 +0700" stop="20261111012000 +0700">
+    <title lang="th">รีรัน: RSI : Girl Team - THA vs IDN</title>
+    <title lang="en">RERUN: RSI : Girl Team - THA vs IDN</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111012000 +0700" stop="20261111020000 +0700">
+    <title lang="th">รีรัน: NBA Special : Great Debate with Charles Barkley</title>
+    <title lang="en">RERUN: NBA Special : Great Debate with Charles Barkley</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111020000 +0700" stop="20261111030000 +0700">
+    <title lang="th">รีรัน: NBA Special : Donovan's Keys to the Game</title>
+    <title lang="en">RERUN: NBA Special : Donovan's Keys to the Game</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111030000 +0700" stop="20261111041000 +0700">
+    <title lang="th">รีรัน: NBA Special : MLK Virtual Roundtable</title>
+    <title lang="en">RERUN: NBA Special : MLK Virtual Roundtable</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111041000 +0700" stop="20261111050000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Muggsy Bogues</title>
+    <title lang="en">RERUN: NBA_Spot : Muggsy Bogues</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111050000 +0700" stop="20261111053000 +0700">
+    <title lang="th">รีรัน: NBA Special : Stephen Curry: The Art of 3</title>
+    <title lang="en">RERUN: NBA Special : Stephen Curry: The Art of 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111053000 +0700" stop="20261111060000 +0700">
+    <title lang="th">รีรัน: NBA Special : Muggsy Bogues: Always Believe</title>
+    <title lang="en">RERUN: NBA Special : Muggsy Bogues: Always Believe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111060000 +0700" stop="20261111063000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Larry Bird, Reggie Miller &amp; David Cowens</title>
+    <title lang="en">RERUN: 75 Stories: Larry Bird, Reggie Miller &amp; David Cowens</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111063000 +0700" stop="20261111070000 +0700">
+    <title lang="th">รีรัน: High Tops: Best of NBA Cup</title>
+    <title lang="en">RERUN: High Tops: Best of NBA Cup</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111070000 +0700" stop="20261111075700 +0700">
+    <title lang="th">รีรัน: NBA Special : Donovan's Keys to the Game</title>
+    <title lang="en">RERUN: NBA Special : Donovan's Keys to the Game</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111075700 +0700" stop="20261111110000 +0700">
+    <title lang="th">LIVE: บอสตัน เซลติกส์ พบ ฟิลาเดลเฟีย เซเวนตีซิกเซอร์ส</title>
+    <title lang="en">LIVE: Boston Celtics vs Philadelphia 76ers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111110000 +0700" stop="20261111140000 +0700">
+    <title lang="th">รีรัน: บรูคลิน เน็ตส์ พบ แอตแลนตา ฮอกส์</title>
+    <title lang="en">RERUN: Brooklyn Nets vs Atlanta Hawks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111140000 +0700" stop="20261111170000 +0700">
+    <title lang="th">รีรัน: วอชิงตัน วิซาร์ดส์ พบ ดีทรอยต์ พิสตันส์</title>
+    <title lang="en">RERUN: Washington Wizards vs Detroit Pistons</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111170000 +0700" stop="20261111200000 +0700">
+    <title lang="th">รีรัน: โอคลาโฮมา ซิตี้ ธันเดอร์ พบ พอร์ตแลนด์ เทรลเบลเซอร์ส</title>
+    <title lang="en">RERUN: Oklahoma City Thunder vs Portland Trail Blazers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111200000 +0700" stop="20261111230000 +0700">
+    <title lang="th">รีรัน: บอสตัน เซลติกส์ พบ ฟิลาเดลเฟีย เซเวนตีซิกเซอร์ส</title>
+    <title lang="en">RERUN: Boston Celtics vs Philadelphia 76ers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111230000 +0700" stop="20261111233000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261111233000 +0700" stop="20261112000000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112000000 +0700" stop="20261112003000 +0700">
+    <title lang="th">รีรัน: 75 Stories: LeBron James, Magic Johnson &amp; Oscar Robertson</title>
+    <title lang="en">RERUN: 75 Stories: LeBron James, Magic Johnson &amp; Oscar Robertson</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112003000 +0700" stop="20261112010000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Stephen Curry, Steve Nash, Bob Cousy &amp; Gary Payton</title>
+    <title lang="en">RERUN: 75 Stories: LeBron James, Magic Johnson &amp; Oscar Robertson</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112010000 +0700" stop="20261112013000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Tim Duncan, Dirk Nowitzki, Karl Malone, Patrick Ewing &amp; Kevin McHale</title>
+    <title lang="en">RERUN: 75 Stories: Tim Duncan, Dirk Nowitzki, Karl Malone, Patrick Ewing &amp; Kevin McHale</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112013000 +0700" stop="20261112020000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Giannis Antetokounmpo, Rick Barry &amp; Wes Unseld</title>
+    <title lang="en">RERUN: 75 Stories: Giannis Antetokounmpo, Rick Barry &amp; Wes Unseld</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112020000 +0700" stop="20261112023000 +0700">
+    <title lang="th">รีรัน: Open Court: The Evolution of the Game #1</title>
+    <title lang="en">RERUN: Open Court: The Evolution of the Game #1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112023000 +0700" stop="20261112030000 +0700">
+    <title lang="th">รีรัน: Open Court: The Evolution of the Game #2</title>
+    <title lang="en">RERUN: Open Court: The Evolution of the Game #2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112030000 +0700" stop="20261112040000 +0700">
+    <title lang="th">รีรัน: Open Court: The Evolution of the Game #3</title>
+    <title lang="en">RERUN: Open Court: The Evolution of the Game #3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112040000 +0700" stop="20261112043000 +0700">
+    <title lang="th">รีรัน: High Tops: Best of NBA Cup</title>
+    <title lang="en">RERUN: High Tops: Best of NBA Cup</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112043000 +0700" stop="20261112050000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Ray Allen</title>
+    <title lang="en">RERUN: NBA_Spot : Ray Allen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112050000 +0700" stop="20261112060000 +0700">
+    <title lang="th">รีรัน: Open Court: HBCU Coaches</title>
+    <title lang="en">RERUN: Open Court: HBCU Coaches</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112060000 +0700" stop="20261112063000 +0700">
+    <title lang="th">รีรัน: 75 Stories: Walt Frazier, Dave DeBusschere, Hal Greer &amp; Earl Monroe</title>
+    <title lang="en">RERUN: 75 Stories: Walt Frazier, Dave DeBusschere, Hal Greer &amp; Earl Monroe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112063000 +0700" stop="20261112065700 +0700">
+    <title lang="th">รีรัน: Open Court: The Evolution of the Game #3</title>
+    <title lang="en">RERUN: Open Court: The Evolution of the Game #3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112065700 +0700" stop="20261112100000 +0700">
+    <title lang="th">LIVE: คลีฟแลนด์ แควาเลียร์ส พบ นิวยอร์ก นิกส์</title>
+    <title lang="en">LIVE: Cleveland Cavaliers vs New York Knicks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112100000 +0700" stop="20261112103000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112103000 +0700" stop="20261112110000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112110000 +0700" stop="20261112140000 +0700">
+    <title lang="th">รีรัน: โอคลาโฮมา ซิตี้ ธันเดอร์ พบ พอร์ตแลนด์ เทรลเบลเซอร์ส</title>
+    <title lang="en">RERUN: Oklahoma City Thunder vs Portland Trail Blazers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112140000 +0700" stop="20261112170000 +0700">
+    <title lang="th">รีรัน: บอสตัน เซลติกส์ พบ ฟิลาเดลเฟีย เซเวนตีซิกเซอร์ส</title>
+    <title lang="en">RERUN: Boston Celtics vs Philadelphia 76ers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112170000 +0700" stop="20261112200000 +0700">
+    <title lang="th">รีรัน: โกลเดน สเตท วอริเออร์ส พบ ฮิวสตัน ร็อกเก็ตส์</title>
+    <title lang="en">RERUN: Golden State Warriors vs Houston Rockets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112200000 +0700" stop="20261112230000 +0700">
+    <title lang="th">รีรัน: คลีฟแลนด์ แควาเลียร์ส พบ นิวยอร์ก นิกส์</title>
+    <title lang="en">RERUN: Cleveland Cavaliers vs New York Knicks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112230000 +0700" stop="20261112233000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261112233000 +0700" stop="20261113000000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113000000 +0700" stop="20261113012000 +0700">
+    <title lang="th">รีรัน: RSI : Girl Team - THA vs IDN</title>
+    <title lang="en">RERUN: RSI : Girl Team - THA vs IDN</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113012000 +0700" stop="20261113020000 +0700">
+    <title lang="th">รีรัน: NBA Special : Great Debate with Charles Barkley</title>
+    <title lang="en">RERUN: NBA Special : Great Debate with Charles Barkley</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113020000 +0700" stop="20261113030000 +0700">
+    <title lang="th">รีรัน: NBA Special : Donovan's Keys to the Game</title>
+    <title lang="en">RERUN: NBA Special : Donovan's Keys to the Game</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113030000 +0700" stop="20261113041000 +0700">
+    <title lang="th">รีรัน: NBA Special : MLK Virtual Roundtable</title>
+    <title lang="en">RERUN: NBA Special : MLK Virtual Roundtable</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113041000 +0700" stop="20261113050000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Muggsy Bogues</title>
+    <title lang="en">RERUN: NBA_Spot : Muggsy Bogues</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113050000 +0700" stop="20261113053000 +0700">
+    <title lang="th">รีรัน: NBA Special : Stephen Curry: The Art of 3</title>
+    <title lang="en">RERUN: NBA Special : Stephen Curry: The Art of 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113053000 +0700" stop="20261113060000 +0700">
+    <title lang="th">รีรัน: NBA Special : Muggsy Bogues: Always Believe</title>
+    <title lang="en">RERUN: NBA Special : Muggsy Bogues: Always Believe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113060000 +0700" stop="20261113090000 +0700">
+    <title lang="th">รีรัน: โกลเดน สเตท วอริเออร์ส พบ ฮิวสตัน ร็อกเก็ตส์</title>
+    <title lang="en">RERUN: Golden State Warriors vs Houston Rockets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113090000 +0700" stop="20261113093000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113093000 +0700" stop="20261113100000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113100000 +0700" stop="20261113103000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 3</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113103000 +0700" stop="20261113110000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 4</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113110000 +0700" stop="20261113140000 +0700">
+    <title lang="th">รีรัน: คลีฟแลนด์ แควาเลียร์ส พบ นิวยอร์ก นิกส์</title>
+    <title lang="en">RERUN: Cleveland Cavaliers vs New York Knicks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113140000 +0700" stop="20261113170000 +0700">
+    <title lang="th">รีรัน: วอชิงตัน วิซาร์ดส์ พบ ดีทรอยต์ พิสตันส์</title>
+    <title lang="en">RERUN: Washington Wizards vs Detroit Pistons</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113170000 +0700" stop="20261113200000 +0700">
+    <title lang="th">รีรัน: โอคลาโฮมา ซิตี้ ธันเดอร์ พบ พอร์ตแลนด์ เทรลเบลเซอร์ส</title>
+    <title lang="en">RERUN: Oklahoma City Thunder vs Portland Trail Blazers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113200000 +0700" stop="20261113230000 +0700">
+    <title lang="th">รีรัน: บอสตัน เซลติกส์ พบ ฟิลาเดลเฟีย เซเวนตีซิกเซอร์ส</title>
+    <title lang="en">RERUN: Boston Celtics vs Philadelphia 76ers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113230000 +0700" stop="20261113233000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261113233000 +0700" stop="20261114000000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002402" start="20261109000000 +0700" stop="20261110000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -51881,17 +52216,17 @@
     <title lang="en">No Broadcast</title>
     <category>NBA, Basketball</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261112000000 +0700" stop="20261112083000 +0700">
-    <title lang="th">เริ่มเวลา 08.30 โกลเดน สเตท วอริเออร์ส พบ ฮิวสตัน ร็อกเก็ตส์</title>
-    <title lang="en">Start 8.30AM: GSW vs HOU</title>
+  <programme channel="ch0000000000100002402" start="20261112000000 +0700" stop="20261112093000 +0700">
+    <title lang="th">เริ่มเวลา 09.30 โกลเดน สเตท วอริเออร์ส พบ ฮิวสตัน ร็อกเก็ตส์</title>
+    <title lang="en">Start 9.30AM: GSW vs HOU</title>
     <category>NBA, Basketball</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261112083000 +0700" stop="20261112113000 +0700">
+  <programme channel="ch0000000000100002402" start="20261112093000 +0700" stop="20261112123000 +0700">
     <title lang="th">LIVE: โกลเดน สเตท วอริเออร์ส พบ ฮิวสตัน ร็อกเก็ตส์</title>
     <title lang="en">LIVE: Golden State Warriors vs Houston Rockets</title>
     <category>NBA, Basketball</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261112113000 +0700" stop="20261113000000 +0700">
+  <programme channel="ch0000000000100002402" start="20261112123000 +0700" stop="20261113000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>NBA, Basketball</category>
@@ -52656,8 +52991,101 @@
     <title lang="en">Lotte Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261112230000 +0700" stop="20261113050000 +0700">
+  <programme channel="ch0000000000100002525" start="20261112230000 +0700" stop="20261113020000 +0700">
     <title>LIVE: The ANNIKA driven Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113020000 +0700" stop="20261113023000 +0700">
+    <title lang="th">เมย์แบงก์ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Maybank Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113023000 +0700" stop="20261113025500 +0700">
+    <title lang="th">เมย์แบงก์ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Maybank Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113025500 +0700" stop="20261113064500 +0700">
+    <title lang="th">รีรัน: โตโต้ เจแปน คลาสสิก รอบสุดท้าย</title>
+    <title lang="en">RERUN: TOTO Japan Classic Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113064500 +0700" stop="20261113094500 +0700">
+    <title lang="th">รีรัน: The ANNIKA driven Round 1</title>
+    <title lang="en">RERUN: The ANNIKA driven Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113094500 +0700" stop="20261113100500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู เลดี้ส์ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">BMW Ladies Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113100500 +0700" stop="20261113103500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู เลดี้ส์ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW Ladies Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113103500 +0700" stop="20261113133500 +0700">
+    <title lang="th">รีรัน: The ANNIKA driven Round 1</title>
+    <title lang="en">RERUN: The ANNIKA driven Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113133500 +0700" stop="20261113140000 +0700">
+    <title lang="th">บิวอิค แอลพีจีเอ เซี่ยงไฮ้ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Buick LPGA Shanghai Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113140000 +0700" stop="20261113142500 +0700">
+    <title lang="th">บิวอิค แอลพีจีเอ เซี่ยงไฮ้ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Buick LPGA Shanghai Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113142500 +0700" stop="20261113172500 +0700">
+    <title lang="th">รีรัน: The ANNIKA driven Round 1</title>
+    <title lang="en">RERUN: The ANNIKA driven Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113172500 +0700" stop="20261113174000 +0700">
+    <title lang="th">ลอตเต้ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Lotte Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113174000 +0700" stop="20261113180000 +0700">
+    <title lang="th">ลอตเต้ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Lotte Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113180000 +0700" stop="20261113210000 +0700">
+    <title lang="th">รีรัน: The ANNIKA driven Round 1</title>
+    <title lang="en">RERUN: The ANNIKA driven Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113210000 +0700" stop="20261113213000 +0700">
+    <title lang="th">เมย์แบงก์ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Maybank Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113213000 +0700" stop="20261113215500 +0700">
+    <title lang="th">เมย์แบงก์ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Maybank Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113215500 +0700" stop="20261113221500 +0700">
+    <title lang="th">โตโต้ เจแปน คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">TOTO Japan Classic Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113221500 +0700" stop="20261113223500 +0700">
+    <title lang="th">โตโต้ เจแปน คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">TOTO Japan Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113223500 +0700" stop="20261113230000 +0700">
+    <title>The ANNIKA driven Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261113230000 +0700" stop="20261114020000 +0700">
+    <title>LIVE: The ANNIKA driven Round 2</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20261109235500 +0700" stop="20261110002500 +0700">
@@ -52780,29 +53208,134 @@
     <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261111130000 +0700" stop="20261111133000 +0700">
-    <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
-    <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Round 3</title>
+  <programme channel="ch0000000000100002528" start="20261111130000 +0700" stop="20261111185000 +0700">
+    <title lang="th">รีรัน: อาบูดาบี เอชเอสบีซี แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: ABU DHABI HSBC CHAMPIONSHIP Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261111133000 +0700" stop="20261111140000 +0700">
+  <programme channel="ch0000000000100002528" start="20261111185000 +0700" stop="20261112010000 +0700">
+    <title lang="th">รีรัน: อาบูดาบี เอชเอสบีซี แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: ABU DHABI HSBC CHAMPIONSHIP Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112010000 +0700" stop="20261112013000 +0700">
     <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261111140000 +0700" stop="20261111200000 +0700">
+  <programme channel="ch0000000000100002528" start="20261112013000 +0700" stop="20261112072000 +0700">
+    <title lang="th">รีรัน: อาบูดาบี เอชเอสบีซี แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: ABU DHABI HSBC CHAMPIONSHIP Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112072000 +0700" stop="20261112133000 +0700">
+    <title lang="th">รีรัน: อาบูดาบี เอชเอสบีซี แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: ABU DHABI HSBC CHAMPIONSHIP Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112133000 +0700" stop="20261112140000 +0700">
+    <title lang="th">เจเนซิส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Genesis Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112140000 +0700" stop="20261112200000 +0700">
     <title lang="th">LIVE: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบแรก</title>
     <title lang="en">LIVE: DP WORLD TOUR CHAMPIONSHIP Round 1</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261111200000 +0700" stop="20261111203000 +0700">
+  <programme channel="ch0000000000100002528" start="20261112200000 +0700" stop="20261112203000 +0700">
     <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261111203000 +0700" stop="20261112000000 +0700">
-    <title lang="th">รีรัน: อาบูดาบี เอชเอสบีซี แชมเปียนชิพ รอบสุดท้าย</title>
-    <title lang="en">RERUN: ABU DHABI HSBC CHAMPIONSHIP Final</title>
+  <programme channel="ch0000000000100002528" start="20261112203000 +0700" stop="20261112210000 +0700">
+    <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112210000 +0700" stop="20261112212000 +0700">
+    <title lang="th">เจเนซิส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Genesis Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112212000 +0700" stop="20261112214500 +0700">
+    <title lang="th">เจเนซิส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Genesis Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112214500 +0700" stop="20261112221500 +0700">
+    <title lang="th">ดีพี เวิลด์ อินเดีย แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">DP World India Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112221500 +0700" stop="20261112224000 +0700">
+    <title lang="th">ดีพี เวิลด์ อินเดีย แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">DP World India Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112224000 +0700" stop="20261112230000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 3</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112230000 +0700" stop="20261112232000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112232000 +0700" stop="20261112234500 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261112234500 +0700" stop="20261113001500 +0700">
+    <title lang="th">อัลเฟรด ดันฮิลล์ ลิงก์ส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113001500 +0700" stop="20261113061500 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบแรก</title>
+    <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113061500 +0700" stop="20261113064500 +0700">
+    <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113064500 +0700" stop="20261113124500 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบแรก</title>
+    <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113124500 +0700" stop="20261113130500 +0700">
+    <title lang="th">เจเนซิส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Genesis Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113130500 +0700" stop="20261113133000 +0700">
+    <title lang="th">เจเนซิส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Genesis Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113133000 +0700" stop="20261113140000 +0700">
+    <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบแรก</title>
+    <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113140000 +0700" stop="20261113200000 +0700">
+    <title lang="th">LIVE: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบ 2</title>
+    <title lang="en">LIVE: DP WORLD TOUR CHAMPIONSHIP Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113200000 +0700" stop="20261113202000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบ 3</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261113202000 +0700" stop="20261113204000 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261109190000 +0700" stop="20261110040000 +0700">
@@ -53057,6 +53590,120 @@
     <title lang="en">RERUN: ATP Tour This Week Episode 24</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002530" start="20261112050000 +0700" stop="20261112052000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ โซเนโก พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) R16: Lorenzo Sonego vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112052000 +0700" stop="20261112054000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112054000 +0700" stop="20261112060000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เทย์เลอร์ ฟริตซ์ พบ คาเมรอน นอร์รี</title>
+    <title lang="en">(HL) R16: Taylor Fritz vs Cameron Norrie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112060000 +0700" stop="20261112080000 +0700">
+    <title lang="th">รีรัน: รอบ 16: ลอเรนโซ โซเนโก พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">RERUN: R16: Lorenzo Sonego vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112080000 +0700" stop="20261112081500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
+    <title lang="en">(HL) QF: Luca Van Assche vs Rinky Hijikata</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112081500 +0700" stop="20261112083000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ เชฟเชนโก พบ แคสเปอร์ รุด</title>
+    <title lang="en">(HL) R16: Aleksandr Shevchenko vs Casper Ruud</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112083000 +0700" stop="20261112090000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 25</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 25</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112090000 +0700" stop="20261112110000 +0700">
+    <title lang="th">รีรัน: รอบ 16: เทย์เลอร์ ฟริตซ์ พบ คาเมรอน นอร์รี</title>
+    <title lang="en">RERUN: R16: Taylor Fritz vs Cameron Norrie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112110000 +0700" stop="20261112112000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112112000 +0700" stop="20261112114000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: มิโอมีร์ เคซมาโนวิช พบ โฮลเกอร์ รูเนอ</title>
+    <title lang="en">(HL) R16: Miomir Kecmanovic vs Holger Rune</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112114000 +0700" stop="20261112120000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: แคสเปอร์ รุด พบ นูโน บอร์เกส</title>
+    <title lang="en">(HL) QF: Casper Ruud vs Nuno Borges</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112120000 +0700" stop="20261112140000 +0700">
+    <title lang="th">รีรัน: รอบ 8: แคสเปอร์ รุด พบ นูโน บอร์เกส</title>
+    <title lang="en">RERUN: QF: Casper Ruud vs Nuno Borges</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112140000 +0700" stop="20261112142000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ โซเนโก พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) R16: Lorenzo Sonego vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112142000 +0700" stop="20261112144000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112144000 +0700" stop="20261112150000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เทย์เลอร์ ฟริตซ์ พบ คาเมรอน นอร์รี</title>
+    <title lang="en">(HL) R16: Taylor Fritz vs Cameron Norrie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112150000 +0700" stop="20261112170000 +0700">
+    <title lang="th">รีรัน: รอบ 16: มิโอมีร์ เคซมาโนวิช พบ โฮลเกอร์ รูเนอ</title>
+    <title lang="en">RERUN: R16: Miomir Kecmanovic vs Holger Rune</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112170000 +0700" stop="20261112173000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 26</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 26</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112173000 +0700" stop="20261112175000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
+    <title lang="en">(HL) QF: Luca Van Assche vs Rinky Hijikata</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112175000 +0700" stop="20261112181000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ เชฟเชนโก พบ แคสเปอร์ รุด</title>
+    <title lang="en">(HL) R16: Aleksandr Shevchenko vs Casper Ruud</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112181000 +0700" stop="20261112183000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112183000 +0700" stop="20261112190000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 27</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261112190000 +0700" stop="20261113040000 +0700">
+    <title>LIVE: Bybit Stockholm Open Day 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261113040000 +0700" stop="20261113060000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 28</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 28</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002531" start="20261109020000 +0700" stop="20261110000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -53152,24 +53799,29 @@
     <desc>The seventh edition of the Women's Rugby League World Cup is co-hosted by Australia New Zealand and Papua New Guinea.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261110125000 +0700" stop="20261110145000 +0700">
+  <programme channel="ch0000000000100002561" start="20261110125000 +0700" stop="20261110130500 +0700">
     <title>LIVE: Wheelchair RLWC26: Semi Final 1</title>
     <desc>The 2026 Wheelchair Rugby League World Cup takes place in Australiawith all 20 games being played in Wollongong New South Wales.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261110145000 +0700" stop="20261110152000 +0700">
+  <programme channel="ch0000000000100002561" start="20261110130500 +0700" stop="20261110150500 +0700">
+    <title>LIVE: Wheelchair RLWC26: France v Ireland</title>
+    <desc>The 2026 Wheelchair Rugby League World Cup takes place in Australiawith all 20 games being played in Wollongong New South Wales.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002561" start="20261110150500 +0700" stop="20261110153500 +0700">
     <title>5 and 6 Nations Classics: 2004 - Ireland v Scotland</title>
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261110152000 +0700" stop="20261110172000 +0700">
-    <title>LIVE: Wheelchair RLWC26: Semi Final 2</title>
+  <programme channel="ch0000000000100002561" start="20261110153500 +0700" stop="20261110173500 +0700">
+    <title>LIVE: Wheelchair RLWC26: England v Australia</title>
     <desc>The 2026 Wheelchair Rugby League World Cup takes place in Australiawith all 20 games being played in Wollongong New South Wales.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261110172000 +0700" stop="20261110175000 +0700">
-    <title>Top 14 Highlights: Round 9</title>
-    <desc>Highlights of the latest round from the Top 14.</desc>
+  <programme channel="ch0000000000100002561" start="20261110173500 +0700" stop="20261110175000 +0700">
+    <title>Premier Sports Extra: Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261110175000 +0700" stop="20261110194000 +0700">
@@ -53298,8 +53950,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261112065000 +0700" stop="20261112085000 +0700">
-    <title>LIVE: Wheelchair RLWC26: 7th Final</title>
-    <desc>Coverage of the Wheelchair Rugby League World Cup.</desc>
+    <title>LIVE: Wheelchair RLWC26: New Zealand v USA</title>
+    <desc>The 2026 Wheelchair Rugby League World Cup takes place in Australiawith all 20 games being played in Wollongong New South Wales.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261112085000 +0700" stop="20261112092000 +0700">
@@ -53308,8 +53960,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261112092000 +0700" stop="20261112112000 +0700">
-    <title>LIVE: Wheelchair RLWC26: 5th Place Final</title>
-    <desc>Coverage of the Wheelchair Rugby League World Cup.</desc>
+    <title>LIVE: Wheelchair RLWC26: Wales v Scotland</title>
+    <desc>The 2026 Wheelchair Rugby League World Cup takes place in Australiawith all 20 games being played in Wollongong New South Wales.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261112112000 +0700" stop="20261112115000 +0700">
@@ -53397,27 +54049,27 @@
     <desc>The best of the latest action from the Gallagher Premiership.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261113110000 +0700" stop="20261113113000 +0700">
-    <title>5 and 6 Nations Classics: 2010 - Wales v Scotland</title>
-    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+  <programme channel="ch0000000000100002561" start="20261113110000 +0700" stop="20261113112000 +0700">
+    <title>Premier Sports Extra: Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261113113000 +0700" stop="20261113131500 +0700">
+  <programme channel="ch0000000000100002561" start="20261113112000 +0700" stop="20261113130500 +0700">
     <title>Women's RLWC 2026: Australia v Fiji</title>
     <desc>The seventh edition of the Women's Rugby League World Cup is co-hosted by Australia New Zealand and Papua New Guinea.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261113131500 +0700" stop="20261113151500 +0700">
+  <programme channel="ch0000000000100002561" start="20261113130500 +0700" stop="20261113150500 +0700">
     <title>LIVE: Wheelchair RLWC26: 3rd Place Final</title>
     <desc>Coverage of the Wheelchair Rugby League World Cup.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261113151500 +0700" stop="20261113154500 +0700">
+  <programme channel="ch0000000000100002561" start="20261113150500 +0700" stop="20261113153500 +0700">
     <title>5 and 6 Nations Classics: 1998 - Scotland v France</title>
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261113154500 +0700" stop="20261113175000 +0700">
+  <programme channel="ch0000000000100002561" start="20261113153500 +0700" stop="20261113175000 +0700">
     <title>LIVE: Wheelchair RLWC26: Final</title>
     <desc>The 2026 Wheelchair Rugby League World Cup takes place in Australiawith all 20 games being played in Wollongong New South Wales.</desc>
     <category>Sport</category>
