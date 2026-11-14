@@ -250,56 +250,6 @@
     <display-name lang="en">PLAY SPORTS 2</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png"/>
   </channel>
-  <channel id="ch0000000000100002311">
-    <display-name lang="th">เพลย์สปอร์ต 11</display-name>
-    <display-name lang="en">PLAY SPORTS 11</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909155033022500.png"/>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name lang="th">เพลย์สปอร์ต 12</display-name>
-    <display-name lang="en">PLAY SPORTS 12</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163216022531.png"/>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name lang="th">เพลย์สปอร์ต 13</display-name>
-    <display-name lang="en">PLAY SPORTS 13</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163244022532.png"/>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name lang="th">เพลย์สปอร์ต 14</display-name>
-    <display-name lang="en">PLAY SPORTS 14</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163300022533.png"/>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name lang="th">เพลย์สปอร์ต 15</display-name>
-    <display-name lang="en">PLAY SPORTS 15</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163318022534.png"/>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name lang="th">เพลย์สปอร์ต 16</display-name>
-    <display-name lang="en">PLAY SPORTS 16</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163342022535.png"/>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name lang="th">เพลย์สปอร์ต 17</display-name>
-    <display-name lang="en">PLAY SPORTS 17</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163358022536.png"/>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name lang="th">เพลย์สปอร์ต 18</display-name>
-    <display-name lang="en">PLAY SPORTS 18</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163413022512.png"/>
-  </channel>
-  <channel id="ch0000000000100002331">
-    <display-name lang="th">เพลย์สปอร์ต 19</display-name>
-    <display-name lang="en">PLAY SPORTS 19</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163428022513.png"/>
-  </channel>
-  <channel id="ch0000000000100002341">
-    <display-name lang="th">เพลย์สปอร์ต 20</display-name>
-    <display-name lang="en">PLAY SPORTS 20</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163443022537.png"/>
-  </channel>
   <channel id="ch0000000000100002325">
     <display-name lang="th">เพลย์สปอร์ต 21</display-name>
     <display-name lang="en">PLAY SPORTS 21</display-name>
@@ -495,20 +445,65 @@
     <display-name lang="en">WTGL 901</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261102084840086158.png"/>
   </channel>
-  <channel id="ch0000000000100002093">
-    <display-name>ch0000000000100002093</display-name>
+  <channel id="ch0000000000100002095">
+    <display-name>ch0000000000100002095</display-name>
   </channel>
-  <channel id="ch0000000000100002351">
-    <display-name>ch0000000000100002351</display-name>
+  <channel id="ch0000000000100001361">
+    <display-name>ch0000000000100001361</display-name>
+  </channel>
+  <channel id="ch0000000000100001152">
+    <display-name>ch0000000000100001152</display-name>
   </channel>
   <channel id="ch0000000000100001284">
     <display-name>ch0000000000100001284</display-name>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name>ch0000000000100002094</display-name>
+  <channel id="ch0000000000100001286">
+    <display-name>ch0000000000100001286</display-name>
   </channel>
   <channel id="ch0000000000100001391">
     <display-name>ch0000000000100001391</display-name>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name>ch0000000000100002311</display-name>
+  </channel>
+  <channel id="ch0000000000100002471">
+    <display-name>ch0000000000100002471</display-name>
+  </channel>
+  <channel id="ch0000000000100001291">
+    <display-name>ch0000000000100001291</display-name>
+  </channel>
+  <channel id="ch0000000000100002093">
+    <display-name>ch0000000000100002093</display-name>
+  </channel>
+  <channel id="ch0000000000100002094">
+    <display-name>ch0000000000100002094</display-name>
+  </channel>
+  <channel id="ch0000000000100002324">
+    <display-name>ch0000000000100002324</display-name>
+  </channel>
+  <channel id="ch0000000000100001294">
+    <display-name>ch0000000000100001294</display-name>
+  </channel>
+  <channel id="ch0000000000100002154">
+    <display-name>ch0000000000100002154</display-name>
+  </channel>
+  <channel id="ch0000000000100001153">
+    <display-name>ch0000000000100001153</display-name>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name>ch0000000000100002312</display-name>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name>ch0000000000100002091</display-name>
+  </channel>
+  <channel id="ch0000000000100002323">
+    <display-name>ch0000000000100002323</display-name>
+  </channel>
+  <channel id="ch0000000000100002327">
+    <display-name>ch0000000000100002327</display-name>
+  </channel>
+  <channel id="ch0000000000100001283">
+    <display-name>ch0000000000100001283</display-name>
   </channel>
   <channel id="ch0000000000100002521">
     <display-name>ch0000000000100002521</display-name>
@@ -516,92 +511,77 @@
   <channel id="ch0000000000100001372">
     <display-name>ch0000000000100001372</display-name>
   </channel>
-  <channel id="ch0000000000100002097">
-    <display-name>ch0000000000100002097</display-name>
-  </channel>
-  <channel id="ch0000000000100002402">
-    <display-name>ch0000000000100002402</display-name>
-  </channel>
-  <channel id="ch0000000000100001361">
-    <display-name>ch0000000000100001361</display-name>
-  </channel>
-  <channel id="ch0000000000100001356">
-    <display-name>ch0000000000100001356</display-name>
-  </channel>
-  <channel id="ch0000000000100002327">
-    <display-name>ch0000000000100002327</display-name>
-  </channel>
-  <channel id="ch0000000000100002328">
-    <display-name>ch0000000000100002328</display-name>
-  </channel>
-  <channel id="ch0000000000100001381">
-    <display-name>ch0000000000100001381</display-name>
-  </channel>
-  <channel id="ch0000000000100002154">
-    <display-name>ch0000000000100002154</display-name>
-  </channel>
-  <channel id="ch0000000000100002329">
-    <display-name>ch0000000000100002329</display-name>
-  </channel>
-  <channel id="ch0000000000100001291">
-    <display-name>ch0000000000100001291</display-name>
-  </channel>
-  <channel id="ch0000000000100001295">
-    <display-name>ch0000000000100001295</display-name>
-  </channel>
-  <channel id="ch0000000000100002471">
-    <display-name>ch0000000000100002471</display-name>
-  </channel>
-  <channel id="ch0000000000100001294">
-    <display-name>ch0000000000100001294</display-name>
-  </channel>
-  <channel id="ch0000000000100002091">
-    <display-name>ch0000000000100002091</display-name>
-  </channel>
-  <channel id="ch0000000000100001292">
-    <display-name>ch0000000000100001292</display-name>
-  </channel>
-  <channel id="ch0000000000100002330">
-    <display-name>ch0000000000100002330</display-name>
-  </channel>
-  <channel id="ch0000000000100001152">
-    <display-name>ch0000000000100001152</display-name>
-  </channel>
-  <channel id="ch0000000000100002581">
-    <display-name>ch0000000000100002581</display-name>
-  </channel>
-  <channel id="ch0000000000100001153">
-    <display-name>ch0000000000100001153</display-name>
-  </channel>
-  <channel id="ch0000000000100001293">
-    <display-name>ch0000000000100001293</display-name>
+  <channel id="ch0000000000100001353">
+    <display-name>ch0000000000100001353</display-name>
   </channel>
   <channel id="ch0000000000100001285">
     <display-name>ch0000000000100001285</display-name>
   </channel>
-  <channel id="ch0000000000100002231">
-    <display-name>ch0000000000100002231</display-name>
+  <channel id="ch0000000000100002098">
+    <display-name>ch0000000000100002098</display-name>
   </channel>
-  <channel id="ch0000000000100002092">
-    <display-name>ch0000000000100002092</display-name>
+  <channel id="ch0000000000100002581">
+    <display-name>ch0000000000100002581</display-name>
   </channel>
-  <channel id="ch0000000000100001353">
-    <display-name>ch0000000000100001353</display-name>
+  <channel id="ch0000000000100002329">
+    <display-name>ch0000000000100002329</display-name>
   </channel>
-  <channel id="ch0000000000100001286">
-    <display-name>ch0000000000100001286</display-name>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name>ch0000000000100002095</display-name>
+  <channel id="ch0000000000100002313">
+    <display-name>ch0000000000100002313</display-name>
   </channel>
   <channel id="ch0000000000100002096">
     <display-name>ch0000000000100002096</display-name>
   </channel>
-  <channel id="ch0000000000100001283">
-    <display-name>ch0000000000100001283</display-name>
+  <channel id="ch0000000000100001381">
+    <display-name>ch0000000000100001381</display-name>
   </channel>
-  <channel id="ch0000000000100002098">
-    <display-name>ch0000000000100002098</display-name>
+  <channel id="ch0000000000100001295">
+    <display-name>ch0000000000100001295</display-name>
+  </channel>
+  <channel id="ch0000000000100002092">
+    <display-name>ch0000000000100002092</display-name>
+  </channel>
+  <channel id="ch0000000000100002322">
+    <display-name>ch0000000000100002322</display-name>
+  </channel>
+  <channel id="ch0000000000100002231">
+    <display-name>ch0000000000100002231</display-name>
+  </channel>
+  <channel id="ch0000000000100002331">
+    <display-name>ch0000000000100002331</display-name>
+  </channel>
+  <channel id="ch0000000000100002351">
+    <display-name>ch0000000000100002351</display-name>
+  </channel>
+  <channel id="ch0000000000100002314">
+    <display-name>ch0000000000100002314</display-name>
+  </channel>
+  <channel id="ch0000000000100002328">
+    <display-name>ch0000000000100002328</display-name>
+  </channel>
+  <channel id="ch0000000000100002402">
+    <display-name>ch0000000000100002402</display-name>
+  </channel>
+  <channel id="ch0000000000100001356">
+    <display-name>ch0000000000100001356</display-name>
+  </channel>
+  <channel id="ch0000000000100002341">
+    <display-name>ch0000000000100002341</display-name>
+  </channel>
+  <channel id="ch0000000000100001292">
+    <display-name>ch0000000000100001292</display-name>
+  </channel>
+  <channel id="ch0000000000100001293">
+    <display-name>ch0000000000100001293</display-name>
+  </channel>
+  <channel id="ch0000000000100002321">
+    <display-name>ch0000000000100002321</display-name>
+  </channel>
+  <channel id="ch0000000000100002330">
+    <display-name>ch0000000000100002330</display-name>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name>ch0000000000100002097</display-name>
   </channel>
   <programme channel="ch0000000000100001021" start="20261112234500 +0700" stop="20261113011000 +0700">
     <title>Primate</title>
@@ -57676,6 +57656,165 @@
   <programme channel="ch0000000000100002530" start="20261114220000 +0700" stop="20261115000000 +0700">
     <title lang="th">รีรัน: รอบ 4: อเลฮานโดร ทาบิโล พบ ติอาโก อากุสติน ติรันเต้</title>
     <title lang="en">RERUN: SF: Alejandro Tabilo vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115000000 +0700" stop="20261115002000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อาตูร์ ฟิลส์ พบ เทย์เลอร์ ฟริตซ์</title>
+    <title lang="en">(HL) R16: Arthur Fils vs Taylor Fritz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115002000 +0700" stop="20261115004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อเล็กซ์ มิเคลเซน พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) QF: Alex Michelsen vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115004000 +0700" stop="20261115010000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115010000 +0700" stop="20261115030000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เบน เชลตัน พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: Final: Ben Shelton vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115030000 +0700" stop="20261115032000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: เทย์เลอร์ ฟริตซ์ พบ ลอเรนโซ มูเซตติ</title>
+    <title lang="en">(HL) SF: Taylor Fritz vs Lorenzo Musetti</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115032000 +0700" stop="20261115034000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อาตูร์ ฟิลส์ พบ เทย์เลอร์ ฟริตซ์</title>
+    <title lang="en">(HL) R16: Arthur Fils vs Taylor Fritz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115034000 +0700" stop="20261115040000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: อเลฮานโดร ทาบิโล พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">(HL) SF: Alejandro Tabilo vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115040000 +0700" stop="20261115060000 +0700">
+    <title lang="th">รีรัน: รอบ 8: ลอเรนโซ มูเซตติ พบ อูโก อุมแบร์</title>
+    <title lang="en">RERUN: QF: Lorenzo Musetti vs Ugo Humbert</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115060000 +0700" stop="20261115061500 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: เบน เชลตัน พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) Final: Ben Shelton vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115061500 +0700" stop="20261115063000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">(HL) Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115063000 +0700" stop="20261115070000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 14</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 14</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115070000 +0700" stop="20261115090000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">RERUN: Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115090000 +0700" stop="20261115092000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115092000 +0700" stop="20261115094000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: เทย์เลอร์ ฟริตซ์ พบ ลอเรนโซ มูเซตติ</title>
+    <title lang="en">(HL) SF: Taylor Fritz vs Lorenzo Musetti</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115094000 +0700" stop="20261115100000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: เบน เชลตัน พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) Final: Ben Shelton vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115100000 +0700" stop="20261115120000 +0700">
+    <title lang="th">รีรัน: รอบ 4: อเลฮานโดร ทาบิโล พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">RERUN: SF: Alejandro Tabilo vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115120000 +0700" stop="20261115121500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: อเลฮานโดร ทาบิโล พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">(HL) SF: Alejandro Tabilo vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115121500 +0700" stop="20261115123000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115123000 +0700" stop="20261115130000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 15</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 15</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115130000 +0700" stop="20261115150000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เบน เชลตัน พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: Final: Ben Shelton vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115150000 +0700" stop="20261115152000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">(HL) Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115152000 +0700" stop="20261115154000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: ลูก้า ฟาน อัสเช พบ เบน เชลตัน</title>
+    <title lang="en">(HL) SF: Luca Van Assche vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115154000 +0700" stop="20261115160000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: เทย์เลอร์ ฟริตซ์ พบ ลอเรนโซ มูเซตติ</title>
+    <title lang="en">(HL) SF: Taylor Fritz vs Lorenzo Musetti</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115160000 +0700" stop="20261115180000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">RERUN: Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115180000 +0700" stop="20261115183000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 16</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 16</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115183000 +0700" stop="20261115185000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: เบน เชลตัน พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) Final: Ben Shelton vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115185000 +0700" stop="20261115191000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">(HL) Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115191000 +0700" stop="20261115193000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: แคสเปอร์ รุด พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) SF: Casper Ruud vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115193000 +0700" stop="20261115200000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 17</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 17</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115200000 +0700" stop="20261115220000 +0700">
+    <title>LIVE: Nitto ATP Finals Day 1 S1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115220000 +0700" stop="20261115223000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 18</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 18</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261115223000 +0700" stop="20261116003000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">RERUN: Final: Taylor Fritz vs Thiago Agustin Tirante</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261112235000 +0700" stop="20261113014000 +0700">
