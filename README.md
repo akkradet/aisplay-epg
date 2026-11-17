@@ -67,92 +67,92 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100001911` | 312 | Animal Show | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135154006635.png" height="30" alt="Animal Show"> |
 | `ch0000000000100001190` | 313 | RT Documentary | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135234006618.png" height="30" alt="RT Documentary"> |
 | `ch0000000000100001201` | 314 | MySci | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135217006617.png" height="30" alt="MySci"> |
-| `ch0000000000100002041` | 401 | PLAY SPORTS 1 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134447018596.png" height="30" alt="PLAY SPORTS 1"> |
-| `ch0000000000100002052` | 402 | PLAY SPORTS 2 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png" height="30" alt="PLAY SPORTS 2"> |
-| `ch0000000000100002171` | 512 | MUTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" height="30" alt="MUTV"> |
-| `ch0000000000100002181` | 513 | Real Madrid TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" height="30" alt="Real Madrid TV"> |
-| `ch0000000000100001751` | 531 | Eurosport | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717161338006023.png" height="30" alt="Eurosport"> |
-| `ch0000000000100001772` | 532 | W-Sport | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717135007006041.png" height="30" alt="W-Sport"> |
-| `ch0000000000100001212` | 533 | Golf Plus | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251231235118035025.png" height="30" alt="Golf Plus"> |
-| `ch0000000000100002561` | 539 | Premier Sports | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260127140505037927.png" height="30" alt="Premier Sports"> |
-| `ch0000000000100002261` | 541 | PLAY SPORTS 41 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260422135014049847.png" height="30" alt="PLAY SPORTS 41"> |
-| `ch0000000000100002411` | 546 | PLAY SPORTS 46 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251009133158026251.png" height="30" alt="PLAY SPORTS 46"> |
-| `ch0000000000100002191` | 551 | PLAY SPORTS 51 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820084603019566.png" height="30" alt="PLAY SPORTS 51"> |
-| `ch0000000000100002401` | 555 | PLAY SPORTS 55 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251001131957025352.png" height="30" alt="PLAY SPORTS 55"> |
-| `ch0000000000100002511` | 561 | PLAY SPORTS 61 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226102333034473.png" height="30" alt="PLAY SPORTS 61"> |
-| `ch0000000000100002525` | 566 | PLAY SPORTS 66 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226191646034596.png" height="30" alt="PLAY SPORTS 66"> |
-| `ch0000000000100002528` | 569 | PLAY SPORTS 69 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226191916034600.png" height="30" alt="PLAY SPORTS 69"> |
-| `ch0000000000100002530` | 571 | PLAY SPORTS 71 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094208034571.png" height="30" alt="PLAY SPORTS 71"> |
-| `ch0000000000100002701` | 590 | PLAY SPORTS 90 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png" height="30" alt="PLAY SPORTS 90"> |
-| `ch0000000000100001237` | 601 | CNN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133554006699.png" height="30" alt="CNN"> |
-| `ch0000000000100001151` | 602 | BBC News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133317006529.png" height="30" alt="BBC News"> |
-| `ch0000000000100001841` | 603 | FOX News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717150825012452.png" height="30" alt="FOX News"> |
-| `ch0000000000100002011` | 604 | FOX Business | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155016016166.png" height="30" alt="FOX Business"> |
-| `ch0000000000100001992` | 605 | Bloomberg Television | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155818016167.png" height="30" alt="Bloomberg Television"> |
-| `ch0000000000100001244` | 607 | Channel News Asia | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133541006698.png" height="30" alt="Channel News Asia"> |
-| `ch0000000000100001238` | 608 | NHK | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133716006697.png" height="30" alt="NHK"> |
-| `ch0000000000100001904` | 609 | CCTV4 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133402006696.png" height="30" alt="CCTV4"> |
-| `ch0000000000100001354` | 610 | CGTN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133441006695.png" height="30" alt="CGTN"> |
-| `ch0000000000100001355` | 611 | TVBS News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133745006694.png" height="30" alt="TVBS News"> |
-| `ch0000000000100001351` | 612 | Al Jazeera | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716102854006504.png" height="30" alt="Al Jazeera"> |
-| `ch0000000000100001352` | 613 | RT Channel | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133733006693.png" height="30" alt="RT Channel"> |
-| `ch0000000000100001903` | 614 | DW | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133612006593.png" height="30" alt="DW"> |
-| `ch0000000000100001905` | 615 | Euro News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716205543006603.png" height="30" alt="Euro News"> |
-| `ch0000000000100001357` | 616 | France 24 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133655006692.png" height="30" alt="France 24"> |
-| `ch0000000000100001360` | 617 | TOP News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135533006616.png" height="30" alt="TOP News"> |
-| `ch0000000000100001401` | 618 | News 1 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133209006691.png" height="30" alt="News 1"> |
+| `ch0000000000100001237` | 401 | CNN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133554006699.png" height="30" alt="CNN"> |
+| `ch0000000000100001151` | 402 | BBC News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133317006529.png" height="30" alt="BBC News"> |
+| `ch0000000000100001841` | 403 | FOX News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717150825012452.png" height="30" alt="FOX News"> |
+| `ch0000000000100002011` | 404 | FOX Business | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155016016166.png" height="30" alt="FOX Business"> |
+| `ch0000000000100001992` | 405 | Bloomberg Television | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155818016167.png" height="30" alt="Bloomberg Television"> |
+| `ch0000000000100001244` | 406 | Channel News Asia | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133541006698.png" height="30" alt="Channel News Asia"> |
+| `ch0000000000100001238` | 407 | NHK | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133716006697.png" height="30" alt="NHK"> |
+| `ch0000000000100001904` | 408 | CCTV4 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133402006696.png" height="30" alt="CCTV4"> |
+| `ch0000000000100001354` | 409 | CGTN | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133441006695.png" height="30" alt="CGTN"> |
+| `ch0000000000100001355` | 410 | TVBS News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133745006694.png" height="30" alt="TVBS News"> |
+| `ch0000000000100001351` | 411 | Al Jazeera | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716102854006504.png" height="30" alt="Al Jazeera"> |
+| `ch0000000000100001352` | 412 | RT Channel | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133733006693.png" height="30" alt="RT Channel"> |
+| `ch0000000000100001903` | 413 | DW | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133612006593.png" height="30" alt="DW"> |
+| `ch0000000000100001905` | 414 | Euro News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716205543006603.png" height="30" alt="Euro News"> |
+| `ch0000000000100001357` | 415 | France 24 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133655006692.png" height="30" alt="France 24"> |
+| `ch0000000000100001360` | 416 | TOP News | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135533006616.png" height="30" alt="TOP News"> |
+| `ch0000000000100001401` | 417 | News 1 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133209006691.png" height="30" alt="News 1"> |
+| `ch0000000000100002171` | 518 | MUTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" height="30" alt="MUTV"> |
+| `ch0000000000100002181` | 519 | Real Madrid TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" height="30" alt="Real Madrid TV"> |
+| `ch0000000000100002701` | 521 | PLAY SPORTS BUNDESLIGA 521 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 521"> |
+| `ch0000000000100002401` | 551 | PLAY SPORTS BASKETBALL 551 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png" height="30" alt="PLAY SPORTS BASKETBALL 551"> |
+| `ch0000000000100002191` | 556 | PLAY SPORTS NFL 556 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116103111088651.png" height="30" alt="PLAY SPORTS NFL 556"> |
+| `ch0000000000100002511` | 561 | PLAY SPORTS PGA Tour 561 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105118088661.png" height="30" alt="PLAY SPORTS PGA Tour 561"> |
+| `ch0000000000100002525` | 566 | PLAY SPORTS LPGA Tour 566 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105738088662.png" height="30" alt="PLAY SPORTS LPGA Tour 566"> |
+| `ch0000000000100002528` | 569 | PLAY SPORTS DP World Tour 569 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116110237088663.png" height="30" alt="PLAY SPORTS DP World Tour 569"> |
+| `ch0000000000100001212` | 571 | Golf Plus | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251231235118035025.png" height="30" alt="Golf Plus"> |
+| `ch0000000000100002530` | 581 | PLAY SPORTS ATP Tour 581 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116142923088678.png" height="30" alt="PLAY SPORTS ATP Tour 581"> |
+| `ch0000000000100002561` | 591 | Premier Sports | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260127140505037927.png" height="30" alt="Premier Sports"> |
+| `ch0000000000100001772` | 592 | W-Sport | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717135007006041.png" height="30" alt="W-Sport"> |
+| `ch0000000000100001751` | 593 | Eurosport | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717161338006023.png" height="30" alt="Eurosport"> |
+| `ch0000000000100002261` | 650 | PLAY SPORTS RAJADAMNERN 650 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261117001207088707.png" height="30" alt="PLAY SPORTS RAJADAMNERN 650"> |
+| `ch0000000000100002041` | 651 | PLAY SPORTS BALLTHAI 651 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 651"> |
+| `ch0000000000100002052` | 652 | PLAY SPORTS BALLTHAI 652 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 652"> |
 | `ch0000000000100001281` | 716 | ETV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" height="30" alt="ETV"> |
 | `ch0000000000100001298` | 801 | LunthungTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" height="30" alt="LunthungTV"> |
 | `ch0000000000100001311` | 802 | MVTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" height="30" alt="MVTV"> |
 | `ch0000000000100002901` | 901 | WTGL 901 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261102084840086158.png" height="30" alt="WTGL 901"> |
 | `ch0000000000100002931` | 902 | Universal Bangkok Open 9-Ball Championship 2026 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261114125125088265.png" height="30" alt="Universal Bangkok Open 9-Ball Championship 2026"> |
-| `ch0000000000100002231` |  | ch0000000000100002231 | - |
-| `ch0000000000100002521` |  | ch0000000000100002521 | - |
-| `ch0000000000100002581` |  | ch0000000000100002581 | - |
-| `ch0000000000100001292` |  | ch0000000000100001292 | - |
-| `ch0000000000100002251` |  | ch0000000000100002251 | - |
-| `ch0000000000100001361` |  | ch0000000000100001361 | - |
-| `ch0000000000100002098` |  | ch0000000000100002098 | - |
-| `ch0000000000100002523` |  | ch0000000000100002523 | - |
-| `ch0000000000100001153` |  | ch0000000000100001153 | - |
-| `ch0000000000100001286` |  | ch0000000000100001286 | - |
-| `ch0000000000100001356` |  | ch0000000000100001356 | - |
-| `ch0000000000100002154` |  | ch0000000000100002154 | - |
-| `ch0000000000100002313` |  | ch0000000000100002313 | - |
-| `ch0000000000100002312` |  | ch0000000000100002312 | - |
-| `ch0000000000100002330` |  | ch0000000000100002330 | - |
 | `ch0000000000100001285` |  | ch0000000000100001285 | - |
-| `ch0000000000100002326` |  | ch0000000000100002326 | - |
-| `ch0000000000100002095` |  | ch0000000000100002095 | - |
-| `ch0000000000100001372` |  | ch0000000000100001372 | - |
-| `ch0000000000100002092` |  | ch0000000000100002092 | - |
-| `ch0000000000100001293` |  | ch0000000000100001293 | - |
-| `ch0000000000100002341` |  | ch0000000000100002341 | - |
-| `ch0000000000100001283` |  | ch0000000000100001283 | - |
-| `ch0000000000100001284` |  | ch0000000000100001284 | - |
-| `ch0000000000100002097` |  | ch0000000000100002097 | - |
-| `ch0000000000100002328` |  | ch0000000000100002328 | - |
-| `ch0000000000100002252` |  | ch0000000000100002252 | - |
-| `ch0000000000100002331` |  | ch0000000000100002331 | - |
-| `ch0000000000100002091` |  | ch0000000000100002091 | - |
-| `ch0000000000100002471` |  | ch0000000000100002471 | - |
-| `ch0000000000100002351` |  | ch0000000000100002351 | - |
-| `ch0000000000100002093` |  | ch0000000000100002093 | - |
-| `ch0000000000100002324` |  | ch0000000000100002324 | - |
-| `ch0000000000100002325` |  | ch0000000000100002325 | - |
-| `ch0000000000100002323` |  | ch0000000000100002323 | - |
-| `ch0000000000100002329` |  | ch0000000000100002329 | - |
-| `ch0000000000100002314` |  | ch0000000000100002314 | - |
-| `ch0000000000100001291` |  | ch0000000000100001291 | - |
-| `ch0000000000100001294` |  | ch0000000000100001294 | - |
-| `ch0000000000100002094` |  | ch0000000000100002094 | - |
-| `ch0000000000100002311` |  | ch0000000000100002311 | - |
+| `ch0000000000100002523` |  | ch0000000000100002523 | - |
 | `ch0000000000100002327` |  | ch0000000000100002327 | - |
+| `ch0000000000100002096` |  | ch0000000000100002096 | - |
+| `ch0000000000100002154` |  | ch0000000000100002154 | - |
+| `ch0000000000100002095` |  | ch0000000000100002095 | - |
+| `ch0000000000100002471` |  | ch0000000000100002471 | - |
+| `ch0000000000100001293` |  | ch0000000000100001293 | - |
+| `ch0000000000100002411` |  | ch0000000000100002411 | - |
+| `ch0000000000100001372` |  | ch0000000000100001372 | - |
+| `ch0000000000100002328` |  | ch0000000000100002328 | - |
+| `ch0000000000100001286` |  | ch0000000000100001286 | - |
+| `ch0000000000100002329` |  | ch0000000000100002329 | - |
+| `ch0000000000100001291` |  | ch0000000000100001291 | - |
+| `ch0000000000100002097` |  | ch0000000000100002097 | - |
+| `ch0000000000100001295` |  | ch0000000000100001295 | - |
 | `ch0000000000100001391` |  | ch0000000000100001391 | - |
 | `ch0000000000100002321` |  | ch0000000000100002321 | - |
+| `ch0000000000100001153` |  | ch0000000000100001153 | - |
+| `ch0000000000100001292` |  | ch0000000000100001292 | - |
+| `ch0000000000100002312` |  | ch0000000000100002312 | - |
+| `ch0000000000100001294` |  | ch0000000000100001294 | - |
 | `ch0000000000100002322` |  | ch0000000000100002322 | - |
-| `ch0000000000100002096` |  | ch0000000000100002096 | - |
-| `ch0000000000100001152` |  | ch0000000000100001152 | - |
-| `ch0000000000100001295` |  | ch0000000000100001295 | - |
 | `ch0000000000100001353` |  | ch0000000000100001353 | - |
 | `ch0000000000100001381` |  | ch0000000000100001381 | - |
+| `ch0000000000100002092` |  | ch0000000000100002092 | - |
+| `ch0000000000100002341` |  | ch0000000000100002341 | - |
+| `ch0000000000100002091` |  | ch0000000000100002091 | - |
+| `ch0000000000100002314` |  | ch0000000000100002314 | - |
+| `ch0000000000100002313` |  | ch0000000000100002313 | - |
+| `ch0000000000100002323` |  | ch0000000000100002323 | - |
+| `ch0000000000100002521` |  | ch0000000000100002521 | - |
+| `ch0000000000100002331` |  | ch0000000000100002331 | - |
+| `ch0000000000100002251` |  | ch0000000000100002251 | - |
+| `ch0000000000100001284` |  | ch0000000000100001284 | - |
+| `ch0000000000100002324` |  | ch0000000000100002324 | - |
+| `ch0000000000100002231` |  | ch0000000000100002231 | - |
+| `ch0000000000100001152` |  | ch0000000000100001152 | - |
+| `ch0000000000100001361` |  | ch0000000000100001361 | - |
+| `ch0000000000100002581` |  | ch0000000000100002581 | - |
+| `ch0000000000100002351` |  | ch0000000000100002351 | - |
+| `ch0000000000100001283` |  | ch0000000000100001283 | - |
+| `ch0000000000100002311` |  | ch0000000000100002311 | - |
+| `ch0000000000100002330` |  | ch0000000000100002330 | - |
+| `ch0000000000100002325` |  | ch0000000000100002325 | - |
+| `ch0000000000100002094` |  | ch0000000000100002094 | - |
+| `ch0000000000100002093` |  | ch0000000000100002093 | - |
+| `ch0000000000100001356` |  | ch0000000000100001356 | - |
+| `ch0000000000100002098` |  | ch0000000000100002098 | - |
+| `ch0000000000100002326` |  | ch0000000000100002326 | - |
+| `ch0000000000100002252` |  | ch0000000000100002252 | - |
