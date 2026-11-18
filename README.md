@@ -47,7 +47,7 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100001062` | 107 | Warner TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135125006722.png" height="30" alt="Warner TV"> |
 | `ch0000000000100001093` | 108 | MONO29 Plus | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135043006586.png" height="30" alt="MONO29 Plus"> |
 | `ch0000000000100001073` | 109 | ROCK Action | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135107006734.png" height="30" alt="ROCK Action"> |
-| `ch0000000000100001101` | 110 | ROCK ENTERTAINMENT | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135113006742.png" height="30" alt="ROCK ENTERTAINMENT"> |
+| `ch0000000000100001101` | 110 | ROCK ENTERTAINMENT | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261118164056006742.png" height="30" alt="ROCK ENTERTAINMENT"> |
 | `ch0000000000100001111` | 201 | Cartoon Network | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134513006646.png" height="30" alt="Cartoon Network"> |
 | `ch0000000000100001169` | 202 | Cartoonito | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134525006735.png" height="30" alt="Cartoonito"> |
 | `ch0000000000100001170` | 203 | Nickelodeon | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134558006743.png" height="30" alt="Nickelodeon"> |
@@ -101,14 +101,6 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002261` | 650 | PLAY SPORTS RAJADAMNERN 650 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261117001207088707.png" height="30" alt="PLAY SPORTS RAJADAMNERN 650"> |
 | `ch0000000000100002041` | 651 | PLAY SPORTS BALLTHAI 651 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 651"> |
 | `ch0000000000100002052` | 652 | PLAY SPORTS BALLTHAI 652 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 652"> |
-| `ch0000000000100002311` | 661 | PLAY SPORTS BALLTHAI 661 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 661"> |
-| `ch0000000000100002312` | 662 | PLAY SPORTS BALLTHAI 662 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 662"> |
-| `ch0000000000100002313` | 663 | PLAY SPORTS BALLTHAI 663 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 663"> |
-| `ch0000000000100002314` | 664 | PLAY SPORTS BALLTHAI 664 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 664"> |
-| `ch0000000000100002321` | 665 | PLAY SPORTS BALLTHAI 665 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 665"> |
-| `ch0000000000100002322` | 666 | PLAY SPORTS BALLTHAI 666 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 666"> |
-| `ch0000000000100002323` | 667 | PLAY SPORTS BALLTHAI 667 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 667"> |
-| `ch0000000000100002324` | 668 | PLAY SPORTS BALLTHAI 668 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 668"> |
 | `ch0000000000100001281` | 716 | ETV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" height="30" alt="ETV"> |
 | `ch0000000000100001298` | 801 | LunthungTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" height="30" alt="LunthungTV"> |
 | `ch0000000000100001311` | 802 | MVTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" height="30" alt="MVTV"> |

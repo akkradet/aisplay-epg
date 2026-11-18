@@ -143,7 +143,7 @@
   <channel id="ch0000000000100001101">
     <display-name lang="th">ร็อค เอ็นเตอร์เทนเม้น</display-name>
     <display-name lang="en">ROCK ENTERTAINMENT</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135113006742.png"/>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261118164056006742.png"/>
   </channel>
   <channel id="ch0000000000100001111">
     <display-name lang="th">การ์ตูนเน็ตเวิร์ค</display-name>
@@ -409,46 +409,6 @@
     <display-name lang="th">เพลย์สปอร์ต บอลไทย 652</display-name>
     <display-name lang="en">PLAY SPORTS BALLTHAI 652</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png"/>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 661</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 661</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 662</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 662</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 663</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 663</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 664</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 664</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002321">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 665</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 665</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002322">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 666</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 666</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002323">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 667</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 667</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002324">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 668</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 668</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
   </channel>
   <channel id="ch0000000000100001281">
     <display-name lang="th">กศน. (อีทีวี)</display-name>
@@ -37677,9 +37637,9 @@
     <category>Softball</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20261119151500 +0700" stop="20261119154500 +0700">
-    <title>Sports Woman '24</title>
-    <desc>A series of programs highlighting the achievements and challenges facing Women in sport and highlighting the journeys endured on the path to success!</desc>
-    <category>Magazine</category>
+    <title>MP '26: Cardiff Half Marathon, MP '26</title>
+    <desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20261119154500 +0700" stop="20261119172000 +0700">
     <title>WSWC '27 Gr. C: USA v New Zealand</title>
@@ -37716,20 +37676,15 @@
     <desc>The Volta Ciclista Catalunya Femenina 2026 is a 3 stage women's road race held in Catalonia on June 2026 and continues the rapid rise of elite women's stage racing in Spain.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20261120014500 +0700" stop="20261120020000 +0700">
-    <title>World Climbing Series '26 H/L: WCS '26 Madrid H/L 3</title>
-    <desc>World Climbing Series events are held worldwide, allowing climbers to earn points toward season rankings.</desc>
-    <category>Extreme Sports</category>
+  <programme channel="ch0000000000100001772" start="20261120014500 +0700" stop="20261120022000 +0700">
+    <title>MP '26: Cardiff Half Marathon, MP '26</title>
+    <desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
+    <category>Athletics</category>
   </programme>
-  <programme channel="ch0000000000100001772" start="20261120020000 +0700" stop="20261120040000 +0700">
+  <programme channel="ch0000000000100001772" start="20261120022000 +0700" stop="20261120043000 +0700">
     <title>LIVE Global Champions League '26: GCL '26 Verona Super Cup Q/F</title>
     <desc>Global Champions League: Premier show jumping at iconic venues worldwide, featuring the world's finest horses and riders.</desc>
     <category>Equestrian</category>
-  </programme>
-  <programme channel="ch0000000000100001772" start="20261120040000 +0700" stop="20261120043000 +0700">
-    <title>Heroines (S4): Heroines (S4E5)</title>
-    <desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
-    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001772" start="20261120043000 +0700" stop="20261120063000 +0700">
     <title>USL Superleague '26: Sporting Jax v DC Power</title>
@@ -45818,316 +45773,6 @@
     <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (19 ตุลาคม 2026)</title>
     <title lang="en">RERUN: Rajadamnern Knockout (19 OCT 2026)</title>
     <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261117000000 +0700" stop="20261117153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 นาวิกโยธิน พบ บีเอฟบี พัทยา (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Marines vs BFB Pattaya (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261117153000 +0700" stop="20261117173000 +0700">
-    <title lang="th">LIVE: นาวิกโยธิน พบ บีเอฟบี พัทยา (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Marines vs BFB Pattaya (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261117173000 +0700" stop="20261117235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 สิงห์บุรี วอร์ริเออร์ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Singburi Warriors vs Royal Thai Air Force (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title lang="th">LIVE: สิงห์บุรี วอร์ริเออร์ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Singburi Warriors vs Royal Thai Air Force (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261119000000 +0700" stop="20261119153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 สโมสรฟุตบอลราชนาวี พบ บ้านบึง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Navy vs Banbueng (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261119153000 +0700" stop="20261119173000 +0700">
-    <title lang="th">LIVE: สโมสรฟุตบอลราชนาวี พบ บ้านบึง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Navy vs Banbueng (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261119173000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261117000000 +0700" stop="20261117153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 ลพบุรี โพม่า พบ อ่างทอง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Lopburi Poma vs Angthong (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261117153000 +0700" stop="20261117173000 +0700">
-    <title lang="th">LIVE: ลพบุรี โพม่า พบ อ่างทอง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Lopburi Poma vs Angthong (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261117173000 +0700" stop="20261117235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 จามจุรี พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Chamchuri vs Kasembundit University (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title lang="th">LIVE: จามจุรี พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Chamchuri vs Kasembundit University (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261119000000 +0700" stop="20261119153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 ม. นอร์ทกรุงเทพ พบ บางกะปิ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 North Bangkok University vs Bangkapi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261119153000 +0700" stop="20261119173000 +0700">
-    <title lang="th">LIVE: ม. นอร์ทกรุงเทพ พบ บางกะปิ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: North Bangkok University vs Bangkapi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261119173000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261117000000 +0700" stop="20261117153000 +0700">
-    <title>Kick Off 15:30 Prime Bangkok vs Pathumthani University (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261117153000 +0700" stop="20261117173000 +0700">
-    <title>LIVE: Prime Bangkok vs Pathumthani University (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261117173000 +0700" stop="20261117235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title>Kick Off 15:30 Futera vs Ayutthaya PK (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title>LIVE: Futera vs Ayutthaya PK (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261119000000 +0700" stop="20261119153000 +0700">
-    <title>Kick Off 15:30 Huahin vs VRN Muangnon (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261119153000 +0700" stop="20261119173000 +0700">
-    <title>LIVE: Huahin vs VRN Muangnon (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261119173000 +0700" stop="20261119235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261117000000 +0700" stop="20261117153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 ทหารบก พบ เพชรบุรี พีบีอาร์ยู (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Royal Thai Army vs Phetchaburi PBRU (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261117153000 +0700" stop="20261117173000 +0700">
-    <title lang="th">LIVE: ทหารบก พบ เพชรบุรี พีบีอาร์ยู (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Royal Thai Army vs Phetchaburi PBRU (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261117173000 +0700" stop="20261117235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 อัสสัมชัญ พบ สมุทรสงคราม (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Assumption vs Samutsongkhram (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title lang="th">LIVE: อัสสัมชัญ พบ สมุทรสงคราม (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Assumption vs Samutsongkhram (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261119000000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261117000000 +0700" stop="20261117163000 +0700">
-    <title lang="th">เริ่มเวลา 16:30 คัสตอม พบ สโมสรฟุตบอลกองเรือรบ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 16:30 Customs vs Fleet (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261117163000 +0700" stop="20261117183000 +0700">
-    <title lang="th">LIVE: คัสตอม พบ สโมสรฟุตบอลกองเรือรบ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Customs vs Fleet (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261117183000 +0700" stop="20261117235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 สโมสรฟุตบอลราชประชา พบ ธนบุรี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Rajphacha vs Thonburi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title lang="th">LIVE: สโมสรฟุตบอลราชประชา พบ ธนบุรี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Rajphacha vs Thonburi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261119000000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002321" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20261117000000 +0700" stop="20261117235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20261118000000 +0700" stop="20261118170000 +0700">
-    <title lang="th">เริ่มเวลา 17:00 บูรพา พบ เอ็มเอ็นเค เอสซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 17:00 Burapha vs MNK SC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20261118170000 +0700" stop="20261118190000 +0700">
-    <title lang="th">LIVE: บูรพา พบ เอ็มเอ็นเค เอสซี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Burapha vs MNK SC (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20261118190000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20261119000000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002322" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20261117000000 +0700" stop="20261117235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20261118000000 +0700" stop="20261118180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 ฉะเชิงเทรา ไฮเทค พบ ปลวกแดง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 18:00 Chachoengsao Hi-Tek vs Pluankdaeng (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20261118180000 +0700" stop="20261118200000 +0700">
-    <title lang="th">LIVE: ฉะเชิงเทรา ไฮเทค พบ ปลวกแดง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Chachoengsao Hi-Tek vs Pluankdaeng (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20261118200000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20261119000000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002323" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20261117000000 +0700" stop="20261117235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20261118000000 +0700" stop="20261118180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 ทัพหลวง พบ สุพรรณบุรี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 18:00 Thapluang vs Suphanburi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20261118180000 +0700" stop="20261118200000 +0700">
-    <title lang="th">LIVE: ทัพหลวง พบ สุพรรณบุรี (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Thapluang vs Suphanburi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20261118200000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20261119000000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002324" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002401" start="20261116233000 +0700" stop="20261117000000 +0700">
     <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
