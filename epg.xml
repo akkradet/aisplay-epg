@@ -345,11 +345,6 @@
     <display-name lang="en">PLAY SPORTS BASKETBALL 551</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png"/>
   </channel>
-  <channel id="ch0000000000100002402">
-    <display-name lang="th">เพลย์สปอร์ต บาสเกตบอล 552</display-name>
-    <display-name lang="en">PLAY SPORTS BASKETBALL 552</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png"/>
-  </channel>
   <channel id="ch0000000000100002191">
     <display-name lang="th">เพลย์สปอร์ต เอ็นเอฟแอล 556</display-name>
     <display-name lang="en">PLAY SPORTS NFL 556</display-name>
@@ -414,21 +409,6 @@
     <display-name lang="th">เพลย์สปอร์ต บอลไทย 652</display-name>
     <display-name lang="en">PLAY SPORTS BALLTHAI 652</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png"/>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 661</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 661</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 662</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 662</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 663</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 663</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
   </channel>
   <channel id="ch0000000000100001281">
     <display-name lang="th">กศน. (อีทีวี)</display-name>
@@ -30344,8 +30324,9 @@
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261119123000 +0700" stop="20261119130000 +0700">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
+    <title>Inside Story</title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261119130000 +0700" stop="20261119133000 +0700">
     <title>News Live</title>
@@ -30406,8 +30387,8 @@
     <desc>Maasai photographer Latei Moses journeys across northern Kenya in search of the elusive black leopard, reclaiming the lens to tell his own stories.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261119220000 +0700" stop="20261119230000 +0700">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <title>NEWSHOUR: The Wider Story</title>
+    <desc>A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261119230000 +0700" stop="20261119233000 +0700">
     <title>News Live</title>
@@ -38818,26 +38799,20 @@
     <title>ตำนานกรีกโบราณ ตอนที่ 1</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261117233000 +0700" stop="20261118000000 +0700">
-    <title>Global Us: What connects us all</title>
+  <programme channel="ch0000000000100001903" start="20261117233000 +0700" stop="20261118001500 +0700">
+    <title>Global Us: Why are octopuses disappearing from Spain's waters?</title>
+    <desc>Octopuses are becoming scarce off Spain, but no one knows why. Chennai faces increasingly severe flooding, and being a young Mongolian nomad.</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261118000000 +0700" stop="20261118001500 +0700">
-    <title>DW News</title>
-    <category>News</category>
-  </programme>
   <programme channel="ch0000000000100001903" start="20261118001500 +0700" stop="20261118003000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: COP31: Maldives environment minister: "We are not going to live in the dark"</title>
+    <desc>Rising seas and extreme weather threaten the future of the Maldives. Yet even this vulnerable island nation faces major obstacles in abandoning fossil fuels. Climate minister Ali Shareef discusses the challenges.</desc>
     <category>Documentaries</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261118003000 +0700" stop="20261118010000 +0700">
+  <programme channel="ch0000000000100001903" start="20261118003000 +0700" stop="20261118013000 +0700">
     <title>REV: Has the US frozen Chinese EVs out of its market?</title>
     <desc>Chinese EVs are rapidly expanding through Europe and Latin America, but can't seem to get a foothold in the US. What's stopping them? Plus: a smart city in India, East Africa's Northern Corridor, and Syria's railway.</desc>
     <category>Magazine</category>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20261118010000 +0700" stop="20261118013000 +0700">
-    <title>DW News</title>
-    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118013000 +0700" stop="20261118020000 +0700">
     <title>Eco Africa: How to create living coastlines and waterproof our future</title>
@@ -38852,7 +38827,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118021500 +0700" stop="20261118023000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: COP31: Maldives environment minister: "We are not going to live in the dark"</title>
+    <desc>Rising seas and extreme weather threaten the future of the Maldives. Yet even this vulnerable island nation faces major obstacles in abandoning fossil fuels. Climate minister Ali Shareef discusses the challenges.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118023000 +0700" stop="20261118030000 +0700">
@@ -38876,12 +38852,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118041500 +0700" stop="20261118044500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Taking Risks, Chasing Likes</title>
+    <desc>Extreme sports like cliff diving and mountaineering set against spectacular natural landscapes attract millions of views on social media. But what happens when taking risks becomes content?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118044500 +0700" stop="20261118050000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: The human workforce behind AI</title>
+    <desc>From workers filming their work to train robots to data workers in Kenya, people around the world are helping AI systems function. Their labor is often invisible, but without it, many AI products would not work.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118050000 +0700" stop="20261118050200 +0700">
@@ -38901,15 +38878,17 @@
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261118060200 +0700" stop="20261118061500 +0700">
+  <programme channel="ch0000000000100001903" start="20261118060200 +0700" stop="20261118062000 +0700">
     <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261118061500 +0700" stop="20261118063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+  <programme channel="ch0000000000100001903" start="20261118062000 +0700" stop="20261118063000 +0700">
+    <title>Interview: COP31: Maldives environment minister: "We are not going to live in the dark"</title>
+    <desc>Rising seas and extreme weather threaten the future of the Maldives. Yet even this vulnerable island nation faces major obstacles in abandoning fossil fuels. Climate minister Ali Shareef discusses the challenges.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118063000 +0700" stop="20261118070000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: Why are octopuses disappearing from Spain's waters?</title>
+    <desc>Octopuses are becoming scarce off Spain, but no one knows why. Chennai faces increasingly severe flooding, and being a young Mongolian nomad.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118070000 +0700" stop="20261118070200 +0700">
@@ -38921,7 +38900,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118073000 +0700" stop="20261118080000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118080000 +0700" stop="20261118080200 +0700">
@@ -38945,18 +38925,20 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118093000 +0700" stop="20261118100000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: Why are octopuses disappearing from Spain's waters?</title>
+    <desc>Octopuses are becoming scarce off Spain, but no one knows why. Chennai faces increasingly severe flooding, and being a young Mongolian nomad.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118100000 +0700" stop="20261118100200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261118100200 +0700" stop="20261118101500 +0700">
+  <programme channel="ch0000000000100001903" start="20261118100200 +0700" stop="20261118102000 +0700">
     <title>DW News Focus</title>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261118101500 +0700" stop="20261118103000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+  <programme channel="ch0000000000100001903" start="20261118102000 +0700" stop="20261118103000 +0700">
+    <title>Interview: COP31: Maldives environment minister: "We are not going to live in the dark"</title>
+    <desc>Rising seas and extreme weather threaten the future of the Maldives. Yet even this vulnerable island nation faces major obstacles in abandoning fossil fuels. Climate minister Ali Shareef discusses the challenges.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118103000 +0700" stop="20261118110000 +0700">
@@ -38985,7 +38967,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118123000 +0700" stop="20261118130000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118130000 +0700" stop="20261118130200 +0700">
@@ -38996,7 +38979,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118131500 +0700" stop="20261118133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: COP31: Maldives environment minister: "We are not going to live in the dark"</title>
+    <desc>Rising seas and extreme weather threaten the future of the Maldives. Yet even this vulnerable island nation faces major obstacles in abandoning fossil fuels. Climate minister Ali Shareef discusses the challenges.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118133000 +0700" stop="20261118140000 +0700">
@@ -39017,7 +39001,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118144500 +0700" stop="20261118150000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: The human workforce behind AI</title>
+    <desc>From workers filming their work to train robots to data workers in Kenya, people around the world are helping AI systems function. Their labor is often invisible, but without it, many AI products would not work.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118150000 +0700" stop="20261118150200 +0700">
@@ -39051,12 +39036,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118171500 +0700" stop="20261118174500 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Taking Risks, Chasing Likes</title>
+    <desc>Extreme sports like cliff diving and mountaineering set against spectacular natural landscapes attract millions of views on social media. But what happens when taking risks becomes content?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118174500 +0700" stop="20261118180000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: The human workforce behind AI</title>
+    <desc>From workers filming their work to train robots to data workers in Kenya, people around the world are helping AI systems function. Their labor is often invisible, but without it, many AI products would not work.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118180000 +0700" stop="20261118180200 +0700">
@@ -39069,7 +39055,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118183000 +0700" stop="20261118190000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118190000 +0700" stop="20261118190200 +0700">
@@ -39092,7 +39079,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118201500 +0700" stop="20261118203000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: Pakistan seeks climate finance as floods reshape communities</title>
+    <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118203000 +0700" stop="20261118210000 +0700">
@@ -39123,7 +39111,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261118233000 +0700" stop="20261119000000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119000000 +0700" stop="20261119001500 +0700">
@@ -39131,12 +39120,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119001500 +0700" stop="20261119003000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: Pakistan seeks climate finance as floods reshape communities</title>
+    <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119003000 +0700" stop="20261119010000 +0700">
-    <title>Close up: The Current Affairs Documentary</title>
-    <desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <title>Close up: Taking Risks, Chasing Likes</title>
+    <desc>Extreme sports like cliff diving and mountaineering set against spectacular natural landscapes attract millions of views on social media. But what happens when taking risks becomes content?</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119010000 +0700" stop="20261119013000 +0700">
@@ -39156,7 +39146,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119021500 +0700" stop="20261119023000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: Pakistan seeks climate finance as floods reshape communities</title>
+    <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119023000 +0700" stop="20261119030000 +0700">
@@ -39190,7 +39181,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119053000 +0700" stop="20261119060000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119060000 +0700" stop="20261119060200 +0700">
@@ -39201,11 +39193,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119061500 +0700" stop="20261119063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: Pakistan seeks climate finance as floods reshape communities</title>
+    <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119063000 +0700" stop="20261119070000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119070000 +0700" stop="20261119070200 +0700">
@@ -39242,7 +39236,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119093000 +0700" stop="20261119100000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119100000 +0700" stop="20261119100200 +0700">
@@ -39253,7 +39248,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119101500 +0700" stop="20261119103000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: Pakistan seeks climate finance as floods reshape communities</title>
+    <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119103000 +0700" stop="20261119110000 +0700">
@@ -39282,7 +39278,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119123000 +0700" stop="20261119130000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119130000 +0700" stop="20261119130200 +0700">
@@ -39293,7 +39290,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119131500 +0700" stop="20261119133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Interview: Pakistan seeks climate finance as floods reshape communities</title>
+    <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119133000 +0700" stop="20261119140000 +0700">
@@ -39315,11 +39313,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119150200 +0700" stop="20261119153000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119153000 +0700" stop="20261119160000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119160000 +0700" stop="20261119160200 +0700">
@@ -39359,7 +39359,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119183000 +0700" stop="20261119190000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119190000 +0700" stop="20261119190300 +0700">
@@ -39379,7 +39380,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119201500 +0700" stop="20261119203000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Why Italy can’t let go of Mussolini</title>
+    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119203000 +0700" stop="20261119210000 +0700">
@@ -39413,7 +39415,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119233000 +0700" stop="20261120000000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120000000 +0700" stop="20261120001500 +0700">
@@ -39421,7 +39424,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120001500 +0700" stop="20261120003000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Why Italy can’t let go of Mussolini</title>
+    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120003000 +0700" stop="20261120010000 +0700">
@@ -39433,7 +39437,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120013000 +0700" stop="20261120020000 +0700">
-    <title>Global Us: What connects us all</title>
+    <title>Global Us: Why are octopuses disappearing from Spain's waters?</title>
+    <desc>Octopuses are becoming scarce off Spain, but no one knows why. Chennai faces increasingly severe flooding, and being a young Mongolian nomad.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120020000 +0700" stop="20261120020200 +0700">
@@ -39444,11 +39449,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120021500 +0700" stop="20261120023000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Why Italy can’t let go of Mussolini</title>
+    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120023000 +0700" stop="20261120030000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120030000 +0700" stop="20261120033000 +0700">
@@ -39492,13 +39499,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120061500 +0700" stop="20261120063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Why Italy can’t let go of Mussolini</title>
+    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120063000 +0700" stop="20261120070000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120070000 +0700" stop="20261120070200 +0700">
     <title>DW News</title>
@@ -39533,7 +39541,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120093000 +0700" stop="20261120100000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120100000 +0700" stop="20261120100200 +0700">
@@ -39544,11 +39553,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120101500 +0700" stop="20261120103000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Why Italy can’t let go of Mussolini</title>
+    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120103000 +0700" stop="20261120110000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120110000 +0700" stop="20261120110200 +0700">
@@ -39583,13 +39594,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120131500 +0700" stop="20261120133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Why Italy can’t let go of Mussolini</title>
+    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120133000 +0700" stop="20261120140000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
+    <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120140000 +0700" stop="20261120140200 +0700">
     <title>DW News</title>
@@ -39645,12 +39657,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120180200 +0700" stop="20261120183000 +0700">
-    <title>Made in Germany: Your Business Magazine</title>
+    <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
+    <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120183000 +0700" stop="20261120190000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>DocFilm: Making Space for Grief</title>
+    <desc>The death of a loved one throws many people off course. This is certainly the case for Anja, who suffers greatly when her mother passes. The experience leaves her wondering what can help support the grieving, as well as how societies process grief.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120190000 +0700" stop="20261120190200 +0700">
@@ -39673,7 +39686,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120201500 +0700" stop="20261120203000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: From Cancer Survivor to Karting Champion: Pedro’s F1 Dream</title>
+    <desc>At just 11 years old, Pedro Cueto Jr. is already challenging assumptions about what is possible in motorsport. After battling Ewing’s Sarcoma and making the life-changing decision to amputate his leg, the young Mexican-American racer returned to karting and went on to win the 2026 IAME Italy X30 Mini championship.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120203000 +0700" stop="20261120210000 +0700">
@@ -39707,7 +39721,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120233000 +0700" stop="20261121000000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: A power shift in India's villages</title>
+    <desc>Decentralized electricity generation could play a vital role in Kerala's energy independence. Plus: emerging economies are racing ahead on electrification, and air pollution in coal mining towns.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121000000 +0700" stop="20261121001500 +0700">
@@ -39715,11 +39730,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121001500 +0700" stop="20261121003000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: From Cancer Survivor to Karting Champion: Pedro’s F1 Dream</title>
+    <desc>At just 11 years old, Pedro Cueto Jr. is already challenging assumptions about what is possible in motorsport. After battling Ewing’s Sarcoma and making the life-changing decision to amputate his leg, the young Mexican-American racer returned to karting and went on to win the 2026 IAME Italy X30 Mini championship.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121003000 +0700" stop="20261121010000 +0700">
-    <title>Afrimaxx: Modern Pan-African Culture</title>
+    <title>Afrimaxx: Where Heritage Meets Innovation</title>
+    <desc>From digital storytelling in Malawi to fashion, art and food across Africa, Afrimaxx meets creators proving that tradition isn't the opposite of innovation. It's often where innovation begins.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121010000 +0700" stop="20261121013000 +0700">
@@ -39727,9 +39744,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121013000 +0700" stop="20261121020000 +0700">
-    <title>Best of DW Podcasts: Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category>Documentaries</category>
+    <title>DW News: Africa</title>
+    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121020000 +0700" stop="20261121020200 +0700">
     <title>DW News</title>
@@ -39739,11 +39755,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121021500 +0700" stop="20261121023000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: From Cancer Survivor to Karting Champion: Pedro’s F1 Dream</title>
+    <desc>At just 11 years old, Pedro Cueto Jr. is already challenging assumptions about what is possible in motorsport. After battling Ewing’s Sarcoma and making the life-changing decision to amputate his leg, the young Mexican-American racer returned to karting and went on to win the 2026 IAME Italy X30 Mini championship.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121023000 +0700" stop="20261121030000 +0700">
-    <title>Eco Africa: The Environment Magazine</title>
+    <title>Eco Africa: From flood recovery to river revival</title>
+    <desc>A flood-ravaged Nairobi settlement bolsters itself by building drainage systems, green spaces and community-led climate defenses. Plus: Artificial wetlands transform polluted river water.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121030000 +0700" stop="20261121033000 +0700">
@@ -39775,7 +39793,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121053000 +0700" stop="20261121060000 +0700">
-    <title>Eco India: The Environment Magazine</title>
+    <title>Eco India: A power shift in India's villages</title>
+    <desc>Decentralized electricity generation could play a vital role in Kerala's energy independence. Plus: emerging economies are racing ahead on electrification, and air pollution in coal mining towns.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121060000 +0700" stop="20261121060200 +0700">
@@ -39786,12 +39805,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121061500 +0700" stop="20261121063000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: From Cancer Survivor to Karting Champion: Pedro’s F1 Dream</title>
+    <desc>At just 11 years old, Pedro Cueto Jr. is already challenging assumptions about what is possible in motorsport. After battling Ewing’s Sarcoma and making the life-changing decision to amputate his leg, the young Mexican-American racer returned to karting and went on to win the 2026 IAME Italy X30 Mini championship.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121063000 +0700" stop="20261121070000 +0700">
-    <title>DW News: Africa</title>
-    <category>News</category>
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121070000 +0700" stop="20261121070200 +0700">
     <title>DW News</title>
@@ -39802,7 +39823,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121073000 +0700" stop="20261121080000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
+    <title>REV: How self-healing concrete could ease your commute</title>
+    <desc>Dormant microbes that are awakened by water can seal cracks in concrete infrastructure. Learn how that could benefit motorists. Plus: Ride with an e-hailing driver, visit BMW in Munich and catch Prague's black tram.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121080000 +0700" stop="20261121080200 +0700">
@@ -39813,11 +39835,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121081500 +0700" stop="20261121083000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Business Beyond.: Why Japan's yen is becoming a problem for the US</title>
+    <desc>For decades, Japan’s cheap currency helped fuel investments around the world. But the story has turned: the yen is creating new risks for US debt, global markets and Donald Trump. Business Beyond takes a closer look.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121083000 +0700" stop="20261121090000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Seagrass: An underrated marine superstar</title>
+    <desc>Seagrass stores CO₂, protects coastlines, and provides habitat for numerous species. We meet researchers restoring these underwater meadows. Also: One Health; amoebae as a natural crop fungicide; and axolotls under threat.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121090000 +0700" stop="20261121090200 +0700">
@@ -39841,7 +39865,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121101500 +0700" stop="20261121103000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: From Cancer Survivor to Karting Champion: Pedro’s F1 Dream</title>
+    <desc>At just 11 years old, Pedro Cueto Jr. is already challenging assumptions about what is possible in motorsport. After battling Ewing’s Sarcoma and making the life-changing decision to amputate his leg, the young Mexican-American racer returned to karting and went on to win the 2026 IAME Italy X30 Mini championship.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121103000 +0700" stop="20261121110000 +0700">
@@ -39869,7 +39894,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121120200 +0700" stop="20261121123000 +0700">
-    <title>Focus on Europe: Spotlight on People</title>
+    <title>Focus on Europe: Ukraine: Premature babies in a war-torn country</title>
+    <desc>In war-torn Ukraine, hospitals often can't evacuate premature babies to shelters during air raids. +++ Young architects are fighting to save a forgotten architectural gem in Romania.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121123000 +0700" stop="20261121130000 +0700">
@@ -39884,12 +39910,14 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121131500 +0700" stop="20261121133000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>REV: From Cancer Survivor to Karting Champion: Pedro’s F1 Dream</title>
+    <desc>At just 11 years old, Pedro Cueto Jr. is already challenging assumptions about what is possible in motorsport. After battling Ewing’s Sarcoma and making the life-changing decision to amputate his leg, the young Mexican-American racer returned to karting and went on to win the 2026 IAME Italy X30 Mini championship.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121133000 +0700" stop="20261121140000 +0700">
-    <title>REV: Mobility &amp; Innovation</title>
-    <category>Magazine</category>
+    <title>Best of DW Podcasts: Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121140000 +0700" stop="20261121140200 +0700">
     <title>DW News</title>
@@ -39899,11 +39927,13 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121141500 +0700" stop="20261121143000 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: A woman in the Well of Death: India's bravest stunt driver</title>
+    <desc>Rehana Khan, one of India’s few female stunt riders, performs in the "Well of Death,” a giant wooden cylinder with vertical walls, while struggling to support her family as travelling fairs decline.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121143000 +0700" stop="20261121150000 +0700">
-    <title>Tomorrow Today: The Science Magazine</title>
+    <title>Tomorrow Today: Seagrass: An underrated marine superstar</title>
+    <desc>Seagrass stores CO₂, protects coastlines, and provides habitat for numerous species. We meet researchers restoring these underwater meadows. Also: One Health; amoebae as a natural crop fungicide; and axolotls under threat.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121150000 +0700" stop="20261121150300 +0700">
@@ -39936,7 +39966,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121170200 +0700" stop="20261121171500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: How to Spend a Perfect Day in Gibraltar and 5 Amazing Things You Can't Miss in Abuja, Nigeria's Capital</title>
+    <desc>Gibraltar may be tiny, but its history is huge. Join DW's Clare Trelawny-Gower as she explores the fascinating British territory where Europe meets Africa, and Spain meets the UK. AND Discovering Abuja, Nigeria’s vibrant capital! Join us as we uncover some of the best experiences the city has to offer!</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121171500 +0700" stop="20261121173000 +0700">
@@ -39957,15 +39988,16 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121191500 +0700" stop="20261121200000 +0700">
-    <title>Love Matters:</title>
-    <desc>On this episode of Love Matters,</desc>
+    <title>Love Matters: Why "Living Apart Together” Might Be the Key to Happier Relationships</title>
+    <desc>On this episode of Love Matters, stand-up comedian and creative writer Supriya Joshi talks about her experience with Living Apart Together (LAT) - a modern relationship style where couples choose to maintain their own spaces while staying emotionally connected.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121200000 +0700" stop="20261121200200 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121200200 +0700" stop="20261121201500 +0700">
-    <title>Sports Life: Overcoming Challenges with Sports</title>
+    <title>Sports Life: A woman in the Well of Death: India's bravest stunt driver</title>
+    <desc>Rehana Khan, one of India’s few female stunt riders, performs in the "Well of Death,” a giant wooden cylinder with vertical walls, while struggling to support her family as travelling fairs decline.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121201500 +0700" stop="20261121210000 +0700">
@@ -39978,7 +40010,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121210200 +0700" stop="20261121211500 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>Travel: How to Spend a Perfect Day in Gibraltar and 5 Amazing Things You Can't Miss in Abuja, Nigeria's Capital</title>
+    <desc>Gibraltar may be tiny, but its history is huge. Join DW's Clare Trelawny-Gower as she explores the fascinating British territory where Europe meets Africa, and Spain meets the UK. AND Discovering Abuja, Nigeria’s vibrant capital! Join us as we uncover some of the best experiences the city has to offer!</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121211500 +0700" stop="20261121213000 +0700">
@@ -39994,7 +40027,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121221500 +0700" stop="20261121223000 +0700">
-    <title>Best of DW-online Content: Best of DW-online Content</title>
+    <title>History: Why Italy can’t let go of Mussolini</title>
+    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121223000 +0700" stop="20261121230000 +0700">
@@ -40006,8 +40040,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121231500 +0700" stop="20261122000000 +0700">
-    <title>Love Matters:</title>
-    <desc>On this episode of Love Matters,</desc>
+    <title>Love Matters: Why "Living Apart Together” Might Be the Key to Happier Relationships</title>
+    <desc>On this episode of Love Matters, stand-up comedian and creative writer Supriya Joshi talks about her experience with Living Apart Together (LAT) - a modern relationship style where couples choose to maintain their own spaces while staying emotionally connected.</desc>
   </programme>
   <programme channel="ch0000000000100001904" start="20261117234000 +0700" stop="20261118003000 +0700">
     <title>TV Drama</title>
@@ -45571,7 +45605,137 @@
     <title lang="en">NFL Films Week 5</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002191" start="20261119235500 +0700" stop="20261120013000 +0700">
+  <programme channel="ch0000000000100002191" start="20261119235500 +0700" stop="20261120005500 +0700">
+    <title lang="th">เส้นทางสู่อินเตอร์เนชันนอล รอบเพลย์ออฟ 2025</title>
+    <title lang="en">International Road To The Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120005500 +0700" stop="20261120020500 +0700">
+    <title lang="th">เส้นทางสู่รอบเพลย์ออฟ 2025</title>
+    <title lang="en">Road to Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120020500 +0700" stop="20261120051000 +0700">
+    <title lang="th">รีรัน: ลอสแอนเจลิส ชาร์จเจอร์ส พบ บัลติมอร์ เรเวนส์</title>
+    <title lang="en">RERUN: Los Angeles Chargers at Baltimore Ravens</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120051000 +0700" stop="20261120061500 +0700">
+    <title lang="th">รีรัน: เอ็นเอฟแอล ฟิลม์ วีค 1</title>
+    <title lang="en">RERUN: NFL Films Week 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120061500 +0700" stop="20261120071500 +0700">
+    <title lang="th">รีรัน: เส้นทางสู่ซุปเปอร์โบลว์ 2025</title>
+    <title lang="en">RERUN: Road To The Super Bowl 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120071500 +0700" stop="20261120081000 +0700">
+    <title lang="th">รีรัน: เส้นทางสู่อินเตอร์เนชันนอล รอบเพลย์ออฟ 2025</title>
+    <title lang="en">RERUN: International Road To The Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120081000 +0700" stop="20261120110000 +0700">
+    <title lang="th">LIVE: อินเดียนาโปลิส โคลทส์ พบ ฮิวสตัน เท็กซันส์</title>
+    <title lang="en">LIVE: Indianapolis Colts at Houston Texans</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120110000 +0700" stop="20261120140500 +0700">
+    <title lang="th">รีรัน: พิตต์สเบิร์ก สตีลเลอร์ส พบ ซินซินเนติ เบงกอลส์</title>
+    <title lang="en">RERUN: Pittsburgh Steelers at Cincinnati Bengals</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120140500 +0700" stop="20261120151000 +0700">
+    <title lang="th">เอ็นเอฟแอล ฟิลม์ วีค 3</title>
+    <title lang="en">NFL Films Week 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120151000 +0700" stop="20261120161500 +0700">
+    <title lang="th">เอ็นเอฟแอล ฟิลม์ วีค 4</title>
+    <title lang="en">NFL Films Week 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120161500 +0700" stop="20261120172000 +0700">
+    <title lang="th">เส้นทางสู่อินเตอร์เนชันนอล รอบเพลย์ออฟ 2025</title>
+    <title lang="en">International Road To The Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120172000 +0700" stop="20261120202500 +0700">
+    <title lang="th">รีรัน: อินเดียนาโปลิส โคลทส์ พบ ฮิวสตัน เท็กซันส์</title>
+    <title lang="en">RERUN: Indianapolis Colts at Houston Texans</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120202500 +0700" stop="20261120233000 +0700">
+    <title lang="th">รีรัน: บัฟฟาโล บิลส์ พบ นิวยอร์ก เจ็ตส์</title>
+    <title lang="en">RERUN: Buffalo Bills at New York Jets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261120233000 +0700" stop="20261121010000 +0700">
+    <title lang="th">เอ็นเอฟแอล ฟิลม์ วีค 5</title>
+    <title lang="en">NFL Films Week 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121010000 +0700" stop="20261121040500 +0700">
+    <title lang="th">รีรัน: วอชิงตัน คอมแมนเดอร์ส พบ นิวยอร์ก ไจแอนท์ส</title>
+    <title lang="en">RERUN: Washington Commanders at New York Giants</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121040500 +0700" stop="20261121051000 +0700">
+    <title lang="th">เส้นทางสู่รอบเพลย์ออฟ 2025</title>
+    <title lang="en">Road to Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121051000 +0700" stop="20261121061500 +0700">
+    <title lang="th">เส้นทางสู่ซุปเปอร์โบลว์ 2025</title>
+    <title lang="en">Road To The Super Bowl 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121061500 +0700" stop="20261121071500 +0700">
+    <title lang="th">เส้นทางสู่รอบเพลย์ออฟ 2025</title>
+    <title lang="en">Road to Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121071500 +0700" stop="20261121102000 +0700">
+    <title lang="th">รีรัน: มินนิโซตา ไวกิงส์ พบ กรีนเบย์ แพคเกอร์ส</title>
+    <title lang="en">RERUN: Minnesota Vikings at Green Bay Packers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121102000 +0700" stop="20261121112500 +0700">
+    <title lang="th">รีรัน: เอ็นเอฟแอล ฟิลม์ วีค 3</title>
+    <title lang="en">RERUN: NFL Films Week 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121112500 +0700" stop="20261121143000 +0700">
+    <title lang="th">รีรัน: อินเดียนาโปลิส โคลทส์ พบ ฮิวสตัน เท็กซันส์</title>
+    <title lang="en">RERUN: Indianapolis Colts at Houston Texans</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121143000 +0700" stop="20261121173500 +0700">
+    <title lang="th">รีรัน: แทมปาเบย์ บักคาเนียร์ส พบ ชิคาโก แบร์ส</title>
+    <title lang="en">RERUN: Tampa Bay Buccaneers at Chicago Bears</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121173500 +0700" stop="20261121203500 +0700">
+    <title lang="th">รีรัน: ซานฟรานซิสโก โฟร์ตี้ไนเนอร์ส พบ ดัลลัส คาวบอยส์</title>
+    <title lang="en">RERUN: San Francisco 49ers at Dallas Cowboys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121203500 +0700" stop="20261121214000 +0700">
+    <title lang="th">เอ็นเอฟแอล ฟิลม์ วีค 1</title>
+    <title lang="en">NFL Films Week 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121214000 +0700" stop="20261121224500 +0700">
+    <title lang="th">เอ็นเอฟแอล ฟิลม์ วีค 2</title>
+    <title lang="en">NFL Films Week 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121224500 +0700" stop="20261121235000 +0700">
+    <title lang="th">เอ็นเอฟแอล ฟิลม์ วีค 3</title>
+    <title lang="en">NFL Films Week 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261121235000 +0700" stop="20261122005500 +0700">
     <title lang="th">เส้นทางสู่อินเตอร์เนชันนอล รอบเพลย์ออฟ 2025</title>
     <title lang="en">International Road To The Playoffs 2025</title>
     <category>Sport</category>
@@ -45740,153 +45904,6 @@
     <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (02 พฤศจิกายน 2026)</title>
     <title lang="en">RERUN: Rajadamnern Knockout (02 NOV 2026)</title>
     <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 สิงห์บุรี วอร์ริเออร์ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Singburi Warriors vs Royal Thai Air Force (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title lang="th">LIVE: สิงห์บุรี วอร์ริเออร์ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Singburi Warriors vs Royal Thai Air Force (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261119000000 +0700" stop="20261119153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 สโมสรฟุตบอลราชนาวี พบ บ้านบึง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Navy vs Banbueng (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261119153000 +0700" stop="20261119173000 +0700">
-    <title lang="th">LIVE: สโมสรฟุตบอลราชนาวี พบ บ้านบึง (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Navy vs Banbueng (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261119173000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261121000000 +0700" stop="20261121153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 เชียงราย ทีเอสซี พบ แม่โจ้ (T3 - สัปดาห์ที่ 10)</title>
-    <title lang="en">Kick Off 15:30 Chiangrai TSC vs Maejo (T3 - Matchday 10)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261121153000 +0700" stop="20261121173000 +0700">
-    <title lang="th">LIVE: เชียงราย ทีเอสซี พบ แม่โจ้ (T3 - สัปดาห์ที่ 10)</title>
-    <title lang="en">LIVE: Chiangrai TSC vs Maejo (T3 - Matchday 10)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261121173000 +0700" stop="20261121235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 จามจุรี พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Chamchuri vs Kasembundit University (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title lang="th">LIVE: จามจุรี พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Chamchuri vs Kasembundit University (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261119000000 +0700" stop="20261119153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 ม. นอร์ทกรุงเทพ พบ บางกะปิ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 North Bangkok University vs Bangkapi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261119153000 +0700" stop="20261119173000 +0700">
-    <title lang="th">LIVE: ม. นอร์ทกรุงเทพ พบ บางกะปิ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: North Bangkok University vs Bangkapi (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261119173000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261121000000 +0700" stop="20261121153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 ปากน้ำโพ พบ ม. การกีฬาแห่งชาติ ว. ลำปาง (T3 - สัปดาห์ที่ 10)</title>
-    <title lang="en">Kick Off 15:30 Paknampho vs Thailand National Sports University (T3 - Matchday 10)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261121153000 +0700" stop="20261121173000 +0700">
-    <title lang="th">LIVE: ปากน้ำโพ พบ ม. การกีฬาแห่งชาติ ว. ลำปาง (T3 - สัปดาห์ที่ 10)</title>
-    <title lang="en">LIVE: Paknampho vs Thailand National Sports University (T3 - Matchday 10)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261121173000 +0700" stop="20261121235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261118000000 +0700" stop="20261118153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 ฟูเทร่า พบ อยุธยา พีเค (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Futera vs Ayutthaya PK (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261118153000 +0700" stop="20261118173000 +0700">
-    <title lang="th">LIVE: ฟูเทร่า พบ อยุธยา พีเค (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Futera vs Ayutthaya PK (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261118173000 +0700" stop="20261118235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261119000000 +0700" stop="20261119153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 หัวหิน พบ วีอาร์เอ็น เมืองนนท์ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Huahin vs VRN Muangnon (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261119153000 +0700" stop="20261119173000 +0700">
-    <title lang="th">LIVE: หัวหิน พบ วีอาร์เอ็น เมืองนนท์ (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Huahin vs VRN Muangnon (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261119173000 +0700" stop="20261119235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261120000000 +0700" stop="20261120235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261121000000 +0700" stop="20261121153000 +0700">
-    <title>Kick Off 15:30 Yasothon vs Udon (T3 - Matchday 10)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261121153000 +0700" stop="20261121173000 +0700">
-    <title>LIVE: Yasothon vs Udon (T3 - Matchday 10)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261121173000 +0700" stop="20261121235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002401" start="20261117233000 +0700" stop="20261118000000 +0700">
     <title lang="th">รีรัน: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
@@ -46083,50 +46100,195 @@
     <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261117000000 +0700" stop="20261118000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120000000 +0700" stop="20261120012000 +0700">
+    <title lang="th">รีรัน: RSI : Girl Team - THA vs IDN</title>
+    <title lang="en">RERUN: RSI : Girl Team - THA vs IDN</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261118000000 +0700" stop="20261118110000 +0700">
-    <title lang="th">เริ่มเวลา 11.00 ชาร์ลอตต์ ฮอร์เน็ตส์ พบ ลอสแอนเจลิส เลเกอร์ส</title>
-    <title lang="en">Start 11AM: CHA vs LAL</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120012000 +0700" stop="20261120020000 +0700">
+    <title lang="th">รีรัน: NBA Special : Great Debate with Charles Barkley</title>
+    <title lang="en">RERUN: NBA Special : Great Debate with Charles Barkley</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261118110000 +0700" stop="20261118140000 +0700">
-    <title lang="th">LIVE: ชาร์ลอตต์ ฮอร์เน็ตส์ พบ ลอสแอนเจลิส เลเกอร์ส</title>
-    <title lang="en">LIVE: Charlotte Hornets vs Los Angeles Lakers</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120020000 +0700" stop="20261120030000 +0700">
+    <title lang="th">รีรัน: NBA Special : Donovan's Keys to the Game</title>
+    <title lang="en">RERUN: NBA Special : Donovan's Keys to the Game</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261118140000 +0700" stop="20261119000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120030000 +0700" stop="20261120041000 +0700">
+    <title lang="th">รีรัน: NBA Special : MLK Virtual Roundtable</title>
+    <title lang="en">RERUN: NBA Special : MLK Virtual Roundtable</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261119000000 +0700" stop="20261119093000 +0700">
-    <title lang="th">เริ่มเวลา 09.30 บอสตัน เซลติกส์ พบ เดนเวอร์ นักเก็ตส์</title>
-    <title lang="en">Start 9.30AM: BOS vs DEN</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120041000 +0700" stop="20261120050000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Muggsy Bogues</title>
+    <title lang="en">RERUN: NBA_Spot : Muggsy Bogues</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261119093000 +0700" stop="20261119123000 +0700">
-    <title lang="th">LIVE: บอสตัน เซลติกส์ พบ เดนเวอร์ นักเก็ตส์</title>
-    <title lang="en">LIVE: Boston Celtics vs Denver Nuggets</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120050000 +0700" stop="20261120053000 +0700">
+    <title lang="th">รีรัน: NBA Special : Stephen Curry: The Art of 3</title>
+    <title lang="en">RERUN: NBA Special : Stephen Curry: The Art of 3</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261119123000 +0700" stop="20261120000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120053000 +0700" stop="20261120060000 +0700">
+    <title lang="th">รีรัน: NBA Special : Muggsy Bogues: Always Believe</title>
+    <title lang="en">RERUN: NBA Special : Muggsy Bogues: Always Believe</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261120000000 +0700" stop="20261121000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120060000 +0700" stop="20261120090000 +0700">
+    <title lang="th">รีรัน: ดีทรอยต์ พิสตันส์ พบ ซานอันโตนิโอ สเปอร์ส</title>
+    <title lang="en">RERUN: Detroit Pistons vs San Antonio Spurs</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002402" start="20261121000000 +0700" stop="20261122000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
+  <programme channel="ch0000000000100002401" start="20261120090000 +0700" stop="20261120093000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120093000 +0700" stop="20261120100000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120100000 +0700" stop="20261120103000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 3</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120103000 +0700" stop="20261120110000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 4</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120110000 +0700" stop="20261120140000 +0700">
+    <title lang="th">รีรัน: ชาร์ลอตต์ ฮอร์เน็ตส์ พบ ลอสแอนเจลิส เลเกอร์ส</title>
+    <title lang="en">RERUN: Charlotte Hornets vs Los Angeles Lakers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120140000 +0700" stop="20261120170000 +0700">
+    <title lang="th">รีรัน: คลีฟแลนด์ แควาเลียร์ส พบ นิวยอร์ก นิกส์</title>
+    <title lang="en">RERUN: Cleveland Cavaliers vs New York Knicks</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120170000 +0700" stop="20261120200000 +0700">
+    <title lang="th">รีรัน: บอสตัน เซลติกส์ พบ ฟิลาเดลเฟีย เซเวนตีซิกเซอร์ส</title>
+    <title lang="en">RERUN: Boston Celtics vs Philadelphia 76ers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120200000 +0700" stop="20261120230000 +0700">
+    <title lang="th">รีรัน: มิลวอกี บักส์ พบ ไมอามี ฮีต</title>
+    <title lang="en">RERUN: Milwaukee Bucks vs Miami Heat</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120230000 +0700" stop="20261120233000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261120233000 +0700" stop="20261121000000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121000000 +0700" stop="20261121003000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121003000 +0700" stop="20261121010000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121010000 +0700" stop="20261121013000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 3</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121013000 +0700" stop="20261121020000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 4</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121020000 +0700" stop="20261121023000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 5</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121023000 +0700" stop="20261121040000 +0700">
+    <title lang="th">รีรัน: RSI : Boy Team - PHI vs THA</title>
+    <title lang="en">RERUN: RSI : Boy Team - PHI vs THA</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121040000 +0700" stop="20261121043000 +0700">
+    <title lang="th">รีรัน: High Tops: Best of NBA Cup</title>
+    <title lang="en">RERUN: High Tops: Best of NBA Cup</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121043000 +0700" stop="20261121050000 +0700">
+    <title lang="th">รีรัน: NBA_Spot : Ray Allen</title>
+    <title lang="en">RERUN: NBA_Spot : Ray Allen</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121050000 +0700" stop="20261121060000 +0700">
+    <title lang="th">รีรัน: Open Court: HBCU Coaches</title>
+    <title lang="en">RERUN: Open Court: HBCU Coaches</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121060000 +0700" stop="20261121090000 +0700">
+    <title lang="th">รีรัน: บอสตัน เซลติกส์ พบ เดนเวอร์ นักเก็ตส์</title>
+    <title lang="en">RERUN: Boston Celtics vs Denver Nuggets</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121090000 +0700" stop="20261121093000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121093000 +0700" stop="20261121100000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121100000 +0700" stop="20261121103000 +0700">
+    <title lang="th">รีรัน: 2024 NBA Finals Film Room, Game 3</title>
+    <title lang="en">RERUN: 2024 NBA Finals Film Room, Game 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121103000 +0700" stop="20261121110000 +0700">
+    <title lang="th">รีรัน: 2023 NBA Finals Film Room, Game 4</title>
+    <title lang="en">RERUN: 2023 NBA Finals Film Room, Game 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121110000 +0700" stop="20261121140000 +0700">
+    <title lang="th">รีรัน: ชาร์ลอตต์ ฮอร์เน็ตส์ พบ ลอสแอนเจลิส เลเกอร์ส</title>
+    <title lang="en">RERUN: Charlotte Hornets vs Los Angeles Lakers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121140000 +0700" stop="20261121170000 +0700">
+    <title lang="th">รีรัน: ดัลลัส แมฟเวอริกส์ พบ คลีฟแลนด์ แควาเลียร์ส</title>
+    <title lang="en">RERUN: Dallas Mavericks vs Cleveland Cavaliers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121170000 +0700" stop="20261121200000 +0700">
+    <title lang="th">รีรัน: โอคลาโฮมา ซิตี้ ธันเดอร์ พบ พอร์ตแลนด์ เทรลเบลเซอร์ส</title>
+    <title lang="en">RERUN: Oklahoma City Thunder vs Portland Trail Blazers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121200000 +0700" stop="20261121230000 +0700">
+    <title lang="th">รีรัน: บอสตัน เซลติกส์ พบ ฟิลาเดลเฟีย เซเวนตีซิกเซอร์ส</title>
+    <title lang="en">RERUN: Boston Celtics vs Philadelphia 76ers</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121230000 +0700" stop="20261121233000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 1</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002401" start="20261121233000 +0700" stop="20261122000000 +0700">
+    <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
+    <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
+    <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20261117233000 +0700" stop="20261118000000 +0700">
     <title lang="th">รีรัน: วิดันตาเวิลด์ เม็กซิโก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
@@ -46594,27 +46756,22 @@
     <title lang="en">No Broadcast</title>
     <category>Sports</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261117235500 +0700" stop="20261118002500 +0700">
-    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
-    <title lang="en">CPKC Women's Open Highlights Round 3</title>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002525" start="20261118002500 +0700" stop="20261118004500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118000500 +0700" stop="20261118003000 +0700">
     <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">CPKC Women's Open Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118004500 +0700" stop="20261118032500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118003000 +0700" stop="20261118031000 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118032500 +0700" stop="20261118040000 +0700">
+  <programme channel="ch0000000000100002525" start="20261118031000 +0700" stop="20261118034500 +0700">
     <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบ 3</title>
     <title lang="en">The Standard Portland Classic Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118040000 +0700" stop="20261118042000 +0700">
+  <programme channel="ch0000000000100002525" start="20261118034500 +0700" stop="20261118042000 +0700">
     <title lang="th">เดอะ สแตนดาร์ด พอร์ตแลนด์ คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">The Standard Portland Classic Highlights Final</title>
     <category>Sport</category>
@@ -46629,154 +46786,344 @@
     <title lang="en">ISPS Handa Women's Scottish Open Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118083500 +0700" stop="20261118085500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118083500 +0700" stop="20261118090500 +0700">
     <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">ISPS Handa Women's Scottish Open Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118085500 +0700" stop="20261118113500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118090500 +0700" stop="20261118114500 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118113500 +0700" stop="20261118120500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118114500 +0700" stop="20261118121500 +0700">
     <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">The Amundi Evian Championship Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118120500 +0700" stop="20261118123000 +0700">
+  <programme channel="ch0000000000100002525" start="20261118121500 +0700" stop="20261118124500 +0700">
     <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">The Amundi Evian Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118123000 +0700" stop="20261118162500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118124500 +0700" stop="20261118180000 +0700">
     <title lang="th">รีรัน: เมย์แบงก์ แชมเปียนชิพ รอบสุดท้าย</title>
     <title lang="en">RERUN: Maybank Championship Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118162500 +0700" stop="20261118165500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118180000 +0700" stop="20261118182500 +0700">
     <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">KPMG Women's PGA Championship Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118165500 +0700" stop="20261118172000 +0700">
+  <programme channel="ch0000000000100002525" start="20261118182500 +0700" stop="20261118185500 +0700">
     <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118172000 +0700" stop="20261118200000 +0700">
+  <programme channel="ch0000000000100002525" start="20261118185500 +0700" stop="20261118213500 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118200000 +0700" stop="20261118202500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118213500 +0700" stop="20261118220000 +0700">
     <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบ 3</title>
     <title lang="en">Meijer LPGA Classic For Simply Give Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118202500 +0700" stop="20261118204500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118220000 +0700" stop="20261118222000 +0700">
     <title lang="th">ไมเออร์ แอลพีจีเอ คลาสสิก ฟอร์ ซิมพลี กิฟ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Meijer LPGA Classic For Simply Give Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118204500 +0700" stop="20261118232500 +0700">
+  <programme channel="ch0000000000100002525" start="20261118222000 +0700" stop="20261119010000 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118232500 +0700" stop="20261118235000 +0700">
+  <programme channel="ch0000000000100002525" start="20261119010000 +0700" stop="20261119012500 +0700">
     <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">Dow Championship Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261118235000 +0700" stop="20261119001500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119012500 +0700" stop="20261119015000 +0700">
     <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Dow Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119001500 +0700" stop="20261119004000 +0700">
+  <programme channel="ch0000000000100002525" start="20261119015000 +0700" stop="20261119021500 +0700">
     <title lang="th">ช็อปไรต์ แอลพีจีเอ คลาสสิก พรีเซนเต็ด บาย เอเซอร์ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">ShopRite LPGA Classic Presented by Acer Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119004000 +0700" stop="20261119040500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119021500 +0700" stop="20261119054000 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบ 3</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119040500 +0700" stop="20261119064500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119054000 +0700" stop="20261119082000 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119064500 +0700" stop="20261119071500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119082000 +0700" stop="20261119085000 +0700">
     <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบ 3</title>
     <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119071500 +0700" stop="20261119074000 +0700">
+  <programme channel="ch0000000000100002525" start="20261119085000 +0700" stop="20261119091500 +0700">
     <title lang="th">โครเกอร์ ควีน ซิตี้ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Kroger Queen City Championship presented by P&amp;G Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119074000 +0700" stop="20261119080500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119091500 +0700" stop="20261119094000 +0700">
     <title lang="th">ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน ไฮไลต์ รอบ 3</title>
     <title lang="en">The ANNIKA driven by Gainbridge at Pelican Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119080500 +0700" stop="20261119104500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119094000 +0700" stop="20261119122000 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119104500 +0700" stop="20261119111500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119122000 +0700" stop="20261119125000 +0700">
     <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">Mizuho Americas Open Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119111500 +0700" stop="20261119113500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119125000 +0700" stop="20261119131000 +0700">
     <title lang="th">มิซูโฮ อเมริกาส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Mizuho Americas Open Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119113500 +0700" stop="20261119120000 +0700">
+  <programme channel="ch0000000000100002525" start="20261119131000 +0700" stop="20261119133500 +0700">
     <title lang="th">เม็กซิโก ริเวียรา มายา โอเพ่น แอท มายาโกบา ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">MEXICO Riviera Maya Open at Mayakoba Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119120000 +0700" stop="20261119144000 +0700">
+  <programme channel="ch0000000000100002525" start="20261119133500 +0700" stop="20261119161500 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119144000 +0700" stop="20261119151500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119161500 +0700" stop="20261119165000 +0700">
     <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">The Chevron Championship Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119151500 +0700" stop="20261119154500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119165000 +0700" stop="20261119172000 +0700">
     <title lang="th">เดอะ เชฟรอน แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">The Chevron Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119154500 +0700" stop="20261119203500 +0700">
+  <programme channel="ch0000000000100002525" start="20261119172000 +0700" stop="20261119222500 +0700">
     <title lang="th">รีรัน: บีเอ็มดับเบิลยู เลดี้ส์ แชมเปียนชิพ รอบสุดท้าย</title>
     <title lang="en">RERUN: BMW Ladies Championship Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119203500 +0700" stop="20261119210000 +0700">
+  <programme channel="ch0000000000100002525" start="20261119222500 +0700" stop="20261119225000 +0700">
     <title lang="th">ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน ไฮไลต์ รอบ 3</title>
     <title lang="en">The ANNIKA driven by Gainbridge at Pelican Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119210000 +0700" stop="20261119234000 +0700">
+  <programme channel="ch0000000000100002525" start="20261119225000 +0700" stop="20261120013000 +0700">
     <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
     <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261119234000 +0700" stop="20261120060000 +0700">
+  <programme channel="ch0000000000100002525" start="20261120013000 +0700" stop="20261120020000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120020000 +0700" stop="20261120050000 +0700">
+    <title lang="th">LIVE: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">LIVE: CME Group Tour Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120050000 +0700" stop="20261120052500 +0700">
+    <title lang="th">ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน ไฮไลต์ รอบ 3</title>
+    <title lang="en">The ANNIKA driven by Gainbridge at Pelican Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120052500 +0700" stop="20261120080500 +0700">
+    <title lang="th">รีรัน: ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน รอบสุดท้าย</title>
+    <title lang="en">RERUN: The ANNIKA driven by Gainbridge at Pelican Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120080500 +0700" stop="20261120082500 +0700">
+    <title lang="th">โตโต้ เจแปน คลาสสิก ไฮไลต์ รอบ 3</title>
+    <title lang="en">TOTO Japan Classic Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120082500 +0700" stop="20261120084500 +0700">
     <title lang="th">โตโต้ เจแปน คลาสสิก ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">TOTO Japan Classic Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120084500 +0700" stop="20261120091500 +0700">
+    <title lang="th">เมย์แบงก์ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Maybank Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120091500 +0700" stop="20261120094000 +0700">
+    <title lang="th">เมย์แบงก์ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Maybank Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120094000 +0700" stop="20261120124000 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120124000 +0700" stop="20261120130000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู เลดี้ส์ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">BMW Ladies Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120130000 +0700" stop="20261120132500 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู เลดี้ส์ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW Ladies Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120132500 +0700" stop="20261120162500 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120162500 +0700" stop="20261120165000 +0700">
+    <title lang="th">บิวอิค แอลพีจีเอ เซี่ยงไฮ้ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Buick LPGA Shanghai Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120165000 +0700" stop="20261120171500 +0700">
+    <title lang="th">บิวอิค แอลพีจีเอ เซี่ยงไฮ้ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Buick LPGA Shanghai Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120171500 +0700" stop="20261120201500 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120201500 +0700" stop="20261120203000 +0700">
+    <title lang="th">ลอตเต้ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Lotte Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120203000 +0700" stop="20261120205000 +0700">
+    <title lang="th">ลอตเต้ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Lotte Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120205000 +0700" stop="20261120235000 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261120235000 +0700" stop="20261121001000 +0700">
+    <title lang="th">วอลมาร์ต เอ็นดับเบิลยู อาร์คันซอ แชมเปียนชิพ พรีเซนเต็ด บาย พีแอนด์จี ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Walmart NW Arkansas Championship presented by P&amp;G Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121001000 +0700" stop="20261121004000 +0700">
+    <title lang="th">เอฟเอ็ม แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">FM Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121004000 +0700" stop="20261121010000 +0700">
+    <title lang="th">เอฟเอ็ม แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FM Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121010000 +0700" stop="20261121013000 +0700">
+    <title lang="th">ดิ แอนนิกา ไดรฟ์เวน บาย เกนบริดจ์ แอท เพลิแกน ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The ANNIKA driven by Gainbridge at Pelican Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121013000 +0700" stop="20261121020000 +0700">
+    <title lang="th">ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">CME Group Tour Championship Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121020000 +0700" stop="20261121050000 +0700">
+    <title lang="th">LIVE: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">LIVE: CME Group Tour Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121050000 +0700" stop="20261121052000 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">CPKC Women's Open Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121052000 +0700" stop="20261121054500 +0700">
+    <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CPKC Women's Open Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121054500 +0700" stop="20261121084500 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121084500 +0700" stop="20261121091000 +0700">
+    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบ 3</title>
+    <title lang="en">ISPS Handa Women's Scottish Open Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121091000 +0700" stop="20261121094000 +0700">
+    <title lang="th">ไอเอสพีเอส ฮันดะ วีเมนส์ สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ISPS Handa Women's Scottish Open Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121094000 +0700" stop="20261121124000 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121124000 +0700" stop="20261121131000 +0700">
+    <title lang="th">ดิ อามุนดี เอวิยอง แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">The Amundi Evian Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121131000 +0700" stop="20261121134000 +0700">
+    <title lang="th">ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">CME Group Tour Championship Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121134000 +0700" stop="20261121164000 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121164000 +0700" stop="20261121171000 +0700">
+    <title lang="th">เคพีเอ็มจี วีเมนส์ พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">KPMG Women's PGA Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121171000 +0700" stop="20261121174000 +0700">
+    <title lang="th">ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">CME Group Tour Championship Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121174000 +0700" stop="20261121204000 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121204000 +0700" stop="20261121210500 +0700">
+    <title lang="th">ดาว แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Dow Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121210500 +0700" stop="20261121213500 +0700">
+    <title lang="th">ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">CME Group Tour Championship Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261121213500 +0700" stop="20261122003500 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 2</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002528" start="20261117235500 +0700" stop="20261118002000 +0700">
@@ -47084,9 +47431,29 @@
     <title lang="en">Alfred Dunhill Links Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261121114000 +0700" stop="20261121164000 +0700">
+  <programme channel="ch0000000000100002528" start="20261121114000 +0700" stop="20261121163500 +0700">
     <title lang="th">รีรัน: โอเพ่น เด เอสปันญา รอบสุดท้าย</title>
     <title lang="en">RERUN: Open de Espana presented by Madrid Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261121163500 +0700" stop="20261121170500 +0700">
+    <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบ 3</title>
+    <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261121170500 +0700" stop="20261121232000 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบสุดท้าย</title>
+    <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261121232000 +0700" stop="20261121235000 +0700">
+    <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261121235000 +0700" stop="20261122002000 +0700">
+    <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261117223000 +0700" stop="20261118003000 +0700">
@@ -47393,6 +47760,297 @@
   <programme channel="ch0000000000100002530" start="20261119223000 +0700" stop="20261120003000 +0700">
     <title lang="th">รีรัน: แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
     <title lang="en">RERUN: RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120003000 +0700" stop="20261120005000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">(HL) QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120005000 +0700" stop="20261120011000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อาตูร์ ฟิลส์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Arthur Fils vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120011000 +0700" stop="20261120013000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Daniil Medvedev vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120013000 +0700" stop="20261120020000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 17</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 17</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120020000 +0700" stop="20261120021500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ มูเซตติ พบ โทบี แซมูเอล</title>
+    <title lang="en">(HL) R16: Lorenzo Musetti vs Toby Samuel</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120021500 +0700" stop="20261120023000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120023000 +0700" stop="20261120043000 +0700">
+    <title>LIVE: Nitto ATP Finals Day 5 S2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120043000 +0700" stop="20261120050000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 18</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 18</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120050000 +0700" stop="20261120070000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: ฟลาวิโอ โคบอลลี พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">RERUN: RR: Flavio Cobolli vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120070000 +0700" stop="20261120071500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120071500 +0700" stop="20261120073000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120073000 +0700" stop="20261120080000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 19</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 19</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120080000 +0700" stop="20261120100000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">RERUN: RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120100000 +0700" stop="20261120102000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120102000 +0700" stop="20261120104000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ฟลาวิโอ โคบอลลี พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Flavio Cobolli vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120104000 +0700" stop="20261120110000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ โซเนโก พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) R16: Lorenzo Sonego vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120110000 +0700" stop="20261120130000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: RR: Alexander Zverev vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120130000 +0700" stop="20261120131500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120131500 +0700" stop="20261120133000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120133000 +0700" stop="20261120140000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 20</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 20</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120140000 +0700" stop="20261120160000 +0700">
+    <title lang="th">รีรัน: รอบ 8: อเล็กซ์ มิเคลเซน พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">RERUN: QF: Alex Michelsen vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120160000 +0700" stop="20261120162000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
+    <title lang="en">(HL) QF: Luca Van Assche vs Rinky Hijikata</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120162000 +0700" stop="20261120164000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120164000 +0700" stop="20261120170000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120170000 +0700" stop="20261120190000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">RERUN: RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120190000 +0700" stop="20261120191500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เทย์เลอร์ ฟริตซ์ พบ คาเมรอน นอร์รี</title>
+    <title lang="en">(HL) R16: Taylor Fritz vs Cameron Norrie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120191500 +0700" stop="20261120193000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120193000 +0700" stop="20261120200000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 21</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 21</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120200000 +0700" stop="20261120220000 +0700">
+    <title>LIVE: Nitto ATP Finals Day 6 S1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120220000 +0700" stop="20261120223000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 22</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 22</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261120223000 +0700" stop="20261121003000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: RR: Alexander Zverev vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121003000 +0700" stop="20261121005000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121005000 +0700" stop="20261121011000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: ลูก้า ฟาน อัสเช พบ เบน เชลตัน</title>
+    <title lang="en">(HL) SF: Luca Van Assche vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121011000 +0700" stop="20261121013000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121013000 +0700" stop="20261121020000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 23</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 23</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121020000 +0700" stop="20261121021500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121021500 +0700" stop="20261121023000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ เชฟเชนโก พบ แคสเปอร์ รุด</title>
+    <title lang="en">(HL) R16: Aleksandr Shevchenko vs Casper Ruud</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121023000 +0700" stop="20261121043000 +0700">
+    <title>LIVE: Nitto ATP Finals Day 6 S2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121043000 +0700" stop="20261121050000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 24</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 24</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121050000 +0700" stop="20261121070000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">RERUN: RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121070000 +0700" stop="20261121071500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121071500 +0700" stop="20261121073000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Daniil Medvedev vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121073000 +0700" stop="20261121080000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 25</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 25</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121080000 +0700" stop="20261121100000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">RERUN: RR: Carlos Alcaraz vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121100000 +0700" stop="20261121102000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: เบน เชลตัน พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) Final: Ben Shelton vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121102000 +0700" stop="20261121104000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Daniil Medvedev vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121104000 +0700" stop="20261121110000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121110000 +0700" stop="20261121130000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">RERUN: RR: Daniil Medvedev vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121130000 +0700" stop="20261121131500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: มิโอมีร์ เคซมาโนวิช พบ โฮลเกอร์ รูเนอ</title>
+    <title lang="en">(HL) R16: Miomir Kecmanovic vs Holger Rune</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121131500 +0700" stop="20261121133000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121133000 +0700" stop="20261121140000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 26</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 26</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121140000 +0700" stop="20261121170000 +0700">
+    <title lang="th">รีรัน: รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121170000 +0700" stop="20261121190000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">RERUN: RR: Carlos Alcaraz vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121190000 +0700" stop="20261121191500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121191500 +0700" stop="20261121193000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อเล็กซ์ มิเคลเซน พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) QF: Alex Michelsen vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121193000 +0700" stop="20261121200000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 27</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121200000 +0700" stop="20261121220000 +0700">
+    <title>LIVE: Nitto ATP Finals Day 7 S1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121220000 +0700" stop="20261121223000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 28</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 28</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261121223000 +0700" stop="20261122003000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">RERUN: RR: Daniil Medvedev vs Frances Tiafoe</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261117234000 +0700" stop="20261118004000 +0700">
