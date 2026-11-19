@@ -360,6 +360,11 @@
     <display-name lang="en">PLAY SPORTS PGA Tour 561</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105118088661.png"/>
   </channel>
+  <channel id="ch0000000000100002521">
+    <display-name lang="th">เพลย์สปอร์ต พีจีเอ ทัวร์ 562</display-name>
+    <display-name lang="en">PLAY SPORTS PGA Tour 562</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105118088661.png"/>
+  </channel>
   <channel id="ch0000000000100002525">
     <display-name lang="th">เพลย์สปอร์ต แอลพีจีเอ ทัวร์ 566</display-name>
     <display-name lang="en">PLAY SPORTS LPGA Tour 566</display-name>
@@ -409,6 +414,21 @@
     <display-name lang="th">เพลย์สปอร์ต บอลไทย 652</display-name>
     <display-name lang="en">PLAY SPORTS BALLTHAI 652</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png"/>
+  </channel>
+  <channel id="ch0000000000100002311">
+    <display-name lang="th">เพลย์สปอร์ต บอลไทย 661</display-name>
+    <display-name lang="en">PLAY SPORTS BALLTHAI 661</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
+  </channel>
+  <channel id="ch0000000000100002312">
+    <display-name lang="th">เพลย์สปอร์ต บอลไทย 662</display-name>
+    <display-name lang="en">PLAY SPORTS BALLTHAI 662</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
+  </channel>
+  <channel id="ch0000000000100002313">
+    <display-name lang="th">เพลย์สปอร์ต บอลไทย 663</display-name>
+    <display-name lang="en">PLAY SPORTS BALLTHAI 663</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
   </channel>
   <channel id="ch0000000000100001281">
     <display-name lang="th">กศน. (อีทีวี)</display-name>
@@ -44646,532 +44666,536 @@
     <desc>We learn a little bit more about United and Canada midfielder Simi Awujo.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261119000000 +0700" stop="20261119003000 +0700">
-    <title>WLC Highlights: Burnley (H) 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Burnley.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119003000 +0700" stop="20261119004500 +0700">
-    <title>MUW: Swedes in Manchester</title>
-    <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119004500 +0700" stop="20261119005500 +0700">
-    <title>Phallon Tullis-Joyce: New York v Manchester</title>
-    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119005500 +0700" stop="20261119030000 +0700">
-    <title>Live: MUW v Everton</title>
-    <desc>Live coverage of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119030000 +0700" stop="20261119031500 +0700">
-    <title>A Day in the Life: Celin Bizet Donnum</title>
-    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119031500 +0700" stop="20261119033000 +0700">
-    <title>A Day in the Life: Andrea Medina</title>
-    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119033000 +0700" stop="20261119040000 +0700">
-    <title>Schmeichel's Fire &amp; Ice Trek</title>
-    <desc>Peter Schmeichel celebrates his birthday today. In 2014 he led a group of cyclists across Iceland in a 250km challenge, in aid of the Manchester United Foundation.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119040000 +0700" stop="20261119043000 +0700">
-    <title>WLC Highlights: Sheffield United (H) 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119043000 +0700" stop="20261119050000 +0700">
     <title>WLC Highlights: Durham (A) 26/27</title>
     <desc>Highlights of our Women's League Cup match against Durham.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261119050000 +0700" stop="20261119051500 +0700">
+  <programme channel="ch0000000000100002171" start="20261119003000 +0700" stop="20261119004500 +0700">
     <title>WLC Highlights: Liverpool (A) 26/27</title>
     <desc>Highlights of our Women's League Cup match against Liverpool.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261119051500 +0700" stop="20261119053000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119004500 +0700" stop="20261119010000 +0700">
     <title>Simi Awujo: Seven Things About Me</title>
     <desc>We learn a little bit more about United and Canada midfielder Simi Awujo.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261119053000 +0700" stop="20261119060000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119010000 +0700" stop="20261119013000 +0700">
     <title>WLC Highlights: Burnley (H) 26/27</title>
     <desc>Highlights of our Women's League Cup match against Burnley.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261119060000 +0700" stop="20261119063000 +0700">
-    <title>WLC Highlights: Everton (H) 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119063000 +0700" stop="20261119070000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119070000 +0700" stop="20261119071500 +0700">
-    <title>A Day in the Life: Celin Bizet Donnum</title>
-    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119071500 +0700" stop="20261119073000 +0700">
-    <title>A Day in the Life: Andrea Medina</title>
-    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119073000 +0700" stop="20261119074500 +0700">
+  <programme channel="ch0000000000100002171" start="20261119013000 +0700" stop="20261119014500 +0700">
     <title>MUW: Swedes in Manchester</title>
     <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261119074500 +0700" stop="20261119080000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119014500 +0700" stop="20261119015500 +0700">
     <title>Phallon Tullis-Joyce: New York v Manchester</title>
     <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261119080000 +0700" stop="20261119081500 +0700">
-    <title>All The Goals: MUW At Old Trafford</title>
-    <desc>Relive all the MUW goals scored at Old Trafford so far...</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119081500 +0700" stop="20261119083000 +0700">
-    <title>What Moves Me: Tullis-Joyce</title>
-    <desc>Presented by Snapdragon, learn more about Phallon Tullis-Joyce's passion for marine biology, scuba diving and so much more...</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119083000 +0700" stop="20261119084500 +0700">
-    <title>What Moves Me: Toone</title>
-    <desc>Presented by Snapdragon, we follow Ella Toone from the streets of Tyldesley to Old Trafford. Reflecting on the journey that shaped her - and the legacy she's building for the next generation.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119084500 +0700" stop="20261119093000 +0700">
-    <title>All The Goals: MU Women 22/23</title>
-    <desc>Watch all the goals from Manchester United Women’s 2022/23 season.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119093000 +0700" stop="20261119100000 +0700">
-    <title>Schmeichel's Fire &amp; Ice Trek</title>
-    <desc>Peter Schmeichel celebrates his birthday today. In 2014 he led a group of cyclists across Iceland in a 250km challenge, in aid of the Manchester United Foundation.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119100000 +0700" stop="20261119103000 +0700">
-    <title>1991 Super Cup Final: v Red Star Belgrade</title>
-    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119103000 +0700" stop="20261119110000 +0700">
-    <title>When Mainoo met Seedorf</title>
-    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119110000 +0700" stop="20261119120000 +0700">
-    <title>Inside Carrington - Academy</title>
-    <desc>Adam Lawrence, Jim Thwaites and Amir Ibragimov join us on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119120000 +0700" stop="20261119123000 +0700">
-    <title>Inside Carrington - Maya Le Tissier</title>
-    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119123000 +0700" stop="20261119130000 +0700">
-    <title>Inside Carrington - Youri Tielemans</title>
-    <desc>Youri Tielemans joins Helen Evans and Fraizer Campbell on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119130000 +0700" stop="20261119133000 +0700">
-    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
-    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119133000 +0700" stop="20261119140000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119140000 +0700" stop="20261119143000 +0700">
-    <title>1991 Super Cup Final: v Red Star Belgrade</title>
-    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119143000 +0700" stop="20261119150000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119150000 +0700" stop="20261119153000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119153000 +0700" stop="20261119160000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119160000 +0700" stop="20261119163000 +0700">
-    <title>UCL Highlights: Roma (H) 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119163000 +0700" stop="20261119170000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119170000 +0700" stop="20261119173000 +0700">
-    <title>WLC Highlights: Everton (H) 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119173000 +0700" stop="20261119180000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119180000 +0700" stop="20261119183000 +0700">
-    <title>1991 Super Cup Final: v Red Star Belgrade</title>
-    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119183000 +0700" stop="20261119190000 +0700">
-    <title>When Mainoo met Seedorf</title>
-    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119190000 +0700" stop="20261119200000 +0700">
-    <title>Inside Carrington - Academy</title>
-    <desc>Adam Lawrence, Jim Thwaites and Amir Ibragimov join us on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119200000 +0700" stop="20261119203000 +0700">
-    <title>Inside Carrington - Maya Le Tissier</title>
-    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119203000 +0700" stop="20261119210000 +0700">
-    <title>Inside Carrington - Youri Tielemans</title>
-    <desc>Youri Tielemans joins Helen Evans and Fraizer Campbell on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119210000 +0700" stop="20261119213000 +0700">
-    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
-    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119213000 +0700" stop="20261119220000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119220000 +0700" stop="20261119223000 +0700">
-    <title>1991 Super Cup Final: v Red Star Belgrade</title>
-    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119223000 +0700" stop="20261119230000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119230000 +0700" stop="20261119233000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261119233000 +0700" stop="20261120000000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120000000 +0700" stop="20261120003000 +0700">
-    <title>UCL Highlights: Roma (H) 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120003000 +0700" stop="20261120010000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120010000 +0700" stop="20261120013000 +0700">
-    <title>WLC Highlights: Everton (H) 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120013000 +0700" stop="20261120020000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120020000 +0700" stop="20261120023000 +0700">
-    <title>1991 Super Cup Final: v Red Star Belgrade</title>
-    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120023000 +0700" stop="20261120030000 +0700">
-    <title>When Mainoo met Seedorf</title>
-    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120030000 +0700" stop="20261120040000 +0700">
-    <title>Inside Carrington - Academy</title>
-    <desc>Adam Lawrence, Jim Thwaites and Amir Ibragimov join us on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120040000 +0700" stop="20261120043000 +0700">
-    <title>Inside Carrington - Maya Le Tissier</title>
-    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120043000 +0700" stop="20261120050000 +0700">
-    <title>Inside Carrington - Youri Tielemans</title>
-    <desc>Youri Tielemans joins Helen Evans and Fraizer Campbell on Inside Carrington.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120050000 +0700" stop="20261120053000 +0700">
-    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
-    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120053000 +0700" stop="20261120060000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120060000 +0700" stop="20261120063000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120063000 +0700" stop="20261120070000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120070000 +0700" stop="20261120073000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120073000 +0700" stop="20261120080000 +0700">
-    <title>UCL Highlights: Roma (H) 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120080000 +0700" stop="20261120083000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120083000 +0700" stop="20261120100000 +0700">
-    <title>All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120100000 +0700" stop="20261120103000 +0700">
-    <title>U18s Highlights: Liverpool (H) 26/27</title>
-    <desc>Highlights of the U18s game against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120103000 +0700" stop="20261120110000 +0700">
-    <title>U18s Highlights: Burnley (A) 26/27</title>
-    <desc>Highlights of the U18s game against Burnley.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120110000 +0700" stop="20261120113000 +0700">
-    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
-    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120113000 +0700" stop="20261120120000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120120000 +0700" stop="20261120123000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120123000 +0700" stop="20261120130000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120130000 +0700" stop="20261120133000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120133000 +0700" stop="20261120140000 +0700">
-    <title>UCL Highlights: Roma (H) 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120140000 +0700" stop="20261120143000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120143000 +0700" stop="20261120155500 +0700">
-    <title>All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120155500 +0700" stop="20261120180000 +0700">
-    <title>WLC Match: Everton (H) 26/27</title>
-    <desc>Full coverage of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120180000 +0700" stop="20261120183000 +0700">
-    <title>UCL Highlights: Roma (H) 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120183000 +0700" stop="20261120190000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120190000 +0700" stop="20261120191500 +0700">
-    <title>Top 20 Premier League Goals v Liverpool</title>
-    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120191500 +0700" stop="20261120193000 +0700">
-    <title>New: Press Conference: Liverpool (A)</title>
-    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120193000 +0700" stop="20261120194500 +0700">
-    <title>MUW: Swedes in Manchester</title>
-    <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120194500 +0700" stop="20261120200000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119015500 +0700" stop="20261119040000 +0700">
+    <title>Live: MUW v Everton</title>
+    <desc>Live coverage of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119040000 +0700" stop="20261119041500 +0700">
     <title>A Day in the Life: Celin Bizet Donnum</title>
     <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261120200000 +0700" stop="20261120203000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  <programme channel="ch0000000000100002171" start="20261119041500 +0700" stop="20261119043000 +0700">
+    <title>A Day in the Life: Andrea Medina</title>
+    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261120203000 +0700" stop="20261120204500 +0700">
+  <programme channel="ch0000000000100002171" start="20261119043000 +0700" stop="20261119050000 +0700">
+    <title>Schmeichel's Fire &amp; Ice Trek</title>
+    <desc>Peter Schmeichel celebrates his birthday today. In 2014 he led a group of cyclists across Iceland in a 250km challenge, in aid of the Manchester United Foundation.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119050000 +0700" stop="20261119053000 +0700">
+    <title>WLC Highlights: Sheffield United (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119053000 +0700" stop="20261119060000 +0700">
+    <title>WLC Highlights: Durham (A) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Durham.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119060000 +0700" stop="20261119061500 +0700">
+    <title>WLC Highlights: Liverpool (A) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119061500 +0700" stop="20261119063000 +0700">
     <title>Simi Awujo: Seven Things About Me</title>
     <desc>We learn a little bit more about United and Canada midfielder Simi Awujo.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261120204500 +0700" stop="20261120210000 +0700">
-    <title>Press Conference: Liverpool (A)</title>
-    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119063000 +0700" stop="20261119070000 +0700">
+    <title>WLC Highlights: Burnley (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Burnley.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261120210000 +0700" stop="20261120213000 +0700">
-    <title>When Mainoo met Seedorf</title>
-    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120213000 +0700" stop="20261120220000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119070000 +0700" stop="20261119073000 +0700">
     <title>WLC Highlights: Everton (H) 26/27</title>
     <desc>Highlights of our Women's League Cup match against Everton.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261120220000 +0700" stop="20261120223000 +0700">
-    <title>U18s Highlights: Liverpool (H) 26/27</title>
-    <desc>Highlights of the U18s game against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120223000 +0700" stop="20261120230000 +0700">
-    <title>U18s Highlights: Burnley (A) 26/27</title>
-    <desc>Highlights of the U18s game against Burnley.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120230000 +0700" stop="20261120233000 +0700">
-    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
-    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261120233000 +0700" stop="20261121000000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119073000 +0700" stop="20261119080000 +0700">
     <title>U18s Highlights: Wolves (H) 26/27</title>
     <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121000000 +0700" stop="20261121003000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
+  <programme channel="ch0000000000100002171" start="20261119080000 +0700" stop="20261119081500 +0700">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
+    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121003000 +0700" stop="20261121010000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
+  <programme channel="ch0000000000100002171" start="20261119081500 +0700" stop="20261119083000 +0700">
+    <title>A Day in the Life: Andrea Medina</title>
+    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121010000 +0700" stop="20261121013000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121013000 +0700" stop="20261121020000 +0700">
-    <title>UCL Highlights: Roma (H) 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121020000 +0700" stop="20261121023000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121023000 +0700" stop="20261121035500 +0700">
-    <title>All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121035500 +0700" stop="20261121060000 +0700">
-    <title>WLC Match: Everton (H) 26/27</title>
-    <desc>Full coverage of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121060000 +0700" stop="20261121063000 +0700">
-    <title>U18s Highlights: Liverpool (H) 26/27</title>
-    <desc>Highlights of the U18s game against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121063000 +0700" stop="20261121070000 +0700">
-    <title>U18s Highlights: Burnley (A) 26/27</title>
-    <desc>Highlights of the U18s game against Burnley.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121070000 +0700" stop="20261121073000 +0700">
-    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
-    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121073000 +0700" stop="20261121080000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121080000 +0700" stop="20261121083000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121083000 +0700" stop="20261121090000 +0700">
-    <title>UCL Highlights: Roma (H) 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121090000 +0700" stop="20261121093000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121093000 +0700" stop="20261121100000 +0700">
-    <title>WLC Highlights: Everton (H) 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121100000 +0700" stop="20261121103000 +0700">
-    <title>When Mainoo met Seedorf</title>
-    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121103000 +0700" stop="20261121104500 +0700">
-    <title>Top 20 Premier League Goals v Liverpool</title>
-    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121104500 +0700" stop="20261121110000 +0700">
-    <title>Press Conference: Liverpool (A)</title>
-    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121110000 +0700" stop="20261121113000 +0700">
-    <title>PL Highlights: v Liverpool (A) 25/26</title>
-    <desc>Highlights of the Premier League game against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121113000 +0700" stop="20261121120000 +0700">
-    <title>PL Highlights: v Liverpool (H) 25/26</title>
-    <desc>Highlights of the Premier League game against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121120000 +0700" stop="20261121123000 +0700">
-    <title>WLC Highlights: Everton (H) 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121123000 +0700" stop="20261121130000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121130000 +0700" stop="20261121142500 +0700">
-    <title>All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121142500 +0700" stop="20261121163000 +0700">
-    <title>WLC Match: Everton (H) 26/27</title>
-    <desc>Full coverage of our Women's League Cup match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121163000 +0700" stop="20261121170000 +0700">
-    <title>U18s Highlights: Wolves (H) 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261121170000 +0700" stop="20261121171500 +0700">
+  <programme channel="ch0000000000100002171" start="20261119083000 +0700" stop="20261119084500 +0700">
     <title>MUW: Swedes in Manchester</title>
     <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121171500 +0700" stop="20261121173000 +0700">
-    <title>Top 20 Premier League Goals v Liverpool</title>
-    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119084500 +0700" stop="20261119090000 +0700">
+    <title>Phallon Tullis-Joyce: New York v Manchester</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121173000 +0700" stop="20261121174500 +0700">
-    <title>All The Goals: Butt</title>
-    <desc>One of the Class of '92, Nicky Butt rose through the ranks to make close to 400 appearances for the Reds. Weighing in with his fair share of important goals, Butty secured 9 major honours at United.</desc>
+  <programme channel="ch0000000000100002171" start="20261119090000 +0700" stop="20261119091500 +0700">
+    <title>All The Goals: MUW At Old Trafford</title>
+    <desc>Relive all the MUW goals scored at Old Trafford so far...</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121174500 +0700" stop="20261121180000 +0700">
-    <title>Press Conference: Liverpool (A)</title>
-    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119091500 +0700" stop="20261119093000 +0700">
+    <title>What Moves Me: Tullis-Joyce</title>
+    <desc>Presented by Snapdragon, learn more about Phallon Tullis-Joyce's passion for marine biology, scuba diving and so much more...</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121180000 +0700" stop="20261121183000 +0700">
-    <title>PL Highlights: v Liverpool (A) 25/26</title>
-    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119093000 +0700" stop="20261119094500 +0700">
+    <title>What Moves Me: Toone</title>
+    <desc>Presented by Snapdragon, we follow Ella Toone from the streets of Tyldesley to Old Trafford. Reflecting on the journey that shaped her - and the legacy she's building for the next generation.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121183000 +0700" stop="20261121190000 +0700">
-    <title>PL Highlights: v Liverpool (H) 25/26</title>
-    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119094500 +0700" stop="20261119103000 +0700">
+    <title>All The Goals: MU Women 22/23</title>
+    <desc>Watch all the goals from Manchester United Women’s 2022/23 season.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121190000 +0700" stop="20261121210000 +0700">
-    <title>PL Match: Aston Villa (H) 26/27</title>
-    <desc>Full coverage of our Premier League match against Aston Villa.</desc>
+  <programme channel="ch0000000000100002171" start="20261119103000 +0700" stop="20261119110000 +0700">
+    <title>Schmeichel's Fire &amp; Ice Trek</title>
+    <desc>Peter Schmeichel celebrates his birthday today. In 2014 he led a group of cyclists across Iceland in a 250km challenge, in aid of the Manchester United Foundation.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121210000 +0700" stop="20261121211500 +0700">
-    <title>Press Conference: Liverpool (A)</title>
-    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119110000 +0700" stop="20261119113000 +0700">
+    <title>1991 Super Cup Final: v Red Star Belgrade</title>
+    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121211500 +0700" stop="20261121213000 +0700">
-    <title>All The Goals: Butt</title>
-    <desc>One of the Class of '92, Nicky Butt rose through the ranks to make close to 400 appearances for the Reds. Weighing in with his fair share of important goals, Butty secured 9 major honours at United.</desc>
+  <programme channel="ch0000000000100002171" start="20261119113000 +0700" stop="20261119120000 +0700">
+    <title>When Mainoo met Seedorf</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121213000 +0700" stop="20261121214500 +0700">
-    <title>Top 20 Premier League Goals v Liverpool</title>
-    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119120000 +0700" stop="20261119130000 +0700">
+    <title>Inside Carrington - Academy</title>
+    <desc>Adam Lawrence, Jim Thwaites and Amir Ibragimov join us on Inside Carrington.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121214500 +0700" stop="20261121221500 +0700">
-    <title>PL Highlights: v Liverpool (A) 25/26</title>
-    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119130000 +0700" stop="20261119133000 +0700">
+    <title>Inside Carrington - Maya Le Tissier</title>
+    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121221500 +0700" stop="20261121224500 +0700">
-    <title>PL Highlights: v Liverpool (H) 25/26</title>
-    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119133000 +0700" stop="20261119140000 +0700">
+    <title>Inside Carrington - Youri Tielemans</title>
+    <desc>Youri Tielemans joins Helen Evans and Fraizer Campbell on Inside Carrington.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121224500 +0700" stop="20261121230000 +0700">
-    <title>Press Conference: Liverpool (A)</title>
-    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261119140000 +0700" stop="20261119143000 +0700">
+    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
+    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121230000 +0700" stop="20261121233000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119143000 +0700" stop="20261119150000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119150000 +0700" stop="20261119153000 +0700">
+    <title>1991 Super Cup Final: v Red Star Belgrade</title>
+    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119153000 +0700" stop="20261119160000 +0700">
+    <title>PL Highlights: Tottenham (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119160000 +0700" stop="20261119163000 +0700">
+    <title>PL Highlights: Leeds (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Leeds United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119163000 +0700" stop="20261119170000 +0700">
+    <title>PL Highlights: Chelsea (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Chelsea.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119170000 +0700" stop="20261119173000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119173000 +0700" stop="20261119180000 +0700">
+    <title>PL Highlights: Aston Villa (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119180000 +0700" stop="20261119183000 +0700">
     <title>WLC Highlights: Everton (H) 26/27</title>
     <desc>Highlights of our Women's League Cup match against Everton.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261121233000 +0700" stop="20261122000000 +0700">
+  <programme channel="ch0000000000100002171" start="20261119183000 +0700" stop="20261119190000 +0700">
     <title>U18s Highlights: Wolves (H) 26/27</title>
     <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119190000 +0700" stop="20261119193000 +0700">
+    <title>1991 Super Cup Final: v Red Star Belgrade</title>
+    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119193000 +0700" stop="20261119200000 +0700">
+    <title>When Mainoo met Seedorf</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119200000 +0700" stop="20261119210000 +0700">
+    <title>Inside Carrington - Academy</title>
+    <desc>Adam Lawrence, Jim Thwaites and Amir Ibragimov join us on Inside Carrington.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119210000 +0700" stop="20261119213000 +0700">
+    <title>Inside Carrington - Maya Le Tissier</title>
+    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119213000 +0700" stop="20261119220000 +0700">
+    <title>Inside Carrington - Youri Tielemans</title>
+    <desc>Youri Tielemans joins Helen Evans and Fraizer Campbell on Inside Carrington.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119220000 +0700" stop="20261119223000 +0700">
+    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
+    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119223000 +0700" stop="20261119230000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119230000 +0700" stop="20261119233000 +0700">
+    <title>1991 Super Cup Final: v Red Star Belgrade</title>
+    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261119233000 +0700" stop="20261120000000 +0700">
+    <title>PL Highlights: Tottenham (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120000000 +0700" stop="20261120003000 +0700">
+    <title>PL Highlights: Leeds (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Leeds United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120003000 +0700" stop="20261120010000 +0700">
+    <title>PL Highlights: Chelsea (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Chelsea.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120010000 +0700" stop="20261120013000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120013000 +0700" stop="20261120020000 +0700">
+    <title>PL Highlights: Aston Villa (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120020000 +0700" stop="20261120023000 +0700">
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120023000 +0700" stop="20261120030000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120030000 +0700" stop="20261120033000 +0700">
+    <title>1991 Super Cup Final: v Red Star Belgrade</title>
+    <desc>United Archives 19/11/91. UEFA Cup Winners' Cup holders United take on the European Cup winners Red Star Belgrade for the European Super Cup trophy.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120033000 +0700" stop="20261120040000 +0700">
+    <title>When Mainoo met Seedorf</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120040000 +0700" stop="20261120050000 +0700">
+    <title>Inside Carrington - Academy</title>
+    <desc>Adam Lawrence, Jim Thwaites and Amir Ibragimov join us on Inside Carrington.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120050000 +0700" stop="20261120053000 +0700">
+    <title>Inside Carrington - Maya Le Tissier</title>
+    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120053000 +0700" stop="20261120060000 +0700">
+    <title>Inside Carrington - Youri Tielemans</title>
+    <desc>Youri Tielemans joins Helen Evans and Fraizer Campbell on Inside Carrington.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120060000 +0700" stop="20261120063000 +0700">
+    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
+    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120063000 +0700" stop="20261120070000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120070000 +0700" stop="20261120073000 +0700">
+    <title>PL Highlights: Tottenham (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120073000 +0700" stop="20261120080000 +0700">
+    <title>PL Highlights: Leeds (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Leeds United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120080000 +0700" stop="20261120083000 +0700">
+    <title>PL Highlights: Chelsea (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Chelsea.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120083000 +0700" stop="20261120090000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120090000 +0700" stop="20261120093000 +0700">
+    <title>PL Highlights: Aston Villa (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120093000 +0700" stop="20261120110000 +0700">
+    <title>All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120110000 +0700" stop="20261120113000 +0700">
+    <title>U18s Highlights: Liverpool (H) 26/27</title>
+    <desc>Highlights of the U18s game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120113000 +0700" stop="20261120120000 +0700">
+    <title>U18s Highlights: Burnley (A) 26/27</title>
+    <desc>Highlights of the U18s game against Burnley.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120120000 +0700" stop="20261120123000 +0700">
+    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
+    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120123000 +0700" stop="20261120130000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120130000 +0700" stop="20261120133000 +0700">
+    <title>PL Highlights: Tottenham (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120133000 +0700" stop="20261120140000 +0700">
+    <title>PL Highlights: Leeds (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Leeds United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120140000 +0700" stop="20261120143000 +0700">
+    <title>PL Highlights: Chelsea (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Chelsea.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120143000 +0700" stop="20261120150000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120150000 +0700" stop="20261120153000 +0700">
+    <title>PL Highlights: Aston Villa (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120153000 +0700" stop="20261120165500 +0700">
+    <title>All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120165500 +0700" stop="20261120190000 +0700">
+    <title>WLC Match: Everton (H) 26/27</title>
+    <desc>Full coverage of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120190000 +0700" stop="20261120193000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120193000 +0700" stop="20261120200000 +0700">
+    <title>PL Highlights: Aston Villa (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120200000 +0700" stop="20261120201500 +0700">
+    <title>Top 20 Premier League Goals v Liverpool</title>
+    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120201500 +0700" stop="20261120203000 +0700">
+    <title>New: Press Conference: Liverpool (A)</title>
+    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120203000 +0700" stop="20261120204500 +0700">
+    <title>MUW: Swedes in Manchester</title>
+    <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120204500 +0700" stop="20261120210000 +0700">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
+    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120210000 +0700" stop="20261120213000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120213000 +0700" stop="20261120214500 +0700">
+    <title>Simi Awujo: Seven Things About Me</title>
+    <desc>We learn a little bit more about United and Canada midfielder Simi Awujo.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120214500 +0700" stop="20261120220000 +0700">
+    <title>Press Conference: Liverpool (A)</title>
+    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120220000 +0700" stop="20261120223000 +0700">
+    <title>When Mainoo met Seedorf</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120223000 +0700" stop="20261120230000 +0700">
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120230000 +0700" stop="20261120233000 +0700">
+    <title>U18s Highlights: Liverpool (H) 26/27</title>
+    <desc>Highlights of the U18s game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261120233000 +0700" stop="20261121000000 +0700">
+    <title>U18s Highlights: Burnley (A) 26/27</title>
+    <desc>Highlights of the U18s game against Burnley.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121000000 +0700" stop="20261121003000 +0700">
+    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
+    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121003000 +0700" stop="20261121010000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121010000 +0700" stop="20261121013000 +0700">
+    <title>PL Highlights: Tottenham (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121013000 +0700" stop="20261121020000 +0700">
+    <title>PL Highlights: Leeds (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Leeds United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121020000 +0700" stop="20261121023000 +0700">
+    <title>PL Highlights: Chelsea (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Chelsea.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121023000 +0700" stop="20261121030000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121030000 +0700" stop="20261121033000 +0700">
+    <title>PL Highlights: Aston Villa (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121033000 +0700" stop="20261121045500 +0700">
+    <title>All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121045500 +0700" stop="20261121070000 +0700">
+    <title>WLC Match: Everton (H) 26/27</title>
+    <desc>Full coverage of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121070000 +0700" stop="20261121073000 +0700">
+    <title>U18s Highlights: Liverpool (H) 26/27</title>
+    <desc>Highlights of the U18s game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121073000 +0700" stop="20261121080000 +0700">
+    <title>U18s Highlights: Burnley (A) 26/27</title>
+    <desc>Highlights of the U18s game against Burnley.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121080000 +0700" stop="20261121083000 +0700">
+    <title>U18s Highlights: Blackburn Rovers (A) 26/27</title>
+    <desc>Highlights of the U18s game against Blackburn Rovers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121083000 +0700" stop="20261121090000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121090000 +0700" stop="20261121093000 +0700">
+    <title>PL Highlights: Chelsea (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Chelsea.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121093000 +0700" stop="20261121100000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121100000 +0700" stop="20261121103000 +0700">
+    <title>PL Highlights: Aston Villa (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121103000 +0700" stop="20261121110000 +0700">
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121110000 +0700" stop="20261121113000 +0700">
+    <title>When Mainoo met Seedorf</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121113000 +0700" stop="20261121114500 +0700">
+    <title>Top 20 Premier League Goals v Liverpool</title>
+    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121114500 +0700" stop="20261121120000 +0700">
+    <title>Press Conference: Liverpool (A)</title>
+    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121120000 +0700" stop="20261121123000 +0700">
+    <title>PL Highlights: v Liverpool (A) 25/26</title>
+    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121123000 +0700" stop="20261121130000 +0700">
+    <title>PL Highlights: v Liverpool (H) 25/26</title>
+    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121130000 +0700" stop="20261121133000 +0700">
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121133000 +0700" stop="20261121140000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121140000 +0700" stop="20261121152500 +0700">
+    <title>All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121152500 +0700" stop="20261121173000 +0700">
+    <title>WLC Match: Everton (H) 26/27</title>
+    <desc>Full coverage of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121173000 +0700" stop="20261121180000 +0700">
+    <title>U18s Highlights: Wolves (H) 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121180000 +0700" stop="20261121181500 +0700">
+    <title>MUW: Swedes in Manchester</title>
+    <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121181500 +0700" stop="20261121183000 +0700">
+    <title>Top 20 Premier League Goals v Liverpool</title>
+    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121183000 +0700" stop="20261121184500 +0700">
+    <title>All The Goals: Butt</title>
+    <desc>One of the Class of '92, Nicky Butt rose through the ranks to make close to 400 appearances for the Reds. Weighing in with his fair share of important goals, Butty secured 9 major honours at United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121184500 +0700" stop="20261121190000 +0700">
+    <title>Press Conference: Liverpool (A)</title>
+    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121190000 +0700" stop="20261121193000 +0700">
+    <title>PL Highlights: v Liverpool (A) 25/26</title>
+    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121193000 +0700" stop="20261121200000 +0700">
+    <title>PL Highlights: v Liverpool (H) 25/26</title>
+    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121200000 +0700" stop="20261121220000 +0700">
+    <title>PL Match: Aston Villa (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against Aston Villa.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121220000 +0700" stop="20261121221500 +0700">
+    <title>Press Conference: Liverpool (A)</title>
+    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121221500 +0700" stop="20261121223000 +0700">
+    <title>All The Goals: Butt</title>
+    <desc>One of the Class of '92, Nicky Butt rose through the ranks to make close to 400 appearances for the Reds. Weighing in with his fair share of important goals, Butty secured 9 major honours at United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121223000 +0700" stop="20261121224500 +0700">
+    <title>Top 20 Premier League Goals v Liverpool</title>
+    <desc>United's greatest Premier League goals against arch-rivals Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121224500 +0700" stop="20261121231500 +0700">
+    <title>PL Highlights: v Liverpool (A) 25/26</title>
+    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121231500 +0700" stop="20261121234500 +0700">
+    <title>PL Highlights: v Liverpool (H) 25/26</title>
+    <desc>Highlights of the Premier League game against Liverpool.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261121234500 +0700" stop="20261122000000 +0700">
+    <title>Press Conference: Liverpool (A)</title>
+    <desc>Pre-match press conference ahead of our Premier League match against Liverpool.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261117230500 +0700" stop="20261118002000 +0700">
     <title>Real Madrid Pass</title>
@@ -45716,6 +45740,153 @@
     <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (02 พฤศจิกายน 2026)</title>
     <title lang="en">RERUN: Rajadamnern Knockout (02 NOV 2026)</title>
     <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261118000000 +0700" stop="20261118153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 สิงห์บุรี วอร์ริเออร์ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">Kick Off 15:30 Singburi Warriors vs Royal Thai Air Force (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261118153000 +0700" stop="20261118173000 +0700">
+    <title lang="th">LIVE: สิงห์บุรี วอร์ริเออร์ พบ ทหารอากาศ (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">LIVE: Singburi Warriors vs Royal Thai Air Force (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261118173000 +0700" stop="20261118235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261119000000 +0700" stop="20261119153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 สโมสรฟุตบอลราชนาวี พบ บ้านบึง (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">Kick Off 15:30 Navy vs Banbueng (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261119153000 +0700" stop="20261119173000 +0700">
+    <title lang="th">LIVE: สโมสรฟุตบอลราชนาวี พบ บ้านบึง (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">LIVE: Navy vs Banbueng (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261119173000 +0700" stop="20261119235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261120000000 +0700" stop="20261120235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261121000000 +0700" stop="20261121153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 เชียงราย ทีเอสซี พบ แม่โจ้ (T3 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 15:30 Chiangrai TSC vs Maejo (T3 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261121153000 +0700" stop="20261121173000 +0700">
+    <title lang="th">LIVE: เชียงราย ทีเอสซี พบ แม่โจ้ (T3 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Chiangrai TSC vs Maejo (T3 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002311" start="20261121173000 +0700" stop="20261121235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261118000000 +0700" stop="20261118153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 จามจุรี พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">Kick Off 15:30 Chamchuri vs Kasembundit University (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261118153000 +0700" stop="20261118173000 +0700">
+    <title lang="th">LIVE: จามจุรี พบ ม. เกษมบัณฑิต (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">LIVE: Chamchuri vs Kasembundit University (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261118173000 +0700" stop="20261118235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261119000000 +0700" stop="20261119153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 ม. นอร์ทกรุงเทพ พบ บางกะปิ (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">Kick Off 15:30 North Bangkok University vs Bangkapi (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261119153000 +0700" stop="20261119173000 +0700">
+    <title lang="th">LIVE: ม. นอร์ทกรุงเทพ พบ บางกะปิ (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">LIVE: North Bangkok University vs Bangkapi (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261119173000 +0700" stop="20261119235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261120000000 +0700" stop="20261120235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261121000000 +0700" stop="20261121153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 ปากน้ำโพ พบ ม. การกีฬาแห่งชาติ ว. ลำปาง (T3 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 15:30 Paknampho vs Thailand National Sports University (T3 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261121153000 +0700" stop="20261121173000 +0700">
+    <title lang="th">LIVE: ปากน้ำโพ พบ ม. การกีฬาแห่งชาติ ว. ลำปาง (T3 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Paknampho vs Thailand National Sports University (T3 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002312" start="20261121173000 +0700" stop="20261121235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261118000000 +0700" stop="20261118153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 ฟูเทร่า พบ อยุธยา พีเค (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">Kick Off 15:30 Futera vs Ayutthaya PK (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261118153000 +0700" stop="20261118173000 +0700">
+    <title lang="th">LIVE: ฟูเทร่า พบ อยุธยา พีเค (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">LIVE: Futera vs Ayutthaya PK (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261118173000 +0700" stop="20261118235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261119000000 +0700" stop="20261119153000 +0700">
+    <title lang="th">เริ่มเวลา 15:30 หัวหิน พบ วีอาร์เอ็น เมืองนนท์ (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">Kick Off 15:30 Huahin vs VRN Muangnon (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261119153000 +0700" stop="20261119173000 +0700">
+    <title lang="th">LIVE: หัวหิน พบ วีอาร์เอ็น เมืองนนท์ (T3 - สัปดาห์ที่ 2)</title>
+    <title lang="en">LIVE: Huahin vs VRN Muangnon (T3 - Matchday 2)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261119173000 +0700" stop="20261119235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261120000000 +0700" stop="20261120235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261121000000 +0700" stop="20261121153000 +0700">
+    <title>Kick Off 15:30 Yasothon vs Udon (T3 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261121153000 +0700" stop="20261121173000 +0700">
+    <title>LIVE: Yasothon vs Udon (T3 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002313" start="20261121173000 +0700" stop="20261121235959 +0700">
+    <title>No Broadcast</title>
+    <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002401" start="20261117233000 +0700" stop="20261118000000 +0700">
     <title lang="th">รีรัน: 75 Stories: Shaquille O'Neal, Wilt Chamberlain &amp; Moses Malone</title>
@@ -46397,6 +46568,31 @@
   <programme channel="ch0000000000100002511" start="20261121233000 +0700" stop="20261122003000 +0700">
     <title>2026 Rocket Classic</title>
     <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261119000000 +0700" stop="20261120000000 +0700">
+    <title lang="th">เริ่มเวลา 00:00 น. ดิ อาร์เอสเอ็ม คลาสสิก วันที่ 1 รอบที่ 1</title>
+    <title lang="en">UPCOMING at 12AM: The RSM Classic Day 1 Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261120000000 +0700" stop="20261120040000 +0700">
+    <title lang="th">LIVE: ดิ อาร์เอสเอ็ม คลาสสิก วันที่ 1 รอบที่ 1</title>
+    <title lang="en">LIVE: The RSM Classic Day 1 Round 1</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261120040000 +0700" stop="20261121000000 +0700">
+    <title lang="th">เริ่มเวลา 00:00 น. ดิ อาร์เอสเอ็ม คลาสสิก วันที่ 2 รอบที่ 2</title>
+    <title lang="en">UPCOMING at 12AM: The RSM Classic Day 2 Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261121000000 +0700" stop="20261121040000 +0700">
+    <title lang="th">LIVE: ดิ อาร์เอสเอ็ม คลาสสิก วันที่ 2 รอบที่ 2</title>
+    <title lang="en">LIVE: The RSM Classic Day 2 Round 2</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002521" start="20261121040000 +0700" stop="20261122000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002525" start="20261117235500 +0700" stop="20261118002500 +0700">
     <title lang="th">ซีพีเคซี วีเมนส์ โอเพ่น ไฮไลต์ รอบ 3</title>
@@ -47294,12 +47490,12 @@
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261119014000 +0700" stop="20261119033000 +0700">
+  <programme channel="ch0000000000100002561" start="20261119014000 +0700" stop="20261119033500 +0700">
     <title>Nations Championship: France v South Africa</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261119033000 +0700" stop="20261119052000 +0700">
+  <programme channel="ch0000000000100002561" start="20261119033500 +0700" stop="20261119052000 +0700">
     <title>Nations Championship: Italy v Argentina</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
@@ -47309,12 +47505,12 @@
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261119055000 +0700" stop="20261119074000 +0700">
+  <programme channel="ch0000000000100002561" start="20261119055000 +0700" stop="20261119073000 +0700">
     <title>Women's RLWC 2026: Australia v New Zealand</title>
     <desc>Australia and New Zealand meet in Brisbane in the 2026 Women's RLWC Grand Final.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261119074000 +0700" stop="20261119093000 +0700">
+  <programme channel="ch0000000000100002561" start="20261119073000 +0700" stop="20261119093000 +0700">
     <title>RLWC26: Final</title>
     <desc>Coverage of the 2026 Rugby League World Cup.</desc>
     <category>Sport</category>
@@ -47404,12 +47600,12 @@
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261120085000 +0700" stop="20261120104000 +0700">
+  <programme channel="ch0000000000100002561" start="20261120085000 +0700" stop="20261120104500 +0700">
     <title>Nations Championship: France v South Africa</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261120104000 +0700" stop="20261120123000 +0700">
+  <programme channel="ch0000000000100002561" start="20261120104500 +0700" stop="20261120123000 +0700">
     <title>Nations Championship: Italy v Argentina</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
@@ -47449,13 +47645,13 @@
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261120212000 +0700" stop="20261120231000 +0700">
+  <programme channel="ch0000000000100002561" start="20261120212000 +0700" stop="20261120230000 +0700">
     <title>Women's RLWC 2026: Australia v New Zealand</title>
     <desc>Australia and New Zealand meet in Brisbane in the 2026 Women's RLWC Grand Final.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261120231000 +0700" stop="20261121010000 +0700">
-    <title>RLWC26: Final</title>
+  <programme channel="ch0000000000100002561" start="20261120230000 +0700" stop="20261121010000 +0700">
+    <title>RLWC26: Australia v New Zealand</title>
     <desc>Coverage of the 2026 Rugby League World Cup.</desc>
     <category>Sport</category>
   </programme>
@@ -47464,12 +47660,12 @@
     <desc>We look back at the most memorable moments legends and tries from Europe's most prestigious international rugby competition.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121020000 +0700" stop="20261121035000 +0700">
+  <programme channel="ch0000000000100002561" start="20261121020000 +0700" stop="20261121035500 +0700">
     <title>Nations Championship: France v South Africa</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121035000 +0700" stop="20261121054000 +0700">
+  <programme channel="ch0000000000100002561" start="20261121035500 +0700" stop="20261121054000 +0700">
     <title>Nations Championship: Italy v Argentina</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
@@ -47489,33 +47685,43 @@
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121083000 +0700" stop="20261121102000 +0700">
-    <title>Nations Championship: Ireland v Fiji</title>
-    <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002561" start="20261121102000 +0700" stop="20261121121000 +0700">
-    <title>Nations Championship: Scotland v Australia</title>
-    <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002561" start="20261121121000 +0700" stop="20261121124000 +0700">
+  <programme channel="ch0000000000100002561" start="20261121083000 +0700" stop="20261121090000 +0700">
     <title>Top 14 Highlights: Round 9</title>
     <desc>Highlights of the latest round from the Top 14.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121124000 +0700" stop="20261121131000 +0700">
+  <programme channel="ch0000000000100002561" start="20261121090000 +0700" stop="20261121111000 +0700">
+    <title>LIVE: AFLW: North Melbourne v Sydney</title>
+    <desc>All the pulsating action from the 2026 AFLW season.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002561" start="20261121111000 +0700" stop="20261121113000 +0700">
+    <title>Premier Sports Extra: Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002561" start="20261121113000 +0700" stop="20261121120000 +0700">
     <title>5 and 6 Nations Classics: 2004 - Italy v England</title>
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121131000 +0700" stop="20261121150000 +0700">
-    <title>Women's RLWC 2026: Australia v New Zealand</title>
-    <desc>Australia and New Zealand meet in Brisbane in the 2026 Women's RLWC Grand Final.</desc>
+  <programme channel="ch0000000000100002561" start="20261121120000 +0700" stop="20261121141000 +0700">
+    <title>LIVE: AFLW: Melbourne v Carlton</title>
+    <desc>All the pulsating action from the 2026 AFLW season.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121150000 +0700" stop="20261121165000 +0700">
-    <title>RLWC26: Final</title>
+  <programme channel="ch0000000000100002561" start="20261121141000 +0700" stop="20261121142000 +0700">
+    <title>Premier Sports Extra: Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002561" start="20261121142000 +0700" stop="20261121145000 +0700">
+    <title>5 and 6 Nations Classics: 2001 - Ireland v France</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002561" start="20261121145000 +0700" stop="20261121165000 +0700">
+    <title>RLWC26: Australia v New Zealand</title>
     <desc>Coverage of the 2026 Rugby League World Cup.</desc>
     <category>Sport</category>
   </programme>
@@ -47524,12 +47730,12 @@
     <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121172000 +0700" stop="20261121191000 +0700">
+  <programme channel="ch0000000000100002561" start="20261121172000 +0700" stop="20261121190500 +0700">
     <title>Nations Championship: England v Japan</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002561" start="20261121191000 +0700" stop="20261121210000 +0700">
+  <programme channel="ch0000000000100002561" start="20261121190500 +0700" stop="20261121210000 +0700">
     <title>Nations Championship: Wales v New Zealand</title>
     <desc>The Nations Championship returns to Premier Sports this November with Northern and Southern Hemisphere nations going head-to-head once again.</desc>
     <category>Sport</category>
