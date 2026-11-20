@@ -102,7 +102,6 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002261` | 650 | PLAY SPORTS RAJADAMNERN 650 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261117001207088707.png" height="30" alt="PLAY SPORTS RAJADAMNERN 650"> |
 | `ch0000000000100002041` | 651 | PLAY SPORTS BALLTHAI 651 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 651"> |
 | `ch0000000000100002052` | 652 | PLAY SPORTS BALLTHAI 652 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 652"> |
-| `ch0000000000100002094` | 656 | PLAY SPORTS BALLTHAI 656 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 656"> |
 | `ch0000000000100001281` | 716 | ETV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" height="30" alt="ETV"> |
 | `ch0000000000100001298` | 801 | LunthungTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" height="30" alt="LunthungTV"> |
 | `ch0000000000100001311` | 802 | MVTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" height="30" alt="MVTV"> |
