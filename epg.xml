@@ -4021,6 +4021,10 @@
     <title>ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (EP. 39-40)</title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001081" start="20261122230000 +0700" stop="20261123010000 +0700">
+    <title>PRINCESS AT LARGE SEASON 3 พระชายาลอยนวล ปี 3 (EP. 9-10)</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001091" start="20261118220000 +0700" stop="20261119000000 +0700">
     <title>M3Gan 2.0</title>
     <desc>Your killer bestie is back! Armed with wild upgrades and her same iconic attitude, M3GAN faces off against an android who threatens her beloved Cady.</desc>
@@ -26455,7 +26459,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261120043000 +0700" stop="20261120050000 +0700">
     <title>Today's Close-Up</title>
-    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc>An increase in urban flooding is exposing gaps in insurance coverage and leaving homeowners with hefty bills. NHK looks at how people can protect their properties in a changing climate.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120050000 +0700" stop="20261120053000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26483,7 +26487,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261120073000 +0700" stop="20261120080000 +0700">
     <title>Today's Close-Up</title>
-    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc>Living alone with no family to call on can shut the door to medical care, from ambulances to surgery and hospital stays. Japan is searching for ways to support such patients before crisis hits.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120080000 +0700" stop="20261120083000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26498,8 +26502,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120093000 +0700" stop="20261120100000 +0700">
-    <title>NHK WORLD Selection</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Yayoi Kusama: My Eternal Soul</title>
+    <desc>Yayoi Kusama is one of the world's most celebrated artists. This program follows the creation of one of her paintings, from its initial conception to its completion. Originally aired in 2017.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120100000 +0700" stop="20261120103000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26527,7 +26531,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261120123000 +0700" stop="20261120130000 +0700">
     <title>Today's Close-Up</title>
-    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc>Living alone with no family to call on can shut the door to medical care, from ambulances to surgery and hospital stays. Japan is searching for ways to support such patients before crisis hits.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120130000 +0700" stop="20261120133000 +0700">
     <title>NEWSLINE ASIA 24</title>
@@ -26542,12 +26546,12 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120143000 +0700" stop="20261120150000 +0700">
-    <title>NHK WORLD Selection</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Yayoi Kusama: My Eternal Soul</title>
+    <desc>Yayoi Kusama is one of the world's most celebrated artists. This program follows the creation of one of her paintings, from its initial conception to its completion. Originally aired in 2017.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120150000 +0700" stop="20261120153000 +0700">
     <title>NHK NEWSLINE</title>
-    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <desc>For centuries, Shuri Castle stood as a symbol of Okinawa. Now, seven years after a devastating fire, its main hall is nearly rebuilt. We explore what the castle means to Okinawans.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120153000 +0700" stop="20261120155700 +0700">
     <title>GRAND SUMO Highlights</title>
@@ -26571,7 +26575,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261120173000 +0700" stop="20261120180000 +0700">
     <title>Today's Close-Up</title>
-    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc>Living alone with no family to call on can shut the door to medical care, from ambulances to surgery and hospital stays. Japan is searching for ways to support such patients before crisis hits.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120180000 +0700" stop="20261120182800 +0700">
     <title>NEWSROOM TOKYO</title>
@@ -26602,8 +26606,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120203000 +0700" stop="20261120210000 +0700">
-    <title>NHK WORLD Selection</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Yayoi Kusama: My Eternal Soul</title>
+    <desc>Yayoi Kusama is one of the world's most celebrated artists. This program follows the creation of one of her paintings, from its initial conception to its completion. Originally aired in 2017.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120210000 +0700" stop="20261120213000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26619,11 +26623,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261120223000 +0700" stop="20261120230000 +0700">
     <title>Today's Close-Up</title>
-    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc>Living alone with no family to call on can shut the door to medical care, from ambulances to surgery and hospital stays. Japan is searching for ways to support such patients before crisis hits.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120230000 +0700" stop="20261120233000 +0700">
     <title>NHK NEWSLINE</title>
-    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <desc>For centuries, Shuri Castle stood as a symbol of Okinawa. Now, seven years after a devastating fire, its main hall is nearly rebuilt. We explore what the castle means to Okinawans.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261120233000 +0700" stop="20261120235700 +0700">
     <title>GRAND SUMO Highlights</title>
@@ -26635,7 +26639,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261121000000 +0700" stop="20261121003000 +0700">
     <title>NHK NEWSLINE</title>
-    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <desc>For centuries, Shuri Castle stood as a symbol of Okinawa. Now, seven years after a devastating fire, its main hall is nearly rebuilt. We explore what the castle means to Okinawans.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121003000 +0700" stop="20261121010000 +0700">
     <title>Asia Insight</title>
@@ -26662,8 +26666,8 @@
     <desc>Sleep apnea repeatedly disrupts breathing during sleep. A major Japanese study reveals surprising links to high blood pressure, diabetes and nighttime urination. We explore the latest treatments.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121023000 +0700" stop="20261121030000 +0700">
-    <title>NHK WORLD Selection</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>Yayoi Kusama: My Eternal Soul</title>
+    <desc>Yayoi Kusama is one of the world's most celebrated artists. This program follows the creation of one of her paintings, from its initial conception to its completion. Originally aired in 2017.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121030000 +0700" stop="20261121033000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26679,7 +26683,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261121043000 +0700" stop="20261121050000 +0700">
     <title>Today's Close-Up</title>
-    <desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc>Living alone with no family to call on can shut the door to medical care, from ambulances to surgery and hospital stays. Japan is searching for ways to support such patients before crisis hits.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121050000 +0700" stop="20261121053000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26721,9 +26725,17 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261121081000 +0700" stop="20261121090000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="ch0000000000100001238" start="20261121081000 +0700" stop="20261121083400 +0700">
+    <title>Encounters with Art</title>
+    <desc>Yayoi Kusama creates original costumes she regards as the source of her creativity. This program follows the artist at work and explores the ideas behind her art. Originally aired in Japan in 2001.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261121083400 +0700" stop="20261121084400 +0700">
+    <title>THE CAT'S EYE MUSEUM</title>
+    <desc>World-famous artist Yayoi Kusama is known for polka dots. A giant pumpkin, mysterious ladder, and a chandelier expand into infinity. Explore her world with two unusual cats.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261121084400 +0700" stop="20261121090000 +0700">
+    <title>The World Heritage Sites in Japan</title>
+    <desc>From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121090000 +0700" stop="20261121091000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26801,9 +26813,17 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261121141000 +0700" stop="20261121150000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="ch0000000000100001238" start="20261121141000 +0700" stop="20261121143400 +0700">
+    <title>Encounters with Art</title>
+    <desc>Yayoi Kusama creates original costumes she regards as the source of her creativity. This program follows the artist at work and explores the ideas behind her art. Originally aired in Japan in 2001.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261121143400 +0700" stop="20261121144400 +0700">
+    <title>THE CAT'S EYE MUSEUM</title>
+    <desc>World-famous artist Yayoi Kusama is known for polka dots. A giant pumpkin, mysterious ladder, and a chandelier expand into infinity. Explore her world with two unusual cats.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261121144400 +0700" stop="20261121150000 +0700">
+    <title>The World Heritage Sites in Japan</title>
+    <desc>From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121150000 +0700" stop="20261121151000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26865,9 +26885,17 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261121201000 +0700" stop="20261121210000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="ch0000000000100001238" start="20261121201000 +0700" stop="20261121203400 +0700">
+    <title>Encounters with Art</title>
+    <desc>Yayoi Kusama creates original costumes she regards as the source of her creativity. This program follows the artist at work and explores the ideas behind her art. Originally aired in Japan in 2001.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261121203400 +0700" stop="20261121204400 +0700">
+    <title>THE CAT'S EYE MUSEUM</title>
+    <desc>World-famous artist Yayoi Kusama is known for polka dots. A giant pumpkin, mysterious ladder, and a chandelier expand into infinity. Explore her world with two unusual cats.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261121204400 +0700" stop="20261121210000 +0700">
+    <title>The World Heritage Sites in Japan</title>
+    <desc>From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121210000 +0700" stop="20261121211000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26875,7 +26903,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261121211000 +0700" stop="20261121214000 +0700">
     <title>BIZ STREAM</title>
-    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc>Reshaping Japan's Plastic Supply: Global conflict has disrupted Japan's oil imports. Discover how innovative new technologies could offer a domestic solution for everyday plastics and petroleum.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261121214000 +0700" stop="20261121215000 +0700">
     <title>Story Land</title>
@@ -26945,9 +26973,17 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261122021000 +0700" stop="20261122030000 +0700">
-    <title>NHK WORLD SHOWCASE</title>
-    <desc>NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="ch0000000000100001238" start="20261122021000 +0700" stop="20261122023400 +0700">
+    <title>Encounters with Art</title>
+    <desc>Yayoi Kusama creates original costumes she regards as the source of her creativity. This program follows the artist at work and explores the ideas behind her art. Originally aired in Japan in 2001.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261122023400 +0700" stop="20261122024400 +0700">
+    <title>THE CAT'S EYE MUSEUM</title>
+    <desc>World-famous artist Yayoi Kusama is known for polka dots. A giant pumpkin, mysterious ladder, and a chandelier expand into infinity. Explore her world with two unusual cats.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261122024400 +0700" stop="20261122030000 +0700">
+    <title>The World Heritage Sites in Japan</title>
+    <desc>From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261122030000 +0700" stop="20261122031000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26955,7 +26991,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261122031000 +0700" stop="20261122034000 +0700">
     <title>BIZ STREAM</title>
-    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc>Reshaping Japan's Plastic Supply: Global conflict has disrupted Japan's oil imports. Discover how innovative new technologies could offer a domestic solution for everyday plastics and petroleum.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261122034000 +0700" stop="20261122035000 +0700">
     <title>Story Land</title>
@@ -27007,7 +27043,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261122070000 +0700" stop="20261122080000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>81 years after Hiroshima and Nagasaki, newly declassified documents reveal how South Korean atomic bomb survivors were denied state relief, caught in the geopolitical crossfire between two nations.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261122080000 +0700" stop="20261122081000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27087,7 +27123,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261122124500 +0700" stop="20261122130000 +0700">
     <title>Zero Waste Life</title>
-    <desc>Meet people around Japan who strive for a life without waste under the traditional philosophy of "MOTTAINAI," which values cherishing the things we have.</desc>
+    <desc>Glass fishing floats, once widely used, today sit forgotten in ports. Nakagawa Hiroyuki transforms them into vibrant glassware with a sea-inspired design, a reminder of where they came from.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261122130000 +0700" stop="20261122131000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27171,7 +27207,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261122184500 +0700" stop="20261122190000 +0700">
     <title>Zero Waste Life</title>
-    <desc>Meet people around Japan who strive for a life without waste under the traditional philosophy of "MOTTAINAI," which values cherishing the things we have.</desc>
+    <desc>Glass fishing floats, once widely used, today sit forgotten in ports. Nakagawa Hiroyuki transforms them into vibrant glassware with a sea-inspired design, a reminder of where they came from.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261122190000 +0700" stop="20261122191000 +0700">
     <title>NHK NEWSLINE</title>
@@ -30080,7 +30116,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261121023000 +0700" stop="20261121030000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can South Africa attract the investment it needs to revive growth and create jobs?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261121030000 +0700" stop="20261121040000 +0700">
@@ -30097,7 +30133,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261121053000 +0700" stop="20261121060000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261121060000 +0700" stop="20261121063000 +0700">
     <title>News Live</title>
@@ -30163,7 +30199,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261121153000 +0700" stop="20261121160000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can South Africa attract the investment it needs to revive growth and create jobs?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261121160000 +0700" stop="20261121163000 +0700">
@@ -30172,7 +30208,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261121163000 +0700" stop="20261121170000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261121170000 +0700" stop="20261121180000 +0700">
     <title>Newshour</title>
@@ -30234,7 +30270,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261122023000 +0700" stop="20261122030000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>The Cockroach Janta Party is challenging India's political and media establishment. What's fuelling its rise and what does it reveal about journalism's future?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261122030000 +0700" stop="20261122040000 +0700">
@@ -30281,7 +30317,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261122103000 +0700" stop="20261122110000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261122110000 +0700" stop="20261122113000 +0700">
     <title>News Live</title>
@@ -30289,7 +30325,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261122113000 +0700" stop="20261122120000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can South Africa attract the investment it needs to revive growth and create jobs?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261122120000 +0700" stop="20261122123000 +0700">
@@ -30318,7 +30354,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261122153000 +0700" stop="20261122160000 +0700">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>The Cockroach Janta Party is challenging India's political and media establishment. What's fuelling its rise and what does it reveal about journalism's future?</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261122160000 +0700" stop="20261122163000 +0700">
@@ -38001,28 +38037,20 @@
     <title>เปิดตำนานอสูรกาย</title>
     <category>Documentary</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261118233000 +0700" stop="20261119000000 +0700">
+  <programme channel="ch0000000000100001903" start="20261118233000 +0700" stop="20261119001500 +0700">
     <title>Made in Germany: From AI to space: How technology is reshaping power, work and business</title>
     <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20261119000000 +0700" stop="20261119001500 +0700">
-    <title>DW News</title>
-    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119001500 +0700" stop="20261119003000 +0700">
     <title>Interview: Pakistan seeks climate finance as floods reshape communities</title>
     <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261119003000 +0700" stop="20261119010000 +0700">
+  <programme channel="ch0000000000100001903" start="20261119003000 +0700" stop="20261119013000 +0700">
     <title>Close up: Taking Risks, Chasing Likes</title>
     <desc>Extreme sports like cliff diving and mountaineering set against spectacular natural landscapes attract millions of views on social media. But what happens when taking risks becomes content?</desc>
     <category>Documentaries</category>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20261119010000 +0700" stop="20261119013000 +0700">
-    <title>DW News</title>
-    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119013000 +0700" stop="20261119020000 +0700">
     <title>DocFilm: Making Space for Grief</title>
@@ -38041,14 +38069,10 @@
     <desc>As Pakistan rebuilds after devastating floods and expands solar power, climate finance remains a pressing challenge. Climate Minister Shezra Mansab Kharal discusses recovery, resilience and the country's energy future.</desc>
     <category>Documentaries</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261119023000 +0700" stop="20261119030000 +0700">
+  <programme channel="ch0000000000100001903" start="20261119023000 +0700" stop="20261119033000 +0700">
     <title>The 77 Percent: Would you risk everything to be beautiful?</title>
     <desc>As beauty trends become more extreme, from rapid weight-loss drugs to cosmetic surgery and skin-lightening products, young Africans are navigating competing ideals of beauty. Rachel and Sulemani unpack these.</desc>
     <category>Magazine</category>
-  </programme>
-  <programme channel="ch0000000000100001903" start="20261119030000 +0700" stop="20261119033000 +0700">
-    <title>DW News</title>
-    <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119033000 +0700" stop="20261119040000 +0700">
     <title>The Day: News in Review</title>
@@ -38076,11 +38100,11 @@
     <desc>From AI business models to private space ventures and network states, innovation is reshaping economies, governance and opportunities around the world.</desc>
     <category>Magazine</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261119060000 +0700" stop="20261119060200 +0700">
+  <programme channel="ch0000000000100001903" start="20261119060000 +0700" stop="20261119060300 +0700">
     <title>DW News</title>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001903" start="20261119060200 +0700" stop="20261119061500 +0700">
+  <programme channel="ch0000000000100001903" start="20261119060300 +0700" stop="20261119061500 +0700">
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119061500 +0700" stop="20261119063000 +0700">
@@ -38271,8 +38295,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119201500 +0700" stop="20261119203000 +0700">
-    <title>History: Why Italy can’t let go of Mussolini</title>
-    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
+    <title>Interview: Floods, droughts and oil: How Uganda is navigating a warming world</title>
+    <desc>Uganda is facing worsening floods, droughts and landslides, yet it is also building a major oil export industry. Minister Beatrice Anywar argues that developing countries need a "just transition".</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261119203000 +0700" stop="20261119210000 +0700">
@@ -38315,8 +38339,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120001500 +0700" stop="20261120003000 +0700">
-    <title>History: Why Italy can’t let go of Mussolini</title>
-    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
+    <title>Interview: Floods, droughts and oil: How Uganda is navigating a warming world</title>
+    <desc>Uganda is facing worsening floods, droughts and landslides, yet it is also building a major oil export industry. Minister Beatrice Anywar argues that developing countries need a "just transition".</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120003000 +0700" stop="20261120010000 +0700">
@@ -38340,8 +38364,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120021500 +0700" stop="20261120023000 +0700">
-    <title>History: Why Italy can’t let go of Mussolini</title>
-    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
+    <title>Interview: Floods, droughts and oil: How Uganda is navigating a warming world</title>
+    <desc>Uganda is facing worsening floods, droughts and landslides, yet it is also building a major oil export industry. Minister Beatrice Anywar argues that developing countries need a "just transition".</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120023000 +0700" stop="20261120030000 +0700">
@@ -38390,8 +38414,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120061500 +0700" stop="20261120063000 +0700">
-    <title>History: Why Italy can’t let go of Mussolini</title>
-    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
+    <title>Interview: Floods, droughts and oil: How Uganda is navigating a warming world</title>
+    <desc>Uganda is facing worsening floods, droughts and landslides, yet it is also building a major oil export industry. Minister Beatrice Anywar argues that developing countries need a "just transition".</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120063000 +0700" stop="20261120070000 +0700">
@@ -38444,8 +38468,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120101500 +0700" stop="20261120103000 +0700">
-    <title>History: Why Italy can’t let go of Mussolini</title>
-    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
+    <title>Interview: Floods, droughts and oil: How Uganda is navigating a warming world</title>
+    <desc>Uganda is facing worsening floods, droughts and landslides, yet it is also building a major oil export industry. Minister Beatrice Anywar argues that developing countries need a "just transition".</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120103000 +0700" stop="20261120110000 +0700">
@@ -38485,8 +38509,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120131500 +0700" stop="20261120133000 +0700">
-    <title>History: Why Italy can’t let go of Mussolini</title>
-    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
+    <title>Interview: Floods, droughts and oil: How Uganda is navigating a warming world</title>
+    <desc>Uganda is facing worsening floods, droughts and landslides, yet it is also building a major oil export industry. Minister Beatrice Anywar argues that developing countries need a "just transition".</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261120133000 +0700" stop="20261120140000 +0700">
@@ -38740,7 +38764,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121090200 +0700" stop="20261121091500 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: AI in Daily Life: Navigating Closeness and Illusion</title>
+    <desc>From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121091500 +0700" stop="20261121100000 +0700">
@@ -38773,7 +38798,8 @@
     <title>DW News Focus</title>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121111500 +0700" stop="20261121113000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: AI in Daily Life: Navigating Closeness and Illusion</title>
+    <desc>From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121113000 +0700" stop="20261121120000 +0700">
@@ -38790,7 +38816,8 @@
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121123000 +0700" stop="20261121130000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121130000 +0700" stop="20261121130200 +0700">
@@ -38862,7 +38889,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121171500 +0700" stop="20261121173000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: AI in Daily Life: Navigating Closeness and Illusion</title>
+    <desc>From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121173000 +0700" stop="20261121190000 +0700">
@@ -38910,7 +38938,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121213000 +0700" stop="20261121220000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121220000 +0700" stop="20261121221500 +0700">
@@ -38918,8 +38947,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121221500 +0700" stop="20261121223000 +0700">
-    <title>History: Why Italy can’t let go of Mussolini</title>
-    <desc>Was Benito Mussolini, as some still insist, really a "visionary modernizer?" Or is the claim one of the 20th century's most enduring myths? In this video, we examine common perceptions of Mussolini and his Fascist regime — from infrastructure and social welfare to empire, propaganda, and public support. We compare the popular narratives with historical evidence.</desc>
+    <title>Interview: Floods, droughts and oil: How Uganda is navigating a warming world</title>
+    <desc>Uganda is facing worsening floods, droughts and landslides, yet it is also building a major oil export industry. Minister Beatrice Anywar argues that developing countries need a "just transition".</desc>
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261121223000 +0700" stop="20261121230000 +0700">
@@ -38939,11 +38968,13 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122001500 +0700" stop="20261122003000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: AI in Daily Life: Navigating Closeness and Illusion</title>
+    <desc>From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122003000 +0700" stop="20261122010000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122010000 +0700" stop="20261122011500 +0700">
@@ -39113,7 +39144,8 @@
     <category>Documentaries</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122141500 +0700" stop="20261122143000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: AI in Daily Life: Navigating Closeness and Illusion</title>
+    <desc>From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122143000 +0700" stop="20261122150000 +0700">
@@ -39143,11 +39175,13 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122161500 +0700" stop="20261122163000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: AI in Daily Life: Navigating Closeness and Illusion</title>
+    <desc>From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122163000 +0700" stop="20261122170000 +0700">
-    <title>The 77 Percent: The Magazine for Africa's Youth</title>
+    <title>The 77 Percent: Marriage and Matchmaking</title>
+    <desc>This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122170000 +0700" stop="20261122170200 +0700">
@@ -39213,7 +39247,8 @@
     <desc>Our deep dive format explains the stories that matter -  with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122211500 +0700" stop="20261122213000 +0700">
-    <title>Shift: Living in the Digital Age</title>
+    <title>Shift: AI in Daily Life: Navigating Closeness and Illusion</title>
+    <desc>From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category>Magazine</category>
   </programme>
   <programme channel="ch0000000000100001903" start="20261122213000 +0700" stop="20261122220000 +0700">
@@ -42543,7 +42578,7 @@
     <title>ถ่ายทอดสด PREMIER LEAGUE 2026/2027 / ข่าวในพระราชสำนัก</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261122232500 +0700" stop="20261122235000 +0700">
+  <programme channel="ch0000000000100001941" start="20261122232500 +0700" stop="20261123000000 +0700">
     <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
@@ -43179,80 +43214,67 @@
     <title>Weather Command Weekend</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261121210000 +0700" stop="20261121220000 +0700">
-    <title>THE CLAMAN COUNTDOWN</title>
-    <desc>The Claman Countdown captures the chaos of the last hour on Wall Street.</desc>
+    <title>Claman's Power Players /Barron's Roundtable</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261121220000 +0700" stop="20261121230000 +0700">
-    <title>Maria Bartiromo's Wall Street / Barron's Roundtable</title>
+    <title>Claman's Power Players /Barron's Roundtable</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261121230000 +0700" stop="20261122000000 +0700">
     <title>Kudlow Weekend</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122000000 +0700" stop="20261122010000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>American Dream Home</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122010000 +0700" stop="20261122020000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>American Dream Home</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122020000 +0700" stop="20261122030000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>American Dream Home</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122030000 +0700" stop="20261122040000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>American Dream Home</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122040000 +0700" stop="20261122050000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>American Dream Home</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122050000 +0700" stop="20261122060000 +0700">
-    <title>Duck Family Treasure</title>
+    <title>American Dream Home</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122060000 +0700" stop="20261122070000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122070000 +0700" stop="20261122080000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122080000 +0700" stop="20261122090000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122090000 +0700" stop="20261122100000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122100000 +0700" stop="20261122110000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122110000 +0700" stop="20261122120000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122120000 +0700" stop="20261122130000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122130000 +0700" stop="20261122140000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122140000 +0700" stop="20261122150000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122150000 +0700" stop="20261122160000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122160000 +0700" stop="20261122170000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122170000 +0700" stop="20261122180000 +0700">
-    <title>Mansion Global</title>
-    <desc>Based on the popular Mansion Global website, the 30-minute program explores the most lavish properties in the country, from mega mansions to high-priced high rises for a peek inside luxury real-estate listings.</desc>
+    <title>Duck Family Treasure</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122180000 +0700" stop="20261122190000 +0700">
     <title>Weather Command Weekend</title>
@@ -43264,11 +43286,10 @@
     <title>Weather Command Weekend</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122210000 +0700" stop="20261122220000 +0700">
-    <title>THE CLAMAN COUNTDOWN</title>
-    <desc>The Claman Countdown captures the chaos of the last hour on Wall Street.</desc>
+    <title>Claman's Power Players /Barron's Roundtable</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122220000 +0700" stop="20261122230000 +0700">
-    <title>Maria Bartiromo's Wall Street / Barron's Roundtable</title>
+    <title>Claman's Power Players /Barron's Roundtable</title>
   </programme>
   <programme channel="ch0000000000100002011" start="20261122230000 +0700" stop="20261123000000 +0700">
     <title>Sunday Morning Futures</title>
@@ -48373,9 +48394,189 @@
     <title lang="en">RERUN: Bundesliga Special 2025-26: EP 11 Bundesliga Analysis</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002701" start="20261121013000 +0700" stop="20261121033000 +0700">
+  <programme channel="ch0000000000100002701" start="20261121013000 +0700" stop="20261121020000 +0700">
     <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 12 Records Rewritten Harry Kane</title>
     <title lang="en">RERUN: Bundesliga Special 2025-26: EP 12 Records Rewritten Harry Kane</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121020000 +0700" stop="20261121021500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: เอฟซี โคโลญจน์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: 1 FC Koeln</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121021500 +0700" stop="20261121043000 +0700">
+    <title lang="th">LIVE: บาเยิร์น มิวนิค พบ โคโลญจน์</title>
+    <title lang="en">LIVE: FC Bayern Munich vs 1. FC Koeln</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121043000 +0700" stop="20261121050000 +0700">
+    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 13 Best of January</title>
+    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 13 Best of January</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121050000 +0700" stop="20261121070000 +0700">
+    <title lang="th">รีรัน: ไอน์ทรัค เบราน์ชไวค์ พบ เอเนอร์กี ค็อตบุส</title>
+    <title lang="en">RERUN: Eintracht Braunschweig vs Energie Cottbus</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121070000 +0700" stop="20261121090000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: FC Bayern Munich vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121090000 +0700" stop="20261121110000 +0700">
+    <title lang="th">รีรัน: ไมนซ์ 05 พบ บาเยิร์น มิวนิค</title>
+    <title lang="en">RERUN: 1. FSV Mainz 05 vs FC Bayern Munich</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121110000 +0700" stop="20261121120000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 9</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 9</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121120000 +0700" stop="20261121140000 +0700">
+    <title lang="th">รีรัน: โบรุสเซีย ดอร์ทมุนด์ พบ เอลเวอร์สแบร์ก</title>
+    <title lang="en">RERUN: Borussia Dortmund vs SV Elversberg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121140000 +0700" stop="20261121160000 +0700">
+    <title lang="th">รีรัน: ดาร์มสตัดท์ 98 พบ ไฮเดนไฮม์</title>
+    <title lang="en">RERUN: SV Darmstadt 98 vs 1. FC Heidenheim</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121160000 +0700" stop="20261121170000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 9</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 9</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121170000 +0700" stop="20261121180000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 9</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 9</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121180000 +0700" stop="20261121200000 +0700">
+    <title lang="th">รีรัน: แอร์เบ ไลป์ซิก พบ เอาก์สบวร์ก</title>
+    <title lang="en">RERUN: RB Leipzig vs FC Augsburg</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121200000 +0700" stop="20261121210000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 9 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 9 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121210000 +0700" stop="20261121211500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย มึนเชนกลัดบัค</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Moenchengladbach</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121211500 +0700" stop="20261121233000 +0700">
+    <title lang="th">LIVE: โบรุสเซีย มึนเชนกลัดบัค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">LIVE: Borussia Moenchengladbach vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261121233000 +0700" stop="20261122000000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: ช่วงเบรคทีมชาติ (พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: International Break (November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122000000 +0700" stop="20261122001500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122001500 +0700" stop="20261122023000 +0700">
+    <title lang="th">LIVE: ชาลเก้ 04 พบ สตุ๊ตการ์ท</title>
+    <title lang="en">LIVE: FC Schalke 04 vs VfB Stuttgart</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122023000 +0700" stop="20261122030000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล โชว์ 2026-27: แฮร์รี เคน &amp; อิบราฮิม มาซา</title>
+    <title lang="en">RERUN: Bundesliga Special Show 2026-27: Harry Kane &amp; Ibrahim Maza</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122030000 +0700" stop="20261122050000 +0700">
+    <title lang="th">รีรัน: เอเนอร์กี ค็อตบุส พบ โบคุม</title>
+    <title lang="en">RERUN: Energie Cottbus vs VfL Bochum</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122050000 +0700" stop="20261122060000 +0700">
+    <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 14</title>
+    <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 14</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122060000 +0700" stop="20261122063000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122063000 +0700" stop="20261122064500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: ไอน์ทรัค แฟรงก์เฟิร์ต</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: Eintracht Frankfurt</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122064500 +0700" stop="20261122070000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: สตุ๊ตการ์ท</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: VfB Stuttgart</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122070000 +0700" stop="20261122090000 +0700">
+    <title lang="th">รีรัน: ชาลเก้ 04 พบ แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: FC Schalke 04 vs RB Leipzig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122090000 +0700" stop="20261122110000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: FC Bayern Munich vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122110000 +0700" stop="20261122120000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 9 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 9 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122120000 +0700" stop="20261122140000 +0700">
+    <title lang="th">รีรัน: ชาลเก้ 04 พบ แอร์เบ ไลป์ซิก</title>
+    <title lang="en">RERUN: FC Schalke 04 vs RB Leipzig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122140000 +0700" stop="20261122160000 +0700">
+    <title lang="th">รีรัน: เนิร์นแบร์ก พบ ไอน์ทรัค เบราน์ชไวค์</title>
+    <title lang="en">RERUN: 1. FC Nuernberg vs Eintracht Braunschweig</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122160000 +0700" stop="20261122170000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 9 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 9 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122170000 +0700" stop="20261122180000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ สัปดาห์ที่ 9 - บุนเดสลีกา 2026/27</title>
+    <title lang="en">Highlights of the Week Matchday 9 - Bundesliga 2026/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122180000 +0700" stop="20261122200000 +0700">
+    <title lang="th">รีรัน: บาเยิร์น มิวนิค พบ โบรุสเซีย ดอร์ทมุนด์</title>
+    <title lang="en">RERUN: FC Bayern Munich vs Borussia Dortmund</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122200000 +0700" stop="20261122210000 +0700">
+    <title lang="th">บุนเดสลีกา ไฮไลต์ โชว์ 2026-27: แมตซ์เดย์ 7</title>
+    <title lang="en">Bundesliga Highlight Show 2026-27: Matchday 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122210000 +0700" stop="20261122211500 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา คลับ 2026-27: อูนิโอน เบอร์ลิน</title>
+    <title lang="en">RERUN: Bundesliga Clubs 2026-27: 1 FC Union Berlin</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122211500 +0700" stop="20261122233000 +0700">
+    <title lang="th">LIVE: เอาก์สบวร์ก พบ ไมนซ์ 05</title>
+    <title lang="en">LIVE: FC Augsburg vs 1. FSV Mainz 05</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002701" start="20261122233000 +0700" stop="20261123000000 +0700">
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: ช่วงเบรคทีมชาติ (พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: International Break (November 2026)</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002742" start="20261120000000 +0700" stop="20261120180000 +0700">
