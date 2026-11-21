@@ -87,12 +87,6 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002171` | 518 | MUTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" height="30" alt="MUTV"> |
 | `ch0000000000100002181` | 519 | Real Madrid TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" height="30" alt="Real Madrid TV"> |
 | `ch0000000000100002701` | 521 | PLAY SPORTS BUNDESLIGA 521 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 521"> |
-| `ch0000000000100002721` | 522 | PLAY SPORTS BUNDESLIGA 522 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 522"> |
-| `ch0000000000100002722` | 523 | PLAY SPORTS BUNDESLIGA 523 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 523"> |
-| `ch0000000000100002731` | 524 | PLAY SPORTS BUNDESLIGA 524 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 524"> |
-| `ch0000000000100002741` | 525 | PLAY SPORTS BUNDESLIGA 525 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 525"> |
-| `ch0000000000100002742` | 526 | PLAY SPORTS BUNDESLIGA 526 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116131414088668.png" height="30" alt="PLAY SPORTS BUNDESLIGA 526"> |
-| `ch0000000000100002751` | 527 | PLAY SPORTS BUNDESLIGA 527 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116131414088668.png" height="30" alt="PLAY SPORTS BUNDESLIGA 527"> |
 | `ch0000000000100002401` | 551 | PLAY SPORTS BASKETBALL 551 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png" height="30" alt="PLAY SPORTS BASKETBALL 551"> |
 | `ch0000000000100002191` | 556 | PLAY SPORTS NFL 556 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116103111088651.png" height="30" alt="PLAY SPORTS NFL 556"> |
 | `ch0000000000100002511` | 561 | PLAY SPORTS PGA Tour 561 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105118088661.png" height="30" alt="PLAY SPORTS PGA Tour 561"> |
@@ -108,12 +102,7 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002041` | 651 | PLAY SPORTS BALLTHAI 651 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 651"> |
 | `ch0000000000100002052` | 652 | PLAY SPORTS BALLTHAI 652 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 652"> |
 | `ch0000000000100002091` | 653 | PLAY SPORTS BALLTHAI 653 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 653"> |
-| `ch0000000000100002094` | 656 | PLAY SPORTS BALLTHAI 656 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 656"> |
-| `ch0000000000100002095` | 657 | PLAY SPORTS BALLTHAI 657 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 657"> |
-| `ch0000000000100002096` | 658 | PLAY SPORTS BALLTHAI 658 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 658"> |
-| `ch0000000000100002097` | 659 | PLAY SPORTS BALLTHAI 659 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 659"> |
 | `ch0000000000100001281` | 716 | ETV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" height="30" alt="ETV"> |
 | `ch0000000000100001298` | 801 | LunthungTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" height="30" alt="LunthungTV"> |
 | `ch0000000000100001311` | 802 | MVTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" height="30" alt="MVTV"> |
 | `ch0000000000100002901` | 901 | WTGL 901 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261102084840086158.png" height="30" alt="WTGL 901"> |
-| `ch0000000000100002931` | 902 | Universal Bangkok Open 9-Ball Championship 2026 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261114125125088265.png" height="30" alt="Universal Bangkok Open 9-Ball Championship 2026"> |
