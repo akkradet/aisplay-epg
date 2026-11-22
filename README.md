@@ -87,6 +87,9 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002171` | 518 | MUTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" height="30" alt="MUTV"> |
 | `ch0000000000100002181` | 519 | Real Madrid TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" height="30" alt="Real Madrid TV"> |
 | `ch0000000000100002701` | 521 | PLAY SPORTS BUNDESLIGA 521 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 521"> |
+| `ch0000000000100002721` | 522 | PLAY SPORTS BUNDESLIGA 522 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 522"> |
+| `ch0000000000100002742` | 526 | PLAY SPORTS BUNDESLIGA 526 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116131414088668.png" height="30" alt="PLAY SPORTS BUNDESLIGA 526"> |
+| `ch0000000000100002751` | 527 | PLAY SPORTS BUNDESLIGA 527 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116131414088668.png" height="30" alt="PLAY SPORTS BUNDESLIGA 527"> |
 | `ch0000000000100002401` | 551 | PLAY SPORTS BASKETBALL 551 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png" height="30" alt="PLAY SPORTS BASKETBALL 551"> |
 | `ch0000000000100002191` | 556 | PLAY SPORTS NFL 556 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116103111088651.png" height="30" alt="PLAY SPORTS NFL 556"> |
 | `ch0000000000100002511` | 561 | PLAY SPORTS PGA Tour 561 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105118088661.png" height="30" alt="PLAY SPORTS PGA Tour 561"> |
@@ -102,6 +105,28 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002041` | 651 | PLAY SPORTS BALLTHAI 651 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 651"> |
 | `ch0000000000100002052` | 652 | PLAY SPORTS BALLTHAI 652 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 652"> |
 | `ch0000000000100002091` | 653 | PLAY SPORTS BALLTHAI 653 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png" height="30" alt="PLAY SPORTS BALLTHAI 653"> |
+| `ch0000000000100002094` | 656 | PLAY SPORTS BALLTHAI 656 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 656"> |
+| `ch0000000000100002095` | 657 | PLAY SPORTS BALLTHAI 657 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 657"> |
+| `ch0000000000100002096` | 658 | PLAY SPORTS BALLTHAI 658 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 658"> |
+| `ch0000000000100002097` | 659 | PLAY SPORTS BALLTHAI 659 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png" height="30" alt="PLAY SPORTS BALLTHAI 659"> |
+| `ch0000000000100002311` | 661 | PLAY SPORTS BALLTHAI 661 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 661"> |
+| `ch0000000000100002312` | 662 | PLAY SPORTS BALLTHAI 662 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 662"> |
+| `ch0000000000100002313` | 663 | PLAY SPORTS BALLTHAI 663 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 663"> |
+| `ch0000000000100002314` | 664 | PLAY SPORTS BALLTHAI 664 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 664"> |
+| `ch0000000000100002321` | 665 | PLAY SPORTS BALLTHAI 665 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 665"> |
+| `ch0000000000100002322` | 666 | PLAY SPORTS BALLTHAI 666 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 666"> |
+| `ch0000000000100002323` | 667 | PLAY SPORTS BALLTHAI 667 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 667"> |
+| `ch0000000000100002324` | 668 | PLAY SPORTS BALLTHAI 668 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 668"> |
+| `ch0000000000100002331` | 669 | PLAY SPORTS BALLTHAI 669 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 669"> |
+| `ch0000000000100002341` | 670 | PLAY SPORTS BALLTHAI 670 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 670"> |
+| `ch0000000000100002325` | 671 | PLAY SPORTS BALLTHAI 671 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 671"> |
+| `ch0000000000100002326` | 672 | PLAY SPORTS BALLTHAI 672 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 672"> |
+| `ch0000000000100002327` | 673 | PLAY SPORTS BALLTHAI 673 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 673"> |
+| `ch0000000000100002328` | 674 | PLAY SPORTS BALLTHAI 674 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 674"> |
+| `ch0000000000100002329` | 675 | PLAY SPORTS BALLTHAI 675 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 675"> |
+| `ch0000000000100002330` | 676 | PLAY SPORTS BALLTHAI 676 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 676"> |
+| `ch0000000000100002351` | 677 | PLAY SPORTS BALLTHAI 677 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 677"> |
+| `ch0000000000100002471` | 678 | PLAY SPORTS BALLTHAI 678 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png" height="30" alt="PLAY SPORTS BALLTHAI 678"> |
 | `ch0000000000100001281` | 716 | ETV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" height="30" alt="ETV"> |
 | `ch0000000000100001298` | 801 | LunthungTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" height="30" alt="LunthungTV"> |
 | `ch0000000000100001311` | 802 | MVTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" height="30" alt="MVTV"> |
