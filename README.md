@@ -89,9 +89,7 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002701` | 521 | PLAY SPORTS BUNDESLIGA 521 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 521"> |
 | `ch0000000000100002401` | 551 | PLAY SPORTS BASKETBALL 551 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png" height="30" alt="PLAY SPORTS BASKETBALL 551"> |
 | `ch0000000000100002191` | 556 | PLAY SPORTS NFL 556 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116103111088651.png" height="30" alt="PLAY SPORTS NFL 556"> |
-| `ch0000000000100002252` | 558 | PLAY SPORTS NFL 558 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116103111088651.png" height="30" alt="PLAY SPORTS NFL 558"> |
 | `ch0000000000100002511` | 561 | PLAY SPORTS PGA Tour 561 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105118088661.png" height="30" alt="PLAY SPORTS PGA Tour 561"> |
-| `ch0000000000100002521` | 562 | PLAY SPORTS PGA Tour 562 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105118088661.png" height="30" alt="PLAY SPORTS PGA Tour 562"> |
 | `ch0000000000100002525` | 566 | PLAY SPORTS LPGA Tour 566 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116105738088662.png" height="30" alt="PLAY SPORTS LPGA Tour 566"> |
 | `ch0000000000100002528` | 569 | PLAY SPORTS DP World Tour 569 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116110237088663.png" height="30" alt="PLAY SPORTS DP World Tour 569"> |
 | `ch0000000000100001212` | 571 | Golf Plus | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251231235118035025.png" height="30" alt="Golf Plus"> |
