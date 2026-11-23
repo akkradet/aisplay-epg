@@ -33086,11 +33086,992 @@
   <programme channel="ch0000000000100001357" start="20261123054600 +0700" stop="20261123060000 +0700">
     <title>Arts24</title>
   </programme>
-  <programme channel="ch0000000000100001357" start="20261123060000 +0700" stop="20261124000000 +0700">
-    <title>France24</title>
+  <programme channel="ch0000000000100001357" start="20261123060000 +0700" stop="20261123061500 +0700">
+    <title>LIVE: News</title>
   </programme>
-  <programme channel="ch0000000000100001357" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title>France24</title>
+  <programme channel="ch0000000000100001357" start="20261123061500 +0700" stop="20261123062000 +0700">
+    <title>Entre Nous</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123062000 +0700" stop="20261123063000 +0700">
+    <title>Tech24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123063000 +0700" stop="20261123064500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123064500 +0700" stop="20261123070000 +0700">
+    <title>People And Profit</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123070000 +0700" stop="20261123071500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123071500 +0700" stop="20261123073000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123073000 +0700" stop="20261123074500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123074500 +0700" stop="20261123080000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123080000 +0700" stop="20261123081500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123081500 +0700" stop="20261123083000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123083000 +0700" stop="20261123084500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123084500 +0700" stop="20261123090000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123090000 +0700" stop="20261123091500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123091500 +0700" stop="20261123093000 +0700">
+    <title>Talking Europe</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123093000 +0700" stop="20261123094500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123094500 +0700" stop="20261123100000 +0700">
+    <title>Talking Europe</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123100000 +0700" stop="20261123101000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123101000 +0700" stop="20261123103000 +0700">
+    <title>Revisited</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123103000 +0700" stop="20261123104000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123104000 +0700" stop="20261123110000 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123110000 +0700" stop="20261123111500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123111500 +0700" stop="20261123113000 +0700">
+    <title>Across Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123113000 +0700" stop="20261123114500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123114500 +0700" stop="20261123120000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123120000 +0700" stop="20261123122000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123122000 +0700" stop="20261123123000 +0700">
+    <title>LIVE: Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123123000 +0700" stop="20261123125000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123125000 +0700" stop="20261123125100 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123125100 +0700" stop="20261123130000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123130000 +0700" stop="20261123132000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123132000 +0700" stop="20261123133000 +0700">
+    <title>LIVE: Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123133000 +0700" stop="20261123134500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123134500 +0700" stop="20261123135100 +0700">
+    <title>LIVE: Global Grid</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123135100 +0700" stop="20261123140000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123140000 +0700" stop="20261123142000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123142000 +0700" stop="20261123143000 +0700">
+    <title>Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123143000 +0700" stop="20261123144500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123144500 +0700" stop="20261123145000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123145000 +0700" stop="20261123145700 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123145700 +0700" stop="20261123150000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123150000 +0700" stop="20261123151500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123151500 +0700" stop="20261123152100 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123152100 +0700" stop="20261123153000 +0700">
+    <title>LIVE: Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123153000 +0700" stop="20261123154000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123154000 +0700" stop="20261123154500 +0700">
+    <title>LIVE: Perspective</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123154500 +0700" stop="20261123155000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123155000 +0700" stop="20261123160000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123160000 +0700" stop="20261123161500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123161500 +0700" stop="20261123163000 +0700">
+    <title>LIVE: Perspective</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123163000 +0700" stop="20261123164500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123164500 +0700" stop="20261123165000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123165000 +0700" stop="20261123170000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123170000 +0700" stop="20261123171500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123171500 +0700" stop="20261123171600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123171600 +0700" stop="20261123173000 +0700">
+    <title>Talking Europe</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123173000 +0700" stop="20261123174500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123174500 +0700" stop="20261123174600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123174600 +0700" stop="20261123175800 +0700">
+    <title>Access Asia</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123175800 +0700" stop="20261123180000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123180000 +0700" stop="20261123181500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123181500 +0700" stop="20261123181600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123181600 +0700" stop="20261123183000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123183000 +0700" stop="20261123184500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123184500 +0700" stop="20261123184600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123184600 +0700" stop="20261123185100 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123185100 +0700" stop="20261123190000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123190000 +0700" stop="20261123192200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123192200 +0700" stop="20261123193000 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123193000 +0700" stop="20261123194000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123194000 +0700" stop="20261123194500 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123194500 +0700" stop="20261123195100 +0700">
+    <title>LIVE: Down To Earth</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123195100 +0700" stop="20261123200000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123200000 +0700" stop="20261123201500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123201500 +0700" stop="20261123203000 +0700">
+    <title>LIVE: Culture</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123203000 +0700" stop="20261123204500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123204500 +0700" stop="20261123205700 +0700">
+    <title>Scoop</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123205700 +0700" stop="20261123210000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123210000 +0700" stop="20261123214200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123214200 +0700" stop="20261123215400 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123215400 +0700" stop="20261123220000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123220000 +0700" stop="20261123223000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123223000 +0700" stop="20261123224000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123224000 +0700" stop="20261123230000 +0700">
+    <title>Revisited</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123230000 +0700" stop="20261123231500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123231500 +0700" stop="20261123231600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123231600 +0700" stop="20261123233000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123233000 +0700" stop="20261123234500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123234500 +0700" stop="20261123234600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123234600 +0700" stop="20261123235200 +0700">
+    <title>French Connections</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123235200 +0700" stop="20261123235800 +0700">
+    <title>Fashion</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261123235800 +0700" stop="20261124000000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124000000 +0700" stop="20261124001500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124001500 +0700" stop="20261124003000 +0700">
+    <title>LIVE: Spotlight</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124003000 +0700" stop="20261124004500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124004500 +0700" stop="20261124005100 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124005100 +0700" stop="20261124010000 +0700">
+    <title>LIVE: Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124010000 +0700" stop="20261124011000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124011000 +0700" stop="20261124015300 +0700">
+    <title>LIVE: The Debate</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124015300 +0700" stop="20261124020000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124020000 +0700" stop="20261124022000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124022000 +0700" stop="20261124023000 +0700">
+    <title>LIVE: Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124023000 +0700" stop="20261124024500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124024500 +0700" stop="20261124025100 +0700">
+    <title>LIVE: Truth Or Fake</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124025100 +0700" stop="20261124030000 +0700">
+    <title>LIVE: Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124030000 +0700" stop="20261124032000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124032000 +0700" stop="20261124033000 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124033000 +0700" stop="20261124034000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124034000 +0700" stop="20261124040000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124040000 +0700" stop="20261124041500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124041500 +0700" stop="20261124042100 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124042100 +0700" stop="20261124043000 +0700">
+    <title>LIVE: Truth Or Fake</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124043000 +0700" stop="20261124043200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124043200 +0700" stop="20261124044400 +0700">
+    <title>LIVE: A Propos</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124044400 +0700" stop="20261124050000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124050000 +0700" stop="20261124051500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124051500 +0700" stop="20261124053000 +0700">
+    <title>Business + Truth Or Fake</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124053000 +0700" stop="20261124054500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124054500 +0700" stop="20261124055100 +0700">
+    <title>LIVE: Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124055100 +0700" stop="20261124060000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124060000 +0700" stop="20261124061000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124061000 +0700" stop="20261124065300 +0700">
+    <title>The Debate</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124065300 +0700" stop="20261124070000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124070000 +0700" stop="20261124071500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124071500 +0700" stop="20261124072000 +0700">
+    <title>Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124072000 +0700" stop="20261124073000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124073000 +0700" stop="20261124074500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124074500 +0700" stop="20261124080000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124080000 +0700" stop="20261124081500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124081500 +0700" stop="20261124083000 +0700">
+    <title>A Propos</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124083000 +0700" stop="20261124084500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124084500 +0700" stop="20261124090000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124090000 +0700" stop="20261124091000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124091000 +0700" stop="20261124095300 +0700">
+    <title>The Debate</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124095300 +0700" stop="20261124100000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124100000 +0700" stop="20261124101500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124101500 +0700" stop="20261124103000 +0700">
+    <title>Access Asia</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124103000 +0700" stop="20261124104500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124104500 +0700" stop="20261124110000 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124110000 +0700" stop="20261124111500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124111500 +0700" stop="20261124113000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124113000 +0700" stop="20261124114500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124114500 +0700" stop="20261124120000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124120000 +0700" stop="20261124122000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124122000 +0700" stop="20261124123000 +0700">
+    <title>LIVE: Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124123000 +0700" stop="20261124125000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124125000 +0700" stop="20261124125100 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124125100 +0700" stop="20261124130000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124130000 +0700" stop="20261124132000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124132000 +0700" stop="20261124133000 +0700">
+    <title>LIVE: Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124133000 +0700" stop="20261124134500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124134500 +0700" stop="20261124135100 +0700">
+    <title>LIVE: Global Grid</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124135100 +0700" stop="20261124140000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124140000 +0700" stop="20261124142000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124142000 +0700" stop="20261124143000 +0700">
+    <title>Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124143000 +0700" stop="20261124144500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124144500 +0700" stop="20261124145000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124145000 +0700" stop="20261124145700 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124145700 +0700" stop="20261124150000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124150000 +0700" stop="20261124151500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124151500 +0700" stop="20261124152100 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124152100 +0700" stop="20261124153000 +0700">
+    <title>LIVE: Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124153000 +0700" stop="20261124154000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124154000 +0700" stop="20261124154500 +0700">
+    <title>LIVE: Perspective</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124154500 +0700" stop="20261124155000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124155000 +0700" stop="20261124160000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124160000 +0700" stop="20261124161500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124161500 +0700" stop="20261124163000 +0700">
+    <title>LIVE: Perspective</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124163000 +0700" stop="20261124164500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124164500 +0700" stop="20261124165000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124165000 +0700" stop="20261124170000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124170000 +0700" stop="20261124171500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124171500 +0700" stop="20261124171600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124171600 +0700" stop="20261124173000 +0700">
+    <title>Talking Europe</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124173000 +0700" stop="20261124174500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124174500 +0700" stop="20261124174600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124174600 +0700" stop="20261124175200 +0700">
+    <title>The Observers</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124175200 +0700" stop="20261124175700 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124175700 +0700" stop="20261124180000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124180000 +0700" stop="20261124181500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124181500 +0700" stop="20261124181600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124181600 +0700" stop="20261124183000 +0700">
+    <title>LIVE: Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124183000 +0700" stop="20261124184500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124184500 +0700" stop="20261124184600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124184600 +0700" stop="20261124185100 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124185100 +0700" stop="20261124190000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124190000 +0700" stop="20261124192200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124192200 +0700" stop="20261124193000 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124193000 +0700" stop="20261124194000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124194000 +0700" stop="20261124194500 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124194500 +0700" stop="20261124195100 +0700">
+    <title>LIVE: Entre Nous</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124195100 +0700" stop="20261124200000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124200000 +0700" stop="20261124201500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124201500 +0700" stop="20261124203000 +0700">
+    <title>LIVE: Culture</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124203000 +0700" stop="20261124204500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124204500 +0700" stop="20261124205700 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124205700 +0700" stop="20261124210000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124210000 +0700" stop="20261124214200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124214200 +0700" stop="20261124215400 +0700">
+    <title>Talking Europe</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124215400 +0700" stop="20261124220000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124220000 +0700" stop="20261124223000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124223000 +0700" stop="20261124224500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124224500 +0700" stop="20261124230000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124230000 +0700" stop="20261124231500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124231500 +0700" stop="20261124231600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124231600 +0700" stop="20261124233000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124233000 +0700" stop="20261124234500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124234500 +0700" stop="20261124234600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124234600 +0700" stop="20261124235800 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261124235800 +0700" stop="20261125000000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125000000 +0700" stop="20261125001500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125001500 +0700" stop="20261125003000 +0700">
+    <title>LIVE: Spotlight</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125003000 +0700" stop="20261125004500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125004500 +0700" stop="20261125005100 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125005100 +0700" stop="20261125010000 +0700">
+    <title>LIVE: Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125010000 +0700" stop="20261125011000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125011000 +0700" stop="20261125015300 +0700">
+    <title>LIVE: The Debate</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125015300 +0700" stop="20261125020000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125020000 +0700" stop="20261125022000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125022000 +0700" stop="20261125023000 +0700">
+    <title>LIVE: Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125023000 +0700" stop="20261125024500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125024500 +0700" stop="20261125025100 +0700">
+    <title>LIVE: Truth Or Fake</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125025100 +0700" stop="20261125030000 +0700">
+    <title>LIVE: Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125030000 +0700" stop="20261125032000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125032000 +0700" stop="20261125033000 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125033000 +0700" stop="20261125034000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125034000 +0700" stop="20261125040000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125040000 +0700" stop="20261125041500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125041500 +0700" stop="20261125042100 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125042100 +0700" stop="20261125043000 +0700">
+    <title>LIVE: Truth Or Fake</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125043000 +0700" stop="20261125043200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125043200 +0700" stop="20261125044400 +0700">
+    <title>LIVE: A Propos</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125044400 +0700" stop="20261125050000 +0700">
+    <title>LIVE: Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125050000 +0700" stop="20261125051500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125051500 +0700" stop="20261125053000 +0700">
+    <title>Business + Truth Or Fake</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125053000 +0700" stop="20261125054500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125054500 +0700" stop="20261125055100 +0700">
+    <title>LIVE: Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125055100 +0700" stop="20261125060000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125060000 +0700" stop="20261125061000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125061000 +0700" stop="20261125065300 +0700">
+    <title>The Debate</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125065300 +0700" stop="20261125070000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125070000 +0700" stop="20261125071500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125071500 +0700" stop="20261125072000 +0700">
+    <title>Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125072000 +0700" stop="20261125073000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125073000 +0700" stop="20261125074500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125074500 +0700" stop="20261125080000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125080000 +0700" stop="20261125081500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125081500 +0700" stop="20261125083000 +0700">
+    <title>A Propos</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125083000 +0700" stop="20261125084500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125084500 +0700" stop="20261125090000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125090000 +0700" stop="20261125091000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125091000 +0700" stop="20261125095300 +0700">
+    <title>The Debate</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125095300 +0700" stop="20261125100000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125100000 +0700" stop="20261125101500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125101500 +0700" stop="20261125103000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125103000 +0700" stop="20261125104500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125104500 +0700" stop="20261125110000 +0700">
+    <title>Reporters</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125110000 +0700" stop="20261125111500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125111500 +0700" stop="20261125113000 +0700">
+    <title>Eye On Africa</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125113000 +0700" stop="20261125114500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125114500 +0700" stop="20261125120000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125120000 +0700" stop="20261125122000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125122000 +0700" stop="20261125123000 +0700">
+    <title>LIVE: Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125123000 +0700" stop="20261125125000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125125000 +0700" stop="20261125125100 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125125100 +0700" stop="20261125130000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125130000 +0700" stop="20261125132000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125132000 +0700" stop="20261125133000 +0700">
+    <title>LIVE: Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125133000 +0700" stop="20261125134500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125134500 +0700" stop="20261125135100 +0700">
+    <title>LIVE: Global Grid</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125135100 +0700" stop="20261125140000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125140000 +0700" stop="20261125142000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125142000 +0700" stop="20261125143000 +0700">
+    <title>Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125143000 +0700" stop="20261125144500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125144500 +0700" stop="20261125145000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125145000 +0700" stop="20261125145700 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125145700 +0700" stop="20261125150000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125150000 +0700" stop="20261125151500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125151500 +0700" stop="20261125152100 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125152100 +0700" stop="20261125153000 +0700">
+    <title>LIVE: Press Review</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125153000 +0700" stop="20261125154000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125154000 +0700" stop="20261125154500 +0700">
+    <title>LIVE: Perspective</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125154500 +0700" stop="20261125155000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125155000 +0700" stop="20261125160000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125160000 +0700" stop="20261125161500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125161500 +0700" stop="20261125163000 +0700">
+    <title>LIVE: Perspective</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125163000 +0700" stop="20261125164500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125164500 +0700" stop="20261125165000 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125165000 +0700" stop="20261125170000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125170000 +0700" stop="20261125171000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125171000 +0700" stop="20261125171100 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125171100 +0700" stop="20261125172600 +0700">
+    <title>Paris Des Arts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125172600 +0700" stop="20261125173000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125173000 +0700" stop="20261125174000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125174000 +0700" stop="20261125174100 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125174100 +0700" stop="20261125175800 +0700">
+    <title>Revisited</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125175800 +0700" stop="20261125180000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125180000 +0700" stop="20261125181500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125181500 +0700" stop="20261125181600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125181600 +0700" stop="20261125183000 +0700">
+    <title>LIVE: Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125183000 +0700" stop="20261125184500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125184500 +0700" stop="20261125184600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125184600 +0700" stop="20261125185100 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125185100 +0700" stop="20261125190000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125190000 +0700" stop="20261125192200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125192200 +0700" stop="20261125193000 +0700">
+    <title>LIVE: Business</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125193000 +0700" stop="20261125194000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125194000 +0700" stop="20261125194500 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125194500 +0700" stop="20261125195100 +0700">
+    <title>LIVE: Entre Nous</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125195100 +0700" stop="20261125200000 +0700">
+    <title>Sports</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125200000 +0700" stop="20261125201500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125201500 +0700" stop="20261125203000 +0700">
+    <title>LIVE: Culture</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125203000 +0700" stop="20261125204500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125204500 +0700" stop="20261125205700 +0700">
+    <title>The 51 Percent</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125205700 +0700" stop="20261125210000 +0700">
+    <title>LIVE: Headlines</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125210000 +0700" stop="20261125214200 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125214200 +0700" stop="20261125215400 +0700">
+    <title>Talking Europe</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125215400 +0700" stop="20261125220000 +0700">
+    <title>Short Cuts</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125220000 +0700" stop="20261125223000 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125223000 +0700" stop="20261125224500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125224500 +0700" stop="20261125230000 +0700">
+    <title>France In Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125230000 +0700" stop="20261125231500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125231500 +0700" stop="20261125231600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125231600 +0700" stop="20261125233000 +0700">
+    <title>Arts24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125233000 +0700" stop="20261125234500 +0700">
+    <title>LIVE: News</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125234500 +0700" stop="20261125234600 +0700">
+    <title>LIVE: Introduction</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125234600 +0700" stop="20261125235100 +0700">
+    <title>Tech24</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125235100 +0700" stop="20261125235600 +0700">
+    <title>Focus</title>
+  </programme>
+  <programme channel="ch0000000000100001357" start="20261125235600 +0700" stop="20261126000000 +0700">
+    <title>LIVE: Headlines</title>
   </programme>
   <programme channel="ch0000000000100001358" start="20261121235000 +0700" stop="20261122000000 +0700">
     <title>Fishing In The Museum Ep.8</title>
@@ -46007,6 +46988,326 @@
   <programme channel="ch0000000000100002530" start="20261123220000 +0700" stop="20261124000000 +0700">
     <title lang="th">รีรัน: รอบ 4: อเล็กซานเดอร์ ซเวเรฟ พบ ดานีอิล เมดเวเดฟ</title>
     <title lang="en">RERUN: SF: Alexander Zverev vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124000000 +0700" stop="20261124002000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124002000 +0700" stop="20261124004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ทอมมี่ พอล พบ กองแตง ฮาลิส</title>
+    <title lang="en">(HL) R16: Tommy Paul vs Quentin Halys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124004000 +0700" stop="20261124010000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124010000 +0700" stop="20261124030000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">RERUN: RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124030000 +0700" stop="20261124031500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124031500 +0700" stop="20261124033000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ โซเนโก พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) R16: Lorenzo Sonego vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124033000 +0700" stop="20261124040000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 15</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 15</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124040000 +0700" stop="20261124060000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: ฟลาวิโอ โคบอลลี พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">RERUN: RR: Flavio Cobolli vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124060000 +0700" stop="20261124061500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Daniil Medvedev vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124061500 +0700" stop="20261124063000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อาตูร์ ฟิลส์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Arthur Fils vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124063000 +0700" stop="20261124070000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 16</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 16</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124070000 +0700" stop="20261124090000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">RERUN: RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124090000 +0700" stop="20261124092000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เบน เชลตัน พบ อาตูร์ รินเดอร์เนค</title>
+    <title lang="en">(HL) R16: Ben Shelton vs Arthur Rinderknech</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124092000 +0700" stop="20261124094000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124094000 +0700" stop="20261124100000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124100000 +0700" stop="20261124120000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: RR: Alexander Zverev vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124120000 +0700" stop="20261124121500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เทย์เลอร์ ฟริตซ์ พบ คาเมรอน นอร์รี</title>
+    <title lang="en">(HL) R16: Taylor Fritz vs Cameron Norrie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124121500 +0700" stop="20261124123000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ฟลาวิโอ โคบอลลี พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Flavio Cobolli vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124123000 +0700" stop="20261124130000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 17</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 17</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124130000 +0700" stop="20261124150000 +0700">
+    <title lang="th">รีรัน: รอบ 16: มิโอมีร์ เคซมาโนวิช พบ โฮลเกอร์ รูเนอ</title>
+    <title lang="en">RERUN: R16: Miomir Kecmanovic vs Holger Rune</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124150000 +0700" stop="20261124152000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124152000 +0700" stop="20261124154000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ มูเซตติ พบ ลูก้า ฟาน อัสเช</title>
+    <title lang="en">(HL) R16: Lorenzo Musetti vs Luca Van Assche</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124154000 +0700" stop="20261124160000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124160000 +0700" stop="20261124180000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">RERUN: RR: Carlos Alcaraz vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124180000 +0700" stop="20261124181500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124181500 +0700" stop="20261124183000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซ์ มิเคลเซน พบ ฮวน มานูเอล เซรุนโดโล</title>
+    <title lang="en">(HL) R16: Alex Michelsen vs Juan Manuel Cerundolo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124183000 +0700" stop="20261124190000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 18</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 18</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124190000 +0700" stop="20261124210000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">RERUN: RR: Daniil Medvedev vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124210000 +0700" stop="20261124211500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Daniil Medvedev vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124211500 +0700" stop="20261124213000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: คาร์ลอส อัลคาราซ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) SF: Carlos Alcaraz vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124213000 +0700" stop="20261124220000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 19</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 19</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261124220000 +0700" stop="20261125000000 +0700">
+    <title lang="th">รีรัน: รอบ 4: คาร์ลอส อัลคาราซ พบ เบน เชลตัน</title>
+    <title lang="en">RERUN: SF: Carlos Alcaraz vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125000000 +0700" stop="20261125002000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ริงกี ฮิจิกาตะ พบ โทมัส มาร์ติน เอตเชแวร์รี</title>
+    <title lang="en">(HL) R16: Rinky Hijikata vs Tomas Martin Etcheverry</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125002000 +0700" stop="20261125004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: อเล็กซานเดอร์ ซเวเรฟ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) SF: Alexander Zverev vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125004000 +0700" stop="20261125010000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: อเล็กซานเดอร์ ซเวเรฟ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) Final: Alexander Zverev vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125010000 +0700" stop="20261125030000 +0700">
+    <title lang="th">รีรัน: รอบ 4: อเล็กซานเดอร์ ซเวเรฟ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">RERUN: SF: Alexander Zverev vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125030000 +0700" stop="20261125031500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ มูเซตติ พบ โทบี แซมูเอล</title>
+    <title lang="en">(HL) R16: Lorenzo Musetti vs Toby Samuel</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125031500 +0700" stop="20261125033000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125033000 +0700" stop="20261125040000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 20</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 20</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125040000 +0700" stop="20261125060000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซานเดอร์ ซเวเรฟ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: Final: Alexander Zverev vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125060000 +0700" stop="20261125061500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125061500 +0700" stop="20261125063000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: นูโน บอร์เกส พบ อิกนาซิโอ บูเซ</title>
+    <title lang="en">(HL) R16: Nuno Borges vs Ignacio Buse</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125063000 +0700" stop="20261125070000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 21</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 21</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125070000 +0700" stop="20261125090000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">RERUN: RR: Alexander Zverev vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125090000 +0700" stop="20261125092000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125092000 +0700" stop="20261125094000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Daniil Medvedev vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125094000 +0700" stop="20261125100000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ โซเนโก พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) R16: Lorenzo Sonego vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125100000 +0700" stop="20261125120000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: RR: Ben Shelton vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125120000 +0700" stop="20261125121500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อาตูร์ ฟิลส์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Arthur Fils vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125121500 +0700" stop="20261125123000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125123000 +0700" stop="20261125130000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 22</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 22</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125130000 +0700" stop="20261125150000 +0700">
+    <title lang="th">รีรัน: รอบ 16: ทอมมี่ พอล พบ กองแตง ฮาลิส</title>
+    <title lang="en">RERUN: R16: Tommy Paul vs Quentin Halys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125150000 +0700" stop="20261125152000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อาตูร์ ฟิลส์ พบ เทย์เลอร์ ฟริตซ์</title>
+    <title lang="en">(HL) R16: Arthur Fils vs Taylor Fritz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125152000 +0700" stop="20261125154000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ดานีอิล เมดเวเดฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Daniil Medvedev</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125154000 +0700" stop="20261125160000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ฟลาวิโอ โคบอลลี พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Flavio Cobolli vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125160000 +0700" stop="20261125180000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">RERUN: RR: Carlos Alcaraz vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125180000 +0700" stop="20261125181500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เทย์เลอร์ ฟริตซ์ พบ คาเมรอน นอร์รี</title>
+    <title lang="en">(HL) R16: Taylor Fritz vs Cameron Norrie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125181500 +0700" stop="20261125183000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125183000 +0700" stop="20261125190000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 23</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 23</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125190000 +0700" stop="20261125210000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">RERUN: RR: Daniil Medvedev vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125210000 +0700" stop="20261125211500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125211500 +0700" stop="20261125213000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ยาน-เลนนาร์ด สตรัฟฟ์ พบ แคสเปอร์ รุด</title>
+    <title lang="en">(HL) R16: Jan-Lennard Struff vs Casper Ruud</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125213000 +0700" stop="20261125220000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 24</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 24</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261125220000 +0700" stop="20261126000000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: อาตูร์ ฟิลส์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">RERUN: RR: Arthur Fils vs Rafael Jodar</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261121233000 +0700" stop="20261122014000 +0700">
