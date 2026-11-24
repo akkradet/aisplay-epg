@@ -415,11 +415,6 @@
     <display-name lang="en">PLAY SPORTS BALLTHAI 656</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
   </channel>
-  <channel id="ch0000000000100002095">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 657</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 657</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
-  </channel>
   <channel id="ch0000000000100001281">
     <display-name lang="th">กศน. (อีทีวี)</display-name>
     <display-name lang="en">ETV</display-name>
@@ -36667,8 +36662,7 @@
     <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
   </programme>
   <programme channel="ch0000000000100001841" start="20261124160000 +0700" stop="20261124170000 +0700">
-    <title>The Ingraham Angle</title>
-    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+    <title>Fox News @Night</title>
   </programme>
   <programme channel="ch0000000000100001841" start="20261124170000 +0700" stop="20261124180000 +0700">
     <title>Fox &amp; Friends First</title>
@@ -36757,8 +36751,7 @@
     <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
   </programme>
   <programme channel="ch0000000000100001841" start="20261125160000 +0700" stop="20261125170000 +0700">
-    <title>The Ingraham Angle</title>
-    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+    <title>Fox News @Night</title>
   </programme>
   <programme channel="ch0000000000100001841" start="20261125170000 +0700" stop="20261125180000 +0700">
     <title>Fox &amp; Friends First</title>
@@ -36847,12 +36840,10 @@
     <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
   </programme>
   <programme channel="ch0000000000100001841" start="20261126160000 +0700" stop="20261126170000 +0700">
-    <title>The Ingraham Angle</title>
-    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+    <title>Fox News @Night</title>
   </programme>
   <programme channel="ch0000000000100001841" start="20261126170000 +0700" stop="20261126180000 +0700">
-    <title>Fox &amp; Friends First</title>
-    <desc>FOX &amp; Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
+    <title>Jesse Watters Primetime</title>
   </programme>
   <programme channel="ch0000000000100001841" start="20261126180000 +0700" stop="20261126190000 +0700">
     <title>Fox &amp; Friends</title>
@@ -36867,14 +36858,13 @@
     <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
   </programme>
   <programme channel="ch0000000000100001841" start="20261126210000 +0700" stop="20261126220000 +0700">
-    <title>America's Newsroom</title>
+    <title>Fox News Live AM</title>
   </programme>
   <programme channel="ch0000000000100001841" start="20261126220000 +0700" stop="20261126230000 +0700">
-    <title>America's Newsroom</title>
+    <title>Fox News Live AM</title>
   </programme>
   <programme channel="ch0000000000100001841" start="20261126230000 +0700" stop="20261127000000 +0700">
-    <title>The Faulkner Focus</title>
-    <desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
+    <title>Fox News Live AM</title>
   </programme>
   <programme channel="ch0000000000100001891" start="20261122233000 +0700" stop="20261123000000 +0700">
     <title>THAILAND FROM ABOVE: PHUKET</title>
@@ -43067,6 +43057,71 @@
     <title lang="en">Highlight of the Week Thai League - Matchday 9</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002041" start="20261125000000 +0700" stop="20261125020000 +0700">
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ ระยอง เอฟซี</title>
+    <title lang="en">RERUN: BG Pathum United vs Rayong FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125020000 +0700" stop="20261125040000 +0700">
+    <title lang="th">รีรัน: โปลิศ เทโร เอฟซี พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Police Tero FC vs Chanthaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125040000 +0700" stop="20261125060000 +0700">
+    <title lang="th">รีรัน: มหาสารคาม ซีซี เอฟซี พบ พีที สตูล เอฟซี</title>
+    <title lang="en">RERUN: Mahasarakham CC vs PT Satun FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125060000 +0700" stop="20261125080000 +0700">
+    <title lang="th">รีรัน: เชียงใหม่ ยูไนเต็ด พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chiangmai United vs Nakhon Pathom United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125080000 +0700" stop="20261125100000 +0700">
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ เมืองทอง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Muangthong United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125100000 +0700" stop="20261125110000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 8</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125110000 +0700" stop="20261125130000 +0700">
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: Pattani FC vs Sukhothai FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125130000 +0700" stop="20261125150000 +0700">
+    <title lang="th">รีรัน: ชลบุรี เอฟซี พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: Chonburi FC vs Uthai Thani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125150000 +0700" stop="20261125160000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 10</title>
+    <title lang="en">Highlight of the Week Thai League 2 - Matchday 10</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125160000 +0700" stop="20261125180000 +0700">
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ พีที ประจวบ เอฟซี</title>
+    <title lang="en">RERUN: Ratchaburi FC vs PT Prachuap FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125180000 +0700" stop="20261125200000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: True Bangkok United vs Ayutthaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125200000 +0700" stop="20261125220000 +0700">
+    <title lang="th">รีรัน: บีจี ปทุม ยูไนเต็ด พบ ระยอง เอฟซี</title>
+    <title lang="en">RERUN: BG Pathum United vs Rayong FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261125220000 +0700" stop="20261126000000 +0700">
+    <title lang="th">รีรัน: พัทยา ยูไนเต็ด พบ เกษตรศาสตร์ เอฟซี</title>
+    <title lang="en">RERUN: Pattaya United vs Kasetsart FC</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002052" start="20261122220000 +0700" stop="20261123000000 +0700">
     <title lang="th">รีรัน: ฟูเทร่า ยูไนเต็ด พบ อยุธยา พีเค เอฟซี</title>
     <title lang="en">RERUN: Futera United vs Ayutthaya PK FC</title>
@@ -43192,6 +43247,66 @@
     <title lang="en">RERUN: Nakhon Si United vs Phuket Andaman FC</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002052" start="20261125000000 +0700" stop="20261125020000 +0700">
+    <title lang="th">รีรัน: อุดร-บ้านจั่น ยูไนเต็ด พบ ร้อยเอ็ด พีบี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Udon Banjan United vs Roi-Et PB United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125020000 +0700" stop="20261125040000 +0700">
+    <title lang="th">รีรัน: โคราช ซิตี้ พบ อีสาน ไฟท์เตอร์ เอฟซี</title>
+    <title lang="en">RERUN: Korat City vs Esan Fighter FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125040000 +0700" stop="20261125060000 +0700">
+    <title lang="th">รีรัน: ธนบุรี ยูไนเต็ด พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Thonburi United vs Buriram United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125060000 +0700" stop="20261125080000 +0700">
+    <title lang="th">รีรัน: อุดร-บ้านจั่น ยูไนเต็ด พบ ร้อยเอ็ด พีบี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Udon Banjan United vs Roi-Et PB United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125080000 +0700" stop="20261125100000 +0700">
+    <title lang="th">รีรัน: โคราช ซิตี้ พบ อีสาน ไฟท์เตอร์ เอฟซี</title>
+    <title lang="en">RERUN: Korat City vs Esan Fighter FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125100000 +0700" stop="20261125120000 +0700">
+    <title lang="th">รีรัน: พีที สตูล เอฟซี พบ ธนบุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: PT Satun FC vs Thonburi United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125120000 +0700" stop="20261125140000 +0700">
+    <title lang="th">รีรัน: ร้อยเอ็ด พีบี ยูไนเต็ด พบ ปัตตานี เอฟซี</title>
+    <title lang="en">RERUN: Roi-Et PB United vs Pattani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125140000 +0700" stop="20261125160000 +0700">
+    <title lang="th">รีรัน: ชาติตระการ ซิตี้ พบ เชียงใหม่ เอฟซี</title>
+    <title lang="en">RERUN: Chattrakan City vs Chiangmai FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125160000 +0700" stop="20261125180000 +0700">
+    <title lang="th">รีรัน: เขลางค์ ยูไนเต็ด พบ นอร์ทเทิร์น นครแม่สอด ยูไนเต็ด</title>
+    <title lang="en">RERUN: Khelang United vs Northern Nakhonmaesot United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125180000 +0700" stop="20261125200000 +0700">
+    <title lang="th">รีรัน: วิทยาลัยพิชญบัณฑิต พบ สุรินทร์ ซิตี้</title>
+    <title lang="en">RERUN: Pitchaya Bundit College vs Surin City</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125200000 +0700" stop="20261125220000 +0700">
+    <title lang="th">รีรัน: บ้านบึง เอฟซี พบ ฉะเชิงเทรา ไฮเทค เอฟซี</title>
+    <title lang="en">RERUN: Banbueng FC vs Chachoengsao Hi-Tek FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261125220000 +0700" stop="20261126000000 +0700">
+    <title lang="th">รีรัน: อยุธยา พีเค เอฟซี พบ พราม แบงค็อก</title>
+    <title lang="en">RERUN: Ayutthaya PK FC vs Prime Bangkok</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002094" start="20261123000000 +0700" stop="20261123235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
@@ -43238,56 +43353,6 @@
     <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002094" start="20261126200000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261123000000 +0700" stop="20261123235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261124000000 +0700" stop="20261124190000 +0700">
-    <title lang="th">เริ่มเวลา 19:00 นครปฐม พบ ชัยนาท ฮอร์นบิล (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 19:00 Nakhon Pathom vs Chainat Hornbill (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261124190000 +0700" stop="20261124210000 +0700">
-    <title lang="th">LIVE: นครปฐม พบ ชัยนาท ฮอร์นบิล (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Nakhon Pathom vs Chainat Hornbill (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261124210000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261125000000 +0700" stop="20261125180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 เกษตรศาสตร์ พบ แพร่ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Kasetsart vs Phrae (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261125180000 +0700" stop="20261125200000 +0700">
-    <title lang="th">LIVE: เกษตรศาสตร์ พบ แพร่ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Kasetsart vs Phrae (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261125200000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261126000000 +0700" stop="20261126190000 +0700">
-    <title lang="th">เริ่มเวลา 19:00 หนองบัว พิชญ พบ เมืองเลย (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 19:00 Nongbua Pitchaya vs Muang Loei (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261126190000 +0700" stop="20261126210000 +0700">
-    <title lang="th">LIVE: หนองบัว พิชญ พบ เมืองเลย (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Nongbua Pitchaya vs Muang Loei (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261126210000 +0700" stop="20261126235959 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>Football</category>
@@ -43378,31 +43443,27 @@
   </programme>
   <programme channel="ch0000000000100002171" start="20261123123000 +0700" stop="20261123130000 +0700">
     <title>Matchday Review: Liverpool (A)</title>
-    <desc>Special guests join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Phil Bardsley join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123130000 +0700" stop="20261123133000 +0700">
-    <title>U18s Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of the U18s game against Leeds United.</desc>
+    <title>U18s Highlights: Derby County (H) 26/27</title>
+    <desc>Highlights of the U18s game against Derby County.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261123133000 +0700" stop="20261123140000 +0700">
-    <title>UCL: United v Lyon 04/05</title>
-    <desc>United Archives 23/11/04. Sir Alex Ferguson's 1000th game in charge of the Reds against Lyon in the group stages of the Champions League.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261123140000 +0700" stop="20261123141500 +0700">
-    <title>Sir Alex Ferguson: Games of My Life</title>
-    <desc>With special thanks to Pan Macmillan. We present the full interview with Sir Alex Ferguson ahead of the launch of his new book, Games of My Life.</desc>
+  <programme channel="ch0000000000100002171" start="20261123133000 +0700" stop="20261123141500 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123141500 +0700" stop="20261123143000 +0700">
     <title>Top 20 European Away Goals</title>
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123143000 +0700" stop="20261123144500 +0700">
-    <title>Wayne Rooney: Exclusive Interview</title>
-    <desc>Wayne Rooney joins us to reflect on his time at the club spanning the epic period between 2005 and 2008. Kings of the World is available to buy now via United Store.</desc>
+    <title>Maya 150</title>
+    <desc>We sit down with women's team captain Maya Le Tissier for an exclusive interview as she makes her 150th appearance for United.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123144500 +0700" stop="20261123150000 +0700">
-    <title>Andrey Santos: Exclusive Interview</title>
-    <desc>We sit down for an exclusive interview with Andrey Santos as he reflects on his first few months as a Red.</desc>
+    <title>Old Trafford: Tom's Experience</title>
+    <desc>Tom has been blind his whole life. This is how he experiences, and enjoys, United at Old Trafford, with the help of audio descriptive commentary.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123150000 +0700" stop="20261123170000 +0700">
     <title>PL Match: Liverpool (A) 26/27</title>
@@ -43410,27 +43471,23 @@
   </programme>
   <programme channel="ch0000000000100002171" start="20261123170000 +0700" stop="20261123173000 +0700">
     <title>Matchday Review: Liverpool (A)</title>
-    <desc>Special guests join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Phil Bardsley join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123173000 +0700" stop="20261123174500 +0700">
-    <title>Wayne Rooney: Exclusive Interview</title>
-    <desc>Wayne Rooney joins us to reflect on his time at the club spanning the epic period between 2005 and 2008. Kings of the World is available to buy now via United Store.</desc>
+    <title>Top 20 League goals under Sir Alex</title>
+    <desc>To celebrate 40 years since the appointment of Sir Alex Ferguson, we count down the Top 20 league goals scored during his time as United manager.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123174500 +0700" stop="20261123180000 +0700">
-    <title>Top 20 Goals 2005/06</title>
-    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2005/06 season.</desc>
+    <title>Ella Toone: School Day</title>
+    <desc>Ella Toone inspires some young Reds with a visit to Parklee primary school.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123180000 +0700" stop="20261123181500 +0700">
-    <title>Top 20 Goals 2006/07</title>
-    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2006/07 season.</desc>
+    <title>Maya 150</title>
+    <desc>We sit down with women's team captain Maya Le Tissier for an exclusive interview as she makes her 150th appearance for United.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261123181500 +0700" stop="20261123183000 +0700">
-    <title>Top 20 Goals 2007/08</title>
-    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our infamous 2007/08 season.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261123183000 +0700" stop="20261123190000 +0700">
-    <title>UCL: United v Lyon 04/05</title>
-    <desc>United Archives 23/11/04. Sir Alex Ferguson's 1000th game in charge of the Reds against Lyon in the group stages of the Champions League.</desc>
+  <programme channel="ch0000000000100002171" start="20261123181500 +0700" stop="20261123190000 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123190000 +0700" stop="20261123210000 +0700">
     <title>PL Match: Liverpool (A) 26/27</title>
@@ -43438,11 +43495,19 @@
   </programme>
   <programme channel="ch0000000000100002171" start="20261123210000 +0700" stop="20261123213000 +0700">
     <title>Matchday Review: Liverpool (A)</title>
-    <desc>Special guests join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Phil Bardsley join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261123213000 +0700" stop="20261123230000 +0700">
-    <title>All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+  <programme channel="ch0000000000100002171" start="20261123213000 +0700" stop="20261123221500 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261123221500 +0700" stop="20261123223000 +0700">
+    <title>Mauricio Pochettino: The First Interview</title>
+    <desc>Mauricio Pochettino speaks exclusively to MUTV following his appointment as Manchester United head coach.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261123223000 +0700" stop="20261123230000 +0700">
+    <title>U18s Highlights: Derby County (H) 26/27</title>
+    <desc>Highlights of the U18s game against Derby County.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123230000 +0700" stop="20261124010000 +0700">
     <title>PL Match: Liverpool (A) 26/27</title>
@@ -43450,7 +43515,7 @@
   </programme>
   <programme channel="ch0000000000100002171" start="20261124010000 +0700" stop="20261124013000 +0700">
     <title>Matchday Review: Liverpool (A)</title>
-    <desc>Special guests join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Phil Bardsley join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261124013000 +0700" stop="20261124020000 +0700">
     <title>U18s Highlights: Derby County (H) 26/27</title>
@@ -43470,7 +43535,7 @@
   </programme>
   <programme channel="ch0000000000100002171" start="20261124050000 +0700" stop="20261124053000 +0700">
     <title>Matchday Review: Liverpool (A)</title>
-    <desc>Special guests join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Phil Bardsley join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261124053000 +0700" stop="20261124060000 +0700">
     <title>U18s Highlights: Derby County (H) 26/27</title>
@@ -43490,35 +43555,55 @@
   </programme>
   <programme channel="ch0000000000100002171" start="20261124090000 +0700" stop="20261124093000 +0700">
     <title>Matchday Review: Liverpool (A)</title>
-    <desc>Special guests join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Phil Bardsley join us to discuss our Premier League match against Liverpool, plus exclusive post-match interviews.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124093000 +0700" stop="20261124110000 +0700">
-    <title>All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+  <programme channel="ch0000000000100002171" start="20261124093000 +0700" stop="20261124101500 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124110000 +0700" stop="20261124113000 +0700">
-    <title>PL Highlights: Ipswich Town (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
+  <programme channel="ch0000000000100002171" start="20261124101500 +0700" stop="20261124103000 +0700">
+    <title>Mauricio Pochettino: The First Interview</title>
+    <desc>Mauricio Pochettino speaks exclusively to MUTV following his appointment as Manchester United head coach.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124113000 +0700" stop="20261124120000 +0700">
-    <title>PL Highlights: Everton (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Everton.</desc>
+  <programme channel="ch0000000000100002171" start="20261124103000 +0700" stop="20261124110000 +0700">
+    <title>U18s Highlights: Derby County (H) 26/27</title>
+    <desc>Highlights of the U18s game against Derby County.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124120000 +0700" stop="20261124123000 +0700">
-    <title>PL Highlights: Fulham (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Fulham.</desc>
+  <programme channel="ch0000000000100002171" start="20261124110000 +0700" stop="20261124111500 +0700">
+    <title>Mauricio Pochettino: The First Interview</title>
+    <desc>Mauricio Pochettino speaks exclusively to MUTV following his appointment as Manchester United head coach.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124123000 +0700" stop="20261124130000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
+  <programme channel="ch0000000000100002171" start="20261124111500 +0700" stop="20261124113000 +0700">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
+    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124113000 +0700" stop="20261124115000 +0700">
+    <title>A Day in the Life: Andrea Medina</title>
+    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124115000 +0700" stop="20261124121000 +0700">
+    <title>A Day in the Life: Monica Jusu Bah</title>
+    <desc>We're back with another edition of Day in the Life, as we get to know our Swedish forward Monica Jusu Bah.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124121000 +0700" stop="20261124123000 +0700">
+    <title>A Day in the Life: Maya Le Tissier</title>
+    <desc>Get to know our women's team captain Maya Le Tissier in the latest episode of A Day in the Life.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124123000 +0700" stop="20261124124500 +0700">
+    <title>Top 20 Cristiano Ronaldo Goals</title>
+    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124124500 +0700" stop="20261124130000 +0700">
+    <title>Top 20 Bruno Fernandes Goals</title>
+    <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261124130000 +0700" stop="20261124133000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261124133000 +0700" stop="20261124140000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261124140000 +0700" stop="20261124143000 +0700">
     <title>PL Highlights: Aston Villa (H) 26/27</title>
@@ -43529,116 +43614,124 @@
     <desc>Highlights of our Premier League match against Liverpool.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261124150000 +0700" stop="20261124151500 +0700">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
+    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124151500 +0700" stop="20261124153500 +0700">
+    <title>A Day in the Life: Andrea Medina</title>
+    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124153500 +0700" stop="20261124155500 +0700">
+    <title>A Day in the Life: Monica Jusu Bah</title>
+    <desc>We're back with another edition of Day in the Life, as we get to know our Swedish forward Monica Jusu Bah.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124155500 +0700" stop="20261124161500 +0700">
+    <title>A Day in the Life: Maya Le Tissier</title>
+    <desc>Get to know our women's team captain Maya Le Tissier in the latest episode of A Day in the Life.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124161500 +0700" stop="20261124163000 +0700">
     <title>Top 20 Goals by Portuguese Reds</title>
     <desc>We take a look at some of the best goals scored by our Reds from Portugal in our Top 20 countdown.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124151500 +0700" stop="20261124153000 +0700">
-    <title>Top 20 Cristiano Ronaldo Goals</title>
-    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
+  <programme channel="ch0000000000100002171" start="20261124163000 +0700" stop="20261124170000 +0700">
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124153000 +0700" stop="20261124154500 +0700">
-    <title>Top 20 Bruno Fernandes Goals</title>
-    <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
+  <programme channel="ch0000000000100002171" start="20261124170000 +0700" stop="20261124174500 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124154500 +0700" stop="20261124160000 +0700">
+  <programme channel="ch0000000000100002171" start="20261124174500 +0700" stop="20261124180000 +0700">
     <title>Top 20 European Away Goals</title>
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124160000 +0700" stop="20261124161500 +0700">
-    <title>Sir Alex Ferguson: Games of My Life</title>
-    <desc>With special thanks to Pan Macmillan. We present the full interview with Sir Alex Ferguson ahead of the launch of his new book, Games of My Life.</desc>
+  <programme channel="ch0000000000100002171" start="20261124180000 +0700" stop="20261124184500 +0700">
+    <title>Live: Inside Training: Sporting CP (A)</title>
+    <desc>Join us for live from Carrington as we prepare for our UEFA Champions League match against Sporting CP.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124161500 +0700" stop="20261124163000 +0700">
-    <title>Terland: Being a fan</title>
-    <desc>We sit down with Elisabeth Terland as she discusses family, playing at Old Trafford and growing up as a United fan.</desc>
+  <programme channel="ch0000000000100002171" start="20261124184500 +0700" stop="20261124190000 +0700">
+    <title>Top 20 Cristiano Ronaldo Goals</title>
+    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124163000 +0700" stop="20261124170000 +0700">
-    <title>U18s Highlights: Derby County (H) 26/27</title>
-    <desc>Highlights of the U18s game against Derby County.</desc>
+  <programme channel="ch0000000000100002171" start="20261124190000 +0700" stop="20261124192000 +0700">
+    <title>A Day in the Life: Andrea Medina</title>
+    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124170000 +0700" stop="20261124173000 +0700">
+  <programme channel="ch0000000000100002171" start="20261124192000 +0700" stop="20261124194000 +0700">
+    <title>A Day in the Life: Monica Jusu Bah</title>
+    <desc>We're back with another edition of Day in the Life, as we get to know our Swedish forward Monica Jusu Bah.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124194000 +0700" stop="20261124200000 +0700">
+    <title>A Day in the Life: Maya Le Tissier</title>
+    <desc>Get to know our women's team captain Maya Le Tissier in the latest episode of A Day in the Life.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124200000 +0700" stop="20261124204500 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124204500 +0700" stop="20261124210000 +0700">
+    <title>Mauricio Pochettino: The First Interview</title>
+    <desc>Mauricio Pochettino speaks exclusively to MUTV following his appointment as Manchester United head coach.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124210000 +0700" stop="20261124213000 +0700">
     <title>UCL Highlights: Sabah FK (H) 26/27</title>
     <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124173000 +0700" stop="20261124180000 +0700">
+  <programme channel="ch0000000000100002171" start="20261124213000 +0700" stop="20261124220000 +0700">
     <title>UCL Highlights: Roma (H) 26/27</title>
     <desc>Highlights of the UEFA Champions League game against Roma.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124180000 +0700" stop="20261124181500 +0700">
+  <programme channel="ch0000000000100002171" start="20261124220000 +0700" stop="20261124223000 +0700">
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124223000 +0700" stop="20261124224500 +0700">
     <title>Top 20 Goals by Portuguese Reds</title>
     <desc>We take a look at some of the best goals scored by our Reds from Portugal in our Top 20 countdown.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124181500 +0700" stop="20261124183000 +0700">
-    <title>Top 20 Cristiano Ronaldo Goals</title>
-    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
+  <programme channel="ch0000000000100002171" start="20261124224500 +0700" stop="20261124230000 +0700">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
+    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124183000 +0700" stop="20261124184500 +0700">
-    <title>Top 20 Bruno Fernandes Goals</title>
-    <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
+  <programme channel="ch0000000000100002171" start="20261124230000 +0700" stop="20261124232000 +0700">
+    <title>A Day in the Life: Andrea Medina</title>
+    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124184500 +0700" stop="20261124190000 +0700">
+  <programme channel="ch0000000000100002171" start="20261124232000 +0700" stop="20261124234000 +0700">
+    <title>A Day in the Life: Monica Jusu Bah</title>
+    <desc>We're back with another edition of Day in the Life, as we get to know our Swedish forward Monica Jusu Bah.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261124234000 +0700" stop="20261125000000 +0700">
+    <title>A Day in the Life: Maya Le Tissier</title>
+    <desc>Get to know our women's team captain Maya Le Tissier in the latest episode of A Day in the Life.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261125000000 +0700" stop="20261125001500 +0700">
     <title>Top 20 European Away Goals</title>
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124190000 +0700" stop="20261124210000 +0700">
-    <title>PL Match: Liverpool (A) 26/27</title>
-    <desc>Full coverage of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261125001500 +0700" stop="20261125003000 +0700">
+    <title>Top 20 Cristiano Ronaldo Goals</title>
+    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124210000 +0700" stop="20261124213000 +0700">
-    <title>PL Highlights: Ipswich Town (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
+  <programme channel="ch0000000000100002171" start="20261125003000 +0700" stop="20261125011500 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124213000 +0700" stop="20261124220000 +0700">
-    <title>PL Highlights: Everton (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Everton.</desc>
+  <programme channel="ch0000000000100002171" start="20261125011500 +0700" stop="20261125013000 +0700">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
+    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261124220000 +0700" stop="20261124223000 +0700">
-    <title>PL Highlights: Fulham (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Fulham.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261124223000 +0700" stop="20261124230000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261124230000 +0700" stop="20261124233000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261124233000 +0700" stop="20261125000000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125000000 +0700" stop="20261125003000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125003000 +0700" stop="20261125010000 +0700">
-    <title>PL Highlights: Liverpool (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125010000 +0700" stop="20261125011500 +0700">
-    <title>Terland: Being a fan</title>
-    <desc>We sit down with Elisabeth Terland as she discusses family, playing at Old Trafford and growing up as a United fan.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125011500 +0700" stop="20261125014500 +0700">
-    <title>U18s Highlights: Derby County (H) 26/27</title>
-    <desc>Highlights of the U18s game against Derby County.</desc>
+  <programme channel="ch0000000000100002171" start="20261125013000 +0700" stop="20261125014500 +0700">
+    <title>Ella Toone: School Day</title>
+    <desc>Ella Toone inspires some young Reds with a visit to Parklee primary school.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125014500 +0700" stop="20261125020000 +0700">
     <title>Top 20 Goals by Portuguese Reds</title>
     <desc>We take a look at some of the best goals scored by our Reds from Portugal in our Top 20 countdown.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125020000 +0700" stop="20261125021500 +0700">
-    <title>Top 20 Cristiano Ronaldo Goals</title>
-    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125021500 +0700" stop="20261125023000 +0700">
-    <title>Top 20 Bruno Fernandes Goals</title>
-    <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125023000 +0700" stop="20261125024500 +0700">
-    <title>Press Conference: Sporting CP (A)</title>
-    <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
+  <programme channel="ch0000000000100002171" start="20261125020000 +0700" stop="20261125024500 +0700">
+    <title>Live: Press Conference: Sporting CP (A)</title>
+    <desc>Live press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125024500 +0700" stop="20261125030000 +0700">
     <title>Top 20 European Away Goals</title>
@@ -43664,21 +43757,13 @@
     <title>Top 20 Bruno Fernandes Goals</title>
     <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125044500 +0700" stop="20261125050000 +0700">
+  <programme channel="ch0000000000100002171" start="20261125044500 +0700" stop="20261125051500 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125050000 +0700" stop="20261125051500 +0700">
-    <title>Top 20 European Away Goals</title>
-    <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125051500 +0700" stop="20261125054500 +0700">
-    <title>PL Highlights: Liverpool (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Liverpool.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125054500 +0700" stop="20261125060000 +0700">
-    <title>Top 20 Goals by Portuguese Reds</title>
-    <desc>We take a look at some of the best goals scored by our Reds from Portugal in our Top 20 countdown.</desc>
+  <programme channel="ch0000000000100002171" start="20261125051500 +0700" stop="20261125060000 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125060000 +0700" stop="20261125061500 +0700">
     <title>Top 20 Cristiano Ronaldo Goals</title>
@@ -43688,45 +43773,45 @@
     <title>Top 20 Bruno Fernandes Goals</title>
     <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125063000 +0700" stop="20261125064500 +0700">
+  <programme channel="ch0000000000100002171" start="20261125063000 +0700" stop="20261125070000 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125064500 +0700" stop="20261125070000 +0700">
+  <programme channel="ch0000000000100002171" start="20261125070000 +0700" stop="20261125073000 +0700">
+    <title>UCL Highlights: Sabah FK (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261125073000 +0700" stop="20261125080000 +0700">
+    <title>UCL Highlights: Roma (H) 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261125080000 +0700" stop="20261125083000 +0700">
+    <title>Press Conference: Sporting CP (A)</title>
+    <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261125083000 +0700" stop="20261125090000 +0700">
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261125090000 +0700" stop="20261125091500 +0700">
     <title>Top 20 European Away Goals</title>
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125070000 +0700" stop="20261125073000 +0700">
-    <title>PL Highlights: Ipswich Town (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125073000 +0700" stop="20261125080000 +0700">
-    <title>PL Highlights: Everton (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Everton.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125080000 +0700" stop="20261125083000 +0700">
-    <title>PL Highlights: Fulham (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Fulham.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125083000 +0700" stop="20261125090000 +0700">
-    <title>PL Highlights: Tottenham (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Tottenham Hotspur.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125090000 +0700" stop="20261125093000 +0700">
-    <title>PL Highlights: Leeds (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Leeds United.</desc>
+  <programme channel="ch0000000000100002171" start="20261125091500 +0700" stop="20261125093000 +0700">
+    <title>Top 20 Goals by Portuguese Reds</title>
+    <desc>We take a look at some of the best goals scored by our Reds from Portugal in our Top 20 countdown.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125093000 +0700" stop="20261125100000 +0700">
-    <title>PL Highlights: Chelsea (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Chelsea.</desc>
+    <title>Press Conference: Sporting CP (A)</title>
+    <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125100000 +0700" stop="20261125103000 +0700">
-    <title>PL Highlights: Aston Villa (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Aston Villa.</desc>
+  <programme channel="ch0000000000100002171" start="20261125100000 +0700" stop="20261125101500 +0700">
+    <title>Ella Toone: School Day</title>
+    <desc>Ella Toone inspires some young Reds with a visit to Parklee primary school.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125103000 +0700" stop="20261125110000 +0700">
-    <title>PL Highlights: Liverpool (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261125101500 +0700" stop="20261125110000 +0700">
+    <title>Inside Carrington - Ander Herrera</title>
+    <desc>Ander Herrera joins us on Inside Carrington, discussing his time playing under Mauricio Pochettino and what fans can expect from our new Head Coach.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125110000 +0700" stop="20261125113000 +0700">
     <title>UCL Highlights: Sabah FK (H) 26/27</title>
@@ -43736,13 +43821,9 @@
     <title>UCL Highlights: Roma (H) 26/27</title>
     <desc>Highlights of the UEFA Champions League game against Roma.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125120000 +0700" stop="20261125121500 +0700">
+  <programme channel="ch0000000000100002171" start="20261125120000 +0700" stop="20261125123000 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125121500 +0700" stop="20261125123000 +0700">
-    <title>Top 20 Goals by Portuguese Reds</title>
-    <desc>We take a look at some of the best goals scored by our Reds from Portugal in our Top 20 countdown.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125123000 +0700" stop="20261125124500 +0700">
     <title>Top 20 Cristiano Ronaldo Goals</title>
@@ -43752,13 +43833,9 @@
     <title>Top 20 Bruno Fernandes Goals</title>
     <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125130000 +0700" stop="20261125131500 +0700">
+  <programme channel="ch0000000000100002171" start="20261125130000 +0700" stop="20261125133000 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125131500 +0700" stop="20261125133000 +0700">
-    <title>Top 20 European Away Goals</title>
-    <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125133000 +0700" stop="20261125134500 +0700">
     <title>Terland: Being a fan</title>
@@ -43796,13 +43873,9 @@
     <title>Top 20 Bruno Fernandes Goals</title>
     <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125164500 +0700" stop="20261125170000 +0700">
+  <programme channel="ch0000000000100002171" start="20261125164500 +0700" stop="20261125171500 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125170000 +0700" stop="20261125171500 +0700">
-    <title>Top 20 European Away Goals</title>
-    <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125171500 +0700" stop="20261125173000 +0700">
     <title>Terland: Being a fan</title>
@@ -43836,13 +43909,9 @@
     <title>Top 20 European Away Goals</title>
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261125201500 +0700" stop="20261125203000 +0700">
+  <programme channel="ch0000000000100002171" start="20261125201500 +0700" stop="20261125204500 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261125203000 +0700" stop="20261125204500 +0700">
-    <title>Top 20 Cristiano Ronaldo Goals</title>
-    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125204500 +0700" stop="20261125205500 +0700">
     <title>Top 20 Goals by Defenders</title>
@@ -43864,13 +43933,9 @@
     <title>Top 20 Goals by Portuguese Reds</title>
     <desc>We take a look at some of the best goals scored by our Reds from Portugal in our Top 20 countdown.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261126000000 +0700" stop="20261126001500 +0700">
+  <programme channel="ch0000000000100002171" start="20261126000000 +0700" stop="20261126003000 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
-  </programme>
-  <programme channel="ch0000000000100002171" start="20261126001500 +0700" stop="20261126003000 +0700">
-    <title>Top 20 Cristiano Ronaldo Goals</title>
-    <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126003000 +0700" stop="20261126010000 +0700">
     <title>UCL Highlights: Roma (H) 26/27</title>
@@ -43884,25 +43949,21 @@
     <title>Top 20 Bruno Fernandes Goals</title>
     <desc>We take a look at some of our Portuguese magnifico's greatest goals in our latest Top 20 countdown, in partnership with Casillero del Diablo.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261126013000 +0700" stop="20261126014500 +0700">
+  <programme channel="ch0000000000100002171" start="20261126013000 +0700" stop="20261126020000 +0700">
     <title>Press Conference: Sporting CP (A)</title>
     <desc>Pre-match press conference ahead of our UEFA Champions League match against Sporting CP.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261126014500 +0700" stop="20261126020000 +0700">
-    <title>Top 20 European Away Goals</title>
-    <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
-  </programme>
   <programme channel="ch0000000000100002171" start="20261126020000 +0700" stop="20261126030000 +0700">
     <title>Matchday Live: Sporting CP (A)</title>
-    <desc>Special guests join us for exclusive build-up to our UEFA Champions League match against Sporting CP.</desc>
+    <desc>Wes Brown and Dion Dublin join us for exclusive build-up to our UEFA Champions League match against Sporting CP.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126030000 +0700" stop="20261126050000 +0700">
     <title>Matchday Live: Radio commentary: Sporting CP (A)</title>
-    <desc>Live commentary from Liam Bradford and Ben Thornley. Join us at half-time for first-half analysis from our special guests.</desc>
+    <desc>Live commentary from Liam Bradford and Ben Thornley. Join us at half-time for first-half analysis from Wes Brown and Dion Dublin.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126050000 +0700" stop="20261126053000 +0700">
     <title>Live: Matchday Review: Sporting CP (A)</title>
-    <desc>Special guests join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Dion Dublin join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126053000 +0700" stop="20261126054500 +0700">
     <title>Top 20 Cristiano Ronaldo Goals</title>
@@ -43914,19 +43975,23 @@
   </programme>
   <programme channel="ch0000000000100002171" start="20261126060000 +0700" stop="20261126063000 +0700">
     <title>Matchday Review: Sporting CP (A)</title>
-    <desc>Special guests join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Dion Dublin join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126063000 +0700" stop="20261126070000 +0700">
-    <title>U19s Highlights: Sporting v United</title>
+    <title>U19s Highlights: Sporting CP v United</title>
     <desc>Highlights of the U19s UEFA Youth League match against Sporting CP.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261126070000 +0700" stop="20261126090000 +0700">
-    <title>PL Match: Liverpool (A) 26/27</title>
-    <desc>Full coverage of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261126070000 +0700" stop="20261126084500 +0700">
+    <title>UCL Match: Roma (H) 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261126084500 +0700" stop="20261126090000 +0700">
+    <title>Terland: Being a fan</title>
+    <desc>We sit down with Elisabeth Terland as she discusses family, playing at Old Trafford and growing up as a United fan.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126090000 +0700" stop="20261126093000 +0700">
     <title>Matchday Review: Sporting CP (A)</title>
-    <desc>Special guests join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Dion Dublin join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126093000 +0700" stop="20261126094500 +0700">
     <title>Sir Alex Ferguson: Games of My Life</title>
@@ -43937,11 +44002,11 @@
     <desc>To mark his 40th birthday, we've ranked Cristiano Ronaldo's greatest goals for United.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126100000 +0700" stop="20261126103000 +0700">
-    <title>U18s Highlights: Derby County (H) 26/27</title>
-    <desc>Highlights of the U18s game against Derby County.</desc>
+    <title>WLC Highlights: Everton (H) 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Everton.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126103000 +0700" stop="20261126110000 +0700">
-    <title>U19s Highlights: Sporting v United</title>
+    <title>U19s Highlights: Sporting CP v United</title>
     <desc>Highlights of the U19s UEFA Youth League match against Sporting CP.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126110000 +0700" stop="20261126113000 +0700">
@@ -43964,13 +44029,17 @@
     <title>What I Wore: Eric Cantona</title>
     <desc>United legend Eric Cantona reflects on his iconic career with Andrew Mensah, as the mercurial Frenchman takes a look at some of his favourite classic kits with BT Sport.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261126150000 +0700" stop="20261126170000 +0700">
-    <title>PL Match: Liverpool (A) 26/27</title>
-    <desc>Full coverage of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261126150000 +0700" stop="20261126164500 +0700">
+    <title>UCL Match: Roma (H) 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261126164500 +0700" stop="20261126170000 +0700">
+    <title>Ella Toone: School Day</title>
+    <desc>Ella Toone inspires some young Reds with a visit to Parklee primary school.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126170000 +0700" stop="20261126173000 +0700">
     <title>Matchday Review: Sporting CP (A)</title>
-    <desc>Special guests join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Dion Dublin join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126173000 +0700" stop="20261126180000 +0700">
     <title>All The Goals: Cantona</title>
@@ -43980,13 +44049,17 @@
     <title>Cantona: Reflections Of An Artist</title>
     <desc>20 years since King Eric left Old Trafford, this special documentary looks back at Cantona's impact at the club. Featuring exclusive interviews with the man himself.</desc>
   </programme>
-  <programme channel="ch0000000000100002171" start="20261126190000 +0700" stop="20261126210000 +0700">
-    <title>PL Match: Liverpool (A) 26/27</title>
-    <desc>Full coverage of our Premier League match against Liverpool.</desc>
+  <programme channel="ch0000000000100002171" start="20261126190000 +0700" stop="20261126204500 +0700">
+    <title>UCL Match: Roma (H) 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Roma.</desc>
+  </programme>
+  <programme channel="ch0000000000100002171" start="20261126204500 +0700" stop="20261126210000 +0700">
+    <title>Terland: Being a fan</title>
+    <desc>We sit down with Elisabeth Terland as she discusses family, playing at Old Trafford and growing up as a United fan.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126210000 +0700" stop="20261126213000 +0700">
     <title>Matchday Review: Sporting CP (A)</title>
-    <desc>Special guests join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
+    <desc>Wes Brown and Dion Dublin join us to discuss our UEFA Champions League match against Sporting CP, plus exclusive post-match interviews.</desc>
   </programme>
   <programme channel="ch0000000000100002171" start="20261126213000 +0700" stop="20261126223000 +0700">
     <title>La Philosophie de Cantona: The Rebel Speaks</title>
@@ -44044,15 +44117,23 @@
     <title>Liga 26/27: Real Racing Club vs Real Madrid</title>
     <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261123143000 +0700" stop="20261123160000 +0700">
+  <programme channel="ch0000000000100002181" start="20261123143000 +0700" stop="20261123170000 +0700">
     <title>Champions League Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261123160000 +0700" stop="20261123183000 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
+  <programme channel="ch0000000000100002181" start="20261123170000 +0700" stop="20261123173000 +0700">
+    <title>Live Training</title>
+    <desc>Catch the regular first team training pre-match.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261123183000 +0700" stop="20261123211500 +0700">
+  <programme channel="ch0000000000100002181" start="20261123173000 +0700" stop="20261123190000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261123190000 +0700" stop="20261123194500 +0700">
+    <title>Live: Press Conference Champions League</title>
+    <desc>Real Madrid´s coach and a player give their pre-match press conference</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261123194500 +0700" stop="20261123211500 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
@@ -44217,8 +44298,8 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261126060000 +0700" stop="20261126081500 +0700">
-    <title>TBC: Liga 26/27: Real Madrid vs Celta</title>
-    <desc>TBC: Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
+    <title>Liga 26/27: Real Madrid vs Celta</title>
+    <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261126081500 +0700" stop="20261126083000 +0700">
     <title>Real Madrid News</title>
@@ -44580,9 +44661,84 @@
     <title lang="en">RERUN: Rajadamnern Knockout (01 May 2026)</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002261" start="20261125010000 +0700" stop="20261125040000 +0700">
+  <programme channel="ch0000000000100002261" start="20261125010000 +0700" stop="20261125035000 +0700">
     <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (24 พฤศจิกายน 2026)</title>
     <title lang="en">RERUN: Rajadamnern Knockout (24 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261125035000 +0700" stop="20261125080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (04 พฤษภาคม 2026) - คู่ที่ 5</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (04 May 2026) - Match 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261125080000 +0700" stop="20261125105000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (24 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (24 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261125105000 +0700" stop="20261125150000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (08 พฤษภาคม 2026) - คู่ที่ 7</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (08 May 2026) - Match 7</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261125150000 +0700" stop="20261125175000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (24 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (24 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261125175000 +0700" stop="20261125180000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (16 มิถุนายน 2026) - คู่ที่ 4</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (16 June 2026) - Match 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261125180000 +0700" stop="20261125200000 +0700">
+    <title lang="th">LIVE: ศึกมวยไทยพลังใหม่ (25 พฤศจิกายน 2026)</title>
+    <title lang="en">LIVE: New Power (25 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261125200000 +0700" stop="20261126010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (16 มิถุนายน 2026) - คู่ที่ 5</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (16 June 2026) - Match 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126010000 +0700" stop="20261126035000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (24 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (24 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126035000 +0700" stop="20261126080000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (23 มิถุนายน 2026) - คู่ที่ 4</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (23 June 2026) - Match 4</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126080000 +0700" stop="20261126105000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (23 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (23 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126105000 +0700" stop="20261126150000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (29 มิถุนายน 2026) - คู่ที่ 6</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (29 June 2026) - Match 6</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126150000 +0700" stop="20261126173500 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (20 พฤศจิกายน 2026)</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (20 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126173500 +0700" stop="20261126180000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (03 กรกฎาคม 2026) - คู่ที่ 5</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (03 July 2026) - Match 5</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126180000 +0700" stop="20261126200000 +0700">
+    <title lang="th">LIVE: ศึกเพชรยินดี (26 พฤศจิกายน 2026)</title>
+    <title lang="en">LIVE: Petchyindee (26 November 2026)</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002261" start="20261126200000 +0700" stop="20261127010000 +0700">
+    <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (03 กรกฎาคม 2026) - คู่ที่ 6</title>
+    <title lang="en">RERUN: Rajadamnern Knockout (03 July 2026) - Match 6</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002401" start="20261122233000 +0700" stop="20261123000000 +0700">
