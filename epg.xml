@@ -410,51 +410,6 @@
     <display-name lang="en">PLAY SPORTS BALLTHAI 652</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png"/>
   </channel>
-  <channel id="ch0000000000100002094">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 656</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 656</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 657</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 657</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
-  </channel>
-  <channel id="ch0000000000100002096">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 658</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 658</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
-  </channel>
-  <channel id="ch0000000000100002097">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 659</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 659</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
-  </channel>
-  <channel id="ch0000000000100002098">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 660</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 660</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
-  </channel>
-  <channel id="ch0000000000100002311">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 661</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 661</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002312">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 662</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 662</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002313">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 663</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 663</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
-  <channel id="ch0000000000100002314">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 664</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 664</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093614088604.png"/>
-  </channel>
   <channel id="ch0000000000100001281">
     <display-name lang="th">กศน. (อีทีวี)</display-name>
     <display-name lang="en">ETV</display-name>
@@ -24207,8 +24162,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261126044500 +0700" stop="20261126050000 +0700">
-    <title>Marketplace Europe: Episode 63</title>
-    <desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
+    <title>Marketplace Europe: Inside Lego</title>
+    <desc>An exclusive look at Lego’s global headquarters in Billund, Denmark, speaking to the company's top designers, scientists and strategists.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261126050000 +0700" stop="20261126053000 +0700">
@@ -24291,34 +24246,23 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261126180000 +0700" stop="20261126190000 +0700">
-    <title>CNN This Morning (Weekday)</title>
-    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <title>CNN This Morning</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261126190000 +0700" stop="20261126200000 +0700">
-    <title>CNN News Central</title>
-    <desc>Stay up to date with John Berman, Kate Bolduan, and Sara Sidner from CNN's immersive news hub.</desc>
-    <category>Current Events,News</category>
+    <title>Iran and the Bomb: A Fareed Zakaria Special</title>
+    <desc>Against the backdrop of ongoing conflict, Fareed Zakaria traces Iran's decades-long nuclear program - examining how war, foreign intervention.</desc>
+    <category>Current Events,Documentary,News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261126200000 +0700" stop="20261126203000 +0700">
-    <title>CNN News Central</title>
-    <desc>Stay up to date with John Berman, Kate Bolduan, and Sara Sidner from CNN's immersive news hub.</desc>
-    <category>Current Events,News</category>
+  <programme channel="ch0000000000100001237" start="20261126200000 +0700" stop="20261126210000 +0700">
+    <title>The Trials of Lindsay Clancy</title>
+    <desc>A mother charged with murdering her three children became a referendum on mental illness and criminal responsibility.</desc>
+    <category>Crime,Current Events</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261126203000 +0700" stop="20261126210000 +0700">
-    <title>World Sport</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <category>News,Sports</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261126210000 +0700" stop="20261126214500 +0700">
+  <programme channel="ch0000000000100001237" start="20261126210000 +0700" stop="20261126220000 +0700">
     <title>Connect the World</title>
     <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
     <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261126214500 +0700" stop="20261126220000 +0700">
-    <title>World Sport</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261126220000 +0700" stop="20261126230000 +0700">
     <title>Connect the World</title>
@@ -24360,20 +24304,20 @@
     <desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261127050000 +0700" stop="20261127053000 +0700">
-    <title>Global Perspectives: In Bangkok</title>
-    <desc>At CNN’s Global Perspectives event in Bangkok, we go behind the scenes, from headline-making interviews on stage to candid moments behind the scenes.</desc>
-    <category>Current Events,News</category>
+  <programme channel="ch0000000000100001237" start="20261127050000 +0700" stop="20261127060000 +0700">
+    <title>Amanpour</title>
+    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261127053000 +0700" stop="20261127060000 +0700">
-    <title>World Sport</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <category>News,Sports</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261127060000 +0700" stop="20261127080000 +0700">
+  <programme channel="ch0000000000100001237" start="20261127060000 +0700" stop="20261127070000 +0700">
     <title>The Brief with Jim Sciutto</title>
     <desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
     <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20261127070000 +0700" stop="20261127080000 +0700">
+    <title>The Trials of Lindsay Clancy</title>
+    <desc>A mother charged with murdering her three children became a referendum on mental illness and criminal responsibility.</desc>
+    <category>Crime,Current Events</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261127080000 +0700" stop="20261127090000 +0700">
     <title>Zuckerberg: Facebook and the Cost of Connection</title>
@@ -24385,9 +24329,14 @@
     <desc>Ed Lavandera gains rare access inside a North Dakota hospital serving patients across a vast rural area.</desc>
     <category>Current Events,Documentary,News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261127100000 +0700" stop="20261127120000 +0700">
+  <programme channel="ch0000000000100001237" start="20261127100000 +0700" stop="20261127110000 +0700">
     <title>The Whole Story With Anderson Cooper: Stacked: Inside the Enhancement Craze</title>
     <desc>Isobel Yeung digs into the once taboo world of performance enhancing drugs and how they are becoming increasingly popular not only among athletes.</desc>
+    <category>Current Events,Documentary,News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20261127110000 +0700" stop="20261127120000 +0700">
+    <title>Iran and the Bomb: A Fareed Zakaria Special</title>
+    <desc>Against the backdrop of ongoing conflict, Fareed Zakaria traces Iran's decades-long nuclear program - examining how war, foreign intervention.</desc>
     <category>Current Events,Documentary,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261127120000 +0700" stop="20261127130000 +0700">
@@ -24395,38 +24344,27 @@
     <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261127130000 +0700" stop="20261127134500 +0700">
+  <programme channel="ch0000000000100001237" start="20261127130000 +0700" stop="20261127140000 +0700">
     <title>The Story Is With Elex Michaelson</title>
     <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
     <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261127134500 +0700" stop="20261127140000 +0700">
-    <title>World Sport</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261127140000 +0700" stop="20261127150000 +0700">
     <title>CNN Newsroom</title>
     <desc>Live context and clarity to the day's top stories from around the world.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261127150000 +0700" stop="20261127154500 +0700">
+  <programme channel="ch0000000000100001237" start="20261127150000 +0700" stop="20261127160000 +0700">
     <title>CNN Newsroom</title>
     <desc>Live context and clarity to the day's top stories from around the world.</desc>
     <category>News</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261127154500 +0700" stop="20261127160000 +0700">
-    <title>World Sport</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <category>News,Sports</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261127160000 +0700" stop="20261127170000 +0700">
     <title>CNN Newsroom</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261127170000 +0700" stop="20261127180000 +0700">
-    <title>CNN Headline Express</title>
-    <desc>The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
+    <title>CNN This Morning</title>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261127180000 +0700" stop="20261127190000 +0700">
@@ -41289,6 +41227,136 @@
     <title lang="en">RERUN: Pattaya United vs Kasetsart FC</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002041" start="20261126000000 +0700" stop="20261126020000 +0700">
+    <title lang="th">รีรัน: ระยอง เอฟซี พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rayong FC vs Rasisalai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126020000 +0700" stop="20261126040000 +0700">
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Khon Kaen United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126040000 +0700" stop="20261126060000 +0700">
+    <title lang="th">รีรัน: สงขลา เอฟซี พบ พลังกาญจน์ เอฟซี</title>
+    <title lang="en">RERUN: Songkhla FC vs Kanchanaburi Power FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126060000 +0700" stop="20261126080000 +0700">
+    <title lang="th">รีรัน: : เมืองเลย ยูไนเต็ด พบ อุตรดิตถ์ เอฟซี</title>
+    <title lang="en">RERUN: : Muang Loei United vs Uttaradit FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126080000 +0700" stop="20261126090000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 11</title>
+    <title lang="en">Highlight of the Week Thai League 2 - Matchday 11</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126090000 +0700" stop="20261126110000 +0700">
+    <title lang="th">รีรัน: สิงห์ เชียงราย ยูไนเต็ด พบ ลำพูน วอริเออร์</title>
+    <title lang="en">RERUN: Singha Chiangrai United vs Lamphun Warriors</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126110000 +0700" stop="20261126130000 +0700">
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: Pattani FC vs Sukhothai FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126130000 +0700" stop="20261126150000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ สุโขทัย เอฟซี</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Sukhothai FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126150000 +0700" stop="20261126160000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 9</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 9</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126160000 +0700" stop="20261126180000 +0700">
+    <title lang="th">รีรัน: จันทบุรี เอฟซี พบ พัทยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: Chanthaburi FC vs Pattaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126180000 +0700" stop="20261126200000 +0700">
+    <title lang="th">รีรัน: สิงห์ เชียงราย ยูไนเต็ด พบ ลำพูน วอริเออร์</title>
+    <title lang="en">RERUN: Singha Chiangrai United vs Lamphun Warriors</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126200000 +0700" stop="20261126220000 +0700">
+    <title lang="th">รีรัน: ชลบุรี เอฟซี พบ อุทัยธานี เอฟซี</title>
+    <title lang="en">RERUN: Chonburi FC vs Uthai Thani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261126220000 +0700" stop="20261127000000 +0700">
+    <title lang="th">รีรัน: นครปฐม ยูไนเต็ด พบ ชัยนาท ฮอร์นบิล</title>
+    <title lang="en">RERUN: Nakhon Pathom United vs Chainat Hornbill FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127000000 +0700" stop="20261127020000 +0700">
+    <title lang="th">รีรัน: ศรีสะเกษ ยูไนเต็ด พบ ราชบุรี เอฟซี</title>
+    <title lang="en">RERUN: Sisaket United vs Ratchaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127020000 +0700" stop="20261127040000 +0700">
+    <title lang="th">รีรัน: แพร่ ยูไนเต็ด พบ ขอนแก่น ยูไนเต็ด</title>
+    <title lang="en">RERUN: Phrae United vs Khon Kaen United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127040000 +0700" stop="20261127060000 +0700">
+    <title lang="th">รีรัน: นครราชสีมา มาสด้า เอฟซี พบ สงขลา เอฟซี</title>
+    <title lang="en">RERUN: Nakhon Ratchasima Mazda FC vs Songkhla FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127060000 +0700" stop="20261127080000 +0700">
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ เกษตรศาสตร์ เอฟซี</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Kasetsart FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127080000 +0700" stop="20261127100000 +0700">
+    <title lang="th">รีรัน: เมืองเลย ยูไนเต็ด พบ เมืองทอง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Muang Loei United vs Muangthong United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127100000 +0700" stop="20261127120000 +0700">
+    <title lang="th">รีรัน: : เมืองเลย ยูไนเต็ด พบ อุตรดิตถ์ เอฟซี</title>
+    <title lang="en">RERUN: : Muang Loei United vs Uttaradit FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127120000 +0700" stop="20261127140000 +0700">
+    <title lang="th">รีรัน: ราชบุรี เอฟซี พบ พีที ประจวบ เอฟซี</title>
+    <title lang="en">RERUN: Ratchaburi FC vs PT Prachuap FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127140000 +0700" stop="20261127160000 +0700">
+    <title lang="th">รีรัน: ทรู แบงค็อก ยูไนเต็ด พบ อยุธยา ยูไนเต็ด</title>
+    <title lang="en">RERUN: True Bangkok United vs Ayutthaya United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127160000 +0700" stop="20261127180000 +0700">
+    <title lang="th">รีรัน: เชียงใหม่ ยูไนเต็ด พบ มหาสารคาม ซีซี เอฟซี</title>
+    <title lang="en">RERUN: Chiangmai United vs Mahasarakham CC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127180000 +0700" stop="20261127183000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 9</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 9</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127183000 +0700" stop="20261127210000 +0700">
+    <title lang="th">LIVE: อุทัยธานี เอฟซี พบ ศรีสะเกษ ยูไนเต็ด</title>
+    <title lang="en">LIVE: Uthai Thani FC vs Sisaket United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127210000 +0700" stop="20261127220000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 8</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261127220000 +0700" stop="20261128000000 +0700">
+    <title lang="th">รีรัน: พีที สตูล เอฟซี พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: PT Satun FC vs Nakhon Pathom United</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002052" start="20261123220000 +0700" stop="20261124000000 +0700">
     <title lang="th">รีรัน: สมุทรสงคราม ซิตี้ พบ สโมสรฟุตบอลราชประชา</title>
     <title lang="en">RERUN: Samutsongkhram City vs Rajphacha</title>
@@ -41381,7 +41449,7 @@
   </programme>
   <programme channel="ch0000000000100002052" start="20261125100000 +0700" stop="20261125120000 +0700">
     <title lang="th">รีรัน: พีที สตูล เอฟซี พบ ธนบุรี ยูไนเต็ด</title>
-    <title lang="en">RERUN: PT Satun FC vs Thonburi United</title>
+    <title lang="en">RERUN: Champions League: PT Satun FC vs Thonburi United</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002052" start="20261125120000 +0700" stop="20261125140000 +0700">
@@ -41414,195 +41482,125 @@
     <title lang="en">RERUN: Ayutthaya PK FC vs Prime Bangkok</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261124000000 +0700" stop="20261124180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 จันทบุรี พบ พัทยา (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Chanthaburi vs Pattaya (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126000000 +0700" stop="20261126020000 +0700">
+    <title lang="th">รีรัน: บางกะปิ เอฟซี พบ สิงห์บุรี วอร์ริเออร์</title>
+    <title lang="en">RERUN: Bangkapi FC vs Singburi Warriors</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261124180000 +0700" stop="20261124200000 +0700">
-    <title lang="th">LIVE: จันทบุรี พบ พัทยา (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Chanthaburi vs Pattaya (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126020000 +0700" stop="20261126040000 +0700">
+    <title lang="th">รีรัน: ธนบุรี ยูไนเต็ด พบ ทัพหลวง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Thonburi United vs Thapluang United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261124200000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126040000 +0700" stop="20261126060000 +0700">
+    <title lang="th">รีรัน: วีอาร์เอ็น เมืองนนท์ เอฟซี พบ ทหารบก เอฟซี</title>
+    <title lang="en">RERUN: VRN Muangnon FC vs Royal Thai Army FC</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261125000000 +0700" stop="20261125180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 เชียงใหม่ ยูไนเต็ด พบ มหาสารคาม ซีซี (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Chiangmai United vs Mahasarakham CC (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126060000 +0700" stop="20261126080000 +0700">
+    <title lang="th">รีรัน: หัวหิน ซิตี้ พบ อัสสัมชัญ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Huahin City vs Assumption United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261125180000 +0700" stop="20261125200000 +0700">
-    <title lang="th">LIVE: เชียงใหม่ ยูไนเต็ด พบ มหาสารคาม ซีซี (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Chiangmai United vs Mahasarakham CC (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126080000 +0700" stop="20261126100000 +0700">
+    <title lang="th">รีรัน: ยะลา ซิตี้ พบ นรา เอฟซี</title>
+    <title lang="en">RERUN: Yala City vs Nara FC</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261125200000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126100000 +0700" stop="20261126120000 +0700">
+    <title lang="th">รีรัน: บางกอก เอฟซี พบ เมืองทอง ยูไนเต็ด</title>
+    <title lang="en">RERUN: Bangkok FC vs Muangthong United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261126000000 +0700" stop="20261126180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 อุตรดิตถ์ พบ สงขลา (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Uttaradit vs Songkhla (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126120000 +0700" stop="20261126140000 +0700">
+    <title lang="th">รีรัน: กำแพงเพชร เอฟซี พบ สิงห์ เชียงราย ซิตี้</title>
+    <title lang="en">RERUN: Kamphengphet FC vs Singha Chiangrai City</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261126180000 +0700" stop="20261126200000 +0700">
-    <title lang="th">LIVE: อุตรดิตถ์ พบ สงขลา (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Uttaradit vs Songkhla (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126140000 +0700" stop="20261126160000 +0700">
+    <title lang="th">รีรัน: เอฟซี ยะลา พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: FC Yala vs Nakhon Pathom United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261126200000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126160000 +0700" stop="20261126180000 +0700">
+    <title lang="th">รีรัน: อ่างทอง เอฟซี พบ ม. นอร์ทกรุงเทพ</title>
+    <title lang="en">RERUN: Angthong FC vs North Bangkok University</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126180000 +0700" stop="20261126200000 +0700">
+    <title lang="th">รีรัน: แปดริ้ว ซิตี้ พบ สโมสรฟุตบอลราชนาวี</title>
+    <title lang="en">RERUN: Padriew City vs Navy FC</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261124000000 +0700" stop="20261124190000 +0700">
-    <title lang="th">เริ่มเวลา 19:00 นครปฐม พบ ชัยนาท ฮอร์นบิล (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 19:00 Nakhon Pathom vs Chainat Hornbill (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126200000 +0700" stop="20261126220000 +0700">
+    <title lang="th">รีรัน: พีเอสยู สุราษฎร์ธานี ซิตี้ พบ สมุย ยูไนเต็ด</title>
+    <title lang="en">RERUN: PSU Suratthani City vs Samui United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261124190000 +0700" stop="20261124210000 +0700">
-    <title lang="th">LIVE: นครปฐม พบ ชัยนาท ฮอร์นบิล (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Nakhon Pathom vs Chainat Hornbill (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261126220000 +0700" stop="20261127000000 +0700">
+    <title lang="th">รีรัน: พีที สตูล เอฟซี พบ ธนบุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Champions League: PT Satun FC vs Thonburi United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261124210000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127000000 +0700" stop="20261127020000 +0700">
+    <title lang="th">รีรัน: นอร์ทเทิร์น นครแม่สอด ยูไนเต็ด พบ สิงห์ เชียงราย ซิตี้</title>
+    <title lang="en">RERUN: Northern Nakhonmaesot United vs Singha Chiangrai City</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261125000000 +0700" stop="20261125180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 เกษตรศาสตร์ พบ แพร่ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Kasetsart vs Phrae (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127020000 +0700" stop="20261127040000 +0700">
+    <title lang="th">รีรัน: ม. เกษมบัณฑิต เอฟซี พบ ม. ปทุมธานี</title>
+    <title lang="en">RERUN: Kasembundit University FC vs Pathumthani University</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261125180000 +0700" stop="20261125200000 +0700">
-    <title lang="th">LIVE: เกษตรศาสตร์ พบ แพร่ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Kasetsart vs Phrae (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127040000 +0700" stop="20261127060000 +0700">
+    <title lang="th">รีรัน: ทหารอากาศ เอฟซี พบ จามจุรี ยูไนเต็ด</title>
+    <title lang="en">RERUN: Royal Thai Air Force FC vs Chamchuri United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261125200000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127060000 +0700" stop="20261127080000 +0700">
+    <title lang="th">รีรัน: สระบุรี ยูไนเต็ด พบ ฟูเทร่า ยูไนเต็ด</title>
+    <title lang="en">RERUN: Saraburi United vs Futera United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261126000000 +0700" stop="20261126190000 +0700">
-    <title lang="th">เริ่มเวลา 19:00 หนองบัว พิชญ พบ เมืองเลย (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 19:00 Nongbua Pitchaya vs Muang Loei (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127080000 +0700" stop="20261127100000 +0700">
+    <title lang="th">รีรัน: โคราช ซิตี้ พบ สุรินทร์ ซิตี้</title>
+    <title lang="en">RERUN: Korat City vs Surin City</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261126190000 +0700" stop="20261126210000 +0700">
-    <title lang="th">LIVE: หนองบัว พิชญ พบ เมืองเลย (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Nongbua Pitchaya vs Muang Loei (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127100000 +0700" stop="20261127120000 +0700">
+    <title lang="th">รีรัน: ปลวกแดง ยูไนเต็ด พบ แปดริ้ว ซิตี้</title>
+    <title lang="en">RERUN: Pluankdaeng United vs Padriew City</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261126210000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127120000 +0700" stop="20261127140000 +0700">
+    <title lang="th">รีรัน: สายมิตรกบินทร์ ยูไนเต็ด พบ สโมสรฟุตบอลกองเรือรบ</title>
+    <title lang="en">RERUN: Saimit Kabin United vs Fleet United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002095" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127140000 +0700" stop="20261127160000 +0700">
+    <title lang="th">รีรัน: บีจีซี บัณฑิตเอเซีย พบ รร. กีฬาจังหวัดชลบุรี</title>
+    <title lang="en">RERUN: BGC College of Asian Scholars vs Chonburi Sports School</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002096" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127160000 +0700" stop="20261127180000 +0700">
+    <title lang="th">รีรัน: พีเอสยู สุราษฎร์ธานี ซิตี้ พบ สมุย ยูไนเต็ด</title>
+    <title lang="en">RERUN: PSU Suratthani City vs Samui United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002096" start="20261125000000 +0700" stop="20261125183000 +0700">
-    <title lang="th">เริ่มเวลา 18:30 พีที สตูล พบ โปลิศ เทโร (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:30 PT Satun vs Police Tero (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127180000 +0700" stop="20261127200000 +0700">
+    <title lang="th">รีรัน: บีเอฟบี พัทยา ซิตี้ พบ คัสตอม ยูไนเต็ด</title>
+    <title lang="en">RERUN: BFB Pattaya City vs Customs United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002096" start="20261125183000 +0700" stop="20261125203000 +0700">
-    <title lang="th">LIVE: พีที สตูล พบ โปลิศ เทโร (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: PT Satun vs Police Tero (T2 - Matchday 12)</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127200000 +0700" stop="20261127220000 +0700">
+    <title lang="th">รีรัน: ระนอง พีเจ ยูไนเต็ด พบ ชุมพร ยูไนเต็ด</title>
+    <title lang="en">RERUN: Ranong PJ United vs Chumphon United</title>
+    <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002096" start="20261125203000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002096" start="20261126000000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002096" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002097" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002097" start="20261125000000 +0700" stop="20261125183000 +0700">
-    <title lang="th">เริ่มเวลา 18:30 เมืองทอง พบ นครราชสีมา มาสด้า (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:30 Muangthong vs Nakhon Ratchasima Mazda (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002097" start="20261125183000 +0700" stop="20261125203000 +0700">
-    <title lang="th">LIVE: เมืองทอง พบ นครราชสีมา มาสด้า (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Muangthong vs Nakhon Ratchasima Mazda (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002097" start="20261125203000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002097" start="20261126000000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002097" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002098" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002098" start="20261125000000 +0700" stop="20261125190000 +0700">
-    <title lang="th">เริ่มเวลา 19:00 ขอนแก่น ยูไนเต็ด พบ พลังกาญจน์ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 19:00 Khonkaen United vs Kanchanaburi Power (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002098" start="20261125190000 +0700" stop="20261125210000 +0700">
-    <title lang="th">LIVE: ขอนแก่น ยูไนเต็ด พบ พลังกาญจน์ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Khonkaen United vs Kanchanaburi Power (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002098" start="20261125210000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002098" start="20261126000000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002098" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
+  <programme channel="ch0000000000100002052" start="20261127220000 +0700" stop="20261128000000 +0700">
+    <title lang="th">รีรัน: ลพบุรี ซิตี้ พบ นครราชสีมา มาสด้า เอฟซี</title>
+    <title lang="en">RERUN: Lopburi City vs Nakhon Ratchasima Mazda FC</title>
+    <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002171" start="20261123230000 +0700" stop="20261124010000 +0700">
     <title>PL Match: Liverpool (A) 26/27</title>
@@ -42752,9 +42750,59 @@
     <title lang="en">NFL Films Week 5</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002191" start="20261126235500 +0700" stop="20261127040000 +0700">
+  <programme channel="ch0000000000100002191" start="20261126235500 +0700" stop="20261127000000 +0700">
     <title lang="th">เส้นทางสู่อินเตอร์เนชันนอล รอบเพลย์ออฟ 2025</title>
     <title lang="en">International Road To The Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127000000 +0700" stop="20261127005500 +0700">
+    <title lang="th">รีรัน: เส้นทางสู่รอบเพลย์ออฟ 2025</title>
+    <title lang="en">RERUN: Road to Playoffs 2025</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127005500 +0700" stop="20261127043000 +0700">
+    <title lang="th">LIVE: ชิคาโก แบร์ส พบ ดีทรอยต์ ไลออนส์</title>
+    <title lang="en">LIVE: Chicago Bears at Detroit Lions</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127043000 +0700" stop="20261127073000 +0700">
+    <title lang="th">รีรัน: แจ็กสันวิลล์ แจกัวร์ส พบ นิวยอร์ก ไจแอนท์ส</title>
+    <title lang="en">RERUN: Jacksonville Jaguars at New York Giants</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127073000 +0700" stop="20261127081500 +0700">
+    <title lang="th">รีรัน: รีแคป ซีซัน72</title>
+    <title lang="en">RERUN: Season 72 Recap</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127081500 +0700" stop="20261127120000 +0700">
+    <title lang="th">LIVE: แคนซัสซิตี ชีฟส์ พบ บัฟฟาโล บิลส์</title>
+    <title lang="en">LIVE: Kansas City Chiefs at Buffalo Bills</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127120000 +0700" stop="20261127130500 +0700">
+    <title lang="th">รีรัน: ซินซินเนติ เบงกอลส์ พบ วอชิงตัน คอมแมนเดอร์ส</title>
+    <title lang="en">RERUN: Cincinnati Bengals at Washington Commanders</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127130500 +0700" stop="20261127181000 +0700">
+    <title lang="th">รีรัน: ชิคาโก แบร์ส พบ ดีทรอยต์ ไลออนส์</title>
+    <title lang="en">RERUN: Chicago Bears at Detroit Lions</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127181000 +0700" stop="20261127211500 +0700">
+    <title lang="th">รีรัน: ฟิลาเดลเฟีย อีเกิลส์ พบ ดัลลัส คาวบอยส์</title>
+    <title lang="en">RERUN: Philadelphia Eagles at Dallas Cowboys</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127211500 +0700" stop="20261127235000 +0700">
+    <title lang="th">รีรัน: แคนซัสซิตี ชีฟส์ พบ บัฟฟาโล บิลส์</title>
+    <title lang="en">RERUN: Kansas City Chiefs at Buffalo Bills</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002191" start="20261127235000 +0700" stop="20261128010000 +0700">
+    <title lang="th">รีรัน: รีแคป ซีซัน72</title>
+    <title lang="en">RERUN: Season 72 Recap</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002261" start="20261123220000 +0700" stop="20261124010000 +0700">
@@ -42921,120 +42969,6 @@
     <title lang="th">รีรัน: มวยราชดำเนิน น็อกเอาต์ (21 กรกฎาคม 2026) - คู่ที่ 7</title>
     <title lang="en">RERUN: Rajadamnern Knockout (21 July 2026) - Match 7</title>
     <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261125000000 +0700" stop="20261125153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 อยุธยา พีเค พบ บางกะปิ (T3 - สัปดาห์ที่ 3)</title>
-    <title lang="en">Kick Off 15:30 Ayutthaya PK vs Bangkapi (T3 - Matchday 3)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261125153000 +0700" stop="20261125173000 +0700">
-    <title lang="th">LIVE: อยุธยา พีเค พบ บางกะปิ (T3 - สัปดาห์ที่ 3)</title>
-    <title lang="en">LIVE: Ayutthaya PK vs Bangkapi (T3 - Matchday 3)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261125173000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261126000000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002311" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261125000000 +0700" stop="20261125153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 ทหารอากาศ พบ ฟูเทร่า (T3 - สัปดาห์ที่ 3)</title>
-    <title lang="en">Kick Off 15:30 Royal Thai Air Force vs Futera (T3 - Matchday 3)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261125153000 +0700" stop="20261125173000 +0700">
-    <title lang="th">LIVE: ทหารอากาศ พบ ฟูเทร่า (T3 - สัปดาห์ที่ 3)</title>
-    <title lang="en">LIVE: Royal Thai Air Force vs Futera (T3 - Matchday 3)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261125173000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261126000000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002312" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261125000000 +0700" stop="20261125153000 +0700">
-    <title>Kick Off 15:30 Pathumthani University vs Chamchuri (T3 - Matchday 3)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261125153000 +0700" stop="20261125173000 +0700">
-    <title>LIVE: Pathumthani University vs Chamchuri (T3 - Matchday 3)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261125173000 +0700" stop="20261125235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261126000000 +0700" stop="20261126235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002313" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title>No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261124000000 +0700" stop="20261124235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261125000000 +0700" stop="20261125153000 +0700">
-    <title lang="th">เริ่มเวลา 15:30 บางกอก พบ สมุทรสาคร (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">Kick Off 15:30 Bangkok FC vs Samutsakhon (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261125153000 +0700" stop="20261125173000 +0700">
-    <title lang="th">LIVE: บางกอก พบ สมุทรสาคร (T3 - สัปดาห์ที่ 2)</title>
-    <title lang="en">LIVE: Bangkok FC vs Samutsakhon (T3 - Matchday 2)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261125173000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261126000000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002314" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
   </programme>
   <programme channel="ch0000000000100002401" start="20261123233000 +0700" stop="20261124000000 +0700">
     <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
@@ -44430,149 +44364,304 @@
     <title lang="en">RERUN: CME Group Tour Championship Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002525" start="20261127122500 +0700" stop="20261127170000 +0700">
+  <programme channel="ch0000000000100002525" start="20261127122500 +0700" stop="20261127125500 +0700">
     <title lang="th">ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">CME Group Tour Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261123204000 +0700" stop="20261124023000 +0700">
-    <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบ 3</title>
-    <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Round 3</title>
+  <programme channel="ch0000000000100002525" start="20261127125500 +0700" stop="20261127132000 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Blue Bay LPGA Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124023000 +0700" stop="20261124030000 +0700">
+  <programme channel="ch0000000000100002525" start="20261127132000 +0700" stop="20261127134500 +0700">
+    <title lang="th">บลู เบย์ แอลพีจีเอ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Blue Bay LPGA Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127134500 +0700" stop="20261127171500 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127171500 +0700" stop="20261127200500 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบสุดท้าย</title>
+    <title lang="en">RERUN: CME Group Tour Championship Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127200500 +0700" stop="20261127203000 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบ 3</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127203000 +0700" stop="20261127205500 +0700">
+    <title lang="th">ฟอร์ด แชมเปียนชิพ พรีเซนเต็ด บาย ไวลด์ ฮอร์ส พาส ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Ford Championship presented by Wild Horse Pass Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127205500 +0700" stop="20261127212000 +0700">
+    <title lang="th">ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">CME Group Tour Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127212000 +0700" stop="20261127214500 +0700">
+    <title lang="th">ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">CME Group Tour Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127214500 +0700" stop="20261127221000 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบ 3</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127221000 +0700" stop="20261127223500 +0700">
+    <title lang="th">เจเอ็ม อีเกิล แอลเอ แชมเปียนชิพ พรีเซนเต็ด บาย พลาสต์โปร ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">JM Eagle LA Championship Presented by Plastpro Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002525" start="20261127223500 +0700" stop="20261128020500 +0700">
+    <title lang="th">รีรัน: ซีเอ็มอี กรุ๊ป ทัวร์ แชมเปียนชิพ รอบ 3</title>
+    <title lang="en">RERUN: CME Group Tour Championship Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261124022000 +0700" stop="20261124025000 +0700">
     <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124030000 +0700" stop="20261124032500 +0700">
+  <programme channel="ch0000000000100002528" start="20261124025000 +0700" stop="20261124031500 +0700">
     <title lang="th">แอมเจน ไอริช โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">Amgen Irish Open Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124032500 +0700" stop="20261124034500 +0700">
+  <programme channel="ch0000000000100002528" start="20261124031500 +0700" stop="20261124033500 +0700">
     <title lang="th">แอมเจน ไอริช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Amgen Irish Open Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124034500 +0700" stop="20261124041500 +0700">
+  <programme channel="ch0000000000100002528" start="20261124033500 +0700" stop="20261124040500 +0700">
     <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบ 3</title>
     <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124041500 +0700" stop="20261124103000 +0700">
+  <programme channel="ch0000000000100002528" start="20261124040500 +0700" stop="20261124102000 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบสุดท้าย</title>
     <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124103000 +0700" stop="20261124105000 +0700">
+  <programme channel="ch0000000000100002528" start="20261124102000 +0700" stop="20261124104000 +0700">
     <title lang="th">โอเมก้า ยูโรเปียน มาสเตอร์ส ไฮไลต์ รอบ 3</title>
     <title lang="en">Omega European Masters Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124105000 +0700" stop="20261124111500 +0700">
+  <programme channel="ch0000000000100002528" start="20261124104000 +0700" stop="20261124110500 +0700">
     <title lang="th">โอเมก้า ยูโรเปียน มาสเตอร์ส ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Omega European Masters Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124111500 +0700" stop="20261124170500 +0700">
+  <programme channel="ch0000000000100002528" start="20261124110500 +0700" stop="20261124165500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบ 3</title>
     <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124170500 +0700" stop="20261124173500 +0700">
+  <programme channel="ch0000000000100002528" start="20261124165500 +0700" stop="20261124172500 +0700">
     <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124173500 +0700" stop="20261124180000 +0700">
+  <programme channel="ch0000000000100002528" start="20261124172500 +0700" stop="20261124175000 +0700">
     <title lang="th">ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด ไฮไลต์ รอบ 3</title>
     <title lang="en">Husqvarna British Masters hosted by Sir Nick Faldo Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124180000 +0700" stop="20261124183000 +0700">
+  <programme channel="ch0000000000100002528" start="20261124175000 +0700" stop="20261124182000 +0700">
     <title lang="th">ฮัสควาร์นา บริติช มาสเตอร์ส จัดโดยเซอร์ นิค ฟัลโด ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Husqvarna British Masters hosted by Sir Nick Faldo Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124183000 +0700" stop="20261124190000 +0700">
+  <programme channel="ch0000000000100002528" start="20261124182000 +0700" stop="20261124185000 +0700">
     <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบ 3</title>
     <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261124190000 +0700" stop="20261125011500 +0700">
+  <programme channel="ch0000000000100002528" start="20261124185000 +0700" stop="20261125010500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบสุดท้าย</title>
     <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125011500 +0700" stop="20261125014000 +0700">
+  <programme channel="ch0000000000100002528" start="20261125010500 +0700" stop="20261125013000 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบ 3</title>
     <title lang="en">Nexo Championship Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125014000 +0700" stop="20261125020500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125013000 +0700" stop="20261125015500 +0700">
     <title lang="th">เน็กโซแชมเปียนชิป ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Nexo Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125020500 +0700" stop="20261125075500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125015500 +0700" stop="20261125074500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบ 3</title>
     <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125075500 +0700" stop="20261125082500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125074500 +0700" stop="20261125081500 +0700">
     <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125082500 +0700" stop="20261125085000 +0700">
+  <programme channel="ch0000000000100002528" start="20261125081500 +0700" stop="20261125084000 +0700">
     <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
     <title lang="en">Danish Golf Championship Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125085000 +0700" stop="20261125091500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125084000 +0700" stop="20261125090500 +0700">
     <title lang="th">เดนิช กอล์ฟ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">Danish Golf Championship Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125091500 +0700" stop="20261125094500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125090500 +0700" stop="20261125093500 +0700">
     <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบ 3</title>
     <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125094500 +0700" stop="20261125160000 +0700">
+  <programme channel="ch0000000000100002528" start="20261125093500 +0700" stop="20261125155000 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบสุดท้าย</title>
     <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125160000 +0700" stop="20261125163000 +0700">
+  <programme channel="ch0000000000100002528" start="20261125155000 +0700" stop="20261125162000 +0700">
     <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">GENESIS SCOTTISH OPEN Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125163000 +0700" stop="20261125165500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125162000 +0700" stop="20261125164500 +0700">
     <title lang="th">เจเนซิส สก็อตติช โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">GENESIS SCOTTISH OPEN Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125165500 +0700" stop="20261125224500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125164500 +0700" stop="20261125223500 +0700">
     <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบ 3</title>
     <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125224500 +0700" stop="20261125231500 +0700">
+  <programme channel="ch0000000000100002528" start="20261125223500 +0700" stop="20261125230500 +0700">
     <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Final</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125231500 +0700" stop="20261125234000 +0700">
+  <programme channel="ch0000000000100002528" start="20261125230500 +0700" stop="20261125233000 +0700">
     <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบ 3</title>
     <title lang="en">BMW International Open Highlights Round 3</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002528" start="20261125234000 +0700" stop="20261126050000 +0700">
+  <programme channel="ch0000000000100002528" start="20261125233000 +0700" stop="20261126000000 +0700">
     <title lang="th">บีเอ็มดับเบิลยู อินเตอร์เนชันแนล โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
     <title lang="en">BMW International Open Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126000000 +0700" stop="20261126003000 +0700">
+    <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบ 3</title>
+    <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126003000 +0700" stop="20261126064500 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบสุดท้าย</title>
+    <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126064500 +0700" stop="20261126071500 +0700">
+    <title lang="th">เฟดเอ็กซ์ โอเพ่น เดอ ฟรองซ์ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">FedEx Open de France Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126071500 +0700" stop="20261126073500 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126073500 +0700" stop="20261126080000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">BMW PGA CHAMPIONSHIP Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126080000 +0700" stop="20261126130000 +0700">
+    <title lang="th">LIVE: บีเอ็มดับเบิลยู ออสเตรเลียน พีจีเอ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">LIVE: BMW Australian PGA Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126130000 +0700" stop="20261126133000 +0700">
+    <title lang="th">ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ ไฮไลต์ รอบ 3</title>
+    <title lang="en">DP WORLD TOUR CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126133000 +0700" stop="20261126194500 +0700">
+    <title lang="th">รีรัน: ดีพี เวิลด์ ทัวร์ แชมเปียนชิพ ที่ดูไบ รอบสุดท้าย</title>
+    <title lang="en">RERUN: DP WORLD TOUR CHAMPIONSHIP Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261126194500 +0700" stop="20261127004500 +0700">
+    <title lang="th">รีรัน: บีเอ็มดับเบิลยู ออสเตรเลียน พีจีเอ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: BMW Australian PGA Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127004500 +0700" stop="20261127011000 +0700">
+    <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127011000 +0700" stop="20261127014000 +0700">
+    <title lang="th">อาบูดาบี เอชเอสบีซี แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">ABU DHABI HSBC CHAMPIONSHIP Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127014000 +0700" stop="20261127064000 +0700">
+    <title lang="th">รีรัน: บีเอ็มดับเบิลยู ออสเตรเลียน พีจีเอ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: BMW Australian PGA Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127064000 +0700" stop="20261127070000 +0700">
+    <title lang="th">เจเนซิส แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">Genesis Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127070000 +0700" stop="20261127073000 +0700">
+    <title lang="th">เจเนซิส แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Genesis Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127073000 +0700" stop="20261127080000 +0700">
+    <title lang="th">บีเอ็มดับเบิลยู ออสเตรเลียน พีจีเอ แชมเปียนชิพ ไฮไลต์ รอบแรก</title>
+    <title lang="en">BMW Australian PGA Championship Highlights Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127080000 +0700" stop="20261127130000 +0700">
+    <title lang="th">LIVE: บีเอ็มดับเบิลยู ออสเตรเลียน พีจีเอ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">LIVE: BMW Australian PGA Championship Round 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127130000 +0700" stop="20261127133000 +0700">
+    <title lang="th">ดีพี เวิลด์ อินเดีย แชมเปียนชิพ ไฮไลต์ รอบ 3</title>
+    <title lang="en">DP World India Championship Highlights Round 3</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127133000 +0700" stop="20261127135500 +0700">
+    <title lang="th">ดีพี เวิลด์ อินเดีย แชมเปียนชิพ ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">DP World India Championship Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127135500 +0700" stop="20261127185500 +0700">
+    <title lang="th">รีรัน: บีเอ็มดับเบิลยู ออสเตรเลียน พีจีเอ แชมเปียนชิพ รอบแรก</title>
+    <title lang="en">RERUN: BMW Australian PGA Championship Round 1</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127185500 +0700" stop="20261127191500 +0700">
+    <title lang="th">โอเพ่น เด เอสปันญา ไฮไลต์ รอบสุดท้าย</title>
+    <title lang="en">Open de Espana presented by Madrid Highlights Final</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002528" start="20261127191500 +0700" stop="20261128001500 +0700">
+    <title lang="th">รีรัน: บีเอ็มดับเบิลยู ออสเตรเลียน พีจีเอ แชมเปียนชิพ รอบ 2</title>
+    <title lang="en">RERUN: BMW Australian PGA Championship Round 2</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002530" start="20261123220000 +0700" stop="20261124000000 +0700">
