@@ -345,11 +345,6 @@
     <display-name lang="en">PLAY SPORTS BASKETBALL 551</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png"/>
   </channel>
-  <channel id="ch0000000000100002402">
-    <display-name lang="th">เพลย์สปอร์ต บาสเกตบอล 552</display-name>
-    <display-name lang="en">PLAY SPORTS BASKETBALL 552</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png"/>
-  </channel>
   <channel id="ch0000000000100002191">
     <display-name lang="th">เพลย์สปอร์ต เอ็นเอฟแอล 556</display-name>
     <display-name lang="en">PLAY SPORTS NFL 556</display-name>
@@ -414,16 +409,6 @@
     <display-name lang="th">เพลย์สปอร์ต บอลไทย 652</display-name>
     <display-name lang="en">PLAY SPORTS BALLTHAI 652</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png"/>
-  </channel>
-  <channel id="ch0000000000100002094">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 656</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 656</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
-  </channel>
-  <channel id="ch0000000000100002095">
-    <display-name lang="th">เพลย์สปอร์ต บอลไทย 657</display-name>
-    <display-name lang="en">PLAY SPORTS BALLTHAI 657</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
   </channel>
   <channel id="ch0000000000100001281">
     <display-name lang="th">กศน. (อีทีวี)</display-name>
@@ -26463,11 +26448,11 @@
   </programme>
   <programme channel="ch0000000000100001237" start="20261126170000 +0700" stop="20261126180000 +0700">
     <title>Amanpour</title>
-    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261126180000 +0700" stop="20261126190000 +0700">
     <title>CNN This Morning</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261126190000 +0700" stop="20261126200000 +0700">
@@ -26497,7 +26482,7 @@
   </programme>
   <programme channel="ch0000000000100001237" start="20261126233000 +0700" stop="20261127000000 +0700">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators ask if now is the time for big sporting events to return to the Gulf, after a year of turbulence.</desc>
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261127000000 +0700" stop="20261127010000 +0700">
@@ -26719,8 +26704,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261128143000 +0700" stop="20261128150000 +0700">
-    <title>African Voices: Episode 238</title>
-    <desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
+    <title>African Voices: Kwame Aduse</title>
+    <desc>How Ghanaian fashion designer Kwame Adusei built a global luxury brand from an apartment during the pandemic and why he designs clothes beyond gender.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261128150000 +0700" stop="20261128153000 +0700">
@@ -26729,7 +26714,8 @@
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261128153000 +0700" stop="20261128160000 +0700">
-    <title>Seasons: Episode 203</title>
+    <title>Seasons: Longevity Travel</title>
+    <desc>Laura Jackson travels from Switzerland to Jamaica in search of wellness experiences that are worth the journey.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261128160000 +0700" stop="20261128163000 +0700">
@@ -26739,7 +26725,7 @@
   </programme>
   <programme channel="ch0000000000100001237" start="20261128163000 +0700" stop="20261128170000 +0700">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators ask if now is the time for big sporting events to return to the Gulf, after a year of turbulence.</desc>
     <category>Current Events,News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261128170000 +0700" stop="20261128180000 +0700">
@@ -26747,39 +26733,39 @@
     <desc>Live context and clarity to the day's top stories from around the world.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261128180000 +0700" stop="20261128190000 +0700">
-    <title>CNN This Morning Weekend</title>
-    <desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
-    <category>Current Events,News</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261128190000 +0700" stop="20261128193000 +0700">
-    <title>African Voices: Episode 238</title>
-    <desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
+  <programme channel="ch0000000000100001237" start="20261128180000 +0700" stop="20261128183000 +0700">
+    <title>African Voices: Kwame Aduse</title>
+    <desc>How Ghanaian fashion designer Kwame Adusei built a global luxury brand from an apartment during the pandemic and why he designs clothes beyond gender.</desc>
     <category>News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261128193000 +0700" stop="20261128200000 +0700">
+  <programme channel="ch0000000000100001237" start="20261128183000 +0700" stop="20261128190000 +0700">
     <title>Global Perspectives: In Bangkok</title>
     <desc>At CNN’s Global Perspectives event in Bangkok, we go behind the scenes, from headline-making interviews on stage to candid moments behind the scenes.</desc>
     <category>Current Events,News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261128200000 +0700" stop="20261128210000 +0700">
-    <title>CNN This Morning Weekend</title>
-    <desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
-    <category>Current Events,News</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261128210000 +0700" stop="20261128220000 +0700">
-    <title>Smerconish</title>
-    <desc>Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own.</desc>
-    <category>Current Events,News,Talk Show</category>
-  </programme>
-  <programme channel="ch0000000000100001237" start="20261128220000 +0700" stop="20261128223000 +0700">
+  <programme channel="ch0000000000100001237" start="20261128190000 +0700" stop="20261128193000 +0700">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators ask if now is the time for big sporting events to return to the Gulf, after a year of turbulence.</desc>
     <category>Current Events,News</category>
   </programme>
-  <programme channel="ch0000000000100001237" start="20261128223000 +0700" stop="20261128230000 +0700">
+  <programme channel="ch0000000000100001237" start="20261128193000 +0700" stop="20261128200000 +0700">
     <title>Inside Africa: Kenyan Aquaculture</title>
     <desc>Across Kenya, a growing aquaculture sector is creating opportunities, from farming tilapia at scale to building businesses around how fish are sold.</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20261128200000 +0700" stop="20261128210000 +0700">
+    <title>Thanksgiving In America</title>
+    <desc>Join CNN for the ultimate Thanksgiving morning watch party featuring a live view of parades across the country and special appearances.</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20261128210000 +0700" stop="20261128220000 +0700">
+    <title>Thanksgiving In America</title>
+    <desc>Join CNN for the ultimate Thanksgiving morning watch party featuring a live view of parades across the country and special appearances.</desc>
+    <category>News</category>
+  </programme>
+  <programme channel="ch0000000000100001237" start="20261128220000 +0700" stop="20261128230000 +0700">
+    <title>Thanksgiving In America</title>
+    <desc>Join CNN for the ultimate Thanksgiving morning watch party featuring a live view of parades across the country and special appearances.</desc>
     <category>News</category>
   </programme>
   <programme channel="ch0000000000100001237" start="20261128230000 +0700" stop="20261129000000 +0700">
@@ -30631,7 +30617,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261128023000 +0700" stop="20261128030000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Ten years after the Brexit vote, is Britain heading back to the EU?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261128030000 +0700" stop="20261128040000 +0700">
@@ -30648,7 +30634,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261128053000 +0700" stop="20261128060000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill speaks to author Eli Clifton about AIPAC's shrinking influence in the U.S.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261128060000 +0700" stop="20261128063000 +0700">
     <title>News Live</title>
@@ -30715,7 +30701,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261128153000 +0700" stop="20261128160000 +0700">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Ten years after the Brexit vote, is Britain heading back to the EU?</desc>
     <category>Documentary</category>
   </programme>
   <programme channel="ch0000000000100001351" start="20261128160000 +0700" stop="20261128163000 +0700">
@@ -30724,7 +30710,7 @@
   </programme>
   <programme channel="ch0000000000100001351" start="20261128163000 +0700" stop="20261128170000 +0700">
     <title>UpFront</title>
-    <desc>Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill speaks to author Eli Clifton about AIPAC's shrinking influence in the U.S.</desc>
   </programme>
   <programme channel="ch0000000000100001351" start="20261128170000 +0700" stop="20261128180000 +0700">
     <title>Newshour</title>
@@ -43922,106 +43908,6 @@
     <title lang="en">RERUN: Lopburi City vs Nakhon Ratchasima Mazda FC</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002094" start="20261125000000 +0700" stop="20261125180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 เชียงใหม่ ยูไนเต็ด พบ มหาสารคาม ซีซี (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Chiangmai United vs Mahasarakham CC (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261125180000 +0700" stop="20261125200000 +0700">
-    <title lang="th">LIVE: เชียงใหม่ ยูไนเต็ด พบ มหาสารคาม ซีซี (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Chiangmai United vs Mahasarakham CC (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261125200000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261126000000 +0700" stop="20261126180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 อุตรดิตถ์ พบ สงขลา (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Uttaradit vs Songkhla (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261126180000 +0700" stop="20261126200000 +0700">
-    <title lang="th">LIVE: อุตรดิตถ์ พบ สงขลา (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Uttaradit vs Songkhla (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261126200000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261128000000 +0700" stop="20261128180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 ชัยนาท ฮอร์นบิล พบ จันทบุรี (T2 - สัปดาห์ที่ 13)</title>
-    <title lang="en">Kick Off 18:00 Chainat Hornbill vs Chanthaburi (T2 - Matchday 13)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261128180000 +0700" stop="20261128200000 +0700">
-    <title lang="th">LIVE: ชัยนาท ฮอร์นบิล พบ จันทบุรี (T2 - สัปดาห์ที่ 13)</title>
-    <title lang="en">LIVE: Chainat Hornbill vs Chanthaburi (T2 - Matchday 13)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002094" start="20261128200000 +0700" stop="20261128235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261125000000 +0700" stop="20261125180000 +0700">
-    <title lang="th">เริ่มเวลา 18:00 เกษตรศาสตร์ พบ แพร่ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 18:00 Kasetsart vs Phrae (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261125180000 +0700" stop="20261125200000 +0700">
-    <title lang="th">LIVE: เกษตรศาสตร์ พบ แพร่ (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Kasetsart vs Phrae (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261125200000 +0700" stop="20261125235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261126000000 +0700" stop="20261126190000 +0700">
-    <title lang="th">เริ่มเวลา 19:00 หนองบัว พิชญ พบ เมืองเลย (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">Kick Off 19:00 Nongbua Pitchaya vs Muang Loei (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261126190000 +0700" stop="20261126210000 +0700">
-    <title lang="th">LIVE: หนองบัว พิชญ พบ เมืองเลย (T2 - สัปดาห์ที่ 12)</title>
-    <title lang="en">LIVE: Nongbua Pitchaya vs Muang Loei (T2 - Matchday 12)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261126210000 +0700" stop="20261126235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261127000000 +0700" stop="20261127235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261128000000 +0700" stop="20261128183000 +0700">
-    <title lang="th">เริ่มเวลา 18:30 ขอนแก่น ยูไนเต็ด พบ เกษตรศาสตร์ (T2 - สัปดาห์ที่ 13)</title>
-    <title lang="en">Kick Off 18:30 Khonkaen United vs Kasetsart (T2 - Matchday 13)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261128183000 +0700" stop="20261128203000 +0700">
-    <title lang="th">LIVE: ขอนแก่น ยูไนเต็ด พบ เกษตรศาสตร์ (T2 - สัปดาห์ที่ 13)</title>
-    <title lang="en">LIVE: Khonkaen United vs Kasetsart (T2 - Matchday 13)</title>
-    <category>Football</category>
-  </programme>
-  <programme channel="ch0000000000100002095" start="20261128203000 +0700" stop="20261128235959 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Football</category>
-  </programme>
   <programme channel="ch0000000000100002171" start="20261124234000 +0700" stop="20261125000000 +0700">
     <title>A Day in the Life: Maya Le Tissier</title>
     <desc>Get to know our women's team captain Maya Le Tissier in the latest episode of A Day in the Life.</desc>
@@ -44799,8 +44685,8 @@
     <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261125235000 +0700" stop="20261126020500 +0700">
-    <title>Youth League: Roma U19 vs Real Madrid U19</title>
-    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
+    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
+    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261126020500 +0700" stop="20261126023000 +0700">
     <title>Realmadrid Life</title>
@@ -44819,7 +44705,7 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261126060000 +0700" stop="20261126081500 +0700">
-    <title>Liga 26/27: Real Madrid vs Celta</title>
+    <title>Liga 26/27: Real Madrid vs Real Club Celta</title>
     <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261126081500 +0700" stop="20261126083000 +0700">
@@ -44855,8 +44741,8 @@
     <desc>Weekly review show.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261126210000 +0700" stop="20261126231500 +0700">
-    <title>Youth League: Real Madrid U19 vs RB Leipzig</title>
-    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
+    <title>Liga 26/27: Real Madrid vs Real Club Celta</title>
+    <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261126231500 +0700" stop="20261127002000 +0700">
     <title>Classic Highlights</title>
@@ -44902,35 +44788,39 @@
     <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
     <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127143000 +0700" stop="20261127164500 +0700">
-    <title>Liga 26/27: Real Racing Club vs Real Madrid</title>
-    <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
+  <programme channel="ch0000000000100002181" start="20261127143000 +0700" stop="20261127160000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127164500 +0700" stop="20261127190000 +0700">
-    <title>Liga 26/27: Barcelona vs Real Madrid</title>
-    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  <programme channel="ch0000000000100002181" start="20261127160000 +0700" stop="20261127181500 +0700">
+    <title>Real Madrid City</title>
+    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127190000 +0700" stop="20261127211500 +0700">
-    <title>Champions League 26/27: AEK Athens vs Real Madrid</title>
-    <desc>Matchday 4 of the Champions League Real Madrid face AEK Athens in ALLWIN Arena Stadium.</desc>
+  <programme channel="ch0000000000100002181" start="20261127181500 +0700" stop="20261127200000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127211500 +0700" stop="20261127233000 +0700">
-    <title>Youth League: Roma U19 vs Real Madrid U19</title>
-    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261127233000 +0700" stop="20261128014500 +0700">
-    <title>Women´s Champions League 26/27: Real Madrid vs París FC</title>
-    <desc>Matchday 4 of the Women´s Champions League. Real Madrid host París in the Estadio Alfredo Di Stefano.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261128014500 +0700" stop="20261128020000 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261128020000 +0700" stop="20261128041500 +0700">
+  <programme channel="ch0000000000100002181" start="20261127200000 +0700" stop="20261127221500 +0700">
     <title>Liga 26/27: Valencia vs Real Madrid</title>
     <desc>Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128041500 +0700" stop="20261128043000 +0700">
+  <programme channel="ch0000000000100002181" start="20261127221500 +0700" stop="20261128003000 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Club Celta</title>
+    <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128003000 +0700" stop="20261128024500 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs París FC</title>
+    <desc>Matchday 4 of the Women´s Champions League. Real Madrid host París in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128024500 +0700" stop="20261128030000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128030000 +0700" stop="20261128040000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128040000 +0700" stop="20261128043000 +0700">
     <title>Realmadrid Life</title>
     <desc>Weekly review show</desc>
   </programme>
@@ -44943,8 +44833,8 @@
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261128060000 +0700" stop="20261128081500 +0700">
-    <title>TBC: Champions League 26/27: Real Madrid vs PSV Eindhoven</title>
-    <desc>TBC: Matchday 5 of the Champions League. Real Madrid host PSV Eindhoven in the Estadio Bernabéu.</desc>
+    <title>Champions League 26/27: Real Madrid vs PSV Eindhoven</title>
+    <desc>Matchday 5 of the Champions League. Real Madrid host PSV Eindhoven in the Estadio Bernabéu.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261128081500 +0700" stop="20261128091500 +0700">
     <title>Real Madrid Pass</title>
@@ -44962,7 +44852,7 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128121500 +0700" stop="20261128130000 +0700">
+  <programme channel="ch0000000000100002181" start="20261128121500 +0700" stop="20261128140000 +0700">
     <title>Youth League: AEK Athens U19 vs Real Madrid U19</title>
     <desc>Matchday 4 of theYouth League Real Madrid face AEK Atenas Training Center Stadium.</desc>
   </programme>
@@ -45231,7 +45121,17 @@
     <title lang="en">No Broadcast</title>
     <category>NFL, American Football</category>
   </programme>
-  <programme channel="ch0000000000100002251" start="20261127000000 +0700" stop="20261128000000 +0700">
+  <programme channel="ch0000000000100002251" start="20261127000000 +0700" stop="20261127043000 +0700">
+    <title lang="th">เริ่มเวลา 04:30 น.ฟิลาเดลเฟีย อีเกิลส์ พบ ดัลลัส คาวบอยส์</title>
+    <title lang="en">Start 4.30AM: Philadelphia Eagles vs Dallas Cowboys</title>
+    <category>NFL, American Football</category>
+  </programme>
+  <programme channel="ch0000000000100002251" start="20261127043000 +0700" stop="20261127073000 +0700">
+    <title lang="th">LIVE: ฟิลาเดลเฟีย อีเกิลส์ พบ ดัลลัส คาวบอยส์</title>
+    <title lang="en">LIVE: Philadelphia Eagles vs Dallas Cowboys</title>
+    <category>NFL, American Football</category>
+  </programme>
+  <programme channel="ch0000000000100002251" start="20261127073000 +0700" stop="20261128000000 +0700">
     <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
     <title lang="en">No Broadcast</title>
     <category>NFL, American Football</category>
@@ -45780,51 +45680,6 @@
     <title lang="th">รีรัน: 2022 NBA Finals Film Room, Game 2</title>
     <title lang="en">RERUN: 2022 NBA Finals Film Room, Game 2</title>
     <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261124000000 +0700" stop="20261125000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261125000000 +0700" stop="20261125100000 +0700">
-    <title lang="th">เริ่มเวลา 10.00 น. ดัลลัส แมฟเวอริกส์ พบ เดนเวอร์ นักเก็ตส์</title>
-    <title lang="en">Start 10AM: DAL vs DEN</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261125100000 +0700" stop="20261125130000 +0700">
-    <title lang="th">LIVE: ดัลลัส แมฟเวอริกส์ พบ เดนเวอร์ นักเก็ตส์</title>
-    <title lang="en">LIVE: Dallas Mavericks vs Denver Nuggets</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261125130000 +0700" stop="20261126000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261126000000 +0700" stop="20261126073000 +0700">
-    <title lang="th">เริ่มเวลา 07.30 น. มินนิโซตา ทิมเบอร์วูล์ฟส์ พบ โอคลาโฮมา ซิตี้ ธันเดอร์</title>
-    <title lang="en">Start 7.30AM: MIN vs OKC</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261126073000 +0700" stop="20261126103000 +0700">
-    <title lang="th">LIVE: มินนิโซตา ทิมเบอร์วูล์ฟส์ พบ โอคลาโฮมา ซิตี้ ธันเดอร์</title>
-    <title lang="en">LIVE: Minnesota Timberwolves vs Oklahoma City Thunder</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261126103000 +0700" stop="20261127000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261127000000 +0700" stop="20261128000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
-  </programme>
-  <programme channel="ch0000000000100002402" start="20261128000000 +0700" stop="20261129000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>NBA, Basketball</category>
   </programme>
   <programme channel="ch0000000000100002511" start="20261124233000 +0700" stop="20261125000000 +0700">
     <title lang="th">วิดันตาเวิลด์ เม็กซิโก โอเพ่น ไฮไลต์ รอบสุดท้าย</title>
@@ -48598,8 +48453,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002701" start="20261127060000 +0700" stop="20261127063000 +0700">
-    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 10</title>
-    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 10</title>
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล โชว์ 2026-27: แฮร์รี เคน &amp; อิบราฮิม มาซา</title>
+    <title lang="en">RERUN: Bundesliga Special Show 2026-27: Harry Kane &amp; Ibrahim Maza</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002701" start="20261127063000 +0700" stop="20261127064500 +0700">
@@ -48658,8 +48513,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002701" start="20261127220000 +0700" stop="20261127223000 +0700">
-    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล 2026-27: แมตซ์เดย์ 10</title>
-    <title lang="en">RERUN: Bundesliga Special 2026-27: Matchday 10</title>
+    <title lang="th">รีรัน: บุนเดสลีกา สเปเชียล โชว์ 2026-27: แฮร์รี เคน &amp; อิบราฮิม มาซา</title>
+    <title lang="en">RERUN: Bundesliga Special Show 2026-27: Harry Kane &amp; Ibrahim Maza</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002701" start="20261127223000 +0700" stop="20261127230000 +0700">
@@ -48763,8 +48618,8 @@
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002701" start="20261128233000 +0700" stop="20261129000000 +0700">
-    <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 18 The Legacy of Manuel Neuer</title>
-    <title lang="en">RERUN: Bundesliga Special 2025-26: EP 18 The Legacy of Manuel Neuer</title>
+    <title lang="th">รีรัน: บุนเดสลีกา วีคลี 2026-27: แมตซ์เดย์ 10</title>
+    <title lang="en">RERUN: Bundesliga Weekly 2026-27: Matchday 10</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002901" start="20261125000000 +0700" stop="20261125080000 +0700">
