@@ -340,6 +340,11 @@
     <display-name lang="en">PLAY SPORTS BUNDESLIGA 521</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png"/>
   </channel>
+  <channel id="ch0000000000100002742">
+    <display-name lang="th">เพลย์สปอร์ต บุนเดสลีกา 526</display-name>
+    <display-name lang="en">PLAY SPORTS BUNDESLIGA 526</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116131414088668.png"/>
+  </channel>
   <channel id="ch0000000000100002401">
     <display-name lang="th">เพลย์สปอร์ต บาสเกตบอล 551</display-name>
     <display-name lang="en">PLAY SPORTS BASKETBALL 551</display-name>
@@ -3835,6 +3840,10 @@
     <title>ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (EP. 53-54)</title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001081" start="20261129230000 +0700" stop="20261130010000 +0700">
+    <title>EMERGENCY LOVE อุบัติรักไม่ทันตั้งตัว (EP. 9-10)</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001091" start="20261125234000 +0700" stop="20261126010500 +0700">
     <title>Urkel Saves Santa: The Movie!</title>
     <desc>The brilliant but accident-prone Steve Urkel goes to find Santa to help the city rediscover the holiday spirit.</desc>
@@ -5344,7 +5353,7 @@
     <title>SKYLINES สกายไลน์ 3 สงครามถล่มจักรวาล</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001093" start="20261129230000 +0700" stop="20261130000000 +0700">
+  <programme channel="ch0000000000100001093" start="20261129230000 +0700" stop="20261130010000 +0700">
     <title>สายสืบหน้าฮ่าน GROOVE TOWN DETECTIVES</title>
     <category>Entertainment</category>
   </programme>
@@ -19885,7 +19894,7 @@
     <desc>รายการที่จะนำเสนอเพลงเพราะ เพลงฮิต จากศิลปินดัง ตลอด 2 ชั่วโมง</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001183" start="20261129220000 +0700" stop="20261129230000 +0700">
+  <programme channel="ch0000000000100001183" start="20261129220000 +0700" stop="20261130000000 +0700">
     <title>YOUNGSTER Variety (Rerun)</title>
     <desc>ช่วงเวลาที่รวบรวมความสนุกหลากหลายรูปแบบมามอบให้คุณผู้ชม ทั้งเรื่องราวที่เป็นกระแสในโลกโซเชี่ยล อัพเดทข่าวสารในทุกวงการพูดคุยกับศิลปินที่กำลังเป็นที่นิยมพร้อมโชว์สุดพิเศษและรวมไปถึงเหล่านักแสดงมากความสามารถที่จะมาพูดคุยถึงบรรยากาศและความสนุกในกองละคร</desc>
     <category>Entertainment</category>
@@ -26523,8 +26532,8 @@
     <category>Current Events,News,Talk Show</category>
   </programme>
   <programme channel="ch0000000000100001238" start="20261125233000 +0700" stop="20261126000000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>The Garden Way</title>
+    <desc>A tranquil urban oasis on the east side of central Tokyo, Kiyosumi Gardens is renowned for a broad range of beautiful landscape rocks that were brought here from around Japan.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261126000000 +0700" stop="20261126003000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26560,7 +26569,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261126020000 +0700" stop="20261126023000 +0700">
     <title>BIZ STREAM</title>
-    <desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc>Reshaping Japan's Plastic Supply: Global conflict has disrupted Japan's oil imports. Discover how innovative new technologies could offer a domestic solution for everyday plastics and petroleum.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261126023000 +0700" stop="20261126030000 +0700">
     <title>FRONTRUNNERS</title>
@@ -26599,8 +26608,8 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261126063000 +0700" stop="20261126070000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title>The Garden Way</title>
+    <desc>A tranquil urban oasis on the east side of central Tokyo, Kiyosumi Gardens is renowned for a broad range of beautiful landscape rocks that were brought here from around Japan.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261126070000 +0700" stop="20261126073000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26784,11 +26793,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261127014300 +0700" stop="20261127014800 +0700">
     <title>DOSUKOI Sumo Salon 5 minutes</title>
-    <desc>33 wins over 45 bouts in 3 tournaments is one benchmark for promotion to Ozeki, but some have advanced with just 28 wins while others failed despite 35. Explore the stories behind these promotions.</desc>
+    <desc>Only 7% of rikishi make it to the top division. We learn what kind of special perks such top-division rikishi receive, and hear how even some famous Yokozuna had inauspicious beginnings.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127014800 +0700" stop="20261127015500 +0700">
     <title>DOSUKOI Sumo Salon 5 minutes</title>
-    <desc>This technique has been used in clutch moments in some historic bouts. We learn how it's different from the overarm throw and hear secrets of how it's done from the masters!</desc>
+    <desc>This time, a technique involving clamping the opponent's shoulder then pulling them down. We take a close look and examine why the under shoulder swing down is becoming more popular!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127015500 +0700" stop="20261127020000 +0700">
     <title>Ukiyoe EDO-LIFE: A Napping Boy</title>
@@ -26818,9 +26827,13 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261127043000 +0700" stop="20261127050000 +0700">
+  <programme channel="ch0000000000100001238" start="20261127043000 +0700" stop="20261127045300 +0700">
     <title>The Business Keyhole</title>
     <desc>A backstage look at the coldest products on the market, frozen foods! From Japan's unique take on one-plate meals to the uniquely Japanese udon noodles, sample the latest and hottest in chilled chow!</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261127045300 +0700" stop="20261127050000 +0700">
+    <title>Ukiyoe EDO-LIFE: A Spring Party</title>
+    <desc>We visit one of the most famous cherry blossom spots in Edo. Flower viewing parties were for eating, drinking and making merry. It was also an opportunity for young men and women to mingle.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127050000 +0700" stop="20261127053000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26852,15 +26865,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261127083000 +0700" stop="20261127090000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's "knights" as they race through the city in search of a better future.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127090000 +0700" stop="20261127093000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127093000 +0700" stop="20261127100000 +0700">
-    <title>Special program</title>
-    <desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title>Road Infrastructure Health Check</title>
+    <desc>Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive "health checkups."</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127100000 +0700" stop="20261127103000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26892,15 +26905,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261127133000 +0700" stop="20261127140000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's "knights" as they race through the city in search of a better future.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127140000 +0700" stop="20261127143000 +0700">
     <title>NEWSLINE ASIA 24</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127143000 +0700" stop="20261127150000 +0700">
-    <title>Special program</title>
-    <desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title>Road Infrastructure Health Check</title>
+    <desc>Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive "health checkups."</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127150000 +0700" stop="20261127153000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26948,15 +26961,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261127193000 +0700" stop="20261127200000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's "knights" as they race through the city in search of a better future.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127200000 +0700" stop="20261127203000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127203000 +0700" stop="20261127210000 +0700">
-    <title>Special program</title>
-    <desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title>Road Infrastructure Health Check</title>
+    <desc>Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive "health checkups."</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261127210000 +0700" stop="20261127213000 +0700">
     <title>NHK NEWSLINE</title>
@@ -26988,7 +27001,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128003000 +0700" stop="20261128010000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's "knights" as they race through the city in search of a better future.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128010000 +0700" stop="20261128012800 +0700">
     <title>NEWSROOM TOKYO</title>
@@ -27003,16 +27016,16 @@
     <desc>The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128015500 +0700" stop="20261128020000 +0700">
-    <title>Ukiyoe EDO-LIFE: A Napping Boy</title>
-    <desc>When a little boy's nap is disturbed by a bad dream, his mother comes to his rescue. What was terrorizing him? We examine a print that shows how much the Edo townspeople cherished their kids.</desc>
+    <title>Ukiyoe EDO-LIFE: At Roben Falls</title>
+    <desc>We journey to a sacred mountain where pilgrims are purifying themselves in a waterfall before moving on. Some of them have even brought along offerings. And it turns out they have something to prove.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128020000 +0700" stop="20261128023000 +0700">
     <title>Medical Frontiers 2026</title>
     <desc>Every minute counts in ischemic stroke care. Japanese researchers are developing a drug that could extend the treatment window from 4.5 to 12 hours. We also introduce stroke prevention indicator.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128023000 +0700" stop="20261128030000 +0700">
-    <title>Special program</title>
-    <desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title>Road Infrastructure Health Check</title>
+    <desc>Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive "health checkups."</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128030000 +0700" stop="20261128033000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27036,7 +27049,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128053000 +0700" stop="20261128060000 +0700">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc>As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's "knights" as they race through the city in search of a better future.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128060000 +0700" stop="20261128061000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27060,15 +27073,19 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128071000 +0700" stop="20261128080000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128080000 +0700" stop="20261128081000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128081000 +0700" stop="20261128090000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261128081000 +0700" stop="20261128085500 +0700">
+    <title>Voyagers of Japan</title>
+    <desc>We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128085500 +0700" stop="20261128090000 +0700">
+    <title>JAPAN DELISH 5min.</title>
+    <desc>Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128090000 +0700" stop="20261128091000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27076,7 +27093,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128091000 +0700" stop="20261128095500 +0700">
     <title>The Professionals</title>
-    <desc>A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc>Koreeda Hirokazu, acclaimed director of "Shoplifters", "Nobody Knows" and "Monster", returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128095500 +0700" stop="20261128100000 +0700">
     <title>Dining with the Chef mini</title>
@@ -27090,17 +27107,25 @@
     <title>Design X Stories</title>
     <desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128104000 +0700" stop="20261128110000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261128104000 +0700" stop="20261128105000 +0700">
+    <title>u&amp;i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128105000 +0700" stop="20261128110000 +0700">
+    <title>Viewpoint Science</title>
+    <desc>The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128110000 +0700" stop="20261128111000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128111000 +0700" stop="20261128120000 +0700">
-    <title>Time and Tide</title>
-    <desc>Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="ch0000000000100001238" start="20261128111000 +0700" stop="20261128114000 +0700">
+    <title>History Uncovered</title>
+    <desc>Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128114000 +0700" stop="20261128120000 +0700">
+    <title>My Street Piano</title>
+    <desc>On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128120000 +0700" stop="20261128121000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27112,11 +27137,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128122500 +0700" stop="20261128123000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
-    <desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc>Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128123000 +0700" stop="20261128130000 +0700">
     <title>KABUKI KOOL</title>
-    <desc>Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc>Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128130000 +0700" stop="20261128131000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27124,23 +27149,31 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128131000 +0700" stop="20261128140000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128140000 +0700" stop="20261128141000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128141000 +0700" stop="20261128150000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261128141000 +0700" stop="20261128145500 +0700">
+    <title>Voyagers of Japan</title>
+    <desc>We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128145500 +0700" stop="20261128150000 +0700">
+    <title>JAPAN DELISH 5min.</title>
+    <desc>Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128150000 +0700" stop="20261128151000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128151000 +0700" stop="20261128160000 +0700">
-    <title>Time and Tide</title>
-    <desc>Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="ch0000000000100001238" start="20261128151000 +0700" stop="20261128154000 +0700">
+    <title>History Uncovered</title>
+    <desc>Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128154000 +0700" stop="20261128160000 +0700">
+    <title>My Street Piano</title>
+    <desc>On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128160000 +0700" stop="20261128161000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27150,9 +27183,13 @@
     <title>Design X Stories</title>
     <desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128164000 +0700" stop="20261128170000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261128164000 +0700" stop="20261128165000 +0700">
+    <title>u&amp;i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128165000 +0700" stop="20261128170000 +0700">
+    <title>Viewpoint Science</title>
+    <desc>The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128170000 +0700" stop="20261128171000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27160,7 +27197,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128171000 +0700" stop="20261128175500 +0700">
     <title>The Professionals</title>
-    <desc>A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc>Koreeda Hirokazu, acclaimed director of "Shoplifters", "Nobody Knows" and "Monster", returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128175500 +0700" stop="20261128180000 +0700">
     <title>Dining with the Chef mini</title>
@@ -27176,11 +27213,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128182500 +0700" stop="20261128183000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
-    <desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc>Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128183000 +0700" stop="20261128190000 +0700">
     <title>KABUKI KOOL</title>
-    <desc>Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc>Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128190000 +0700" stop="20261128191000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27188,15 +27225,19 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128191000 +0700" stop="20261128200000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128200000 +0700" stop="20261128201000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128201000 +0700" stop="20261128210000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261128201000 +0700" stop="20261128205500 +0700">
+    <title>Voyagers of Japan</title>
+    <desc>We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128205500 +0700" stop="20261128210000 +0700">
+    <title>JAPAN DELISH 5min.</title>
+    <desc>Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128210000 +0700" stop="20261128211000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27210,9 +27251,13 @@
     <title>Time-lapse Journey</title>
     <desc>Kamikochi is a beautiful mountainous region in Nagano Prefecture that's 1,500m above sea level. With a mirror-like pond and rime ice, see the frozen beauty of Kamikochi through time-lapse photography.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128214000 +0700" stop="20261128220000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261128214000 +0700" stop="20261128215000 +0700">
+    <title>u&amp;i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128215000 +0700" stop="20261128220000 +0700">
+    <title>Viewpoint Science</title>
+    <desc>The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128220000 +0700" stop="20261128221000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27220,7 +27265,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261128221000 +0700" stop="20261128225500 +0700">
     <title>The Professionals</title>
-    <desc>A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc>Koreeda Hirokazu, acclaimed director of "Shoplifters", "Nobody Knows" and "Monster", returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261128225500 +0700" stop="20261128230000 +0700">
     <title>Dining with the Chef mini</title>
@@ -27230,9 +27275,13 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261128231000 +0700" stop="20261129000000 +0700">
-    <title>Time and Tide</title>
-    <desc>Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="ch0000000000100001238" start="20261128231000 +0700" stop="20261128234000 +0700">
+    <title>History Uncovered</title>
+    <desc>Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261128234000 +0700" stop="20261129000000 +0700">
+    <title>My Street Piano</title>
+    <desc>On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129000000 +0700" stop="20261129001000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27244,11 +27293,11 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129002500 +0700" stop="20261129003000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
-    <desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc>Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129003000 +0700" stop="20261129010000 +0700">
     <title>KABUKI KOOL</title>
-    <desc>Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc>Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129010000 +0700" stop="20261129011000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27256,15 +27305,19 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129011000 +0700" stop="20261129020000 +0700">
     <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc>Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129020000 +0700" stop="20261129021000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261129021000 +0700" stop="20261129030000 +0700">
-    <title>NHK WORLD TV Special program</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261129021000 +0700" stop="20261129025500 +0700">
+    <title>Voyagers of Japan</title>
+    <desc>We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261129025500 +0700" stop="20261129030000 +0700">
+    <title>JAPAN DELISH 5min.</title>
+    <desc>Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129030000 +0700" stop="20261129031000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27278,9 +27331,13 @@
     <title>Time-lapse Journey</title>
     <desc>Kamikochi is a beautiful mountainous region in Nagano Prefecture that's 1,500m above sea level. With a mirror-like pond and rime ice, see the frozen beauty of Kamikochi through time-lapse photography.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261129034000 +0700" stop="20261129040000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261129034000 +0700" stop="20261129035000 +0700">
+    <title>u&amp;i</title>
+    <desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261129035000 +0700" stop="20261129040000 +0700">
+    <title>Viewpoint Science</title>
+    <desc>The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129040000 +0700" stop="20261129041000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27288,7 +27345,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129041000 +0700" stop="20261129045500 +0700">
     <title>The Professionals</title>
-    <desc>A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc>Koreeda Hirokazu, acclaimed director of "Shoplifters", "Nobody Knows" and "Monster", returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129045500 +0700" stop="20261129050000 +0700">
     <title>Dining with the Chef mini</title>
@@ -27298,9 +27355,13 @@
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261129051000 +0700" stop="20261129060000 +0700">
-    <title>Time and Tide</title>
-    <desc>Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="ch0000000000100001238" start="20261129051000 +0700" stop="20261129054000 +0700">
+    <title>History Uncovered</title>
+    <desc>Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261129054000 +0700" stop="20261129060000 +0700">
+    <title>My Street Piano</title>
+    <desc>On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129060000 +0700" stop="20261129061000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27312,15 +27373,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129062500 +0700" stop="20261129063000 +0700">
     <title>DESIGN MUSEUM JAPAN</title>
-    <desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc>Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129063000 +0700" stop="20261129070000 +0700">
     <title>KABUKI KOOL</title>
-    <desc>Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc>Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129070000 +0700" stop="20261129080000 +0700">
-    <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title>Documentary360</title>
+    <desc>Chronicling Yayoi Kusama at the launch of her world tour, we explore masterpieces on show in Madrid, hear from collectors, and join conversations with fellow artists. Originally aired in 2011.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129080000 +0700" stop="20261129081000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27339,20 +27400,20 @@
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129091000 +0700" stop="20261129094000 +0700">
-    <title>J-MELO</title>
-    <desc>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news.</desc>
+    <title>tiny desk concerts JAPAN</title>
+    <desc>ROTH BART BARON, the globally acclaimed folk rock band helmed by Mifune Masaya, is based in Tokyo and Berlin and renowned for their distinct sound. The group brings a one-of-a-kind performance to tdcJ</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129094000 +0700" stop="20261129095000 +0700">
     <title>Little Charo</title>
-    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home.</desc>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 2-12.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129095000 +0700" stop="20261129095500 +0700">
     <title>Japanology Plus mini</title>
-    <desc>Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of "Japanology Plus.")</desc>
+    <desc>Highly nutritious and increasingly popular overseas, natto is a traditional Japanese food linked to longevity. Now, there are even hopes that it could help solve environmental issues.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129095500 +0700" stop="20261129100000 +0700">
-    <title>A Cat's Eye View of Japan</title>
-    <desc>On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographer, Iwago Mitsuaki.</desc>
+    <title>A Cat's-Eye View of Japan</title>
+    <desc>We meet Kiiro, a cat who draws admirers whenever he goes out for a stroll. Children and adults alike gather to scratch his head. We also visit a beauty salon where a cat provides customer service!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129100000 +0700" stop="20261129101000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27360,11 +27421,15 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129101000 +0700" stop="20261129104000 +0700">
     <title>ANIME MANGA EXPLOSION</title>
-    <desc>ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc>Discover how JoJo's Bizarre Adventure became anime, with stories from its early production. Then go behind the scenes of the latest series, STEEL BALL RUN, with 3DCG horse races and bold colors.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261129104000 +0700" stop="20261129110000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261129104000 +0700" stop="20261129105000 +0700">
+    <title>I Love 'Mee'</title>
+    <desc>Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed. Through a "Bedwetting Counselor," Mee learns that physical growth varies from person to person...</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261129105000 +0700" stop="20261129110000 +0700">
+    <title>Design Ah neo: Dimensions Special</title>
+    <desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A "Dimensions" special episode.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129110000 +0700" stop="20261129111000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27372,35 +27437,35 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129111000 +0700" stop="20261129120000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a "magical town," it was voted the "World's Most Popular City" by a U.S. travel magazine.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129120000 +0700" stop="20261129121000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129121000 +0700" stop="20261129122500 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>RICE in JAPAN</title>
+    <desc>Discover the rice breeders in Fukui, who spent 10 years developing a new variety! Enjoy Fukui's delicious local dishes with freshly cooked rice!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129122500 +0700" stop="20261129123000 +0700">
-    <title>Core Kyoto mini.</title>
-    <desc>The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title>Core Kyoto mini</title>
+    <desc>Elegant and practical, braided cords are essential for kimono and other aspects of everyday life.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129123000 +0700" stop="20261129124500 +0700">
     <title>Easy Japanese for Work</title>
-    <desc>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc>The second in a special two-part EJW series. On Easy Japanese for Work, we've looked at many Japanese phrases that people use at work. Today, we review past phrases and learn keego through fun games.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129124500 +0700" stop="20261129130000 +0700">
     <title>Zero Waste Life</title>
-    <desc>Meet people around Japan who strive for a life without waste under the traditional philosophy of "MOTTAINAI," which values cherishing the things we have.</desc>
+    <desc>Artisan Takezawa Mutsumi's workshop lies at the foot of a mountain west of Tokyo. She makes pieces using leather from animals culled as pests, hides usually thrown away, but she gives them new life.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129130000 +0700" stop="20261129131000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129131000 +0700" stop="20261129140000 +0700">
-    <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title>Elderly Cardboard Collectors</title>
+    <desc>South Korea's birthrate is falling and its population is aging.Amidst the country's struggling social security system, some elderly people in Seoul collect recyclable materials to survive.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129140000 +0700" stop="20261129141000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27420,7 +27485,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129151000 +0700" stop="20261129160000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a "magical town," it was voted the "World's Most Popular City" by a U.S. travel magazine.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129160000 +0700" stop="20261129161000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27428,59 +27493,63 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129161000 +0700" stop="20261129164000 +0700">
     <title>ANIME MANGA EXPLOSION</title>
-    <desc>ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc>Discover how JoJo's Bizarre Adventure became anime, with stories from its early production. Then go behind the scenes of the latest series, STEEL BALL RUN, with 3DCG horse races and bold colors.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261129164000 +0700" stop="20261129170000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261129164000 +0700" stop="20261129165000 +0700">
+    <title>I Love 'Mee'</title>
+    <desc>Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed. Through a "Bedwetting Counselor," Mee learns that physical growth varies from person to person...</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261129165000 +0700" stop="20261129170000 +0700">
+    <title>Design Ah neo: Dimensions Special</title>
+    <desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A "Dimensions" special episode.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129170000 +0700" stop="20261129171000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129171000 +0700" stop="20261129174000 +0700">
-    <title>J-MELO</title>
-    <desc>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news.</desc>
+    <title>tiny desk concerts JAPAN MIURA DAICHI</title>
+    <desc>Miura Daichi appears on tiny desk concerts.Known for his remarkable vocal ability and expressive performance style,For this session, he is joined by an 18-member gospel choir in powerful ensemble.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129174000 +0700" stop="20261129175000 +0700">
     <title>Little Charo</title>
-    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home.</desc>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 2-12.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129175000 +0700" stop="20261129175500 +0700">
     <title>Japanology Plus mini</title>
-    <desc>Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of "Japanology Plus.")</desc>
+    <desc>Highly nutritious and increasingly popular overseas, natto is a traditional Japanese food linked to longevity. Now, there are even hopes that it could help solve environmental issues.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129175500 +0700" stop="20261129180000 +0700">
     <title>A Cat's-Eye View of Japan</title>
-    <desc>On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographer, Iwago Mitsuaki.</desc>
+    <desc>We meet Kiiro, a cat who draws admirers whenever he goes out for a stroll. Children and adults alike gather to scratch his head. We also visit a beauty salon where a cat provides customer service!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129180000 +0700" stop="20261129181000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129181000 +0700" stop="20261129182500 +0700">
-    <title>NHK WORLD-JAPAN Special program</title>
-    <desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title>RICE in JAPAN</title>
+    <desc>Discover the rice breeders in Fukui, who spent 10 years developing a new variety! Enjoy Fukui's delicious local dishes with freshly cooked rice!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129182500 +0700" stop="20261129183000 +0700">
-    <title>Core Kyoto mini.</title>
-    <desc>The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title>Core Kyoto mini</title>
+    <desc>Elegant and practical, braided cords are essential for kimono and other aspects of everyday life.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129183000 +0700" stop="20261129184500 +0700">
     <title>Easy Japanese for Work</title>
-    <desc>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc>The second in a special two-part EJW series. On Easy Japanese for Work, we've looked at many Japanese phrases that people use at work. Today, we review past phrases and learn keego through fun games.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129184500 +0700" stop="20261129190000 +0700">
     <title>Zero Waste Life</title>
-    <desc>Meet people around Japan who strive for a life without waste under the traditional philosophy of "MOTTAINAI," which values cherishing the things we have.</desc>
+    <desc>Artisan Takezawa Mutsumi's workshop lies at the foot of a mountain west of Tokyo. She makes pieces using leather from animals culled as pests, hides usually thrown away, but she gives them new life.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129190000 +0700" stop="20261129191000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129191000 +0700" stop="20261129200000 +0700">
-    <title>Documentary 360</title>
-    <desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title>Elderly Cardboard Collectors</title>
+    <desc>South Korea's birthrate is falling and its population is aging.Amidst the country's struggling social security system, some elderly people in Seoul collect recyclable materials to survive.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129200000 +0700" stop="20261129201000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27500,31 +27569,35 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129211000 +0700" stop="20261129214000 +0700">
     <title>ANIME MANGA EXPLOSION</title>
-    <desc>ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc>Discover how JoJo's Bizarre Adventure became anime, with stories from its early production. Then go behind the scenes of the latest series, STEEL BALL RUN, with 3DCG horse races and bold colors.</desc>
   </programme>
-  <programme channel="ch0000000000100001238" start="20261129214000 +0700" stop="20261129220000 +0700">
-    <title>Kids Edutainment</title>
-    <desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="ch0000000000100001238" start="20261129214000 +0700" stop="20261129215000 +0700">
+    <title>I Love 'Mee'</title>
+    <desc>Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed. Through a "Bedwetting Counselor," Mee learns that physical growth varies from person to person...</desc>
+  </programme>
+  <programme channel="ch0000000000100001238" start="20261129215000 +0700" stop="20261129220000 +0700">
+    <title>Design Ah neo: Dimensions Special</title>
+    <desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A "Dimensions" special episode.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129220000 +0700" stop="20261129221000 +0700">
     <title>NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129221000 +0700" stop="20261129224000 +0700">
-    <title>J-MELO</title>
-    <desc>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news.</desc>
+    <title>tiny dek concerts JAPAN</title>
+    <desc>This tiny desk concerts JAPAN features producer and beatmaker STUTS, a leading figure in Japan's hip-hop scene.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129224000 +0700" stop="20261129225000 +0700">
     <title>Little Charo</title>
-    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home.</desc>
+    <desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 2-12.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129225000 +0700" stop="20261129225500 +0700">
     <title>Japanology Plus mini</title>
-    <desc>Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of "Japanology Plus.")</desc>
+    <desc>Highly nutritious and increasingly popular overseas, natto is a traditional Japanese food linked to longevity. Now, there are even hopes that it could help solve environmental issues.</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129225500 +0700" stop="20261129230000 +0700">
     <title>A Cat's-Eye View of Japan</title>
-    <desc>On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographer, Iwago Mitsuaki.</desc>
+    <desc>We meet Kiiro, a cat who draws admirers whenever he goes out for a stroll. Children and adults alike gather to scratch his head. We also visit a beauty salon where a cat provides customer service!</desc>
   </programme>
   <programme channel="ch0000000000100001238" start="20261129230000 +0700" stop="20261129231000 +0700">
     <title>NHK NEWSLINE</title>
@@ -27532,7 +27605,7 @@
   </programme>
   <programme channel="ch0000000000100001238" start="20261129231000 +0700" stop="20261130000000 +0700">
     <title>Somewhere Street</title>
-    <desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc>San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a "magical town," it was voted the "World's Most Popular City" by a U.S. travel magazine.</desc>
   </programme>
   <programme channel="ch0000000000100001244" start="20261125230300 +0700" stop="20261126000000 +0700">
     <title>East Asia Tonight</title>
@@ -35307,6 +35380,18 @@
     <desc>GENERAL</desc>
     <category>Entertainment</category>
   </programme>
+  <programme channel="ch0000000000100001358" start="20261129220000 +0700" stop="20261129223000 +0700">
+    <title>Countryside Escape Ep.3</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261129223000 +0700" stop="20261129230000 +0700">
+    <title>Countryside Escape Ep.4</title>
+    <category>Infotainment</category>
+  </programme>
+  <programme channel="ch0000000000100001358" start="20261129230000 +0700" stop="20261130000000 +0700">
+    <title>Gugak The Music Of Korea Ep.148</title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="ch0000000000100001360" start="20261125231500 +0700" stop="20261126000000 +0700">
     <title>อัศจรรย์บันลือโลก</title>
     <desc>อัศจรรย์บันลือโลก</desc>
@@ -42724,312 +42809,256 @@
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126000000 +0700" stop="20261126030000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126030000 +0700" stop="20261126050000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126050000 +0700" stop="20261126070000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126070000 +0700" stop="20261126080000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+    <title>SV.LEAGUE WOMEN 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126080000 +0700" stop="20261126083000 +0700">
     <title>MONO MORNING SPORTS</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126083000 +0700" stop="20261126103500 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+    <title>PREMIER LEAGUE 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126103500 +0700" stop="20261126113500 +0700">
     <title>SPORT ROUNDUP</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126113500 +0700" stop="20261126124500 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126124500 +0700" stop="20261126131500 +0700">
     <title>SPORTS TODAY</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126131500 +0700" stop="20261126143000 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126143000 +0700" stop="20261126173000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+    <title>SV.LEAGUE WOMEN 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126173000 +0700" stop="20261126180000 +0700">
     <title>SPORTS TODAY</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261126180000 +0700" stop="20261126201500 +0700">
-    <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261126201500 +0700" stop="20261126204000 +0700">
-    <title>ข่าวในพระราชสำนัก</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+  <programme channel="ch0000000000100001941" start="20261126180000 +0700" stop="20261126204000 +0700">
+    <title>MONO Original / ข่าวในพระราชสำนัก</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126204000 +0700" stop="20261126210000 +0700">
     <title>SPORTS FOCUS</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261126210000 +0700" stop="20261126213500 +0700">
-    <title>Sports Program</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+    <title>MAX SPORT FANZONE</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261126213500 +0700" stop="20261126235959 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 26 พ.ย. 69]</desc>
+  <programme channel="ch0000000000100001941" start="20261126213500 +0700" stop="20261127000000 +0700">
+    <title>PREMIER LEAGUE 2026/2027</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127000000 +0700" stop="20261127030000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127030000 +0700" stop="20261127050000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127050000 +0700" stop="20261127070000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127070000 +0700" stop="20261127080000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+    <title>SV.LEAGUE WOMEN 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127080000 +0700" stop="20261127083000 +0700">
     <title>MONO MORNING SPORTS</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127083000 +0700" stop="20261127104000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+    <title>PREMIER LEAGUE 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127104000 +0700" stop="20261127114000 +0700">
     <title>SPORT ROUNDUP</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127114000 +0700" stop="20261127125000 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127125000 +0700" stop="20261127132000 +0700">
     <title>SPORTS TODAY</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127132000 +0700" stop="20261127143500 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127143500 +0700" stop="20261127173000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+    <title>SV.LEAGUE WOMEN 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127173000 +0700" stop="20261127180000 +0700">
     <title>SPORTS TODAY</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261127180000 +0700" stop="20261127201500 +0700">
-    <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261127201500 +0700" stop="20261127204000 +0700">
-    <title>ข่าวในพระราชสำนัก</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+  <programme channel="ch0000000000100001941" start="20261127180000 +0700" stop="20261127204000 +0700">
+    <title>MONO Original / ข่าวในพระราชสำนัก</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127204000 +0700" stop="20261127210000 +0700">
     <title>SPORTS FOCUS</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261127210000 +0700" stop="20261127213500 +0700">
-    <title>Sports Program</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+    <title>MAX SPORT WEEKEND PREVIEW</title>
+    <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261127213500 +0700" stop="20261127235959 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 27 พ.ย. 69]</desc>
+  <programme channel="ch0000000000100001941" start="20261127213500 +0700" stop="20261128000000 +0700">
+    <title>PREMIER LEAGUE 2026/2027</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128000000 +0700" stop="20261128025000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <title>Sports Program</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128025000 +0700" stop="20261128045000 +0700">
-    <title>ถ่ายทอดสด EFL Championship 2026/27</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <title>ถ่ายทอดสด EFL CHAMPIONSHIP 2026/27</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128045000 +0700" stop="20261128060000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <title>Sports Program</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128060000 +0700" stop="20261128070000 +0700">
     <title>SPORT ROUNDUP</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128070000 +0700" stop="20261128080000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <title>SV.LEAGUE WOMEN 2026/2027</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128080000 +0700" stop="20261128083500 +0700">
-    <title>Sports Program</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <title>MAX SPORT FANZONE</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128083500 +0700" stop="20261128091500 +0700">
     <title>HEALTH HACKS</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128091500 +0700" stop="20261128102500 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128102500 +0700" stop="20261128105500 +0700">
-    <title>เทปไฮไลต์การแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <title>Sports Program</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128105500 +0700" stop="20261128135500 +0700">
-    <title>ถ่ายทอดสด SV League Women 2026/27</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+    <title>ถ่ายทอดสด SV.LEAGUE WOMEN 2026/2027</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261128135500 +0700" stop="20261128150000 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261128150000 +0700" stop="20261128160000 +0700">
-    <title>HOT SEAT ตีซี้ตัวตึง</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261128160000 +0700" stop="20261128172500 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261128172500 +0700" stop="20261128180000 +0700">
-    <title>Sports Program</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261128180000 +0700" stop="20261128201500 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261128201500 +0700" stop="20261128203000 +0700">
-    <title>ข่าวในพระราชสำนัก</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261128203000 +0700" stop="20261128211500 +0700">
-    <title>Sports Program</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261128211500 +0700" stop="20261128235959 +0700">
-    <title>ถ่ายทอดสด Premier League 2026/27</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 28 พ.ย. 69]</desc>
+  <programme channel="ch0000000000100001941" start="20261128150000 +0700" stop="20261128160000 +0700">
+    <title>HOT SEAT</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001941" start="20261128160000 +0700" stop="20261128172500 +0700">
+    <title>PREMIER LEAGUE 2026/2027</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001941" start="20261128172500 +0700" stop="20261128180000 +0700">
+    <title>MAX SPORT WEEKEND PREVIEW</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001941" start="20261128180000 +0700" stop="20261128203000 +0700">
+    <title>PREMIER LEAGUE 2026/2027 / ข่าวในพระราชสำนัก</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001941" start="20261128203000 +0700" stop="20261128211500 +0700">
+    <title>MAX SPORT FANZONE</title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="ch0000000000100001941" start="20261128211500 +0700" stop="20261129000000 +0700">
+    <title>ถ่ายทอดสด PREMIER LEAGUE 2026/2027</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129000000 +0700" stop="20261129030000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129030000 +0700" stop="20261129050000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129050000 +0700" stop="20261129060000 +0700">
-    <title>Documentary</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>Sports Program</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129060000 +0700" stop="20261129070000 +0700">
     <title>SPORT ROUNDUP</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129070000 +0700" stop="20261129080000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>SV.LEAGUE WOMEN 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129080000 +0700" stop="20261129092500 +0700">
-    <title>Tag เพื่อนเที่ยว</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>TAG เพื่อนเที่ยว</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129092500 +0700" stop="20261129103500 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129103500 +0700" stop="20261129105500 +0700">
     <title>SPOTLIGHT</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129105500 +0700" stop="20261129135500 +0700">
-    <title>ถ่ายทอดสด SV League Women 2026/27</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>ถ่ายทอดสด SV.LEAGUE WOMEN 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129135500 +0700" stop="20261129145500 +0700">
     <title>MONO Original</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129145500 +0700" stop="20261129180000 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>SV.LEAGUE WOMEN 2026/2027</title>
     <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001941" start="20261129180000 +0700" stop="20261129201500 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+    <title>PREMIER LEAGUE 2026/2027</title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261129201500 +0700" stop="20261129231000 +0700">
-    <title>ถ่ายทอดสด Premier League 2026/27</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+  <programme channel="ch0000000000100001941" start="20261129201500 +0700" stop="20261129232500 +0700">
+    <title>ถ่ายทอดสด PREMIER LEAGUE 2026/2027 / ข่าวในพระราชสำนัก</title>
+    <category>Entertainment</category>
   </programme>
-  <programme channel="ch0000000000100001941" start="20261129231000 +0700" stop="20261129232500 +0700">
-    <title>ข่าวในพระราชสำนัก</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
-  </programme>
-  <programme channel="ch0000000000100001941" start="20261129232500 +0700" stop="20261129235959 +0700">
-    <title>เทปบันทึกภาพการแข่งขันกีฬา</title>
-    <desc>[ออกอากาศทีวีดิจิตอล 29 พ.ย. 69]</desc>
+  <programme channel="ch0000000000100001941" start="20261129232500 +0700" stop="20261130000000 +0700">
+    <title>PREMIER LEAGUE 2026/2027</title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="ch0000000000100001992" start="20261126000000 +0700" stop="20261126005959 +0700">
     <title>Bloomberg Deals</title>
@@ -43207,257 +43236,265 @@
     <title>Bloomberg: Balance of Power</title>
     <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128050000 +0700" stop="20261128055959 +0700">
+  <programme channel="ch0000000000100001992" start="20261128050000 +0700" stop="20261128052959 +0700">
+    <title>The Circuit: Netflix (Part 1)</title>
+    <desc>Emily travels to Paris, Seoul and Los Angeles to explore Netflix's next chapter in the entertainment world.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128053000 +0700" stop="20261128055959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Alexis Ohanian</title>
+    <desc>Alex and Jason talk with entrepreneur and investor Alexis Ohanian at Bloomberg's Power Players conference about investing in women's sports.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128060000 +0700" stop="20261128065959 +0700">
     <title>Bloomberg Wall Street Week</title>
     <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261128060000 +0700" stop="20261128062959 +0700">
-    <title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261128063000 +0700" stop="20261128065959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128070000 +0700" stop="20261128072959 +0700">
-    <title>Leaders with Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <title>Bloomberg Next Africa</title>
+    <desc>A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128073000 +0700" stop="20261128075959 +0700">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+    <title>The Mishal Husain Show: Marina Litvinenko</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Marina Litvinenko.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128080000 +0700" stop="20261128082959 +0700">
-    <title>The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <title>The Circuit: Netflix (Part 1)</title>
+    <desc>Emily travels to Paris, Seoul and Los Angeles to explore Netflix's next chapter in the entertainment world.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128083000 +0700" stop="20261128085959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Henrik Lundqvist</title>
+    <desc>Alex and Jason talk with Henrik Lundqvist, the Hall of Fame hockey player and Madison Square Garden ambassador, about how he built his second career.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128090000 +0700" stop="20261128092959 +0700">
+    <title>The David Rubenstein Show: Nir Bar Dea, Bridgewater Associates CEO</title>
+    <desc>Nir Bar Dea, Bridgewater Associates CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128093000 +0700" stop="20261128095959 +0700">
     <title>Bloomberg Originals</title>
     <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128090000 +0700" stop="20261128095959 +0700">
+  <programme channel="ch0000000000100001992" start="20261128100000 +0700" stop="20261128105959 +0700">
     <title>Bloomberg Wall Street Week</title>
     <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128100000 +0700" stop="20261128102959 +0700">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+  <programme channel="ch0000000000100001992" start="20261128110000 +0700" stop="20261128112959 +0700">
+    <title>The Best of 2026 Bloomberg New Economy Forum</title>
+    <desc>A recap of the 2026 Bloomberg New Economy Forum, held in New Delhi in October 2026, featuring interviews with global leaders in business and government. Hosted by Erik Schatzker.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128103000 +0700" stop="20261128105959 +0700">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261128110000 +0700" stop="20261128115959 +0700">
-    <title>The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+  <programme channel="ch0000000000100001992" start="20261128113000 +0700" stop="20261128115959 +0700">
+    <title>Bloomberg Screentime</title>
+    <desc>Bloomberg Screentime brings together Hollywood's biggest names to explore how streaming, creators, consolidation and AI are reshaping the entertainment industry.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128120000 +0700" stop="20261128122959 +0700">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+    <title>The Best of 2026 Bloomberg New Economy Forum</title>
+    <desc>A recap of the 2026 Bloomberg New Economy Forum, held in New Delhi in October 2026, featuring interviews with global leaders in business and government. Hosted by Erik Schatzker.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128123000 +0700" stop="20261128125959 +0700">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Nick Khan on Making WWE a Global Media Power</title>
+    <desc>Alex and Jason talk with WWE president Nick Khan at Bloomberg's Screentime conference about his deals with Netflix and ESPN.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128130000 +0700" stop="20261128132959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <title>Businessweek Convenes: A Frank Conversation on AI &amp; Hollywood</title>
+    <desc>From Bloomberg Screentime, Hollywood leaders examine how AI is reshaping the business of entertainment, from creative work and jobs to economics and ownership.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128133000 +0700" stop="20261128135959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <title>Bloomberg Tech: Decoding the Future</title>
+    <desc>The content, capital and connectivity powering Tech's most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128140000 +0700" stop="20261128145959 +0700">
+  <programme channel="ch0000000000100001992" start="20261128140000 +0700" stop="20261128142959 +0700">
+    <title>The Mishal Husain Show: Parag Khanna</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Parag Khanna.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128143000 +0700" stop="20261128145959 +0700">
+    <title>The Mishal Husain Show: Marina Litvinenko</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Marina Litvinenko.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128150000 +0700" stop="20261128155959 +0700">
     <title>Bloomberg Wall Street Week</title>
     <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261128150000 +0700" stop="20261128152959 +0700">
-    <title>Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261128153000 +0700" stop="20261128155959 +0700">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128160000 +0700" stop="20261128162959 +0700">
-    <title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <title>Quantum Marketing: How AI Could Change the Advertising Business</title>
+    <desc>Stephan Pretorious, chief technology officer of WPP, unpacks the world of generative artificial intelligence and its potential impact, both positive and negative, on marketing.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128163000 +0700" stop="20261128165959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <title>Quantum Marketing: How an Underdog Sports League Got Millions Watching</title>
+    <desc>National Women's Soccer League Chief Marketing and Commercial Officer Julie Haddon discusses the opportunities for growing women's professional sports.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128170000 +0700" stop="20261128175959 +0700">
+  <programme channel="ch0000000000100001992" start="20261128170000 +0700" stop="20261128172959 +0700">
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128173000 +0700" stop="20261128175959 +0700">
+    <title>The Mishal Husain Show: Marina Litvinenko</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Marina Litvinenko.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261128180000 +0700" stop="20261128185959 +0700">
     <title>Bloomberg Wall Street Week</title>
     <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128180000 +0700" stop="20261128205959 +0700">
+  <programme channel="ch0000000000100001992" start="20261128190000 +0700" stop="20261128215959 +0700">
     <title>Bloomberg This Weekend</title>
     <desc>The news doesn't stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend's biggest headlines, live from New York.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261128210000 +0700" stop="20261128215959 +0700">
+  <programme channel="ch0000000000100001992" start="20261128220000 +0700" stop="20261128225959 +0700">
     <title>Bloomberg Wall Street Week</title>
     <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261128220000 +0700" stop="20261128222959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261128223000 +0700" stop="20261128225959 +0700">
-    <title>The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128230000 +0700" stop="20261128232959 +0700">
-    <title>Best of Bloomberg Invest 2026</title>
-    <desc>A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <title>The Mishal Husain Show: Marina Litvinenko</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Marina Litvinenko.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261128233000 +0700" stop="20261128235959 +0700">
-    <title>Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+    <title>The David Rubenstein Show: Nir Bar Dea, Bridgewater Associates CEO</title>
+    <desc>Nir Bar Dea, Bridgewater Associates CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129000000 +0700" stop="20261129002959 +0700">
-    <title>Leaders with Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <title>Bloomberg Next Africa</title>
+    <desc>A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129003000 +0700" stop="20261129005959 +0700">
-    <title>The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <title>The Circuit: Netflix (Part 1)</title>
+    <desc>Emily travels to Paris, Seoul and Los Angeles to explore Netflix's next chapter in the entertainment world.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129010000 +0700" stop="20261129012959 +0700">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129013000 +0700" stop="20261129015959 +0700">
-    <title>Bloomberg Primer</title>
-    <desc>This six-part, planet-spanning series offers a comprehensive look at the "impossible" industries vying to shape our future.</desc>
+    <title>The David Rubenstein Show: Nir Bar Dea, Bridgewater Associates CEO</title>
+    <desc>Nir Bar Dea, Bridgewater Associates CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129020000 +0700" stop="20261129025959 +0700">
-    <title>Bloomberg Primer</title>
-    <desc>This six-part, planet-spanning series offers a comprehensive look at the "impossible" industries vying to shape our future.</desc>
+  <programme channel="ch0000000000100001992" start="20261129020000 +0700" stop="20261129022959 +0700">
+    <title>Businessweek Convenes: A Frank Conversation on AI &amp; Hollywood</title>
+    <desc>From Bloomberg Screentime, Hollywood leaders examine how AI is reshaping the business of entertainment, from creative work and jobs to economics and ownership.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129030000 +0700" stop="20261129035959 +0700">
-    <title>The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+  <programme channel="ch0000000000100001992" start="20261129023000 +0700" stop="20261129025959 +0700">
+    <title>Bloomberg Tech: Decoding the Future</title>
+    <desc>The content, capital and connectivity powering Tech's most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261129030000 +0700" stop="20261129032959 +0700">
+    <title>How Larry Ellison Built His Empire</title>
+    <desc>Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261129033000 +0700" stop="20261129035959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Nick Khan on Making WWE a Global Media Power</title>
+    <desc>Alex and Jason talk with WWE president Nick Khan at Bloomberg's Screentime conference about his deals with Netflix and ESPN.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129040000 +0700" stop="20261129042959 +0700">
-    <title>Leaders with Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <title>Bloomberg Screentime</title>
+    <desc>Bloomberg Screentime brings together Hollywood's biggest names to explore how streaming, creators, consolidation and AI are reshaping the entertainment industry.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129043000 +0700" stop="20261129045959 +0700">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+    <title>The Best of 2026 Bloomberg New Economy Forum</title>
+    <desc>A recap of the 2026 Bloomberg New Economy Forum, held in New Delhi in October 2026, featuring interviews with global leaders in business and government. Hosted by Erik Schatzker.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129050000 +0700" stop="20261129052959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <title>Bloomberg Primer: The Race to Challenge China's EV Lead</title>
+    <desc>Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129053000 +0700" stop="20261129055959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <title>Bloomberg Primer: The Race to Merge AI With Humanoid Robots</title>
+    <desc>Humanoid robots that use AI are going mainstream, but they're far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129060000 +0700" stop="20261129062959 +0700">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
+    <title>The Mishal Husain Show: Parag Khanna</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Parag Khanna.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129063000 +0700" stop="20261129065959 +0700">
-    <title>Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+    <title>The Mishal Husain Show: Marina Litvinenko</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Marina Litvinenko.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129070000 +0700" stop="20261129072959 +0700">
-    <title>Best of Bloomberg Invest 2026</title>
-    <desc>A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+  <programme channel="ch0000000000100001992" start="20261129070000 +0700" stop="20261129075959 +0700">
+    <title>Post Credits: How Being Honest on the Internet Became a Business   Tefi Pessoa</title>
+    <desc>Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129073000 +0700" stop="20261129075959 +0700">
-    <title>The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261129080000 +0700" stop="20261129082959 +0700">
-    <title>Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261129083000 +0700" stop="20261129085959 +0700">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+  <programme channel="ch0000000000100001992" start="20261129080000 +0700" stop="20261129085959 +0700">
+    <title>Post Credits: Why Creators No Longer Need Hollywood to Fund Their Ideas   Christian Tom</title>
+    <desc>Christian Tom, co-founder and CEO of AND Media, explores a new path for creators who once had to wait for Hollywood to turn their ideas into shows.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129090000 +0700" stop="20261129092959 +0700">
-    <title>Bloomberg Primer</title>
-    <desc>This six-part, planet-spanning series offers a comprehensive look at the "impossible" industries vying to shape our future.</desc>
+    <title>Bloomberg Originals</title>
+    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129093000 +0700" stop="20261129095959 +0700">
-    <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
-    <desc>Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
+    <title>The Best of 2026 Bloomberg New Economy Forum</title>
+    <desc>A recap of the 2026 Bloomberg New Economy Forum, held in New Delhi in October 2026, featuring interviews with global leaders in business and government. Hosted by Erik Schatzker.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129100000 +0700" stop="20261129102959 +0700">
-    <title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <title>How Larry Ellison Built His Empire</title>
+    <desc>Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129103000 +0700" stop="20261129105959 +0700">
-    <title>Bloomberg Screentime: The Business of Pop Culture</title>
-    <desc>At Screentime, the icons and innovators behind today's entertainment revolution take the stage. The agenda: AI's creative takeover, the streaming wars, and what's next for legacy media.</desc>
+    <title>Bloomberg Screentime</title>
+    <desc>Bloomberg Screentime brings together Hollywood's biggest names to explore how streaming, creators, consolidation and AI are reshaping the entertainment industry.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129110000 +0700" stop="20261129112959 +0700">
+  <programme channel="ch0000000000100001992" start="20261129110000 +0700" stop="20261129115959 +0700">
+    <title>Post Credits: Why Women's Sports Are Winning at the Content Game</title>
+    <desc>Shana Stephenson, Chief Brand Officer of the New York Liberty and former ESPN executive, explains how she turned a WNBA team into a cultural force.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261129120000 +0700" stop="20261129122959 +0700">
     <title>Bloomberg Originals</title>
     <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129113000 +0700" stop="20261129115959 +0700">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+  <programme channel="ch0000000000100001992" start="20261129123000 +0700" stop="20261129125959 +0700">
+    <title>Bloomberg Tech: Decoding the Future</title>
+    <desc>The content, capital and connectivity powering Tech's most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129120000 +0700" stop="20261129125959 +0700">
-    <title>Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261129130000 +0700" stop="20261129132959 +0700">
-    <title>Bloomberg Primer</title>
-    <desc>This six-part, planet-spanning series offers a comprehensive look at the "impossible" industries vying to shape our future.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261129133000 +0700" stop="20261129135959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  <programme channel="ch0000000000100001992" start="20261129130000 +0700" stop="20261129135959 +0700">
+    <title>Bloomberg Investigates: A Fire Without End</title>
+    <desc>Examining the ignored warnings and missed opportunities that preceded the Wang Fuk Court disaster, which continues to devastate the families of the dead and the fire's survivors to this day.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129140000 +0700" stop="20261129142959 +0700">
-    <title>Leaders with Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <title>The Best of 2026 Bloomberg New Economy Forum</title>
+    <desc>A recap of the 2026 Bloomberg New Economy Forum, held in New Delhi in October 2026, featuring interviews with global leaders in business and government. Hosted by Erik Schatzker.</desc>
   </programme>
   <programme channel="ch0000000000100001992" start="20261129143000 +0700" stop="20261129145959 +0700">
-    <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
-    <desc>Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
+    <title>The Mishal Husain Show: Marina Litvinenko</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Marina Litvinenko.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129150000 +0700" stop="20261129155959 +0700">
-    <title>Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-  </programme>
-  <programme channel="ch0000000000100001992" start="20261129160000 +0700" stop="20261129162959 +0700">
+  <programme channel="ch0000000000100001992" start="20261129150000 +0700" stop="20261129152959 +0700">
     <title>Bloomberg Originals</title>
     <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129163000 +0700" stop="20261129165959 +0700">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+  <programme channel="ch0000000000100001992" start="20261129153000 +0700" stop="20261129155959 +0700">
+    <title>The Deal with Alex Rodriguez and Jason Kelly: Nick Khan on Making WWE a Global Media Power</title>
+    <desc>Alex and Jason talk with WWE president Nick Khan at Bloomberg's Screentime conference about his deals with Netflix and ESPN.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129170000 +0700" stop="20261129175959 +0700">
+  <programme channel="ch0000000000100001992" start="20261129160000 +0700" stop="20261129165959 +0700">
     <title>Bloomberg Wall Street Week</title>
     <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129180000 +0700" stop="20261129205959 +0700">
+  <programme channel="ch0000000000100001992" start="20261129170000 +0700" stop="20261129172959 +0700">
+    <title>Quantum Marketing: How AI Could Change the Advertising Business</title>
+    <desc>Stephan Pretorious, chief technology officer of WPP, unpacks the world of generative artificial intelligence and its potential impact, both positive and negative, on marketing.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261129173000 +0700" stop="20261129175959 +0700">
+    <title>Quantum Marketing: How an Underdog Sports League Got Millions Watching</title>
+    <desc>National Women's Soccer League Chief Marketing and Commercial Officer Julie Haddon discusses the opportunities for growing women's professional sports.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261129180000 +0700" stop="20261129185959 +0700">
+    <title>Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  </programme>
+  <programme channel="ch0000000000100001992" start="20261129190000 +0700" stop="20261129215959 +0700">
     <title>Bloomberg This Weekend</title>
     <desc>The news doesn't stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend's biggest headlines, live from New York.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129210000 +0700" stop="20261129212959 +0700">
-    <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  <programme channel="ch0000000000100001992" start="20261129220000 +0700" stop="20261129222959 +0700">
+    <title>The Mishal Husain Show: Marina Litvinenko</title>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Marina Litvinenko.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129213000 +0700" stop="20261129215959 +0700">
-    <title>The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  <programme channel="ch0000000000100001992" start="20261129223000 +0700" stop="20261129225959 +0700">
+    <title>The David Rubenstein Show: Nir Bar Dea, Bridgewater Associates CEO</title>
+    <desc>Nir Bar Dea, Bridgewater Associates CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129220000 +0700" stop="20261129225959 +0700">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+  <programme channel="ch0000000000100001992" start="20261129230000 +0700" stop="20261129232959 +0700">
+    <title>The Circuit: Netflix (Part 1)</title>
+    <desc>Emily travels to Paris, Seoul and Los Angeles to explore Netflix's next chapter in the entertainment world.</desc>
   </programme>
-  <programme channel="ch0000000000100001992" start="20261129230000 +0700" stop="20261129235959 +0700">
-    <title>Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+  <programme channel="ch0000000000100001992" start="20261129233000 +0700" stop="20261129235959 +0700">
+    <title>The Best of 2026 Bloomberg New Economy Forum</title>
+    <desc>A recap of the 2026 Bloomberg New Economy Forum, held in New Delhi in October 2026, featuring interviews with global leaders in business and government. Hosted by Erik Schatzker.</desc>
   </programme>
   <programme channel="ch0000000000100002011" start="20261125230000 +0700" stop="20261126000000 +0700">
     <title>Varney &amp; Company</title>
@@ -43930,6 +43967,116 @@
     <title lang="en">RERUN: Chiangmai United vs Mahasarakham CC</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002041" start="20261128080000 +0700" stop="20261128100000 +0700">
+    <title lang="th">รีรัน: เมืองทอง ยูไนเต็ด พบ นครราชสีมา มาสด้า เอฟซี</title>
+    <title lang="en">RERUN: Muangthong United vs Nakhon Ratchasima Mazda FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128100000 +0700" stop="20261128120000 +0700">
+    <title lang="th">รีรัน: ขอนแก่น ยูไนเต็ด พบ พลังกาญจน์ เอฟซี</title>
+    <title lang="en">RERUN: Khon Kaen United vs Kanchanaburi Power FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128120000 +0700" stop="20261128140000 +0700">
+    <title lang="th">รีรัน: การท่าเรือ เอฟซี พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: Port FC vs Chonburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128140000 +0700" stop="20261128160000 +0700">
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ ทรู แบงค็อก ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs True Bangkok United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128160000 +0700" stop="20261128180000 +0700">
+    <title lang="th">รีรัน: อุตรดิตถ์ เอฟซี พบ สงขลา เอฟซี</title>
+    <title lang="en">RERUN: Uttaradit FC vs Songkhla FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128180000 +0700" stop="20261128183000 +0700">
+    <title lang="th">ลูกยิงประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 9</title>
+    <title lang="en">Goals of the Week Thai League - Matchday 9</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128183000 +0700" stop="20261128210000 +0700">
+    <title lang="th">LIVE: ราษีไศล ยูไนเต็ด พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">LIVE: Rasisalai United vs Buriram United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128210000 +0700" stop="20261128220000 +0700">
+    <title lang="th">ลูกยิงประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 12</title>
+    <title lang="en">Goals of the Week Thai League 2 - Matchday 12</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261128220000 +0700" stop="20261129000000 +0700">
+    <title lang="th">รีรัน: หนองบัว พิชญ เอฟซี พบ เมืองเลย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nongbua Pitchaya FC vs Muang Loei United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129000000 +0700" stop="20261129020000 +0700">
+    <title lang="th">รีรัน: อุทัยธานี เอฟซี พบ ศรีสะเกษ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Uthai Thani FC vs Sisaket United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129020000 +0700" stop="20261129040000 +0700">
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Chanthaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129040000 +0700" stop="20261129060000 +0700">
+    <title lang="th">รีรัน: ขอนแก่น ยูไนเต็ด พบ เกษตรศาสตร์ เอฟซี</title>
+    <title lang="en">RERUN: Khon Kaen United vs Kasetsart FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129060000 +0700" stop="20261129080000 +0700">
+    <title lang="th">รีรัน: โปลิศ เทโร เอฟซี พบ นครปฐม ยูไนเต็ด</title>
+    <title lang="en">RERUN: Police Tero FC vs Nakhon Pathom United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129080000 +0700" stop="20261129100000 +0700">
+    <title lang="th">รีรัน: อุทัยธานี เอฟซี พบ ศรีสะเกษ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Uthai Thani FC vs Sisaket United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129100000 +0700" stop="20261129120000 +0700">
+    <title lang="th">รีรัน: ชัยนาท ฮอร์นบิล พบ จันทบุรี เอฟซี</title>
+    <title lang="en">RERUN: Chainat Hornbill FC vs Chanthaburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129120000 +0700" stop="20261129140000 +0700">
+    <title lang="th">รีรัน: ปัตตานี เอฟซี พบ สิงห์ เชียงราย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Pattani FC vs Singha Chiangrai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129140000 +0700" stop="20261129160000 +0700">
+    <title lang="th">รีรัน: ราษีไศล ยูไนเต็ด พบ บุรีรัมย์ ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rasisalai United vs Buriram United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129160000 +0700" stop="20261129180000 +0700">
+    <title lang="th">รีรัน: หนองบัว พิชญ เอฟซี พบ เมืองเลย ยูไนเต็ด</title>
+    <title lang="en">RERUN: Nongbua Pitchaya FC vs Muang Loei United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129180000 +0700" stop="20261129183000 +0700">
+    <title lang="th">ลูกยิงประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 8</title>
+    <title lang="en">Goals of the Week Thai League - Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129183000 +0700" stop="20261129210000 +0700">
+    <title lang="th">LIVE: การท่าเรือ เอฟซี พบ พีที ประจวบ เอฟซี</title>
+    <title lang="en">LIVE: Port FC vs PT Prachuap FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129210000 +0700" stop="20261129230000 +0700">
+    <title lang="th">รีรัน: ลำพูน วอริเออร์ พบ ชลบุรี เอฟซี</title>
+    <title lang="en">RERUN: Lamphun Warriors vs Chonburi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002041" start="20261129230000 +0700" stop="20261130000000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก 2 - สัปดาห์ที่ 12</title>
+    <title lang="en">Highlight of the Week Thai League 2 - Matchday 12</title>
+    <category>Sport</category>
+  </programme>
   <programme channel="ch0000000000100002052" start="20261125220000 +0700" stop="20261126000000 +0700">
     <title lang="th">รีรัน: อยุธยา พีเค เอฟซี พบ พราม แบงค็อก</title>
     <title lang="en">RERUN: Ayutthaya PK FC vs Prime Bangkok</title>
@@ -44053,6 +44200,136 @@
   <programme channel="ch0000000000100002052" start="20261127220000 +0700" stop="20261128000000 +0700">
     <title lang="th">รีรัน: ลพบุรี ซิตี้ พบ นครราชสีมา มาสด้า เอฟซี</title>
     <title lang="en">RERUN: Lopburi City vs Nakhon Ratchasima Mazda FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128000000 +0700" stop="20261128020000 +0700">
+    <title lang="th">รีรัน: ยะลา ซิตี้ พบ นรา เอฟซี</title>
+    <title lang="en">RERUN: Yala City vs Nara FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128020000 +0700" stop="20261128040000 +0700">
+    <title lang="th">รีรัน: กำแพงเพชร เอฟซี พบ สิงห์ เชียงราย ซิตี้</title>
+    <title lang="en">RERUN: Kamphengphet FC vs Singha Chiangrai City</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128040000 +0700" stop="20261128060000 +0700">
+    <title lang="th">รีรัน: อ่างทอง เอฟซี พบ ม. นอร์ทกรุงเทพ</title>
+    <title lang="en">RERUN: Angthong FC vs North Bangkok University</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128060000 +0700" stop="20261128080000 +0700">
+    <title lang="th">รีรัน: แปดริ้ว ซิตี้ พบ สโมสรฟุตบอลราชนาวี</title>
+    <title lang="en">RERUN: Padriew City vs Navy FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128080000 +0700" stop="20261128100000 +0700">
+    <title lang="th">รีรัน: พีเอสยู สุราษฎร์ธานี ซิตี้ พบ สมุย ยูไนเต็ด</title>
+    <title lang="en">RERUN: PSU Suratthani City vs Samui United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128100000 +0700" stop="20261128120000 +0700">
+    <title lang="th">รีรัน: ม. เกษมบัณฑิต เอฟซี พบ รร. กีฬาจังหวัดชลบุรี</title>
+    <title lang="en">RERUN: Kasembundit University FC vs Chonburi Sports School</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128120000 +0700" stop="20261128140000 +0700">
+    <title lang="th">รีรัน: บีเอฟบี พัทยา ซิตี้ พบ คัสตอม ยูไนเต็ด</title>
+    <title lang="en">RERUN: BFB Pattaya City vs Customs United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128140000 +0700" stop="20261128160000 +0700">
+    <title lang="th">รีรัน: ระยอง เอฟซี พบ ราษีไศล ยูไนเต็ด</title>
+    <title lang="en">RERUN: Rayong FC vs Rasisalai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128160000 +0700" stop="20261128170000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 2</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 2</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128170000 +0700" stop="20261128173000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 8</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 8</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128173000 +0700" stop="20261128200000 +0700">
+    <title lang="th">LIVE: ปัตตานี เอฟซี พบ สิงห์ เชียงราย ยูไนเต็ด</title>
+    <title lang="en">LIVE: Pattani FC vs Singha Chiangrai United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128200000 +0700" stop="20261128220000 +0700">
+    <title lang="th">รีรัน: ระนอง พีเจ ยูไนเต็ด พบ ชุมพร ยูไนเต็ด</title>
+    <title lang="en">RERUN: Ranong PJ United vs Chumphon United</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261128220000 +0700" stop="20261129000000 +0700">
+    <title lang="th">รีรัน: อยุธยา พีเค เอฟซี พบ บางกะปิ เอฟซี</title>
+    <title lang="en">RERUN: Ayutthaya PK FC vs Bangkapi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129000000 +0700" stop="20261129020000 +0700">
+    <title lang="th">รีรัน: ม. การกีฬาแห่งชาติ วิทยาเขตลำปาง พบ กำแพงเพชร เอฟซี</title>
+    <title lang="en">RERUN: Thailand National Sports University Lampang Campus vs Kamphengphet FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129020000 +0700" stop="20261129040000 +0700">
+    <title lang="th">รีรัน: นอร์ทเทิร์น นครแม่สอด ยูไนเต็ด พบ เชียงราย ทีเอสซี เอฟซี</title>
+    <title lang="en">RERUN: Northern Nakhonmaesot United vs Chiangrai TSC FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129040000 +0700" stop="20261129060000 +0700">
+    <title lang="th">รีรัน: อุดร ยูไนเต็ด พบ โคราช ซิตี้</title>
+    <title lang="en">RERUN: Udon United vs Korat City</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129060000 +0700" stop="20261129080000 +0700">
+    <title lang="th">รีรัน: นาวิกโยธิน เอฟซี พบ เอ็มเอ็นเค เอสซี</title>
+    <title lang="en">RERUN: Marines FC vs MNK SC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129080000 +0700" stop="20261129100000 +0700">
+    <title lang="th">รีรัน: ฟูเทร่า ยูไนเต็ด พบ ม. เกษมบัณฑิต เอฟซี</title>
+    <title lang="en">RERUN: Futera United vs Kasembundit University FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129100000 +0700" stop="20261129120000 +0700">
+    <title lang="th">รีรัน: รร. กีฬาจังหวัดชลบุรี พบ รร. กีฬาจังหวัดนครศรีธรรมราช</title>
+    <title lang="en">RERUN: Chonburi Sports School vs Nakhon Si Sports School</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129120000 +0700" stop="20261129140000 +0700">
+    <title lang="th">รีรัน: ลพบุรี โพม่า เอฟซี พบ บางกะปิ เอฟซี</title>
+    <title lang="en">RERUN: Lopburi Poma FC vs Bangkapi FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129140000 +0700" stop="20261129160000 +0700">
+    <title lang="th">รีรัน: สิงห์ เชียงราย ยูไนเต็ด พบ ลำพูน วอริเออร์</title>
+    <title lang="en">RERUN: Singha Chiangrai United vs Lamphun Warriors</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129160000 +0700" stop="20261129170000 +0700">
+    <title lang="th">รวมช็อตยิงเท้าขวาสุดทรงพลัง ไทยลีก - ตุลาคม 26/27</title>
+    <title lang="en">RIGHT FOOT CANNON Thai League - October 26/27</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129170000 +0700" stop="20261129173000 +0700">
+    <title lang="th">ไฮไลต์ประจำสัปดาห์ ไทยลีก - สัปดาห์ที่ 9</title>
+    <title lang="en">Highlight of the Week Thai League - Matchday 9</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129173000 +0700" stop="20261129200000 +0700">
+    <title lang="th">LIVE: ทรู แบงค็อก ยูไนเต็ด พบ ปัตตานี เอฟซี</title>
+    <title lang="en">LIVE: True Bangkok United vs Pattani FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129200000 +0700" stop="20261129220000 +0700">
+    <title lang="th">รีรัน: พราม แบงค็อก พบ อ่างทอง เอฟซี</title>
+    <title lang="en">RERUN: Prime Bangkok vs Angthong FC</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002052" start="20261129220000 +0700" stop="20261130000000 +0700">
+    <title lang="th">รีรัน: หัวหิน ซิตี้ พบ สมุทรสงคราม ซิตี้</title>
+    <title lang="en">RERUN: Huahin City vs Samutsongkhram City</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002171" start="20261125234500 +0700" stop="20261126000000 +0700">
@@ -44675,39 +44952,39 @@
     <title>U18s Highlights: Leeds (A) 26/27</title>
     <desc>Highlights of the U18s game against Leeds United.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261125235000 +0700" stop="20261126020500 +0700">
-    <title>Intercontinental Cup Final 2024: Real Madrid vs Pachuca</title>
-    <desc>Real Madrid face Pachuca in Intercontinental Cup´s Final held in Lusail Stadium, Qatar.</desc>
+  <programme channel="ch0000000000100002181" start="20261125231500 +0700" stop="20261126002000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126020500 +0700" stop="20261126023000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20261126002000 +0700" stop="20261126023500 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs Inter Milán</title>
+    <desc>Matchday 5 of the Women´s Champions League. Real Madrid host Inter de Milán in the Estadio Alfredo Di Stefano.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126023000 +0700" stop="20261126024500 +0700">
+  <programme channel="ch0000000000100002181" start="20261126023500 +0700" stop="20261126025000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126024500 +0700" stop="20261126050000 +0700">
+  <programme channel="ch0000000000100002181" start="20261126025000 +0700" stop="20261126035000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261126035000 +0700" stop="20261126060500 +0700">
+    <title>Liga 26/27: Real Madrid vs Sevilla</title>
+    <desc>Matchday 9 of Liga. Real Madrid host Sevilla in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261126060500 +0700" stop="20261126082000 +0700">
     <title>Liga 26/27: Barcelona vs Real Madrid</title>
     <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126050000 +0700" stop="20261126060000 +0700">
-    <title>Real Madrid Pass</title>
-    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261126060000 +0700" stop="20261126081500 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Club Celta</title>
-    <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261126081500 +0700" stop="20261126083000 +0700">
+  <programme channel="ch0000000000100002181" start="20261126082000 +0700" stop="20261126083500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126083000 +0700" stop="20261126111000 +0700">
-    <title>Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta</title>
-    <desc>Borussia Dortmund vs Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+  <programme channel="ch0000000000100002181" start="20261126083500 +0700" stop="20261126105000 +0700">
+    <title>Youth League: Roma U19 vs Real Madrid U19</title>
+    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126111000 +0700" stop="20261126120000 +0700">
+  <programme channel="ch0000000000100002181" start="20261126105000 +0700" stop="20261126120000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
@@ -44715,137 +44992,253 @@
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126121500 +0700" stop="20261126152000 +0700">
-    <title>Club World Cup 2016: Real Madrid vs Kashima</title>
-    <desc>RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
+  <programme channel="ch0000000000100002181" start="20261126121500 +0700" stop="20261126143000 +0700">
+    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
+    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126152000 +0700" stop="20261126173500 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Sociedad</title>
-    <desc>Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261126143000 +0700" stop="20261126160000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126173500 +0700" stop="20261126203000 +0700">
-    <title>Champions League 21/22: Real Madrid vs Manchester City</title>
-    <desc>Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261126160000 +0700" stop="20261126163000 +0700">
+    <title>Live: Press Conference</title>
+    <desc>Pre-match press conference.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126203000 +0700" stop="20261126210000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show.</desc>
+  <programme channel="ch0000000000100002181" start="20261126163000 +0700" stop="20261126171500 +0700">
+    <title>Live Training</title>
+    <desc>Catch the regular first team training pre-match.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126210000 +0700" stop="20261126231500 +0700">
+  <programme channel="ch0000000000100002181" start="20261126171500 +0700" stop="20261126200000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261126200000 +0700" stop="20261126221500 +0700">
+    <title>Liga 26/27: Valencia vs Real Madrid</title>
+    <desc>Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261126221500 +0700" stop="20261127003000 +0700">
     <title>Liga 26/27: Real Madrid vs Real Club Celta</title>
     <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261126231500 +0700" stop="20261127002000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20261127003000 +0700" stop="20261127024500 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs París FC</title>
+    <desc>Matchday 4 of the Women´s Champions League. Real Madrid host París in the Estadio Alfredo Di Stefano.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127002000 +0700" stop="20261127023500 +0700">
-    <title>Women´s Champions League 26/27: Real Madrid vs Inter Milán</title>
-    <desc>Matchday 5 of the Women´s Champions League. Real Madrid host Inter de Milán in the Estadio Alfredo Di Stefano.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261127023500 +0700" stop="20261127025000 +0700">
+  <programme channel="ch0000000000100002181" start="20261127024500 +0700" stop="20261127030000 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127025000 +0700" stop="20261127035000 +0700">
+  <programme channel="ch0000000000100002181" start="20261127030000 +0700" stop="20261127040000 +0700">
     <title>Classic Highlights</title>
     <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127035000 +0700" stop="20261127060500 +0700">
-    <title>Liga 26/27: Real Madrid vs Sevilla</title>
-    <desc>Matchday 9 of Liga. Real Madrid host Sevilla in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261127040000 +0700" stop="20261127043000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127060500 +0700" stop="20261127082000 +0700">
+  <programme channel="ch0000000000100002181" start="20261127043000 +0700" stop="20261127050000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261127050000 +0700" stop="20261127060000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261127060000 +0700" stop="20261127081500 +0700">
+    <title>Champions League 26/27: Real Madrid vs PSV Eindhoven</title>
+    <desc>Matchday 5 of the Champions League. Real Madrid host PSV Eindhoven in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261127081500 +0700" stop="20261127091500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261127091500 +0700" stop="20261127113000 +0700">
     <title>Liga 26/27: Barcelona vs Real Madrid</title>
     <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127082000 +0700" stop="20261127083500 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261127083500 +0700" stop="20261127105000 +0700">
-    <title>Youth League: Roma U19 vs Real Madrid U19</title>
-    <desc>Matchday 2 of theYouth League Real Madrid face Roma in Teh Fonate Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261127105000 +0700" stop="20261127120000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20261127113000 +0700" stop="20261127120000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261127120000 +0700" stop="20261127121500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127121500 +0700" stop="20261127143000 +0700">
-    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
-    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261127121500 +0700" stop="20261127142500 +0700">
+    <title>Youth League: AEK Athens U19 vs Real Madrid U19</title>
+    <desc>Matchday 4 of theYouth League Real Madrid face AEK Atenas Training Center Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127143000 +0700" stop="20261127160000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme channel="ch0000000000100002181" start="20261127142500 +0700" stop="20261127153000 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261127160000 +0700" stop="20261127181500 +0700">
-    <title>Real Madrid City</title>
-    <desc>We bring you a full preview of Real Madrid's first team activities ahead of each match in all competitions.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261127181500 +0700" stop="20261127200000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261127200000 +0700" stop="20261127221500 +0700">
-    <title>Liga 26/27: Valencia vs Real Madrid</title>
-    <desc>Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261127221500 +0700" stop="20261128003000 +0700">
-    <title>Liga 26/27: Real Madrid vs Real Club Celta</title>
-    <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261128003000 +0700" stop="20261128024500 +0700">
-    <title>Women´s Champions League 26/27: Real Madrid vs París FC</title>
-    <desc>Matchday 4 of the Women´s Champions League. Real Madrid host París in the Estadio Alfredo Di Stefano.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261128024500 +0700" stop="20261128030000 +0700">
-    <title>Real Madrid News</title>
-    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261128030000 +0700" stop="20261128040000 +0700">
-    <title>Classic Highlights</title>
-    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261128040000 +0700" stop="20261128043000 +0700">
-    <title>Realmadrid Life</title>
-    <desc>Weekly review show</desc>
-  </programme>
-  <programme channel="ch0000000000100002181" start="20261128043000 +0700" stop="20261128050000 +0700">
+  <programme channel="ch0000000000100002181" start="20261127153000 +0700" stop="20261127155000 +0700">
     <title>The Match Preview</title>
     <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128050000 +0700" stop="20261128060000 +0700">
+  <programme channel="ch0000000000100002181" start="20261127155000 +0700" stop="20261127180500 +0700">
+    <title>Liga 26/27: Real Madrid vs Real Club Celta</title>
+    <desc>Matchday 13 of Liga. Real Madrid host Celta in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261127180500 +0700" stop="20261127192000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128060000 +0700" stop="20261128081500 +0700">
-    <title>Champions League 26/27: Real Madrid vs PSV Eindhoven</title>
-    <desc>Matchday 5 of the Champions League. Real Madrid host PSV Eindhoven in the Estadio Bernabéu.</desc>
+  <programme channel="ch0000000000100002181" start="20261127192000 +0700" stop="20261127213500 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs París FC</title>
+    <desc>Matchday 4 of the Women´s Champions League. Real Madrid host París in the Estadio Alfredo Di Stefano.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128081500 +0700" stop="20261128091500 +0700">
+  <programme channel="ch0000000000100002181" start="20261127213500 +0700" stop="20261127215500 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261127215500 +0700" stop="20261127230000 +0700">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128091500 +0700" stop="20261128113000 +0700">
+  <programme channel="ch0000000000100002181" start="20261127230000 +0700" stop="20261128011000 +0700">
+    <title>Youth League: Real Madrid U19 vs RB Leipzig</title>
+    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128011000 +0700" stop="20261128021500 +0700">
+    <title>Real Madrid Pass</title>
+    <desc>A weekly magazine programme on the biggest and best football club in the world.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128021500 +0700" stop="20261128023000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128023000 +0700" stop="20261128030000 +0700">
+    <title>The Match Preview</title>
+    <desc>A full Real Madrid match preview with expert analysis and exclusive interviews from Real Madrid's top stars.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128030000 +0700" stop="20261128053000 +0700">
     <title>Liga 26/27: Barcelona vs Real Madrid</title>
     <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128113000 +0700" stop="20261128120000 +0700">
+  <programme channel="ch0000000000100002181" start="20261128053000 +0700" stop="20261128055000 +0700">
     <title>Realmadrid Life</title>
-    <desc>Weekly review show</desc>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128055000 +0700" stop="20261128062000 +0700">
+    <title>Real Madrid Highlights</title>
+    <desc>We bring you highlights from RM's, the best action, interviews, special features and match highlights.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128062000 +0700" stop="20261128073000 +0700">
+    <title>Champions League Countdown</title>
+    <desc>Join us for live Champions League build-up as Real Madrid host PSV Eindhoven in the Estadio Bernabéu</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128073000 +0700" stop="20261128094500 +0700">
+    <title>Champions League 26/27: Real Madrid vs PSV Eindhoven</title>
+    <desc>Matchday 5 of the Champions League. Real Madrid host PSV Eindhoven in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128094500 +0700" stop="20261128120000 +0700">
+    <title>Liga 26/27: Valencia vs Real Madrid</title>
+    <desc>Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
   </programme>
   <programme channel="ch0000000000100002181" start="20261128120000 +0700" stop="20261128121500 +0700">
     <title>Real Madrid News</title>
     <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
   </programme>
-  <programme channel="ch0000000000100002181" start="20261128121500 +0700" stop="20261128140000 +0700">
-    <title>Youth League: AEK Athens U19 vs Real Madrid U19</title>
-    <desc>Matchday 4 of theYouth League Real Madrid face AEK Atenas Training Center Stadium.</desc>
+  <programme channel="ch0000000000100002181" start="20261128121500 +0700" stop="20261128144500 +0700">
+    <title>Liga 26/27: Real Racing Club vs Real Madrid</title>
+    <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128144500 +0700" stop="20261128150500 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128150500 +0700" stop="20261128172000 +0700">
+    <title>Liga 26/27: Valencia vs Real Madrid</title>
+    <desc>Matchday 12 of Liga. Real Madrid face Valencia in the Mestalla Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128172000 +0700" stop="20261128193500 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs Inter Milán</title>
+    <desc>Matchday 5 of the Women´s Champions League. Real Madrid host Inter de Milán in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128193500 +0700" stop="20261128214000 +0700">
+    <title>Youth League: Real Madrid U19 vs RB Leipzig</title>
+    <desc>Matchday 3 of theYouth League Real Madrid host RB Leipzig in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128214000 +0700" stop="20261128235500 +0700">
+    <title>Champions League 26/27: Real Madrid vs RB Leipzig</title>
+    <desc>Matchday 3 of the Champions League. Real Madrid host RB Leipzig r in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261128235500 +0700" stop="20261129011000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129011000 +0700" stop="20261129021500 +0700">
+    <title>Champions League 21/22: Liverpool vs Real Madrid (14th) La Decimocuarta first half</title>
+    <desc>Real Madrid vs Liverpool Final Champions League Final 21/22.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129021500 +0700" stop="20261129022500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129022500 +0700" stop="20261129034500 +0700">
+    <title>Champions League 21/22: Liverpool vs Real Madrid (14th) La Decimocuarta second half</title>
+    <desc>Real Madrid vs Liverpool Final Champions League Final 21/22.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129034500 +0700" stop="20261129060000 +0700">
+    <title>Liga 26/27: Real Racing Club vs Real Madrid</title>
+    <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129060000 +0700" stop="20261129081500 +0700">
+    <title>The Sunday Classic Match: Supercopa de España 2017:  Real Madrid vs Barcelona</title>
+    <desc>Semi-Final Supercopa de España 2017 Real Madrid vs Barcelona</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129081500 +0700" stop="20261129090000 +0700">
+    <title>Classic Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129090000 +0700" stop="20261129091500 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129091500 +0700" stop="20261129113000 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129113000 +0700" stop="20261129120000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129120000 +0700" stop="20261129122000 +0700">
+    <title>Real Madrid News</title>
+    <desc>Broadcast around the world with the latest updates from the world's biggest football club.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129122000 +0700" stop="20261129133000 +0700">
+    <title>Champions League Countdown</title>
+    <desc>Join us for live Champions League build-up as Real Madrid host PSV Eindhoven in the Estadio Bernabéu</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129133000 +0700" stop="20261129160000 +0700">
+    <title>Champions League 26/27: Real Madrid vs PSV Eindhoven</title>
+    <desc>Matchday 5 of the Champions League. Real Madrid host PSV Eindhoven in the Estadio Bernabéu.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129160000 +0700" stop="20261129164500 +0700">
+    <title>Champions League Highlights</title>
+    <desc>Sit back and enjoy some unforgettable moments with Realmadrid TV.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129164500 +0700" stop="20261129190000 +0700">
+    <title>Liga 26/27: Barcelona vs Real Madrid</title>
+    <desc>Matchday 10 of Liga. Real Madrid face Barcelona in the Spotify Camp Nou Stadium.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129190000 +0700" stop="20261129211500 +0700">
+    <title>Liga 26/27: Real Racing Club vs Real Madrid</title>
+    <desc>Matchday 11 of Liga. Real Madrid face Real Racing Club in theCampos de Sport de El Sardinero.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129211500 +0700" stop="20261129214000 +0700">
+    <title>Realmadrid Life</title>
+    <desc>Weekly review show.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129214000 +0700" stop="20261129235500 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs París FC</title>
+    <desc>Matchday 4 of the Women´s Champions League. Real Madrid host París in the Estadio Alfredo Di Stefano.</desc>
+  </programme>
+  <programme channel="ch0000000000100002181" start="20261129235500 +0700" stop="20261130021000 +0700">
+    <title>Women´s Champions League 26/27: Real Madrid vs Inter Milán</title>
+    <desc>Matchday 5 of the Women´s Champions League. Real Madrid host Inter de Milán in the Estadio Alfredo Di Stefano.</desc>
   </programme>
   <programme channel="ch0000000000100002191" start="20261125234000 +0700" stop="20261126024500 +0700">
     <title lang="th">รีรัน: วอชิงตัน คอมแมนเดอร์ส พบ นิวยอร์ก ไจแอนท์ส</title>
@@ -46992,12 +47385,12 @@
     <title lang="en">(HL) QF: Thiago Agustin Tirante vs Aleksandr Shevchenko</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127004000 +0700" stop="20261127010000 +0700">
+  <programme channel="ch0000000000100002530" start="20261127004000 +0700" stop="20261127005500 +0700">
     <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
     <title lang="en">(HL) RR: Alexander Zverev vs Arthur Fils</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127010000 +0700" stop="20261127030000 +0700">
+  <programme channel="ch0000000000100002530" start="20261127005500 +0700" stop="20261127030000 +0700">
     <title lang="th">รีรัน: รอบ 16: ริงกี ฮิจิกาตะ พบ โทมัส มาร์ติน เอตเชแวร์รี</title>
     <title lang="en">RERUN: R16: Rinky Hijikata vs Tomas Martin Etcheverry</title>
     <category>Sport</category>
@@ -47037,17 +47430,17 @@
     <title lang="en">RERUN: ATP Tour This Week Episode 31</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127070000 +0700" stop="20261127090000 +0700">
+  <programme channel="ch0000000000100002530" start="20261127070000 +0700" stop="20261127091000 +0700">
     <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
     <title lang="en">RERUN: RR: Ben Shelton vs Rafael Jodar</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127090000 +0700" stop="20261127092000 +0700">
+  <programme channel="ch0000000000100002530" start="20261127091000 +0700" stop="20261127092500 +0700">
     <title lang="th">(ไฮไลต์) รอบ 8: ลอเรนโซ มูเซตติ พบ อูโก อุมแบร์</title>
     <title lang="en">(HL) QF: Lorenzo Musetti vs Ugo Humbert</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127092000 +0700" stop="20261127094000 +0700">
+  <programme channel="ch0000000000100002530" start="20261127092500 +0700" stop="20261127094000 +0700">
     <title lang="th">(ไฮไลต์) รอบ 4: อเล็กซานเดอร์ ซเวเรฟ พบ ดานีอิล เมดเวเดฟ</title>
     <title lang="en">(HL) SF: Alexander Zverev vs Daniil Medvedev</title>
     <category>Sport</category>
@@ -47117,29 +47510,264 @@
     <title lang="en">RERUN: ATP Tour This Week Episode 33</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127190000 +0700" stop="20261127210000 +0700">
+  <programme channel="ch0000000000100002530" start="20261127190000 +0700" stop="20261127214000 +0700">
     <title lang="th">รีรัน: รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
     <title lang="en">RERUN: QF: Luca Van Assche vs Rinky Hijikata</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127210000 +0700" stop="20261127211500 +0700">
+  <programme channel="ch0000000000100002530" start="20261127214000 +0700" stop="20261127220000 +0700">
     <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อาตูร์ ฟิลส์ พบ ราฟาเอล โฮดาร์</title>
     <title lang="en">(HL) RR: Arthur Fils vs Rafael Jodar</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127211500 +0700" stop="20261127213000 +0700">
+  <programme channel="ch0000000000100002530" start="20261127220000 +0700" stop="20261128002000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">RERUN: Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128002000 +0700" stop="20261128004000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Alexander Zverev vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128004000 +0700" stop="20261128010000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128010000 +0700" stop="20261128030000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: RR: Ben Shelton vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128030000 +0700" stop="20261128031500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: แคสเปอร์ รุด พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) SF: Casper Ruud vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128031500 +0700" stop="20261128033000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128033000 +0700" stop="20261128040000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 35</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 35</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128040000 +0700" stop="20261128060000 +0700">
+    <title lang="th">รีรัน: รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">RERUN: QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128060000 +0700" stop="20261128061500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: ดานีอิล เมดเวเดฟ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Daniil Medvedev vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128061500 +0700" stop="20261128063000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 32: โฮลเกอร์ รูเนอ พบ ซิซู เบิร์กส์</title>
+    <title lang="en">(HL) R32: Holger Rune vs Zizou Bergs</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128063000 +0700" stop="20261128070000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 36</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 36</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128070000 +0700" stop="20261128090000 +0700">
+    <title lang="th">รีรัน: รอบ 4: อเลฮานโดร ทาบิโล พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">RERUN: SF: Alejandro Tabilo vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128090000 +0700" stop="20261128092000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อาตูร์ ฟิลส์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Arthur Fils vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128092000 +0700" stop="20261128094000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128094000 +0700" stop="20261128100000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 64: ลูก้า ฟาน อัสเช พบ มาเรียโน นาโวเน</title>
+    <title lang="en">(HL) R64: Luca Van Assche vs Mariano Navone</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128100000 +0700" stop="20261128123000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซานเดอร์ ซเวเรฟ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: Final: Alexander Zverev vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128123000 +0700" stop="20261128130000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 37</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 37</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128130000 +0700" stop="20261128154500 +0700">
+    <title lang="th">รีรัน: รอบ 8: เทย์เลอร์ ฟริตซ์ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: QF: Taylor Fritz vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128154500 +0700" stop="20261128160000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: ลอเรนโซ มูเซตติ พบ โทบี แซมูเอล</title>
+    <title lang="en">(HL) R16: Lorenzo Musetti vs Toby Samuel</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128160000 +0700" stop="20261128183500 +0700">
+    <title lang="th">รีรัน: รอบ 8: ลอเรนโซ มูเซตติ พบ อูโก อุมแบร์</title>
+    <title lang="en">RERUN: QF: Lorenzo Musetti vs Ugo Humbert</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128183500 +0700" stop="20261128185000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: แคสเปอร์ รุด พบ นูโน บอร์เกส</title>
+    <title lang="en">(HL) QF: Casper Ruud vs Nuno Borges</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128185000 +0700" stop="20261128190000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128190000 +0700" stop="20261128211500 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">RERUN: RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128211500 +0700" stop="20261128213000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: เทย์เลอร์ ฟริตซ์ พบ คาเมรอน นอร์รี</title>
+    <title lang="en">(HL) R16: Taylor Fritz vs Cameron Norrie</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128213000 +0700" stop="20261128220000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 39</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 39</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261128220000 +0700" stop="20261129000000 +0700">
+    <title lang="th">รีรัน: รอบ 8: เบน เชลตัน พบ ทอมมี่ พอล</title>
+    <title lang="en">RERUN: QF: Ben Shelton vs Tommy Paul</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129000000 +0700" stop="20261129002000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 4: คาร์ลอส อัลคาราซ พบ เบน เชลตัน</title>
+    <title lang="en">(HL) SF: Carlos Alcaraz vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129002000 +0700" stop="20261129004000 +0700">
+    <title lang="th">(ไฮไลต์) รอบชิงฯ: อเล็กซานเดอร์ ซเวเรฟ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">(HL) Final: Alexander Zverev vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129004000 +0700" stop="20261129010000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 64: อดอล์โฟ แดเนียล บาเยโฆ พบ เลิร์นเนอร์ เทียน</title>
+    <title lang="en">(HL) R64: Adolfo Daniel Vallejo vs Learner Tien</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129010000 +0700" stop="20261129040000 +0700">
+    <title lang="th">รีรัน: รอบ 16: ลอเรนโซ โซเนโก พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">RERUN: R16: Lorenzo Sonego vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129040000 +0700" stop="20261129060000 +0700">
+    <title lang="th">รีรัน: แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ อาตูร์ ฟิลส์</title>
+    <title lang="en">RERUN: RR: Alexander Zverev vs Arthur Fils</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129060000 +0700" stop="20261129061500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: อเล็กซานเดอร์ เชฟเชนโก พบ แคสเปอร์ รุด</title>
+    <title lang="en">(HL) R16: Aleksandr Shevchenko vs Casper Ruud</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129061500 +0700" stop="20261129063000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟรานซิส ติอาโฟ</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Frances Tiafoe</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129063000 +0700" stop="20261129070000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 15</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 15</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129070000 +0700" stop="20261129092000 +0700">
+    <title lang="th">รีรัน: รอบ 4: ลูก้า ฟาน อัสเช พบ เบน เชลตัน</title>
+    <title lang="en">RERUN: SF: Luca Van Assche vs Ben Shelton</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129092000 +0700" stop="20261129094000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: ลูก้า ฟาน อัสเช พบ ริงกี ฮิจิกาตะ</title>
+    <title lang="en">(HL) QF: Luca Van Assche vs Rinky Hijikata</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129094000 +0700" stop="20261129100000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อาตูร์ ฟิลส์ พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Arthur Fils vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129100000 +0700" stop="20261129121500 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
+    <title lang="en">RERUN: Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129121500 +0700" stop="20261129123000 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 16: มิโอมีร์ เคซมาโนวิช พบ โฮลเกอร์ รูเนอ</title>
+    <title lang="en">(HL) R16: Miomir Kecmanovic vs Holger Rune</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129123000 +0700" stop="20261129130000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 16</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 16</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129130000 +0700" stop="20261129153000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: อเล็กซานเดอร์ ซเวเรฟ พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: Final: Alexander Zverev vs Carlos Alcaraz</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129153000 +0700" stop="20261129154500 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: เบน เชลตัน พบ ราฟาเอล โฮดาร์</title>
+    <title lang="en">(HL) RR: Ben Shelton vs Rafael Jodar</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129154500 +0700" stop="20261129160000 +0700">
     <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: อเล็กซานเดอร์ ซเวเรฟ พบ เบน เชลตัน</title>
     <title lang="en">(HL) RR: Alexander Zverev vs Ben Shelton</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127213000 +0700" stop="20261127220000 +0700">
-    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 34</title>
-    <title lang="en">RERUN: ATP Tour This Week Episode 34</title>
+  <programme channel="ch0000000000100002530" start="20261129160000 +0700" stop="20261129183000 +0700">
+    <title lang="th">รีรัน: รอบชิงฯ: เบน เชลตัน พบ คาร์ลอส อัลคาราซ</title>
+    <title lang="en">RERUN: Final: Ben Shelton vs Carlos Alcaraz</title>
     <category>Sport</category>
   </programme>
-  <programme channel="ch0000000000100002530" start="20261127220000 +0700" stop="20261128000000 +0700">
-    <title lang="th">รีรัน: รอบชิงฯ: เทย์เลอร์ ฟริตซ์ พบ ติอาโก อากุสติน ติรันเต้</title>
-    <title lang="en">RERUN: Final: Taylor Fritz vs Thiago Agustin Tirante</title>
+  <programme channel="ch0000000000100002530" start="20261129183000 +0700" stop="20261129190000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 17</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 17</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129190000 +0700" stop="20261129210000 +0700">
+    <title lang="th">รีรัน: รอบ 8: อเล็กซ์ มิเคลเซน พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">RERUN: QF: Alex Michelsen vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129210000 +0700" stop="20261129211500 +0700">
+    <title lang="th">(ไฮไลต์) รอบ 8: อเล็กซ์ มิเคลเซน พบ อเลฮานโดร ทาบิโล</title>
+    <title lang="en">(HL) QF: Alex Michelsen vs Alejandro Tabilo</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129211500 +0700" stop="20261129213000 +0700">
+    <title lang="th">(ไฮไลต์) แบ่งกลุ่ม: คาร์ลอส อัลคาราซ พบ ฟลาวิโอ โคบอลลี</title>
+    <title lang="en">(HL) RR: Carlos Alcaraz vs Flavio Cobolli</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129213000 +0700" stop="20261129220000 +0700">
+    <title lang="th">รีรัน: ATP Tour This Week ตอนที่ 18</title>
+    <title lang="en">RERUN: ATP Tour This Week Episode 18</title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002530" start="20261129220000 +0700" stop="20261130000000 +0700">
+    <title lang="th">รีรัน: รอบ 4: คาร์ลอส อัลคาราซ พบ เบน เชลตัน</title>
+    <title lang="en">RERUN: SF: Carlos Alcaraz vs Ben Shelton</title>
     <category>Sport</category>
   </programme>
   <programme channel="ch0000000000100002561" start="20261125221000 +0700" stop="20261126000000 +0700">
@@ -48390,6 +49018,61 @@
     <title lang="th">รีรัน: Bundesliga Special 2025-26: ตอนที่ 20 Bayern Unleashed Records In Red</title>
     <title lang="en">RERUN: Bundesliga Special 2025-26: EP 20 Bayern Unleashed Records In Red</title>
     <category>Sport</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261125000000 +0700" stop="20261126000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261126000000 +0700" stop="20261127000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261127000000 +0700" stop="20261127180000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261127180000 +0700" stop="20261128003000 +0700">
+    <title lang="th">เริ่มเวลา 00:30 น. ไฮเดนไฮม์ พบ เนิร์นแบร์ก</title>
+    <title lang="en">Kick Off 12.30AM: 1. FC Heidenheim vs 1. FC Nuernberg</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261128003000 +0700" stop="20261128023000 +0700">
+    <title lang="th">LIVE: ไฮเดนไฮม์ พบ เนิร์นแบร์ก (บุนเดสลีกา 2 - สัปดาห์ที่ 13)</title>
+    <title lang="en">LIVE: 1. FC Heidenheim vs 1. FC Nuernberg (Bundesliga 2 - Matchday 13)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261128023000 +0700" stop="20261128190000 +0700">
+    <title lang="th">เริ่มเวลา 19:00 น. แฮร์ธา เบอร์ลิน พบ คาร์ลสรูห์</title>
+    <title lang="en">Kick Off 7PM: Hertha BSC vs Karlsruher SC</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261128190000 +0700" stop="20261128210000 +0700">
+    <title lang="th">LIVE: แฮร์ธา เบอร์ลิน พบ คาร์ลสรูห์ (บุนเดสลีกา 2 - สัปดาห์ที่ 13)</title>
+    <title lang="en">LIVE: Hertha BSC vs Karlsruher SC (Bundesliga 2 - Matchday 13)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261128210000 +0700" stop="20261129000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261129000000 +0700" stop="20261129193000 +0700">
+    <title lang="th">เริ่มเวลา 19:30 น. มักเดบวร์ก พบ เอเนอร์กี ค็อตบุส</title>
+    <title lang="en">Kick Off 7.30PM: 1. FC Magdeburg vs Energie Cottbus</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261129193000 +0700" stop="20261129213000 +0700">
+    <title lang="th">LIVE: มักเดบวร์ก พบ เอเนอร์กี ค็อตบุส (บุนเดสลีกา 2 - สัปดาห์ที่ 13)</title>
+    <title lang="en">LIVE: 1. FC Magdeburg vs Energie Cottbus (Bundesliga 2 - Matchday 13)</title>
+    <category>Sports</category>
+  </programme>
+  <programme channel="ch0000000000100002742" start="20261129213000 +0700" stop="20261130000000 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002901" start="20261126000000 +0700" stop="20261126235959 +0700">
     <title lang="th">เริ่ม 01:00 30/11/2026 WTGL บอสตัน พบ นิวยอร์ก</title>

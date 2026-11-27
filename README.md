@@ -87,6 +87,7 @@ Add either of these URL links directly to your IPTV player (such as Tivimate, IP
 | `ch0000000000100002171` | 518 | MUTV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" height="30" alt="MUTV"> |
 | `ch0000000000100002181` | 519 | Real Madrid TV | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" height="30" alt="Real Madrid TV"> |
 | `ch0000000000100002701` | 521 | PLAY SPORTS BUNDESLIGA 521 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png" height="30" alt="PLAY SPORTS BUNDESLIGA 521"> |
+| `ch0000000000100002742` | 526 | PLAY SPORTS BUNDESLIGA 526 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116131414088668.png" height="30" alt="PLAY SPORTS BUNDESLIGA 526"> |
 | `ch0000000000100002401` | 551 | PLAY SPORTS BASKETBALL 551 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116104324088609.png" height="30" alt="PLAY SPORTS BASKETBALL 551"> |
 | `ch0000000000100002191` | 556 | PLAY SPORTS NFL 556 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116103111088651.png" height="30" alt="PLAY SPORTS NFL 556"> |
 | `ch0000000000100002251` | 557 | PLAY SPORTS NFL 557 | <img src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116103111088651.png" height="30" alt="PLAY SPORTS NFL 557"> |
