@@ -340,10 +340,20 @@
     <display-name lang="en">PLAY SPORTS BUNDESLIGA 521</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png"/>
   </channel>
-  <channel id="ch0000000000100002742">
-    <display-name lang="th">เพลย์สปอร์ต บุนเดสลีกา 526</display-name>
-    <display-name lang="en">PLAY SPORTS BUNDESLIGA 526</display-name>
-    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116131414088668.png"/>
+  <channel id="ch0000000000100002721">
+    <display-name lang="th">เพลย์สปอร์ต บุนเดสลีกา 522</display-name>
+    <display-name lang="en">PLAY SPORTS BUNDESLIGA 522</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png"/>
+  </channel>
+  <channel id="ch0000000000100002722">
+    <display-name lang="th">เพลย์สปอร์ต บุนเดสลีกา 523</display-name>
+    <display-name lang="en">PLAY SPORTS BUNDESLIGA 523</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png"/>
+  </channel>
+  <channel id="ch0000000000100002731">
+    <display-name lang="th">เพลย์สปอร์ต บุนเดสลีกา 524</display-name>
+    <display-name lang="en">PLAY SPORTS BUNDESLIGA 524</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116130540088667.png"/>
   </channel>
   <channel id="ch0000000000100002401">
     <display-name lang="th">เพลย์สปอร์ต บาสเกตบอล 551</display-name>
@@ -414,6 +424,16 @@
     <display-name lang="th">เพลย์สปอร์ต บอลไทย 652</display-name>
     <display-name lang="en">PLAY SPORTS BALLTHAI 652</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png"/>
+  </channel>
+  <channel id="ch0000000000100002091">
+    <display-name lang="th">เพลย์สปอร์ต บอลไทย 653</display-name>
+    <display-name lang="en">PLAY SPORTS BALLTHAI 653</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116092449018922.png"/>
+  </channel>
+  <channel id="ch0000000000100002097">
+    <display-name lang="th">เพลย์สปอร์ต บอลไทย 659</display-name>
+    <display-name lang="en">PLAY SPORTS BALLTHAI 659</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261116093239088603.png"/>
   </channel>
   <channel id="ch0000000000100001281">
     <display-name lang="th">กศน. (อีทีวี)</display-name>
@@ -44101,6 +44121,86 @@
     <title lang="en">RERUN: Chamchuri United vs Royal Thai Air Force FC</title>
     <category>Sport</category>
   </programme>
+  <programme channel="ch0000000000100002091" start="20261127000000 +0700" stop="20261127235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261128000000 +0700" stop="20261128193000 +0700">
+    <title lang="th">เริ่มเวลา 19:30 ลำพูน วอริเออร์ พบ ชลบุรี (T1 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 19:30 Lamphun Warriors vs Chonburi (T1 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261128193000 +0700" stop="20261128213000 +0700">
+    <title lang="th">LIVE: ลำพูน วอริเออร์ พบ ชลบุรี (T1 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Lamphun Warriors vs Chonburi (T1 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261128213000 +0700" stop="20261128235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261129000000 +0700" stop="20261129183000 +0700">
+    <title lang="th">เริ่มเวลา 18:30 อยุธยา พบ ระยอง (T1 - สัปดาห์ที่ 10)</title>
+    <title lang="en">Kick Off 18:30 Ayutthaya vs Rayong (T1 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261129183000 +0700" stop="20261129203000 +0700">
+    <title lang="th">LIVE: อยุธยา พบ ระยอง (T1 - สัปดาห์ที่ 10)</title>
+    <title lang="en">LIVE: Ayutthaya vs Rayong (T1 - Matchday 10)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261129203000 +0700" stop="20261129235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002091" start="20261130000000 +0700" stop="20261130235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261127000000 +0700" stop="20261127235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261128000000 +0700" stop="20261128193000 +0700">
+    <title lang="th">เริ่มเวลา 19:30 พลังกาญจน์ พบ เชียงใหม่ ยูไนเต็ด (T2 - สัปดาห์ที่ 13)</title>
+    <title lang="en">Kick Off 19:30 Kanchanaburi Power vs Chiangmai United (T2 - Matchday 13)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261128193000 +0700" stop="20261128213000 +0700">
+    <title lang="th">LIVE: พลังกาญจน์ พบ เชียงใหม่ ยูไนเต็ด (T2 - สัปดาห์ที่ 13)</title>
+    <title lang="en">LIVE: Kanchanaburi Power vs Chiangmai United (T2 - Matchday 13)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261128213000 +0700" stop="20261128235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261129000000 +0700" stop="20261129190000 +0700">
+    <title lang="th">เริ่มเวลา 19:00 พัทยา พบ หนองบัว พิชญ (T2 - สัปดาห์ที่ 13)</title>
+    <title lang="en">Kick Off 19:00 Pattaya vs Nongbua Pitchaya (T2 - Matchday 13)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261129190000 +0700" stop="20261129210000 +0700">
+    <title lang="th">LIVE: พัทยา พบ หนองบัว พิชญ (T2 - สัปดาห์ที่ 13)</title>
+    <title lang="en">LIVE: Pattaya vs Nongbua Pitchaya (T2 - Matchday 13)</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261129210000 +0700" stop="20261129235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
+  <programme channel="ch0000000000100002097" start="20261130000000 +0700" stop="20261130235959 +0700">
+    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
+    <title lang="en">No Broadcast</title>
+    <category>Football</category>
+  </programme>
   <programme channel="ch0000000000100002171" start="20261126234500 +0700" stop="20261127000000 +0700">
     <title>What I Wore: Eric Cantona</title>
     <desc>United legend Eric Cantona reflects on his iconic career with Andrew Mensah, as the mercurial Frenchman takes a look at some of his favourite classic kits with BT Sport.</desc>
@@ -48766,61 +48866,6 @@
     <title lang="th">Bundesliga Highlight Show 2025-26 สัปดาห์ที่ 24</title>
     <title lang="en">Bundesliga Highlight Show 2025-26 Matchday 24</title>
     <category>Sport</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261126000000 +0700" stop="20261127000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261127000000 +0700" stop="20261127180000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261127180000 +0700" stop="20261128003000 +0700">
-    <title lang="th">เริ่มเวลา 00:30 น. ไฮเดนไฮม์ พบ เนิร์นแบร์ก</title>
-    <title lang="en">Kick Off 12.30AM: 1. FC Heidenheim vs 1. FC Nuernberg</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261128003000 +0700" stop="20261128023000 +0700">
-    <title lang="th">LIVE: ไฮเดนไฮม์ พบ เนิร์นแบร์ก (บุนเดสลีกา 2 - สัปดาห์ที่ 13)</title>
-    <title lang="en">LIVE: 1. FC Heidenheim vs 1. FC Nuernberg (Bundesliga 2 - Matchday 13)</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261128023000 +0700" stop="20261128190000 +0700">
-    <title lang="th">เริ่มเวลา 19:00 น. แฮร์ธา เบอร์ลิน พบ คาร์ลสรูห์</title>
-    <title lang="en">Kick Off 7PM: Hertha BSC vs Karlsruher SC</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261128190000 +0700" stop="20261128210000 +0700">
-    <title lang="th">LIVE: แฮร์ธา เบอร์ลิน พบ คาร์ลสรูห์ (บุนเดสลีกา 2 - สัปดาห์ที่ 13)</title>
-    <title lang="en">LIVE: Hertha BSC vs Karlsruher SC (Bundesliga 2 - Matchday 13)</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261128210000 +0700" stop="20261129000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261129000000 +0700" stop="20261129193000 +0700">
-    <title lang="th">เริ่มเวลา 19:30 น. มักเดบวร์ก พบ เอเนอร์กี ค็อตบุส</title>
-    <title lang="en">Kick Off 7.30PM: 1. FC Magdeburg vs Energie Cottbus</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261129193000 +0700" stop="20261129213000 +0700">
-    <title lang="th">LIVE: มักเดบวร์ก พบ เอเนอร์กี ค็อตบุส (บุนเดสลีกา 2 - สัปดาห์ที่ 13)</title>
-    <title lang="en">LIVE: 1. FC Magdeburg vs Energie Cottbus (Bundesliga 2 - Matchday 13)</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261129213000 +0700" stop="20261130000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
-  </programme>
-  <programme channel="ch0000000000100002742" start="20261130000000 +0700" stop="20261201000000 +0700">
-    <title lang="th">ไม่มีโปรแกรมถ่ายทอดสด</title>
-    <title lang="en">No Broadcast</title>
-    <category>Sports</category>
   </programme>
   <programme channel="ch0000000000100002901" start="20261127000000 +0700" stop="20261127235959 +0700">
     <title lang="th">เริ่ม 01:00 30/11/2026 WTGL บอสตัน พบ นิวยอร์ก</title>
